@@ -1,0 +1,6 @@
+backup/
+*/cache
+*/meta
+*/modpacks
+*/schemas
+*/servers/*/servermeta.json
