@@ -2947,7 +2947,7 @@
       "name": "이벤트 (SNAPSHOT)",
       "description": "이벤트 (Modded version SNAPSHOT)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.3+SNAPSHOT.2",
+      "version": "1.0.0-pre.3+SNAPSHOT.3",
       "address": "event-play.japsik.xyz:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -4602,11 +4602,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 52148,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModdedSNAPSHOT-1.20.1/forgemods/optionalon/inventorysorter-1.20.1-23.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModdedSNAPSHOT-1.20.1/forgemods/required/inventorysorter-1.20.1-23.0.1.jar",
             "MD5": "2adaeb7ef5ca7bc39024e536c22168a4"
-          },
-          "required": {
-            "value": false
           }
         },
         {
