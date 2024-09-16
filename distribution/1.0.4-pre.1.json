@@ -2947,7 +2947,7 @@
       "name": "이벤트 (SNAPSHOT)",
       "description": "이벤트 (Modded version SNAPSHOT)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.3+SNAPSHOT.1",
+      "version": "1.0.0-pre.3+SNAPSHOT.2",
       "address": "event-play.japsik.xyz:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -3759,16 +3759,6 @@
             "size": 4680145,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModdedSNAPSHOT-1.20.1/forgemods/required/Connector-1.0.0-beta.45+1.20.1.jar",
             "MD5": "c1bb644b86a0231f7b51f486ea8bab0b"
-          }
-        },
-        {
-          "id": "dev.su5ed.sinytra:connectorextras:1.11.2+1.20.1@jar",
-          "name": "Connector Extras",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 182464,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModdedSNAPSHOT-1.20.1/forgemods/required/ConnectorExtras-1.11.2+1.20.1.jar",
-            "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7"
           }
         },
         {
