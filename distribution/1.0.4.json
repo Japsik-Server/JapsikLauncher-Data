@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.3",
+      "version": "1.0.0-pre.4",
       "address": "event-play.japsik.xyz:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -2454,6 +2454,16 @@
           }
         },
         {
+          "id": "sereneseasons.core:sereneseasons:9.0.0.46@jar",
+          "name": "Serene Seasons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 148149,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/SereneSeasons-1.20.1-9.0.0.46.jar",
+            "MD5": "30faa2569ac8c43e943d277755378b63"
+          }
+        },
+        {
           "id": "com.codinglitch:simpleradio:2.4.6.1@jar",
           "name": "SimpleRadio",
           "type": "ForgeMod",
@@ -3226,7 +3236,7 @@
       "name": "이벤트 (SNAPSHOT)",
       "description": "이벤트 (Modded version SNAPSHOT)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.4+SNAPSHOT.1",
+      "version": "1.0.0-pre.5+SNAPSHOT.1",
       "address": "event-play.japsik.xyz:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -5665,6 +5675,16 @@
             "size": 77732,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModdedSNAPSHOT-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
             "MD5": "9f5418e9c08c18a375ef42fada4bcef2"
+          }
+        },
+        {
+          "id": "sereneseasons.core:sereneseasons:9.0.0.46@jar",
+          "name": "Serene Seasons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 148149,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModdedSNAPSHOT-1.20.1/forgemods/required/SereneSeasons-1.20.1-9.0.0.46.jar",
+            "MD5": "30faa2569ac8c43e943d277755378b63"
           }
         },
         {
