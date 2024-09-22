@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.4",
+      "version": "1.0.0-pre.5",
       "address": "event-play.japsik.xyz:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -1362,6 +1362,16 @@
           }
         },
         {
+          "id": "fr.rakambda:fallingtree:4.3.4@jar",
+          "name": "FallingTree",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 420181,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/FallingTree-1.20.1-4.3.4.jar",
+            "MD5": "260303e64027dabb008d5b8ee4f39a7e"
+          }
+        },
+        {
           "id": "de.keksuccino:fancymenu:3.2.3@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
@@ -1636,19 +1646,6 @@
             "size": 4841253,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
             "MD5": "e010b70ceecf34f91f223b8981f50f40"
-          }
-        },
-        {
-          "id": "einstein.improved_animations.core:improved_animations:1.0.2@jar",
-          "name": "Improved Animations",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3134030,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/Improved.Animations-forge-1.20.1-1.0.2.jar",
-            "MD5": "29d26940cb055ddde9ada24774ae52e0"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -3236,7 +3233,7 @@
       "name": "이벤트 (SNAPSHOT)",
       "description": "이벤트 (Modded version SNAPSHOT)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.5+SNAPSHOT.1",
+      "version": "1.0.0-pre.6+SNAPSHOT.1",
       "address": "event-play.japsik.xyz:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
