@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.6",
+      "version": "1.0.0-pre.6+hotfix.1",
       "address": "event-play.japsik.xyz:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -471,13 +471,13 @@
           }
         },
         {
-          "id": "team.creative:ambientsounds:6.1.0@jar",
+          "id": "team.creative:ambientsounds:6.1.1@jar",
           "name": "AmbientSounds",
           "type": "ForgeMod",
           "artifact": {
-            "size": 85695592,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/AmbientSounds_FORGE_v6.1.0_mc1.20.1.jar",
-            "MD5": "86de2844154fe6ae26fdcc63815b582d"
+            "size": 85695724,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/AmbientSounds_FORGE_v6.1.1_mc1.20.1.jar",
+            "MD5": "cf627644313396c0b0af0e9e47160fab"
           }
         },
         {
