@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.7",
+      "version": "1.0.0-pre.7+hotfix.1",
       "address": "event-play.japsik.xyz:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -1681,26 +1681,26 @@
           }
         },
         {
-          "id": "snownee.jade:jade:11.9.3+forge@jar",
+          "id": "snownee.jade:jade:11.11.1+forge@jar",
           "name": "Jade",
           "type": "ForgeMod",
           "artifact": {
-            "size": 546095,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/Jade-1.20.1-forge-11.9.3.jar",
-            "MD5": "ef176f427ac3e68f569786e0fc00b094"
+            "size": 547726,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/Jade-1.20.1-forge-11.11.1.jar",
+            "MD5": "fafa657e924a26031c174e7ab1484c8e"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "snownee.jade.addon:jadeaddons:5.2.2@jar",
+          "id": "snownee.jade.addon:jadeaddons:5.3.1+forge@jar",
           "name": "Jade Addons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 58529,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/JadeAddons-1.20.1-forge-5.2.2.jar",
-            "MD5": "2f1d72f5d532e421b360ecf8f8b31ba5"
+            "size": 77839,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/JadeAddons-1.20.1-Forge-5.3.1.jar",
+            "MD5": "41662ef8645177cc3f90fc34007563df"
           },
           "required": {
             "value": false
