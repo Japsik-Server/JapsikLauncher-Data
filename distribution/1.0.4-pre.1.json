@@ -1479,56 +1479,6 @@
           }
         },
         {
-          "id": "dev.ftb.mods:ftbchunks:2001.3.1@jar",
-          "name": "FTB Chunks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 886468,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-chunks-forge-2001.3.1.jar",
-            "MD5": "42489b6e3db048ad8f21e19ecac89e24"
-          }
-        },
-        {
-          "id": "dev.ftb.mods:ftbessentials:2001.2.2@jar",
-          "name": "FTB Essentials",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 155952,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-essentials-forge-2001.2.2.jar",
-            "MD5": "af57dc19d6a359ba3eb59494026bca8d"
-          }
-        },
-        {
-          "id": "dev.ftb.mods:ftblibrary:2001.2.4@jar",
-          "name": "FTB Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 791152,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-library-forge-2001.2.4.jar",
-            "MD5": "e60f8af3ffa7cb3ccffee661efa5de15"
-          }
-        },
-        {
-          "id": "dev.ftb.mods:ftbteams:2001.3.0@jar",
-          "name": "FTB Teams",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 247666,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-teams-forge-2001.3.0.jar",
-            "MD5": "31acf433df9d13282fa12bd6974c44f9"
-          }
-        },
-        {
-          "id": "dev.ftb.mods:ftbxmodcompat:2.1.1@jar",
-          "name": "FTB XMod Compat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 129541,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.1.jar",
-            "MD5": "f506cff280b8cb09b4aeb39359f7b1aa"
-          }
-        },
-        {
           "id": "net.creeperhost.ftbbackups:ftbbackups2:1.0.23@jar",
           "name": "FTB Backups 2",
           "type": "ForgeMod",
@@ -1606,6 +1556,16 @@
             "size": 439448,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/hamsters-forge-1.0.3-1.20.1.jar",
             "MD5": "02b3f3a37e2a07b356982c51572ed4d6"
+          }
+        },
+        {
+          "id": "earth.terrarium:heracles:1.1.13@jar",
+          "name": "Heracles",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1420890,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Heracles-forge-1.20.1-1.1.13.jar",
+            "MD5": "3a7179969f6068bbb3821585aa1e3500"
           }
         },
         {
@@ -2756,13 +2716,13 @@
           }
         },
         {
-          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.71@jar",
+          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.72@jar",
           "name": "WaterMedia",
           "type": "ForgeMod",
           "artifact": {
-            "size": 27573845,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/watermedia-2.0.71.jar",
-            "MD5": "7db5c090bcfabd2fef684c4343773893"
+            "size": 27577722,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/watermedia-2.0.72.jar",
+            "MD5": "cc8e42506f0c98a6b1c777aa14ae3cf8"
           }
         },
         {
