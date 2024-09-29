@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.6+hotfix.1",
+      "version": "1.0.0-pre.7",
       "address": "event-play.japsik.xyz:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -907,13 +907,13 @@
           }
         },
         {
-          "id": "com.possible_triangle:create_jetpack:4.2.1@jar",
+          "id": "com.possible_triangle:create_jetpack:4.3.2@jar",
           "name": "Create Jetpack",
           "type": "ForgeMod",
           "artifact": {
-            "size": 229959,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_jetpack-forge-4.2.1.jar",
-            "MD5": "168b88373d42322155c84b87b16a48ce"
+            "size": 224988,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_jetpack-forge-4.3.2.jar",
+            "MD5": "c1b5d98f152a942d1a5ee52b63c97b0c"
           }
         },
         {
@@ -1556,16 +1556,6 @@
             "size": 439448,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/hamsters-forge-1.0.3-1.20.1.jar",
             "MD5": "02b3f3a37e2a07b356982c51572ed4d6"
-          }
-        },
-        {
-          "id": "earth.terrarium:heracles:1.1.13@jar",
-          "name": "Heracles",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1420890,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Heracles-forge-1.20.1-1.1.13.jar",
-            "MD5": "3a7179969f6068bbb3821585aa1e3500"
           }
         },
         {
