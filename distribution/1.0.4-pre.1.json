@@ -1465,20 +1465,6 @@
           }
         },
         {
-          "id": "dev.tr7zw:firstperson:2.4.3@jar",
-          "name": "FirstPerson",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 123718,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionaloff/firstperson-forge-2.4.3-mc1.20.1.jar",
-            "MD5": "68991084620a264e6e185fb0aa0076d9"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "com.lothrazar.library:flib:0.0.13@jar",
           "name": "Flib",
           "type": "ForgeMod",
