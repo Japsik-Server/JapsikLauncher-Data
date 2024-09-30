@@ -32,83 +32,83 @@
       },
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.5",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.2.21",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7400,
-            "MD5": "08f925bba8afaecc403556b9f3a813d1",
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.5/lowcodelanguage-1.20.1-47.3.5.jar"
+            "size": 7397,
+            "MD5": "2407fffe5fb1d6f09afb92f51f966e4f",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.21/lowcodelanguage-1.20.1-47.2.21.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.3.5",
+              "id": "1.20.1-47.2.21",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16542,
-                "MD5": "c6c92756fa5aecf82c155d413824acf9",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/versions/1.20.1-forge-47.3.5/1.20.1-forge-47.3.5.json"
+                "size": 16554,
+                "MD5": "e1f061fec7c9744d04d9732e55f6322a",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/versions/1.20.1-forge-47.2.21/1.20.1-forge-47.2.21.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.5",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.2.21",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118687,
-                "MD5": "d5a8f935dd34bd92a1253cab95f73495",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.5/fmlcore-1.20.1-47.3.5.jar"
+                "size": 118684,
+                "MD5": "027929eb126a5ee226d25fdb9ab1d011",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.21/fmlcore-1.20.1-47.2.21.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.5",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.2.21",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16517,
-                "MD5": "5fc7aeaaae09fa5724515047dd62f539",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.5/javafmllanguage-1.20.1-47.3.5.jar"
+                "size": 16515,
+                "MD5": "aadc3c6a4a9b15f17239ccceda6aa6fc",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.21/javafmllanguage-1.20.1-47.2.21.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.5",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.2.21",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 5000,
-                "MD5": "a445fd2990d56845c0a684cd51cf5aa1",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.5/mclanguage-1.20.1-47.3.5.jar"
+                "size": 4997,
+                "MD5": "9b6319a7f4ea205a72f831e18b7adbb8",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.21/mclanguage-1.20.1-47.2.21.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.5:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.2.21:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2753389,
-                "MD5": "c6e075429bfc2251e22bbb6dba72e3b6",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/forge/1.20.1-47.3.5/forge-1.20.1-47.3.5-universal.jar"
+                "size": 2376627,
+                "MD5": "957d69dbdb9e1a46ac79046cab9fee67",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/forge/1.20.1-47.2.21/forge-1.20.1-47.2.21-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.5:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.2.21:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4793738,
-                "MD5": "7a0df726ea5b00ebc065546923affd2a",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/forge/1.20.1-47.3.5/forge-1.20.1-47.3.5-client.jar"
+                "size": 4791301,
+                "MD5": "c548aeb8e9e1cd028005b628b54f3a29",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/forge/1.20.1-47.2.21/forge-1.20.1-47.2.21-client.jar"
               },
               "subModules": []
             },
@@ -159,53 +159,53 @@
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7",
+              "id": "org.ow2.asm:asm:9.6",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 125428,
-                "MD5": "3957b18bf02a62edcb6726d074b90b08",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+                "size": 123598,
+                "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7",
+              "id": "org.ow2.asm:asm-commons:9.6",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73426,
-                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+                "size": 72194,
+                "MD5": "9e317c75534bd1da8c00a67c618ab288",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.7",
+              "id": "org.ow2.asm:asm-tree:9.6",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51934,
-                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+                "size": 51935,
+                "MD5": "6062608f1a98afe1e853d01fa1221a9e",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7",
+              "id": "org.ow2.asm:asm-util:9.6",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 93784,
-                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+                "size": 91131,
+                "MD5": "bd3bc1c176a787373e9a031073c9574b",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7",
+              "id": "org.ow2.asm:asm-analysis:9.6",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 34776,
-                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+                "size": 34041,
+                "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
@@ -249,13 +249,13 @@
               }
             },
             {
-              "id": "net.minecraftforge:coremods:5.1.6",
+              "id": "net.minecraftforge:coremods:5.1.2",
               "name": "Minecraft Forge (coremods)",
               "type": "Library",
               "artifact": {
-                "size": 24124,
-                "MD5": "4b4fe7e512819804660d621bf11c7381",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
+                "size": 24281,
+                "MD5": "81936e5493a759a2b249c6ecde8a9b3c",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/coremods/5.1.2/coremods-5.1.2.jar"
               }
             },
             {
@@ -419,23 +419,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.5",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.2.21",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 264783,
-                "MD5": "27e6571a6f93b707e70b6663a93b127f",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.5/fmlloader-1.20.1-47.3.5.jar"
+                "size": 264184,
+                "MD5": "eb48b6a60514d6a7504eda902575801c",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.21/fmlloader-1.20.1-47.2.21.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.5",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.2.21",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
-                "size": 170832,
-                "MD5": "626f28810ec8caeede82de395f0190f3",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.5/fmlearlydisplay-1.20.1-47.3.5.jar"
+                "size": 170551,
+                "MD5": "a7bde34b744ebc94b15500a11c056dc6",
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.21/fmlearlydisplay-1.20.1-47.2.21.jar"
               }
             }
           ]
