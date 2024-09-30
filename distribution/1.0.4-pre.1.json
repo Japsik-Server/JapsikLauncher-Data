@@ -1664,16 +1664,13 @@
           }
         },
         {
-          "id": "team.creative:itemphysic:1.7.1@jar",
+          "id": "team.creative:itemphysic:1.8.1@jar",
           "name": "ItemPhysic",
           "type": "ForgeMod",
           "artifact": {
-            "size": 49936,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/ItemPhysic_FORGE_v1.7.1_mc1.20.1.jar",
-            "MD5": "2d056674a2a479ae68057f4954217394"
-          },
-          "required": {
-            "value": false
+            "size": 53181,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ItemPhysic_FORGE_v1.8.1_mc1.20.1.jar",
+            "MD5": "c15329d464d71edffa09dc8786f370bd"
           }
         },
         {
