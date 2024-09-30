@@ -2195,19 +2195,6 @@
           }
         },
         {
-          "id": "com.chailotl.particular:particular:1.1.1@jar",
-          "name": "Particular",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 230403,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/particular-1.1.1.jar",
-            "MD5": "c6fac1fc1016028297bf12fd1d2485c9"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "vazkii.patchouli:patchouli:1.20.1-84-FORGE@jar",
           "name": "Patchouli",
           "type": "ForgeMod",
@@ -2351,20 +2338,6 @@
             "size": 5793,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/redirector-5.0.0.jar",
             "MD5": "3b58498de6bb6bf51082bc17e7f0718e"
-          }
-        },
-        {
-          "id": "com.replaymod:replaymod:1.20.1-2.6.19@jar",
-          "name": "Replaymod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 13800211,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionaloff/replaymod-1.20.1-2.6.19.jar",
-            "MD5": "25119cca0ff075339e9a0cb84ed19ac7"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -2687,19 +2660,6 @@
             "size": 7726437,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.22.jar",
             "MD5": "8e10b4dd1c22b6addbaff441f4e5c8b1"
-          }
-        },
-        {
-          "id": "com.goby56.wakes:wakes:0.3.0+1.20.1@jar",
-          "name": "Wakes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 355213,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/wakes-0.3.0+1.20.1.jar",
-            "MD5": "4639b65cf3bc1342e0872b4e85ab5a51"
-          },
-          "required": {
-            "value": false
           }
         },
         {
