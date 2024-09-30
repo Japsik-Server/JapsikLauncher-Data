@@ -2195,7 +2195,7 @@
           }
         },
         {
-          "id": "generated.forgemod:particular:1.1.1@jar",
+          "id": "com.chailotl.particular:particular:1.1.1@jar",
           "name": "Particular",
           "type": "ForgeMod",
           "artifact": {
@@ -2354,7 +2354,7 @@
           }
         },
         {
-          "id": "generated.forgemod:replaymod:1.20.1-2.6.19@jar",
+          "id": "com.replaymod:replaymod:1.20.1-2.6.19@jar",
           "name": "Replaymod",
           "type": "ForgeMod",
           "artifact": {
@@ -2690,7 +2690,7 @@
           }
         },
         {
-          "id": "generated.forgemod:wakes:0.3.0+1.20.1@jar",
+          "id": "com.goby56.wakes:wakes:0.3.0+1.20.1@jar",
           "name": "Wakes",
           "type": "ForgeMod",
           "artifact": {
