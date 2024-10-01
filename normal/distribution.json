@@ -887,16 +887,6 @@
           }
         },
         {
-          "id": "com.hlysine:create_connected:0.9.1-mc1.20.1@jar",
-          "name": "Create: Connected",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6227639,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_connected-0.9.1-mc1.20.1-all.jar",
-            "MD5": "e87913c682fadbf97824f09551064446"
-          }
-        },
-        {
           "id": "plus.dragons.createenchantmentindustry:create_enchantment_industry:1.2.9.d@jar",
           "name": "Create Enchantment Industry",
           "type": "ForgeMod",
