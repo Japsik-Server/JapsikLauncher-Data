@@ -506,8 +506,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionaloff/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2938,6 +2942,28 @@
           }
         },
         {
+          "id": "BetterHangulFont.zip",
+          "name": "BetterHangulFont.zip",
+          "type": "File",
+          "artifact": {
+            "size": 80185,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/BetterHangulFont.zip",
+            "MD5": "8bee6a3d18c216e4d4e78faecc066ef3",
+            "path": "resourcepacks/BetterHangulFont.zip"
+          }
+        },
+        {
+          "id": "enchant icons 1.20 v1.3.zip",
+          "name": "enchant icons 1.20 v1.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 164822,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/enchant%20icons%201.20%20v1.3.zip",
+            "MD5": "00562749342d01db0b07176ea95d7734",
+            "path": "resourcepacks/enchant icons 1.20 v1.3.zip"
+          }
+        },
+        {
           "id": "FA+All_Extensions-v1.4.zip",
           "name": "FA+All_Extensions-v1.4.zip",
           "type": "File",
@@ -2949,25 +2975,36 @@
           }
         },
         {
-          "id": "Faithful 32x - 1.20.1.zip",
-          "name": "Faithful 32x - 1.20.1.zip",
+          "id": "FA+All_Extensions-v1.4_no-spider.zip",
+          "name": "FA+All_Extensions-v1.4_no-spider.zip",
           "type": "File",
           "artifact": {
-            "size": 8394887,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/Faithful%2032x%20-%201.20.1.zip",
-            "MD5": "bc970e8385db0fa3abd161c84d1282e3",
-            "path": "resourcepacks/Faithful 32x - 1.20.1.zip"
+            "size": 243431,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/FA+All_Extensions-v1.4_no-spider.zip",
+            "MD5": "a2588a3ae56077e046ab84f3d012204c",
+            "path": "resourcepacks/FA+All_Extensions-v1.4_no-spider.zip"
           }
         },
         {
-          "id": "Fancy, GUI Overhaul v0.1.2.8.zip",
-          "name": "Fancy, GUI Overhaul v0.1.2.8.zip",
+          "id": "Fancy Crops v1.0 f5-34.zip",
+          "name": "Fancy Crops v1.0 f5-34.zip",
           "type": "File",
           "artifact": {
-            "size": 127432,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/Fancy,%20GUI%20Overhaul%20v0.1.2.8.zip",
-            "MD5": "f36bc6f9ee2afed2d06198c5cf14a507",
-            "path": "resourcepacks/Fancy, GUI Overhaul v0.1.2.8.zip"
+            "size": 61029,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/Fancy%20Crops%20v1.0%20f5-34.zip",
+            "MD5": "90cab0ec4d6988e09535385aa505dfc2",
+            "path": "resourcepacks/Fancy Crops v1.0 f5-34.zip"
+          }
+        },
+        {
+          "id": "Fancy_Beds-v3.4.zip",
+          "name": "Fancy_Beds-v3.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 233432,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/Fancy_Beds-v3.4.zip",
+            "MD5": "6e8ba92942dcd5570739177097492553",
+            "path": "resourcepacks/Fancy_Beds-v3.4.zip"
           }
         },
         {
@@ -2993,6 +3030,39 @@
           }
         },
         {
+          "id": "FreshAnimations_v1.9.2_no-spider.zip",
+          "name": "FreshAnimations_v1.9.2_no-spider.zip",
+          "type": "File",
+          "artifact": {
+            "size": 511191,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2_no-spider.zip",
+            "MD5": "2bfb1cb5e4c24fc825acee485ada5843",
+            "path": "resourcepacks/FreshAnimations_v1.9.2_no-spider.zip"
+          }
+        },
+        {
+          "id": "GUIRevision_2.2.0.zip",
+          "name": "GUIRevision_2.2.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 288549,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/GUIRevision_2.2.0.zip",
+            "MD5": "38aee3ca46a64ce49a2b7e90fcb2f28e",
+            "path": "resourcepacks/GUIRevision_2.2.0.zip"
+          }
+        },
+        {
+          "id": "HumanEraVillagersIllagers[2].zip",
+          "name": "HumanEraVillagersIllagers[2].zip",
+          "type": "File",
+          "artifact": {
+            "size": 3657536,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/HumanEraVillagersIllagers[2].zip",
+            "MD5": "da1b66161bd409733a51585cc9421f96",
+            "path": "resourcepacks/HumanEraVillagersIllagers[2].zip"
+          }
+        },
+        {
           "id": "Midnighttiggers-CG-FCT-Default_1.17_V2.zip",
           "name": "Midnighttiggers-CG-FCT-Default_1.17_V2.zip",
           "type": "File",
@@ -3012,6 +3082,28 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/Midnighttiggers-FCT-Default_1.20_V3.zip",
             "MD5": "432a599b2f617895bf487374d68af16c",
             "path": "resourcepacks/Midnighttiggers-FCT-Default_1.20_V3.zip"
+          }
+        },
+        {
+          "id": "qrafty's-capitalized-font.zip",
+          "name": "qrafty's-capitalized-font.zip",
+          "type": "File",
+          "artifact": {
+            "size": 327648,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/qrafty's-capitalized-font.zip",
+            "MD5": "88e0ded51edc4e65566f6d80df3b3c24",
+            "path": "resourcepacks/qrafty's-capitalized-font.zip"
+          }
+        },
+        {
+          "id": "§9Better Boats.zip",
+          "name": "§9Better Boats.zip",
+          "type": "File",
+          "artifact": {
+            "size": 58715,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/%C2%A79Better%20Boats.zip",
+            "MD5": "946e43d741aa0c88171887d2bacfc4f8",
+            "path": "resourcepacks/§9Better Boats.zip"
           }
         },
         {
