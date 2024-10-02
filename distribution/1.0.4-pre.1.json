@@ -3087,9 +3087,9 @@
           "name": "GUIRevision_2.2.0.zip",
           "type": "File",
           "artifact": {
-            "size": 288549,
+            "size": 285132,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/GUIRevision_2.2.0.zip",
-            "MD5": "38aee3ca46a64ce49a2b7e90fcb2f28e",
+            "MD5": "34ed00521a0cb844c0b64dcbdfdb00c8",
             "path": "resourcepacks/GUIRevision_2.2.0.zip"
           }
         },
@@ -3146,6 +3146,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/%C2%A79Better%20Boats.zip",
             "MD5": "946e43d741aa0c88171887d2bacfc4f8",
             "path": "resourcepacks/§9Better Boats.zip"
+          }
+        },
+        {
+          "id": "§eJapsik §bRecommend §aResource Pack.zip",
+          "name": "§eJapsik §bRecommend §aResource Pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1767143,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/%C2%A7eJapsik%20%C2%A7bRecommend%20%C2%A7aResource%20Pack.zip",
+            "MD5": "adbd5a4b6aabbd2b88404648bf174685",
+            "path": "resourcepacks/§eJapsik §bRecommend §aResource Pack.zip"
           }
         },
         {
