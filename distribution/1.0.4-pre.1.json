@@ -1792,13 +1792,13 @@
           }
         },
         {
-          "id": "team.creative:littletiles:1.6.0-pre127@jar",
+          "id": "team.creative:littletiles:1.6.0-pre131@jar",
           "name": "LittleTiles",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2580968,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre127_mc1.20.1.jar",
-            "MD5": "57c19160a07aa7fdf3d22efa10b7de9b"
+            "size": 2596661,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre131_mc1.20.1.jar",
+            "MD5": "09890d527b2353f11862e851e0979933"
           }
         },
         {
