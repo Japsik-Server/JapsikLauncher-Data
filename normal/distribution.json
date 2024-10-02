@@ -2758,10 +2758,32 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 198,
+            "size": 381,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "54eba5bb80ad0a98a4495746d0d06243",
+            "MD5": "9584c1c482cecd3ca357f0c07adfa451",
             "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "crafting_screen_layout.txt",
+          "name": "crafting_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1859,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/crafting_screen_layout.txt",
+            "MD5": "7da83ce592dacce453f6550f06a3f43b",
+            "path": "config/fancymenu/customization/crafting_screen_layout.txt"
+          }
+        },
+        {
+          "id": "inventory_screen_layout.txt",
+          "name": "inventory_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6192,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/inventory_screen_layout.txt",
+            "MD5": "9d3922e4e7b0bb96e19bc6e16b9d2330",
+            "path": "config/fancymenu/customization/inventory_screen_layout.txt"
           }
         },
         {
@@ -2780,9 +2802,9 @@
           "name": "pause_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 13726,
+            "size": 13730,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "10c84ac135922e30ff1d99c352bf12a4",
+            "MD5": "a571fa8ef3354dfd5e49c992da10d018",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -2795,6 +2817,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
             "MD5": "571c4d4681c28847678663743150ea98",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
+          }
+        },
+        {
+          "id": "top.theillusivec4.curios.client.gui.curiosscreenv2_layout.txt",
+          "name": "top.theillusivec4.curios.client.gui.curiosscreenv2_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 9505,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/top.theillusivec4.curios.client.gui.curiosscreenv2_layout.txt",
+            "MD5": "628f8f3018257730b2ae857c36834d7f",
+            "path": "config/fancymenu/customization/top.theillusivec4.curios.client.gui.curiosscreenv2_layout.txt"
           }
         },
         {
