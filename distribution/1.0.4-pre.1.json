@@ -1131,16 +1131,6 @@
           }
         },
         {
-          "id": "com.lothrazar:customgamerules:1.1.4@jar",
-          "name": "Powerful Game Rules",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25326,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/customgamerules-1.20.1-1.1.4.jar",
-            "MD5": "9763d506d9db033b259040b0b3682fb8"
-          }
-        },
-        {
           "id": "net.brnbrd:delightful:3.6@jar",
           "name": "Delightful",
           "type": "ForgeMod",
@@ -1287,6 +1277,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "com.glektarssza:expandedgamerules:0.3.3@jar",
+          "name": "Expanded Gamerules",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44861,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/expanded_gamerules-forge-1.20.x-0.3.3.jar",
+            "MD5": "56ca59692cd4ac2caeabae6089a41fe5"
           }
         },
         {
@@ -1446,6 +1446,16 @@
             "size": 290744,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/flib-1.20.1-0.0.13.jar",
             "MD5": "a89ed84ac06ea4caba19901d6554587f"
+          }
+        },
+        {
+          "id": "com.black_dog20:friendlygriefing:1.0.2@jar",
+          "name": "Friendly Griefing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 41313,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/FriendlyGriefing-1.20-1.0.2.jar",
+            "MD5": "4e7cfe679bfce61e087f3a36f701de9f"
           }
         },
         {
