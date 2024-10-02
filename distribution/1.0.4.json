@@ -506,12 +506,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionaloff/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
