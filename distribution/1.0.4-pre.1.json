@@ -3153,9 +3153,9 @@
           "name": "§eJapsik §bRecommend §aResource Pack.zip",
           "type": "File",
           "artifact": {
-            "size": 1767143,
+            "size": 1152775,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/%C2%A7eJapsik%20%C2%A7bRecommend%20%C2%A7aResource%20Pack.zip",
-            "MD5": "adbd5a4b6aabbd2b88404648bf174685",
+            "MD5": "e5114e2b1ad5de133f799495c329d684",
             "path": "resourcepacks/§eJapsik §bRecommend §aResource Pack.zip"
           }
         },
