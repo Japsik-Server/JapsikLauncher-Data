@@ -2470,23 +2470,23 @@
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.20.5.1044@jar",
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.20.11.1115@jar",
           "name": "Sophisticated Backpacks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 851750,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.5.1044.jar",
-            "MD5": "1cb86d978ee8780206de685497d1faf0"
+            "size": 856299,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.11.1115.jar",
+            "MD5": "05794ff4ec45fb90c5f55b22131af52b"
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.22.611@jar",
+          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.33.711@jar",
           "name": "Sophisticated Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1080551,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.22.611.jar",
-            "MD5": "3569d694bccc0e8e35ab7707b4baf0b1"
+            "size": 1083047,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.33.711.jar",
+            "MD5": "bde4011eefb032e396c80174985d344c"
           }
         },
         {
@@ -2636,13 +2636,13 @@
           }
         },
         {
-          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.72@jar",
+          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.73@jar",
           "name": "WaterMedia",
           "type": "ForgeMod",
           "artifact": {
-            "size": 27577722,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/watermedia-2.0.72.jar",
-            "MD5": "cc8e42506f0c98a6b1c777aa14ae3cf8"
+            "size": 27597763,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/watermedia-2.0.73.jar",
+            "MD5": "fb38dce37417e92fa5dcaee09b42a04f"
           }
         },
         {
