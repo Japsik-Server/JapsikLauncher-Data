@@ -1448,6 +1448,46 @@
           }
         },
         {
+          "id": "dev.ftb.mods:ftbchunks:2001.3.1@jar",
+          "name": "FTB Chunks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 886468,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-chunks-forge-2001.3.1.jar",
+            "MD5": "42489b6e3db048ad8f21e19ecac89e24"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:2001.2.4@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 791152,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-library-forge-2001.2.4.jar",
+            "MD5": "e60f8af3ffa7cb3ccffee661efa5de15"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:2001.3.0@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 247666,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-teams-forge-2001.3.0.jar",
+            "MD5": "31acf433df9d13282fa12bd6974c44f9"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbxmodcompat:2.1.1@jar",
+          "name": "FTB XMod Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129541,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.1.jar",
+            "MD5": "f506cff280b8cb09b4aeb39359f7b1aa"
+          }
+        },
+        {
           "id": "net.creeperhost.ftbbackups:ftbbackups2:1.0.23@jar",
           "name": "FTB Backups 2",
           "type": "ForgeMod",
@@ -2603,6 +2643,16 @@
             "size": 137147,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/timecontrol-1.20.1-1.6.0.jar",
             "MD5": "4702a1dd935591ccbfabe81b33b601a8"
+          }
+        },
+        {
+          "id": "com.tom.storagemod:toms_storage:1.6.8@jar",
+          "name": "Tom's Simple Storage Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 512499,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/toms_storage-1.20-1.6.8.jar",
+            "MD5": "becb1cfe0f902023c8d8e1b101ca482e"
           }
         },
         {
