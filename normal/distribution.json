@@ -1438,6 +1438,19 @@
           }
         },
         {
+          "id": "net.xolt:freecam:1.2.1+1.20@jar",
+          "name": "Freecam",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75389,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/freecam-forge-1.2.1+1.20.jar",
+            "MD5": "3301388f64a2bcbc760ca33324bca2c0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.black_dog20:friendlygriefing:1.0.2@jar",
           "name": "Friendly Griefing",
           "type": "ForgeMod",
@@ -1849,6 +1862,19 @@
             "size": 31801,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/loadmyresources_forge_1.0.4_MC_1.19.3.jar",
             "MD5": "22bb77cda33ae4928fbbb00b0d63ebd0"
+          }
+        },
+        {
+          "id": "org.thinkingstudio:mafglib:0.1.11-mc1.20.1@jar",
+          "name": "MaFgLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 519991,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/MaFgLib-0.1.11-mc1.20.1.jar",
+            "MD5": "f65da5467987b3f9b821b6b43bdca220"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2371,6 +2397,19 @@
             "size": 1782275,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/rhino-forge-2001.2.2-build.18.jar",
             "MD5": "d0ee9715edfcb029f59687a08fb88a53"
+          }
+        },
+        {
+          "id": "org.thinkingstudio:rocknroller:0.1.4-mc1.20.1@jar",
+          "name": "Rock'n Roller",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 159478,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/RocknRoller-0.1.4-mc1.20.1.jar",
+            "MD5": "e209663555b1e7f557fae0ebe6d60352"
+          },
+          "required": {
+            "value": false
           }
         },
         {
