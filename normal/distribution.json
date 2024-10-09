@@ -1726,13 +1726,13 @@
           }
         },
         {
-          "id": "mezz.jei:jei:15.8.2.25@jar",
+          "id": "mezz.jei:jei:15.20.0.104@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1255732,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.8.2.25.jar",
-            "MD5": "1cc681362230f8512a136df3525d55da"
+            "size": 1406021,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.104.jar",
+            "MD5": "46bf38308872aae3351ce59d9e664437"
           },
           "required": {
             "value": false
