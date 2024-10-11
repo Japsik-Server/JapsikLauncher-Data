@@ -880,6 +880,16 @@
           }
         },
         {
+          "id": "com.hlysine:create_connected:0.9.1-mc1.20.1-dev@jar",
+          "name": "Create: Connected",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6230705,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_connected-0.9.1-mc1.20.1-dev-all.jar",
+            "MD5": "fe04a448a03aa0ce017f4b4219bcebeb"
+          }
+        },
+        {
           "id": "plus.dragons.createenchantmentindustry:create_enchantment_industry:1.2.9.d@jar",
           "name": "Create Enchantment Industry",
           "type": "ForgeMod",
@@ -950,13 +960,13 @@
           }
         },
         {
-          "id": "com.simibubi:create:0.5.1.h@jar",
+          "id": "com.simibubi:create:0.5.1.i@jar",
           "name": "Create",
           "type": "ForgeMod",
           "artifact": {
-            "size": 15577849,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create-1.20.1-0.5.1.h.jar",
-            "MD5": "edd670404374248e3529f4765d1f2dcb"
+            "size": 15584088,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create-1.20.1-0.5.1.i.jar",
+            "MD5": "9e7afa8d689b13702d0d1b4a0c872add"
           }
         },
         {
@@ -1010,13 +1020,13 @@
           }
         },
         {
-          "id": "fr.iglee42:createcasing:1.20.1-1.6.1-fix3@jar",
+          "id": "fr.iglee42:createcasing:1.20.1-1.6.2@jar",
           "name": "Create : Encased",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8310257,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/CreateCasing-1.20.1-1.6.1-fix3.jar",
-            "MD5": "bbdbc42bdb801e1ce08a19c1c625ab53"
+            "size": 8334929,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/CreateCasing-1.20.1-1.6.2.jar",
+            "MD5": "c12fdc3784d2e85291885d86ed65550c"
           }
         },
         {
@@ -1027,6 +1037,16 @@
             "size": 3966138,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createdeco-2.0.2-1.20.1-forge.jar",
             "MD5": "9c86ef2ebb60aa617ac92c3ae1d3c545"
+          }
+        },
+        {
+          "id": "net.dakotapride:createframed:1.5.3@jar",
+          "name": "Create: Framed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 922976,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createframed-1.20.1-1.5.3.jar",
+            "MD5": "d452555712fff6cfb5f45b6cb73388a1"
           }
         },
         {
@@ -2602,13 +2622,13 @@
           }
         },
         {
-          "id": "com.railwayteam:railways:1.6.4+forge-mc1.20.1@jar",
+          "id": "com.railwayteam:railways:1.6.6+forge-mc1.20.1@jar",
           "name": "Create: Steam 'n' Rails",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9096035,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
-            "MD5": "a166aa861a8c584c89271731d882a45e"
+            "size": 9992147,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Steam_Rails-1.6.6+forge-mc1.20.1.jar",
+            "MD5": "c6350f36b77d6a46cdde4b6abfbeeeeb"
           }
         },
         {
