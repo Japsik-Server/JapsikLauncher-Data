@@ -1150,13 +1150,13 @@
           }
         },
         {
-          "id": "com.mangomilk:design_decor:0.4.0@jar",
+          "id": "com.mangomilk:design_decor:0.4.0b@jar",
           "name": "Create: Design n' Decor",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2439639,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/design_decor-0.4-1.20.1.jar",
-            "MD5": "e6f430903fa55c5d55f2015fef43dc92"
+            "size": 2439693,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/design_decor-0.4.0b-1.20.1.jar",
+            "MD5": "0448b0a460b69c9f1bed3c0da9aa73c1"
           }
         },
         {
