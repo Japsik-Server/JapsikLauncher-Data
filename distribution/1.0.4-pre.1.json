@@ -990,6 +990,16 @@
           }
         },
         {
+          "id": "net.averageanime:createfood:1.1.4-forge@jar",
+          "name": "Create: Food",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6067122,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create-food-1.20.1-1.1.4-forge.jar",
+            "MD5": "7879abc365dd2dfddb8002fcb2215c6d"
+          }
+        },
+        {
           "id": "org.antarcticgardens.newage:create_new_age:1.1.2@jar",
           "name": "Create: New Age",
           "type": "ForgeMod",
@@ -1020,6 +1030,16 @@
           }
         },
         {
+          "id": "com.amronos:createaddoncompatibility:0.2.2b@jar",
+          "name": "Create: Addon Compatibility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 163495,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createaddoncompatibility-v0.2.2b-1.20.1-(neo)forge.jar",
+            "MD5": "7f324d41268545f46c2413ab4aab2181"
+          }
+        },
+        {
           "id": "fr.iglee42:createcasing:1.20.1-1.6.2@jar",
           "name": "Create : Encased",
           "type": "ForgeMod",
@@ -1027,6 +1047,16 @@
             "size": 8334929,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/CreateCasing-1.20.1-1.6.2.jar",
             "MD5": "c12fdc3784d2e85291885d86ed65550c"
+          }
+        },
+        {
+          "id": "com.tom.createterminal:createcontraptionterminals:1.0.0@jar",
+          "name": "Create Contraption Terminals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 68600,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createcontraptionterminals-1.20-1.0.0.jar",
+            "MD5": "215497a5da4b6d5013cea4cccb51c517"
           }
         },
         {
@@ -1150,13 +1180,13 @@
           }
         },
         {
-          "id": "com.mangomilk:design_decor:0.4.0@jar",
+          "id": "com.mangomilk:design_decor:0.4.0b@jar",
           "name": "Create: Design n' Decor",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2439639,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/design_decor-0.4-1.20.1.jar",
-            "MD5": "e6f430903fa55c5d55f2015fef43dc92"
+            "size": 2439693,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/design_decor-0.4.0b-1.20.1.jar",
+            "MD5": "0448b0a460b69c9f1bed3c0da9aa73c1"
           }
         },
         {
@@ -1329,16 +1359,6 @@
             "size": 1312933,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/exposure-1.20.1-1.7.5-forge.jar",
             "MD5": "159973b55ef433ac3f5604d29e1f1bbe"
-          }
-        },
-        {
-          "id": "com.rabbitminers:extendedgears:2.1.1-1.20.1-0.5.1.f-forge@jar",
-          "name": "Extended Cogwheels",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 229675,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/extendedgears-2.1.1-1.20.1-0.5.1.f-forge.jar",
-            "MD5": "5b3c4a63fe28b204ba27f128ebe9052a"
           }
         },
         {
