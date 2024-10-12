@@ -1030,6 +1030,16 @@
           }
         },
         {
+          "id": "com.amronos:createaddoncompatibility:0.2.2b@jar",
+          "name": "Create: Addon Compatibility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 163495,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createaddoncompatibility-v0.2.2b-1.20.1-(neo)forge.jar",
+            "MD5": "7f324d41268545f46c2413ab4aab2181"
+          }
+        },
+        {
           "id": "fr.iglee42:createcasing:1.20.1-1.6.2@jar",
           "name": "Create : Encased",
           "type": "ForgeMod",
@@ -1037,6 +1047,16 @@
             "size": 8334929,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/CreateCasing-1.20.1-1.6.2.jar",
             "MD5": "c12fdc3784d2e85291885d86ed65550c"
+          }
+        },
+        {
+          "id": "com.tom.createterminal:createcontraptionterminals:1.0.0@jar",
+          "name": "Create Contraption Terminals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 68600,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createcontraptionterminals-1.20-1.0.0.jar",
+            "MD5": "215497a5da4b6d5013cea4cccb51c517"
           }
         },
         {
@@ -1339,16 +1359,6 @@
             "size": 1312933,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/exposure-1.20.1-1.7.5-forge.jar",
             "MD5": "159973b55ef433ac3f5604d29e1f1bbe"
-          }
-        },
-        {
-          "id": "com.rabbitminers:extendedgears:2.1.1-1.20.1-0.5.1.f-forge@jar",
-          "name": "Extended Cogwheels",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 229675,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/extendedgears-2.1.1-1.20.1-0.5.1.f-forge.jar",
-            "MD5": "5b3c4a63fe28b204ba27f128ebe9052a"
           }
         },
         {
