@@ -990,6 +990,16 @@
           }
         },
         {
+          "id": "net.averageanime:createfood:1.1.4-forge@jar",
+          "name": "Create: Food",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6067122,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create-food-1.20.1-1.1.4-forge.jar",
+            "MD5": "7879abc365dd2dfddb8002fcb2215c6d"
+          }
+        },
+        {
           "id": "org.antarcticgardens.newage:create_new_age:1.1.2@jar",
           "name": "Create: New Age",
           "type": "ForgeMod",
