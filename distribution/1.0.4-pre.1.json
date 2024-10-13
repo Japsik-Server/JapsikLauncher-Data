@@ -1779,13 +1779,13 @@
           }
         },
         {
-          "id": "journeymap:journeymap:5.10.2@jar",
+          "id": "journeymap:journeymap:5.10.3@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
           "artifact": {
             "size": 7160406,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/journeymap-1.20.1-5.10.2-forge.jar",
-            "MD5": "739bf29f6ee7759b70dcf3e8b65daef2"
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
           }
         },
         {
@@ -2055,6 +2055,16 @@
             "size": 227925,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
             "MD5": "5dd9149414ca375ceab146242c6e84ab"
+          }
+        },
+        {
+          "id": "com.dplayend:merenc:4.0@jar",
+          "name": "Merge Enchantments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10880,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/merenc-forge-1.20.x-v4.0.jar",
+            "MD5": "dd6ed7072b613f0be70245c2bcc18da1"
           }
         },
         {
@@ -2722,6 +2732,16 @@
             "size": 137147,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/timecontrol-1.20.1-1.6.0.jar",
             "MD5": "4702a1dd935591ccbfabe81b33b601a8"
+          }
+        },
+        {
+          "id": "com.dplayend:togenc:1.0@jar",
+          "name": "Toggle Enchantments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38508,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/togenc-forge-1.20.x-v1.0.jar",
+            "MD5": "f196cd61c5156f637556e319cfa8151b"
           }
         },
         {
