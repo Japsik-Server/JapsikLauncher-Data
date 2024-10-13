@@ -1779,13 +1779,13 @@
           }
         },
         {
-          "id": "journeymap:journeymap:5.10.2@jar",
+          "id": "journeymap:journeymap:5.10.3@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
           "artifact": {
             "size": 7160406,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/journeymap-1.20.1-5.10.2-forge.jar",
-            "MD5": "739bf29f6ee7759b70dcf3e8b65daef2"
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
           }
         },
         {
