@@ -2058,6 +2058,16 @@
           }
         },
         {
+          "id": "com.dplayend:merenc:4.0@jar",
+          "name": "Merge Enchantments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10880,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/merenc-forge-1.20.x-v4.0.jar",
+            "MD5": "dd6ed7072b613f0be70245c2bcc18da1"
+          }
+        },
+        {
           "id": "net.mcreator.moadecorbath:moa_decor_bath:1.20.1@jar",
           "name": "MOA DECOR: BATH",
           "type": "ForgeMod",
@@ -2722,6 +2732,16 @@
             "size": 137147,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/timecontrol-1.20.1-1.6.0.jar",
             "MD5": "4702a1dd935591ccbfabe81b33b601a8"
+          }
+        },
+        {
+          "id": "com.dplayend:togenc:1.0@jar",
+          "name": "Toggle Enchantments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38508,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/togenc-forge-1.20.x-v1.0.jar",
+            "MD5": "f196cd61c5156f637556e319cfa8151b"
           }
         },
         {
