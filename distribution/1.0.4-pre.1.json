@@ -880,13 +880,13 @@
           }
         },
         {
-          "id": "com.hlysine:create_connected:0.9.1-mc1.20.1-dev@jar",
+          "id": "com.hlysine:create_connected:0.9.2-mc1.20.1@jar",
           "name": "Create: Connected",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6230705,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_connected-0.9.1-mc1.20.1-dev-all.jar",
-            "MD5": "fe04a448a03aa0ce017f4b4219bcebeb"
+            "size": 6230700,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_connected-0.9.2-mc1.20.1-all.jar",
+            "MD5": "715c038aa39947582db07d36220a8a9c"
           }
         },
         {
@@ -2785,13 +2785,13 @@
           }
         },
         {
-          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.73@jar",
+          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.75@jar",
           "name": "WaterMedia",
           "type": "ForgeMod",
           "artifact": {
-            "size": 27597763,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/watermedia-2.0.73.jar",
-            "MD5": "fb38dce37417e92fa5dcaee09b42a04f"
+            "size": 27600243,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/watermedia-2.0.75.jar",
+            "MD5": "05ed7ef455800168b37d15da335a0553"
           }
         },
         {
