@@ -3057,16 +3057,6 @@
           }
         },
         {
-          "id": "forge-client.toml",
-          "name": "forge-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1398,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/forge-client.toml",
-            "path": "config/forge-client.toml"
-          }
-        },
-        {
           "id": "cloth-config.json",
           "name": "cloth-config.json",
           "type": "File",
