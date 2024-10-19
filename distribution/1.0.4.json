@@ -910,13 +910,13 @@
           }
         },
         {
-          "id": "com.oierbravo.createmechanicalextruder:create_mechanical_extruder:1.20.1-1.5.7.e-22@jar",
+          "id": "com.oierbravo.createmechanicalextruder:create_mechanical_extruder:1.20.1-1.6.3.i-51@jar",
           "name": "Create Mechanical Extruder",
           "type": "ForgeMod",
           "artifact": {
-            "size": 205630,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_mechanical_extruder-1.20.1-1.5.7.e-22.jar",
-            "MD5": "fe11ba80a844ac1e03aaa0a8707b8ff8"
+            "size": 508879,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_mechanical_extruder-1.20.1-1.6.3.i-51.jar",
+            "MD5": "274176f38112417c636066a0bd5b8e44"
           }
         },
         {
@@ -1558,6 +1558,26 @@
             "size": 221813,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/fusion-1.1.1-forge-mc1.20.1.jar",
             "MD5": "c8cc6729366722da02ea57fd87d7275c"
+          }
+        },
+        {
+          "id": "net.mcreator.garnishedadditions:garnished_additions:0.6.1@jar",
+          "name": "Garnished Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 640657,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/garnished_additions-beta-0.6.0-forge.jar",
+            "MD5": "167dfb6b3137c4ed60cd38e1e72b11cb"
+          }
+        },
+        {
+          "id": "net.dakotapride:garnished:2.0@jar",
+          "name": "Create: Garnished",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3195414,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/garnished-2.0+1.20.1-neoforged.jar",
+            "MD5": "fc6ef41756864cab1bbec3159ffc07ee"
           }
         },
         {
@@ -2609,13 +2629,13 @@
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.33.711@jar",
+          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.34.718@jar",
           "name": "Sophisticated Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1083047,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.33.711.jar",
-            "MD5": "bde4011eefb032e396c80174985d344c"
+            "size": 1083131,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.34.718.jar",
+            "MD5": "d16b2fb78e41842296be1bb7897e15a8"
           }
         },
         {
@@ -2662,13 +2682,13 @@
           }
         },
         {
-          "id": "com.jaquadro.minecraft:storagedrawers:12.0.3@jar",
+          "id": "com.jaquadro.minecraft:storagedrawers:12.9.8@jar",
           "name": "Storage Drawers",
           "type": "ForgeMod",
           "artifact": {
-            "size": 583143,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/storagedrawers-1.20.1-12.0.3.jar",
-            "MD5": "c3931732aba75370208269b7e3a92b6d"
+            "size": 931431,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/StorageDrawers-1.20.1-12.9.8.jar",
+            "MD5": "f729bfd25412f6039b1bf4c0fa002273"
           }
         },
         {
@@ -2702,13 +2722,13 @@
           }
         },
         {
-          "id": "com.drmangotea:tfmg:0.8.0b@jar",
+          "id": "com.drmangotea:tfmg:0.9.3-1.20.1@jar",
           "name": "Create: The Factory Must Grow",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3185667,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/tfmg-0.8.0b-1.20.1.jar",
-            "MD5": "3fc581078bf462db821172081d0ca304"
+            "size": 3853890,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/tfmg-0.9.3-1.20.1.jar",
+            "MD5": "6a8b3968d7ee2eacc8c869f08b292fb1"
           }
         },
         {
