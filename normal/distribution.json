@@ -1561,6 +1561,26 @@
           }
         },
         {
+          "id": "net.mcreator.garnishedadditions:garnished_additions:0.6.1@jar",
+          "name": "Garnished Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 640657,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/garnished_additions-beta-0.6.0-forge.jar",
+            "MD5": "167dfb6b3137c4ed60cd38e1e72b11cb"
+          }
+        },
+        {
+          "id": "net.dakotapride:garnished:2.0@jar",
+          "name": "Create: Garnished",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3195414,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/garnished-2.0+1.20.1-neoforged.jar",
+            "MD5": "fc6ef41756864cab1bbec3159ffc07ee"
+          }
+        },
+        {
           "id": "software.bernie.example:geckolib:4.4.7@jar",
           "name": "GeckoLib 4",
           "type": "ForgeMod",
