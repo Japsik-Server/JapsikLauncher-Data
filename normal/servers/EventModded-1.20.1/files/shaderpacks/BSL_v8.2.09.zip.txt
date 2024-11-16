@@ -1,6 +1,0 @@
-#Sun Jun 23 20:45:50 KST 2024
-BLOCKLIGHT_B=255
-BLOCKLIGHT_G=255
-BLOCKLIGHT_I=0.50
-shadowDistance=512.0
-shadowMapResolution=3072
