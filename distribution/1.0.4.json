@@ -8,12 +8,12 @@
   },
   "servers": [
     {
-      "id": "EventModded-1.20.1",
+      "id": "Event-1.20.1",
       "name": "이벤트",
-      "description": "이벤트 (Modded version)",
+      "description": "크리스마스 및 새해 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0",
-      "address": "event-play.japsik.xyz:25565",
+      "version": "0.1.0",
+      "address": "event-play.japsik.xyz:25575",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "",
@@ -441,12 +441,22 @@
           ]
         },
         {
+          "id": "net.emilsg:backported_wolves:1.0.3-1.20.1@jar",
+          "name": "Backported Wolves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 149836,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/[Forge]backported_wolves_forge-1.0.3-1.20.1.jar",
+            "MD5": "1bd1e940f6aa9bad3b231de5a1ccc85e"
+          }
+        },
+        {
           "id": "com.modrinth.jtne4rsx:mr_2032_worldheight:1.20.1@jar",
           "name": "2032 World Height",
           "type": "ForgeMod",
           "artifact": {
             "size": 5885,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/2032-world-height-1.17+.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/2032-world-height-1.17+.jar",
             "MD5": "6aa43e6025a2ce3d0956d693dc35cc5a"
           }
         },
@@ -456,8 +466,28 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 210148,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/AdvancementPlaques-1.20.1-forge-1.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/AdvancementPlaques-1.20.1-forge-1.5.1.jar",
             "MD5": "bff9f98aacf3b2220faf35e039ce8d63"
+          }
+        },
+        {
+          "id": "com.builtbroken.ai.improvements:aiimprovements:0.5.2@jar",
+          "name": "AI-Improvements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29553,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
+            "MD5": "9a6776ce2deab597d198e8755daa56ff"
+          }
+        },
+        {
+          "id": "dev.uncandango:alltheleaks:0.0.2-beta+1.20.1-forge@jar",
+          "name": "All The Leaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 464886,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/alltheleaks-0.0.2-beta+1.20.1-forge.jar",
+            "MD5": "3516465fa12609e7c00eabd0a44788d6"
           }
         },
         {
@@ -466,7 +496,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 212292,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/almostunified-forge-1.20.1-0.9.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/almostunified-forge-1.20.1-0.9.3.jar",
             "MD5": "59f9b11e858546b825e747ee3ea1accd"
           }
         },
@@ -476,7 +506,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 85695724,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/AmbientSounds_FORGE_v6.1.1_mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/AmbientSounds_FORGE_v6.1.1_mc1.20.1.jar",
             "MD5": "cf627644313396c0b0af0e9e47160fab"
           }
         },
@@ -486,7 +516,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 984051,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/amendments-1.20-1.2.8.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/amendments-1.20-1.2.8.jar",
             "MD5": "c98e1c773a107255b48b90b6107f41b1"
           }
         },
@@ -496,7 +526,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2746864,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.1.jar",
             "MD5": "85653aaf197fa4e74c1e06c05e494f29"
           }
         },
@@ -506,7 +536,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           },
           "required": {
@@ -519,7 +549,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 101228,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/aquaculture_delight_1.0.0_forge_1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/aquaculture_delight_1.0.0_forge_1.20.1.jar",
             "MD5": "d34013de56ec48d2923bb398b6d18e11"
           }
         },
@@ -529,7 +559,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           }
         },
@@ -539,18 +569,38 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 91808,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
             "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
           }
         },
         {
-          "id": "io.github.foundationgames:automobility:0.4.2+1.20.1-forge@jar",
-          "name": "Automobility",
+          "id": "net.darkhax:attributefix:21.0.4@jar",
+          "name": "AttributeFix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1054094,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/automobility-0.4.2+1.20.1-forge.jar",
-            "MD5": "fb16b053cc0eda55bb287c1aa926dcb5"
+            "size": 19471,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "MD5": "e8fb517833e21335106e9d4d1a39ecd4"
+          }
+        },
+        {
+          "id": "generated.forgemod:axiom:4.1.1-for-MC1.20.1@jar",
+          "name": "Axiom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 39017576,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Axiom-4.1.1-for-MC1.20.1.jar",
+            "MD5": "9667bc74fbcf6a3d07b4947d845f0c77"
+          }
+        },
+        {
+          "id": "generated.forgemod:axiom:Korean-Support-1.0.3@jar",
+          "name": "Axiom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1195569,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Axiom-Korean-Support-1.0.3.jar",
+            "MD5": "756ab57b8423d5f28075d2dbe30467c3"
           }
         },
         {
@@ -559,18 +609,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 743975,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/azurelib-neo-1.20.1-2.0.27.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/azurelib-neo-1.20.1-2.0.27.jar",
             "MD5": "5469818e20ad762eeaa77c33abf25b2e"
           }
         },
         {
-          "id": "net.emilsg:backported_wolves:1.0.3-1.20.1@jar",
-          "name": "Backported Wolves",
+          "id": "generated.forgemod:mr_backported_wolvesterralithcompat:1.0@jar",
+          "name": "Backported Wolves & Terralith - Compat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 149836,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/backported_wolves-1.0.3-1.20.1.jar",
-            "MD5": "1bd1e940f6aa9bad3b231de5a1ccc85e"
+            "size": 8208,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/backported-wolves-terralith-compat-1.0.jar",
+            "MD5": "3e3f8c324197aeaf7989191676826709"
           }
         },
         {
@@ -579,7 +629,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 373582,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.6-all.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.6-all.jar",
             "MD5": "3810eb5667b2e0e3f9b948bbc1db0350"
           }
         },
@@ -589,8 +639,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 196447,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/bellsandwhistles-0.4.3-1.20.x.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/bellsandwhistles-0.4.3-1.20.x.jar",
             "MD5": "35a1d71ef77ad3e4b36b323d45214e38"
+          }
+        },
+        {
+          "id": "com.betterchunkloading:betterchunkloading:1.20.1-4.5@jar",
+          "name": "Betterchunkloading mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38243,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/betterchunkloading-1.20.1-4.5.jar",
+            "MD5": "652949fea44964252298283b6ece8691"
           }
         },
         {
@@ -599,7 +659,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 468517,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/BetterF3-7.0.2-Forge-1.20.1.jar",
             "MD5": "7411ae023390cf6b148f05a6b685279f"
           },
           "required": {
@@ -612,7 +672,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 51958,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/BetterFog-1.20.1-1.2.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/BetterFog-1.20.1-1.2.2.jar",
             "MD5": "28f4073c000c4dedecdf477f63e82dff"
           }
         },
@@ -622,7 +682,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 17090,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/betterfpsdist-1.20.1-4.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/betterfpsdist-1.20.1-4.4.jar",
             "MD5": "0a914a04bc289aceeafcbbf92d7649b5"
           }
         },
@@ -632,7 +692,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 43202,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/bobberdetector-0.1.9-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/bobberdetector-0.1.9-1.20.1.jar",
             "MD5": "23cb18393f2324ab6c119b621d1650bc"
           }
         },
@@ -642,7 +702,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 343962,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.2.13.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.2.13.jar",
             "MD5": "46c8e7f9bcfa984bd576e448df2beb25"
           }
         },
@@ -652,7 +712,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 157591,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/botarium-forge-1.20.1-2.3.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/botarium-forge-1.20.1-2.3.3.jar",
             "MD5": "2b0e3bdc3208620d7e172bfe3035aa7c"
           }
         },
@@ -662,18 +722,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40125,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
             "MD5": "e37854c44b1849b753afc4a205f31b46"
-          }
-        },
-        {
-          "id": "com.abdelaziz:canary:0.3.3@jar",
-          "name": "Canary",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 594191,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/canary-mc1.20.1-0.3.3.jar",
-            "MD5": "1bd8bdb43c190ddc671c5ea0bf3b8cb1"
           }
         },
         {
@@ -682,7 +732,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 348530,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/caramelChat-mc1.20.1-forge-1.2.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/caramelChat-mc1.20.1-forge-1.2.0.jar",
             "MD5": "5d362f779efdb0384f8b43815fd46e0c"
           },
           "required": {
@@ -695,7 +745,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 439457,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
             "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
           }
         },
@@ -705,7 +755,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3063695,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.113.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.113.1.jar",
             "MD5": "92b7b114f5ee6067b4f0eff1636817f2"
           }
         },
@@ -715,18 +765,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 289381,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/cccbridge-mc1.20.1-forge-1.6.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/cccbridge-mc1.20.1-forge-1.6.3.jar",
             "MD5": "8954495d581577028c662b6bcf4bb5e2"
-          }
-        },
-        {
-          "id": "dev.ricobrase:chatcalculator:1.6.0@jar",
-          "name": "ChatCalculator",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 182496,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ChatCalculator-Forge-1.6.0.jar",
-            "MD5": "1bfc5c4c5614e3b6774f51f52023cb60"
           }
         },
         {
@@ -735,7 +775,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15060040,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Chipped-forge-1.20.1-3.0.6.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Chipped-forge-1.20.1-3.0.6.jar",
             "MD5": "5a9884538e222ff0b47ec860cd050885"
           }
         },
@@ -745,7 +785,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16295,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/clickadv-1.20.1-3.8.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/clickadv-1.20.1-3.8.jar",
             "MD5": "ad368cc571f8ad43e20ead6ddd0c7361"
           }
         },
@@ -755,7 +795,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1168391,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/cloth-config-11.1.118-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/cloth-config-11.1.118-forge.jar",
             "MD5": "728bdaa093e07f3567640d36c55656ae"
           }
         },
@@ -765,7 +805,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20300,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
             "MD5": "7a71806a1167d866608fc2e8c7d62041"
           }
         },
@@ -775,7 +815,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 144467,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/CoffeeDelight-Forge-1.20.1-1.4-Fix.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/CoffeeDelight-Forge-1.20.1-1.4-Fix.jar",
             "MD5": "5d3249459412de6323fe1dfd0d616e61"
           }
         },
@@ -785,7 +825,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 637204,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/collective-1.20.1-7.68.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/collective-1.20.1-7.68.jar",
             "MD5": "a5c10795f0e391a18b134d349df4e126"
           }
         },
@@ -795,7 +835,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 382083,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/comforts-forge-6.4.0+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/comforts-forge-6.4.0+1.20.1.jar",
             "MD5": "a88fcc168de1a0f9b2ae4e7cbe8a8408"
           }
         },
@@ -805,8 +845,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 173824,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Connectible%20Chains-forge-1.20.1-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Connectible%20Chains-forge-1.20.1-1.0.0.jar",
             "MD5": "40b163e9f5d37350e5c2129c1886fa18"
+          }
+        },
+        {
+          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
+          "name": "Connector",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5043375,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
+            "MD5": "c12d01f7b20d6909689e458dd9fa760b"
           }
         },
         {
@@ -815,7 +865,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 115280,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
             "MD5": "952274bc9994bba9733e8747558f73fa"
           }
         },
@@ -825,7 +875,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1711810,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/copycats-2.0.5+mc.1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/copycats-2.0.5+mc.1.20.1-forge.jar",
             "MD5": "2747db415ca71f3043cb8fcbbb72fb6f"
           }
         },
@@ -835,7 +885,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 142501,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/corn_delight-1.0.4-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/corn_delight-1.0.4-1.20.1.jar",
             "MD5": "a42ed2de00253c4df6d1989493e5d138"
           }
         },
@@ -845,7 +895,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 64187,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
             "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
           }
         },
@@ -855,7 +905,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 175212,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/cratedelight-2024.06.21-1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/cratedelight-2024.06.21-1.20.1-forge.jar",
             "MD5": "3e274d032d954ddde96c16e6c235ebc0"
           }
         },
@@ -865,7 +915,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1744784,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/CraterLib-Forge-1.20-2.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/CraterLib-Forge-1.20-2.0.0.jar",
             "MD5": "06641af154b5850ccd278011528e591a"
           }
         },
@@ -875,7 +925,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 881845,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
             "MD5": "2020d58dceabd76a39d2fe483b4806b6"
           }
         },
@@ -885,48 +935,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6230700,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_connected-0.9.2-mc1.20.1-all.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/create_connected-0.9.2-mc1.20.1-all.jar",
             "MD5": "715c038aa39947582db07d36220a8a9c"
-          }
-        },
-        {
-          "id": "plus.dragons.createenchantmentindustry:create_enchantment_industry:1.2.9.d@jar",
-          "name": "Create Enchantment Industry",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 495595,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
-            "MD5": "fb224ab499d287b842b12b69fcb04fa9"
-          }
-        },
-        {
-          "id": "com.possible_triangle:create_jetpack:4.3.2@jar",
-          "name": "Create Jetpack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 224988,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_jetpack-forge-4.3.2.jar",
-            "MD5": "c1b5d98f152a942d1a5ee52b63c97b0c"
-          }
-        },
-        {
-          "id": "com.oierbravo.createmechanicalextruder:create_mechanical_extruder:1.20.1-1.6.3.i-51@jar",
-          "name": "Create Mechanical Extruder",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 508879,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_mechanical_extruder-1.20.1-1.6.3.i-51.jar",
-            "MD5": "274176f38112417c636066a0bd5b8e44"
-          }
-        },
-        {
-          "id": "net.mcreator.createnetherless:create_netherless:1.3.0@jar",
-          "name": "Create: Netherless",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28927,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_netherless-1.20.1-1.3.jar",
-            "MD5": "b2162e3e4e204e1ffa8555f78d74ecbd"
           }
         },
         {
@@ -935,28 +945,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 223428,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_power_loader-1.5.0-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/create_power_loader-1.5.0-mc1.20.1.jar",
             "MD5": "fdc8e3662b921771c31057e112e58c26"
-          }
-        },
-        {
-          "id": "net.mcreator.createrecipes:create_recipes:1.0.0@jar",
-          "name": "Create: More Recipes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8871,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_recipes-1.2.0.jar",
-            "MD5": "61e3e411893afa3d2675eb2dce688ae4"
-          }
-        },
-        {
-          "id": "net.mcreator.createcrusheverything:create_crush_everything:1.0.2@jar",
-          "name": "Create Recycling",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 89302,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create_recycle_1.0.2_forge_1.20.1.jar",
-            "MD5": "25e705250b3608f42c1a5bc3e08b798a"
           }
         },
         {
@@ -965,7 +955,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15584088,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create-1.20.1-0.5.1.i.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/create-1.20.1-0.5.1.i.jar",
             "MD5": "9e7afa8d689b13702d0d1b4a0c872add"
           }
         },
@@ -975,7 +965,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2123089,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create-confectionery1.20.1_v1.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/create-confectionery1.20.1_v1.1.0.jar",
             "MD5": "12760e582e8e0bd77e1b3a9421bb7e01"
           }
         },
@@ -985,7 +975,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 407561,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create-deco-additions-1.3.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/create-deco-additions-1.3.2.jar",
             "MD5": "06cf827ef98d9753f0bbaef469420ca6"
           }
         },
@@ -995,28 +985,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6067122,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create-food-1.20.1-1.1.4-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/create-food-1.20.1-1.1.4-forge.jar",
             "MD5": "7879abc365dd2dfddb8002fcb2215c6d"
-          }
-        },
-        {
-          "id": "org.antarcticgardens.newage:create_new_age:1.1.2@jar",
-          "name": "Create: New Age",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 663575,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create-new-age-forge-1.20.1-1.1.2.jar",
-            "MD5": "849f2be17ade31494ced55cb5c03aa8b"
-          }
-        },
-        {
-          "id": "net.mcreator.createstuffadditions:create_sa:2.0.4@jar",
-          "name": "Create Stuff & Additions",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1137301,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/create-stuff-additions1.20.1_v2.0.4a.jar",
-            "MD5": "eb4ab295130819266a5c23ce03d59804"
           }
         },
         {
@@ -1025,38 +995,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1516425,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createaddition-1.20.1-1.2.4d.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/createaddition-1.20.1-1.2.4d.jar",
             "MD5": "6eb6277eff5f4799cf9027494eee66b0"
-          }
-        },
-        {
-          "id": "com.amronos:createaddoncompatibility:0.2.2b@jar",
-          "name": "Create: Addon Compatibility",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 163495,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createaddoncompatibility-v0.2.2b-1.20.1-(neo)forge.jar",
-            "MD5": "7f324d41268545f46c2413ab4aab2181"
-          }
-        },
-        {
-          "id": "fr.iglee42:createcasing:1.20.1-1.6.2@jar",
-          "name": "Create : Encased",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8334929,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/CreateCasing-1.20.1-1.6.2.jar",
-            "MD5": "c12fdc3784d2e85291885d86ed65550c"
-          }
-        },
-        {
-          "id": "com.tom.createterminal:createcontraptionterminals:1.0.0@jar",
-          "name": "Create Contraption Terminals",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 68600,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createcontraptionterminals-1.20-1.0.0.jar",
-            "MD5": "215497a5da4b6d5013cea4cccb51c517"
           }
         },
         {
@@ -1065,48 +1005,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3966138,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createdeco-2.0.2-1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/createdeco-2.0.2-1.20.1-forge.jar",
             "MD5": "9c86ef2ebb60aa617ac92c3ae1d3c545"
-          }
-        },
-        {
-          "id": "net.dakotapride:createframed:1.5.3@jar",
-          "name": "Create: Framed",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 922976,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createframed-1.20.1-1.5.3.jar",
-            "MD5": "d452555712fff6cfb5f45b6cb73388a1"
-          }
-        },
-        {
-          "id": "com.robocraft999:creategoggles:0.5.5.g@jar",
-          "name": "Create Goggles",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 217121,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/creategoggles-1.20.1-0.5.5.g-[FORGE].jar",
-            "MD5": "9aa05ac329917e19c74b17022a1a7803"
-          }
-        },
-        {
-          "id": "com.forsteri:createliquidfuel:2.1.1-1.20.1@jar",
-          "name": "Create Liquid Fuel",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 20245,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createliquidfuel-2.1.1-1.20.1.jar",
-            "MD5": "41d2472841c5dc5d43adc52b27b3123b"
-          }
-        },
-        {
-          "id": "com.forsteri:createmoredrillheads:2.0.3-1.20.1@jar",
-          "name": "Create: More Drill Heads",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 128754,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createmoredrillheads-2.0.3-1.20.1.jar",
-            "MD5": "5b132b7aca6b1ee9c5c314c838851c3d"
           }
         },
         {
@@ -1115,7 +1015,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2003765,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createrailwaysnavigator-forge-1.20.1-0.5.5.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/createrailwaysnavigator-forge-1.20.1-0.5.5.jar",
             "MD5": "119e6cbb90dce7238bcdbcac85b767d0"
           }
         },
@@ -1125,28 +1025,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10006334,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createsongsandspeakers-forge-mc1.20-0.5%20-%20Fork%20of%203.22.0-alpha.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/createsongsandspeakers-forge-mc1.20-0.5%20-%20Fork%20of%203.22.0-alpha.3.jar",
             "MD5": "6541c1a44f7c40cd2cec60bee3704fd8"
           }
         },
         {
-          "id": "noobanidus.mods:createstuffadditionsfix:0.0.0.1@jar",
-          "name": "CreateStuffAdditionsFix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4880,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar",
-            "MD5": "8a9f099200d403fac3c2922dc8c553c1"
-          }
-        },
-        {
-          "id": "team.creative:creativecore:2.12.15@jar",
+          "id": "team.creative:creativecore:2.12.22@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1144776,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.15_mc1.20.1.jar",
-            "MD5": "1efbdfbc5e122e03b31d1428b74212af"
+            "size": 1146751,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.22_mc1.20.1.jar",
+            "MD5": "a3b5e6181236c69e1bd963db2a1865de"
           }
         },
         {
@@ -1155,7 +1045,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25983,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
             "MD5": "3620912474f47bf58d1fe5bfe133763a"
           }
         },
@@ -1165,7 +1055,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 382970,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/curios-forge-5.9.1+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/curios-forge-5.9.1+1.20.1.jar",
             "MD5": "c4bef497fe84a0140652e43b267bd6ee"
           }
         },
@@ -1175,7 +1065,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1040909,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Delightful-1.20.1-3.6.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Delightful-1.20.1-3.6.jar",
             "MD5": "7e61f1c6d1cef0e012ef5ed071f17406"
           }
         },
@@ -1185,7 +1075,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2439693,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/design_decor-0.4.0b-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/design_decor-0.4.0b-1.20.1.jar",
             "MD5": "0448b0a460b69c9f1bed3c0da9aa73c1"
           }
         },
@@ -1195,7 +1085,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13643,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/deuf-1.20.1-1.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/deuf-1.20.1-1.3.jar",
             "MD5": "1f73cbb3d44a9c2cd5b099b09678100d"
           }
         },
@@ -1205,7 +1095,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 179907,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/DiagonalFences-v8.1.4-1.20.1-Forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/DiagonalFences-v8.1.4-1.20.1-Forge.jar",
             "MD5": "16ba82f3fec74cbf2b07b969d62e642f"
           }
         },
@@ -1215,7 +1105,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 170992,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/DiagonalWalls-v8.0.3-1.20.1-Forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/DiagonalWalls-v8.0.3-1.20.1-Forge.jar",
             "MD5": "f344ce6c0fee84cf354541fe89c03399"
           }
         },
@@ -1225,21 +1115,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 180522,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/DiagonalWindows-v8.1.4-1.20.1-Forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/DiagonalWindows-v8.1.4-1.20.1-Forge.jar",
             "MD5": "29976ca706bc66735fb2290adf3356a2"
-          }
-        },
-        {
-          "id": "fuzs.easyshulkerboxes:easyshulkerboxes:8.0.2@jar",
-          "name": "Easy Shulker Boxes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 581742,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar",
-            "MD5": "e51ded9f25728d16587084eb7adf9fd0"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1248,21 +1125,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 294792,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/eatinganimation-1.20.1-5.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/eatinganimation-1.20.1-5.1.0.jar",
             "MD5": "fed01f18bc67d277e1ae9d4694d18659"
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "com.illusivesoulworks:elytraslot:6.4.0+1.20.1@jar",
-          "name": "Elytra Slot",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 92592,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/elytraslot-forge-6.4.0+1.20.1.jar",
-            "MD5": "5288537ee6030597b46eddaf89f05f9c"
           }
         },
         {
@@ -1271,7 +1138,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -1281,7 +1148,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 895427,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/embeddiumplus-1.20.1-v1.2.13.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/embeddiumplus-1.20.1-v1.2.13.jar",
             "MD5": "e370f41a09f9d1bfd90e89044230d3a8"
           }
         },
@@ -1291,7 +1158,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 432658,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/entity_model_features_forge_1.20.1-2.2.6.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/entity_model_features_forge_1.20.1-2.2.6.jar",
             "MD5": "118d42d08d594180f901ad5881a10541"
           }
         },
@@ -1301,7 +1168,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 655405,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/entity_texture_features_forge_1.20.1-6.2.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/entity_texture_features_forge_1.20.1-6.2.4.jar",
             "MD5": "b124d37161da998689b489ab48e4b4a7"
           }
         },
@@ -1311,7 +1178,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 71441,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/entityculling-forge-1.7.0-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/entityculling-forge-1.7.0-mc1.20.1.jar",
             "MD5": "972ecec86e34cf5e2172c15e6e68119b"
           },
           "required": {
@@ -1324,18 +1191,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 44861,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/expanded_gamerules-forge-1.20.x-0.3.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/expanded_gamerules-forge-1.20.x-0.3.3.jar",
             "MD5": "56ca59692cd4ac2caeabae6089a41fe5"
-          }
-        },
-        {
-          "id": "com.chaosthedude:explorerscompass:1.20.1-1.3.3-forge@jar",
-          "name": "Explorer's Compass",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 155257,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ExplorersCompass-1.20.1-1.3.3-forge.jar",
-            "MD5": "9b52fd19e49b6fc0d964a43b90de00e2"
           }
         },
         {
@@ -1344,7 +1201,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 87315,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/explosiveenhancement-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/explosiveenhancement-1.0.1.jar",
             "MD5": "a19ef315eb0107b36d70fd50d413d6f0"
           },
           "required": {
@@ -1357,7 +1214,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1312933,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/exposure-1.20.1-1.7.5-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/exposure-1.20.1-1.7.5-forge.jar",
             "MD5": "159973b55ef433ac3f5604d29e1f1bbe"
           }
         },
@@ -1367,11 +1224,21 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 202566,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/extrasounds-1.20.1-forge-1.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/extrasounds-1.20.1-forge-1.3.jar",
             "MD5": "181862df3f71d2587aee4f3e5243e13d"
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.8+1.20.1@jar",
+          "name": "Forgified Fabric API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3041071,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8+1.20.1.jar",
+            "MD5": "7217481b8e9f40ac27273c1b5df0feb3"
           }
         },
         {
@@ -1380,7 +1247,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 130363,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Fallingleaves-1.20.1-2.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Fallingleaves-1.20.1-2.1.0.jar",
             "MD5": "9abb855e91488602aca8ee1d95f3e392"
           }
         },
@@ -1390,7 +1257,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 420181,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/FallingTree-1.20.1-4.3.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/FallingTree-1.20.1-4.3.4.jar",
             "MD5": "260303e64027dabb008d5b8ee4f39a7e"
           }
         },
@@ -1400,7 +1267,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2696876,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/fancymenu_forge_3.2.3_MC_1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/fancymenu_forge_3.2.3_MC_1.20.1.jar",
             "MD5": "ac238a3496ff4d386a148fb06ca6a116"
           }
         },
@@ -1410,7 +1277,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2915349,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.4.jar",
             "MD5": "5b6bee961b278a3edd6e3935b061fbaa"
           }
         },
@@ -1420,7 +1287,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 373943,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/farsight-1.20.1-3.6.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/farsight-1.20.1-3.6.jar",
             "MD5": "fe17f2261bf8704b7b12a9cd726a8fa8"
           }
         },
@@ -1430,7 +1297,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9835,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/FastLeafDecay-32.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/FastLeafDecay-32.jar",
             "MD5": "20df3e3525622d6ea38a243be828ef38"
           }
         },
@@ -1440,7 +1307,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 66989,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
             "MD5": "3266e638032dc9b957bf1e7372671c05"
           }
         },
@@ -1450,7 +1317,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 255435,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/Female-Gender-Mod-forge-1.20.1-3.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/Female-Gender-Mod-forge-1.20.1-3.1.jar",
             "MD5": "0f2adbca56e84f96af85b81356db186c"
           },
           "required": {
@@ -1463,7 +1330,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
@@ -1473,7 +1340,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 290744,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/flib-1.20.1-0.0.13.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/flib-1.20.1-0.0.13.jar",
             "MD5": "a89ed84ac06ea4caba19901d6554587f"
           }
         },
@@ -1483,21 +1350,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 75389,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/freecam-forge-1.2.1+1.20.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/freecam-forge-1.2.1+1.20.jar",
             "MD5": "3301388f64a2bcbc760ca33324bca2c0"
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "com.black_dog20:friendlygriefing:1.0.2@jar",
-          "name": "Friendly Griefing",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 41313,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/FriendlyGriefing-1.20-1.0.2.jar",
-            "MD5": "4e7cfe679bfce61e087f3a36f701de9f"
           }
         },
         {
@@ -1506,7 +1363,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 886468,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-chunks-forge-2001.3.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ftb-chunks-forge-2001.3.1.jar",
             "MD5": "42489b6e3db048ad8f21e19ecac89e24"
           }
         },
@@ -1516,7 +1373,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 791152,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-library-forge-2001.2.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ftb-library-forge-2001.2.4.jar",
             "MD5": "e60f8af3ffa7cb3ccffee661efa5de15"
           }
         },
@@ -1526,7 +1383,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 247666,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-teams-forge-2001.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ftb-teams-forge-2001.3.0.jar",
             "MD5": "31acf433df9d13282fa12bd6974c44f9"
           }
         },
@@ -1536,7 +1393,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 129541,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.1.jar",
             "MD5": "f506cff280b8cb09b4aeb39359f7b1aa"
           }
         },
@@ -1546,7 +1403,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1954591,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ftbbackups2-forge-1.20-1.0.23.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ftbbackups2-forge-1.20-1.0.23.jar",
             "MD5": "d03cc8191ad47156c977d53468421559"
           }
         },
@@ -1556,7 +1413,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 221813,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/fusion-1.1.1-forge-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/fusion-1.1.1-forge-mc1.20.1.jar",
             "MD5": "c8cc6729366722da02ea57fd87d7275c"
           }
         },
@@ -1566,7 +1423,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 640657,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/garnished_additions-beta-0.6.0-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/garnished_additions-beta-0.6.0-forge.jar",
             "MD5": "167dfb6b3137c4ed60cd38e1e72b11cb"
           }
         },
@@ -1576,18 +1433,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3195414,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/garnished-2.0+1.20.1-neoforged.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/garnished-2.0+1.20.1-neoforged.jar",
             "MD5": "fc6ef41756864cab1bbec3159ffc07ee"
           }
         },
         {
-          "id": "software.bernie.example:geckolib:4.4.7@jar",
+          "id": "software.bernie.example:geckolib:4.4.9@jar",
           "name": "GeckoLib 4",
           "type": "ForgeMod",
           "artifact": {
-            "size": 991110,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.7.jar",
-            "MD5": "71b76e5cbc734fc83b278be909e2fbf5"
+            "size": 991552,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.9.jar",
+            "MD5": "bc7b4e71baa76fa0d7ac475568a0f20c"
           }
         },
         {
@@ -1596,7 +1453,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6239,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/GeckoLibOculusCompat-Forge-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/GeckoLibOculusCompat-Forge-1.0.1.jar",
             "MD5": "4dd6b749ec2ca69a208a15091530825b"
           }
         },
@@ -1606,7 +1463,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 80207,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/gjeb-forge-1.20.1-1.3.0.34.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/gjeb-forge-1.20.1-1.3.0.34.jar",
             "MD5": "134af617b154dfbe44a27aa9070b3a60"
           }
         },
@@ -1616,7 +1473,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11124968,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/gml-4.0.9-all.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/gml-4.0.9-all.jar",
             "MD5": "09db2f78b7cb67b27dd2b58989bc4947"
           }
         },
@@ -1626,18 +1483,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7997,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/gpumemleakfix-1.20.1-1.8.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/gpumemleakfix-1.20.1-1.8.jar",
             "MD5": "e5028e9da74761f26c00c546c8ebdc4d"
-          }
-        },
-        {
-          "id": "com.starfish_studios:hamsters:1.20.1-1.0.3@jar",
-          "name": "Hamsters",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 439448,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/hamsters-forge-1.0.3-1.20.1.jar",
-            "MD5": "02b3f3a37e2a07b356982c51572ed4d6"
           }
         },
         {
@@ -1646,7 +1493,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 133685,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Iceberg-1.20.1-forge-1.1.21.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Iceberg-1.20.1-forge-1.1.21.jar",
             "MD5": "7d8be08fbc719d19f9d71c026fb8d5f4"
           }
         },
@@ -1656,18 +1503,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 432181,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.2.18+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.2.18+1.20.4.jar",
             "MD5": "d85d8927a599d038011fa6c23f46c4b9"
-          }
-        },
-        {
-          "id": "immersive_aircraft:immersive_aircraft:1.0.1+1.20.1@jar",
-          "name": "Immersive Aircraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2070746,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/immersive_aircraft-1.0.1+1.20.1-forge.jar",
-            "MD5": "6baacd0b9f638e82fecbde792b64da39"
           }
         },
         {
@@ -1676,7 +1513,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2563768,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/immersive_melodies-0.3.0+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/immersive_melodies-0.3.0+1.20.1-forge.jar",
             "MD5": "fff66337d25f8b14ba5bf57ea1d9b566"
           }
         },
@@ -1686,7 +1523,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4841253,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
             "MD5": "e010b70ceecf34f91f223b8981f50f40"
           }
         },
@@ -1696,7 +1533,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 578627,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/interiors-0.5.3+forge-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/interiors-0.5.3+forge-mc1.20.1.jar",
             "MD5": "7e0628d2158deab9e927f593476ee820"
           }
         },
@@ -1706,47 +1543,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 52148,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/inventorysorter-1.20.1-23.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/inventorysorter-1.20.1-23.0.1.jar",
             "MD5": "2adaeb7ef5ca7bc39024e536c22168a4"
-          }
-        },
-        {
-          "id": "me.pieking1215:invmove:0.8.4@jar",
-          "name": "InvMove",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 125604,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/InvMove-1.20-0.8.4-Forge.jar",
-            "MD5": "cfc16d82efbaba140f666db57f0aee94"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "me.pieking1215:invmovecompats:0.3.2@jar",
-          "name": "InvMoveCompats",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 102149,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/InvMoveCompats-1.20-0.3.2-Forge.jar",
-            "MD5": "fecb64b256de624743d63b1309956098"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.kirdow.itemlocks:ktnilcks:1.20.1-1.3.8@jar",
-          "name": "ItemLocks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 88184,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/ItemLocks-Forge-1.20.1-1.3.8.jar",
-            "MD5": "7b3ca541c5f0748b024ed181835c2366"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1755,34 +1553,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 53181,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ItemPhysic_FORGE_v1.8.1_mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ItemPhysic_FORGE_v1.8.1_mc1.20.1.jar",
             "MD5": "c15329d464d71edffa09dc8786f370bd"
-          }
-        },
-        {
-          "id": "snownee.jade:jade:11.11.1+forge@jar",
-          "name": "Jade",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 547726,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/Jade-1.20.1-forge-11.11.1.jar",
-            "MD5": "fafa657e924a26031c174e7ab1484c8e"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "snownee.jade.addon:jadeaddons:5.3.1+forge@jar",
-          "name": "Jade Addons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 77839,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/JadeAddons-1.20.1-Forge-5.3.1.jar",
-            "MD5": "41662ef8645177cc3f90fc34007563df"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1791,21 +1563,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1406021,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.104.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.104.jar",
             "MD5": "46bf38308872aae3351ce59d9e664437"
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "journeymap:journeymap:5.10.3@jar",
-          "name": "Journeymap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7160406,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
-            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
           }
         },
         {
@@ -1814,7 +1576,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 127879,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/justenoughbreeding-forge-1.20.x-1.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/justenoughbreeding-forge-1.20.x-1.3.0.jar",
             "MD5": "1a1284a00c97f39d9aefdce50cdc75c3"
           },
           "required": {
@@ -1827,7 +1589,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 276231,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/JustEnoughResources-1.20.1-1.4.0.247.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/JustEnoughResources-1.20.1-1.4.0.247.jar",
             "MD5": "413f7d427a16254ec8e08f78094a206d"
           },
           "required": {
@@ -1840,7 +1602,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625185,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
           }
         },
@@ -1850,7 +1612,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7193768,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
             "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
           }
         },
@@ -1860,7 +1622,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 206758,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/KryptonReforged-0.2.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/KryptonReforged-0.2.3.jar",
             "MD5": "5b6b46d86a9a3858c766182a4cb9c3f1"
           }
         },
@@ -1870,7 +1632,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16062,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/leaky-1.20.1-2.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/leaky-1.20.1-2.1.jar",
             "MD5": "680c51429d1d1c2faafe728369ae5597"
           }
         },
@@ -1880,7 +1642,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 38240,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Lexiconfig-forge-1.3.11.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Lexiconfig-forge-1.3.11.jar",
             "MD5": "729bdf3a3c0adb82d1c43ded9dc50b4b"
           }
         },
@@ -1890,7 +1652,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4974031,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/lightmanscurrency-1.20.1-2.2.2.5.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/lightmanscurrency-1.20.1-2.2.2.5.jar",
             "MD5": "f9ac9bd99f20bcfbbb6a0956475850b4"
           }
         },
@@ -1900,7 +1662,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2596661,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre131_mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre131_mc1.20.1.jar",
             "MD5": "09890d527b2353f11862e851e0979933"
           }
         },
@@ -1910,7 +1672,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 178625,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/lmft-1.0.4+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/lmft-1.0.4+1.20.1-forge.jar",
             "MD5": "b6fef15e42caec14db87f5aa498233e8"
           }
         },
@@ -1920,7 +1682,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 31801,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/loadmyresources_forge_1.0.4_MC_1.19.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/loadmyresources_forge_1.0.4_MC_1.19.3.jar",
             "MD5": "22bb77cda33ae4928fbbb00b0d63ebd0"
           }
         },
@@ -1930,21 +1692,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 519991,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/MaFgLib-0.1.11-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/MaFgLib-0.1.11-mc1.20.1.jar",
             "MD5": "f65da5467987b3f9b821b6b43bdca220"
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "games.alejandrocoria:mapfrontiers:2.6.0p4@jar",
-          "name": "MapFrontiers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 425639,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/MapFrontiers-1.20.1-2.6.0p4-forge.jar",
-            "MD5": "ab500a866b662165aa858400043a27de"
           }
         },
         {
@@ -1953,7 +1705,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 677705,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-bridges-3.0.0-mc1.20.1forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-bridges-3.0.0-mc1.20.1forge.jar",
             "MD5": "27a5798467fc0799eab2505bb6a8f041"
           }
         },
@@ -1963,7 +1715,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1202279,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-doors-1.1.1forge-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-doors-1.1.1forge-mc1.20.1.jar",
             "MD5": "70a4d52ca95ecd57bcbb146e9c6950ce"
           }
         },
@@ -1973,7 +1725,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 522886,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-fences-1.1.2-mc1.20.1forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-fences-1.1.2-mc1.20.1forge.jar",
             "MD5": "729a8ce749bb6deff288ea1791ff9602"
           }
         },
@@ -1983,7 +1735,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1882792,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
             "MD5": "f22230d8f84190aef6e62ca95e5da136"
           }
         },
@@ -1993,7 +1745,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1028361,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-holidays-1.1.0-mc1.20.1forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-holidays-1.1.0-mc1.20.1forge.jar",
             "MD5": "e6c090d8820739a89f117014b7fafb32"
           }
         },
@@ -2003,7 +1755,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 517513,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-lights-1.1.0-mc1.20.1forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-lights-1.1.0-mc1.20.1forge.jar",
             "MD5": "539aa2ab27253c1053236e06b82374df"
           }
         },
@@ -2013,7 +1765,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 72181,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-paintings-1.0.5-1.20.1forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-paintings-1.0.5-1.20.1forge.jar",
             "MD5": "4a12b43279b395b4512d24b07697cd73"
           }
         },
@@ -2023,7 +1775,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 611100,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-paths-1.0.5-1.20.1forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-paths-1.0.5-1.20.1forge.jar",
             "MD5": "ae075b09313081c5d462c20011e2790e"
           }
         },
@@ -2033,7 +1785,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1837373,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-roofs-2.3.1-mc1.20.1forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-roofs-2.3.1-mc1.20.1forge.jar",
             "MD5": "cacee547c4f32b57b0f238d68d4ddc2b"
           }
         },
@@ -2043,7 +1795,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 674687,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-trapdoors-1.1.3-mc1.20.1forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-trapdoors-1.1.3-mc1.20.1forge.jar",
             "MD5": "3caced7ea133ba8c51bfc309ba91df82"
           }
         },
@@ -2053,7 +1805,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1309586,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mcw-windows-2.3.0-mc1.20.1forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mcw-windows-2.3.0-mc1.20.1forge.jar",
             "MD5": "82f6f7c58030345ddb6efa0b2ded97fd"
           }
         },
@@ -2063,7 +1815,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37178,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "6b528d368f7fcbf737df28f2457cdec6"
           }
         },
@@ -2073,7 +1825,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 227925,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
             "MD5": "5dd9149414ca375ceab146242c6e84ab"
           }
         },
@@ -2083,7 +1835,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10880,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/merenc-forge-1.20.x-v4.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/merenc-forge-1.20.x-v4.0.jar",
             "MD5": "dd6ed7072b613f0be70245c2bcc18da1"
           }
         },
@@ -2093,7 +1845,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1196202,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/MOAdecor%20BATH%201.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/MOAdecor%20BATH%201.20.1.jar",
             "MD5": "a771a2ee8a411270e835927ddb4bdfc3"
           }
         },
@@ -2103,8 +1855,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1119976,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/MOAdecor%20TOYS%201.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/MOAdecor%20TOYS%201.20.1.jar",
             "MD5": "a491d0259da96000cf70d0b0c22f6d87"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:modelfix:1.15@jar",
+          "name": "Model Gap Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 45246,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/modelfix-1.15.jar",
+            "MD5": "9afd060094be1353e818bd2b7c249cc9"
           }
         },
         {
@@ -2113,7 +1875,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 61029635,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Modern-Elevators-Escalators-forge-1.20.1-3.2.2-hotfix-2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Modern-Elevators-Escalators-forge-1.20.1-3.2.2-hotfix-2.jar",
             "MD5": "6e25935b1764f00efc4a245ce85ce3fb"
           }
         },
@@ -2123,7 +1885,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 775006,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/modernfix-forge-5.19.0+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/modernfix-forge-5.19.0+mc1.20.1.jar",
             "MD5": "9debddc21a3f05ef5f0596bbeddea68e"
           }
         },
@@ -2133,8 +1895,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1188191,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/moderntrainparts-0.1.7-forge-mc1.20.1-cr0.5.1.f.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/moderntrainparts-0.1.7-forge-mc1.20.1-cr0.5.1.f.jar",
             "MD5": "33820c496e2e9bc32ea5996354e4f2f8"
+          }
+        },
+        {
+          "id": "generated.forgemod:modmenu:7.2.2@jar",
+          "name": "Modmenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 721366,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/modmenu-7.2.2.jar",
+            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
           }
         },
         {
@@ -2143,7 +1915,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 86133,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/monolib-forge-1.20.1-1.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/monolib-forge-1.20.1-1.3.0.jar",
             "MD5": "e160c931c0dad1e891c01b3fa6dab58b"
           }
         },
@@ -2153,7 +1925,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1198980,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/moonlight-1.20-2.12.6-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/moonlight-1.20-2.12.6-forge.jar",
             "MD5": "556e301bd50ff507fcc52d80b34549fa"
           }
         },
@@ -2163,7 +1935,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 124042,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/moredelight-1.1.2-1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/moredelight-1.1.2-1.20.1-forge.jar",
             "MD5": "a3c9776c8a829c249e7089904e0ef29b"
           }
         },
@@ -2173,7 +1945,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 379988,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/moremobvariants-forge+1.20.1-1.3.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/moremobvariants-forge+1.20.1-1.3.0.1.jar",
             "MD5": "97a434757b963366f85571963cb5cf46"
           }
         },
@@ -2183,7 +1955,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 624367,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/muffins-thai-delight-forge-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/muffins-thai-delight-forge-1.0.0.jar",
             "MD5": "014aa4e5415383d959ff9a4c95b89120"
           }
         },
@@ -2193,7 +1965,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3482,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/MyServerIsCompatible-1.20-1.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/MyServerIsCompatible-1.20-1.0.jar",
             "MD5": "61d6f7c70030cbdacbbb0053cf120b79"
           }
         },
@@ -2203,7 +1975,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 290014,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/mysterious_mountain_lib-1.4.7-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/mysterious_mountain_lib-1.4.7-1.20.1.jar",
             "MD5": "99c86e3a17cce9bd7f7a26b2aed8e4e8"
           }
         },
@@ -2213,7 +1985,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3343324,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/naturalist-forge-4.0.3-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/naturalist-forge-4.0.3-1.20.1.jar",
             "MD5": "d41bf9911d5873965c66389944fdb042"
           }
         },
@@ -2223,7 +1995,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 215119,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/NaturesCompass-1.20.1-1.11.2-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/NaturesCompass-1.20.1-1.11.2-forge.jar",
             "MD5": "7c05072645b1aae529b1e38c74b87c4c"
           }
         },
@@ -2233,8 +2005,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3786,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/no-player-nametags-2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/no-player-nametags-2.jar",
             "MD5": "1810fece22822de5dbda7e208f05adad"
+          }
+        },
+        {
+          "id": "io.github.steveplays28:noisium:2.3.0+mc1.20-1.20.1@jar",
+          "name": "Noisium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 218152,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+            "MD5": "3a8e9a24408c991b3fb97685884f2cce"
           }
         },
         {
@@ -2243,7 +2025,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 33075,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/NotableBubbleText-1.20.1-1.0.5.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/NotableBubbleText-1.20.1-1.0.5.jar",
             "MD5": "650c83a77e66408b10451a688f399093"
           }
         },
@@ -2253,21 +2035,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 429049,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/notenoughanimations-forge-1.7.4-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/notenoughanimations-forge-1.7.4-mc1.20.1.jar",
             "MD5": "9de90e8cbc89b514c0f1dcf234814ba2"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.obscuria.tooltips:obscure_tooltips:2.2@jar",
-          "name": "Obscure Tooltips",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 91788,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/Obscure-Tooltips-2.2.jar",
-            "MD5": "567783d60b4f4ba721ff0e93b6d4a694"
           },
           "required": {
             "value": false
@@ -2279,7 +2048,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 570463,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/oculus-flywheel-compat-forge1.20.1+1.1.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/oculus-flywheel-compat-forge1.20.1+1.1.3.jar",
             "MD5": "73701d73290b25a7acb9fb54af37a1aa"
           }
         },
@@ -2289,7 +2058,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2831148,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
             "MD5": "45b96133bb46cc61dd9778bd4fca741d"
           }
         },
@@ -2299,8 +2068,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 655951,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
             "MD5": "9e7104fba0208a364b159aff60fb47f3"
+          }
+        },
+        {
+          "id": "dev.tonimatas:packetfixer:1.4.2@jar",
+          "name": "Packet Fixer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22067,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/packetfixer-forge-1.4.2-1.19-to-1.20.1.jar",
+            "MD5": "7d9df4ab58a48eae97e3ac5279b50b76"
           }
         },
         {
@@ -2309,7 +2088,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 642506,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Patchouli-1.20.1-84-FORGE.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Patchouli-1.20.1-84-FORGE.jar",
             "MD5": "64452a4404a2c47a782ba99cb90c3ca0"
           }
         },
@@ -2319,7 +2098,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1343694,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/polylib-forge-2000.0.3-build.143.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/polylib-forge-2000.0.3-build.143.jar",
             "MD5": "ffb6c10b010e7e4fd5eba9f864182593"
           }
         },
@@ -2329,7 +2108,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 298759,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/polymorph-forge-0.49.5+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/polymorph-forge-0.49.5+1.20.1.jar",
             "MD5": "50b704c0f2c18db908ce99d628889a9a"
           }
         },
@@ -2339,7 +2118,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7080698,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
             "MD5": "e42d774ced61f8c62c58f3111aa5e3f5"
           },
           "required": {
@@ -2352,7 +2131,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 52205,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Prism-1.20.1-forge-1.0.5.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Prism-1.20.1-forge-1.0.5.jar",
             "MD5": "de0e319e29e813f407314b33739f7eb8"
           }
         },
@@ -2362,18 +2141,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 818179,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/prometheus-forge-1.20.1-1.2.5.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/prometheus-forge-1.20.1-1.2.5.jar",
             "MD5": "201329622bd0a4ff293490a489f2e9ba"
-          }
-        },
-        {
-          "id": "com.data_stream:proximitytextchat:1.20.1-1.3FE@jar",
-          "name": "Proximity Text Chat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9747,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/ProximityTextChat-1.20.1-1.3FE.jar",
-            "MD5": "42e081a98dbea8a24a08c3d177cb7197"
           }
         },
         {
@@ -2382,8 +2151,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1002231,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/PuzzlesLib-v8.1.23-1.20.1-Forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/PuzzlesLib-v8.1.23-1.20.1-Forge.jar",
             "MD5": "02b46fc0be5c865434ff6023f6a2f094"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.lithium:radium:0.12.4+git.26c9d8e@jar",
+          "name": "Radium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 713454,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+            "MD5": "3a46fb58e8ff12213e4dbc909f47a77d"
           }
         },
         {
@@ -2392,7 +2171,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 366687,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/Reblured-1.20.1-1.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/Reblured-1.20.1-1.3.0.jar",
             "MD5": "0844d81a8fb2e544245bbf4faa1e4482"
           },
           "required": {
@@ -2405,7 +2184,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 202971,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/rechiseled_chipped-1.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/rechiseled_chipped-1.1.jar",
             "MD5": "d2c4543717a627d62a87064349765fcc"
           }
         },
@@ -2415,7 +2194,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3600460,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/rechiseled-1.1.6-forge-mc1.20.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/rechiseled-1.1.6-forge-mc1.20.jar",
             "MD5": "bf5a3b3264d2eb5e12ac6d9b0fcc1f90"
           }
         },
@@ -2425,7 +2204,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 670453,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/rechiseledcreate-1.0.2-forge-mc1.20.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/rechiseledcreate-1.0.2-forge-mc1.20.jar",
             "MD5": "30392d1190cb184208bad4470db51a31"
           }
         },
@@ -2435,7 +2214,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 183029,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Recipes%20For%20Create-0.7.0-(1.20.1).jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Recipes%20For%20Create-0.7.0-(1.20.1).jar",
             "MD5": "edb25afc7907f1104baaf89bc1c2e5cd"
           }
         },
@@ -2445,7 +2224,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5793,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/redirector-5.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/redirector-5.0.0.jar",
             "MD5": "3b58498de6bb6bf51082bc17e7f0718e"
           }
         },
@@ -2455,7 +2234,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 424027,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.25.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.25.jar",
             "MD5": "f18a89355a9d0624842ccca224772975"
           }
         },
@@ -2465,7 +2244,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1782275,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/rhino-forge-2001.2.2-build.18.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/rhino-forge-2001.2.2-build.18.jar",
             "MD5": "d0ee9715edfcb029f59687a08fb88a53"
           }
         },
@@ -2475,7 +2254,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 159478,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/RocknRoller-0.1.4-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/RocknRoller-0.1.4-mc1.20.1.jar",
             "MD5": "e209663555b1e7f557fae0ebe6d60352"
           },
           "required": {
@@ -2488,7 +2267,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 544113,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
             "MD5": "f61cc3ea7c32ce7839467caf0ac0f113"
           }
         },
@@ -2498,7 +2277,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 92319,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/saturn-mc1.20.1-0.1.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/saturn-mc1.20.1-0.1.3.jar",
             "MD5": "56a9a1cc126425b04acc5f8bd7ed67f1"
           }
         },
@@ -2508,7 +2287,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77732,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
             "MD5": "9f5418e9c08c18a375ef42fada4bcef2"
           }
         },
@@ -2518,7 +2297,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 148149,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/SereneSeasons-1.20.1-9.0.0.46.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/SereneSeasons-1.20.1-9.0.0.46.jar",
             "MD5": "30faa2569ac8c43e943d277755378b63"
           }
         },
@@ -2528,7 +2307,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 284128,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/SimpleRadio-forge-1.20.1-2.4.6.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/SimpleRadio-forge-1.20.1-2.4.6.1.jar",
             "MD5": "fdaac552a1ad0d80a251fc1eaadba9e7"
           }
         },
@@ -2538,8 +2317,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 214657,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/SimpleRPC-Universal-3.3.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/SimpleRPC-Universal-3.3.1.jar",
             "MD5": "fbe821e5c0b454f0a270ab80fe2dc52e"
+          }
+        },
+        {
+          "id": "com.lucasmellof.broadcastvoice:simplevoicechat_broadcast:1.0.1@jar",
+          "name": "SimpleVoiceChat Broadcast",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7302,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
+            "MD5": "b3f7f2922c3599ebf908e491d34de86d"
           }
         },
         {
@@ -2548,7 +2337,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14510,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sit-1.20.1-1.3.5.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/sit-1.20.1-1.3.5.jar",
             "MD5": "87f16ae5de8125e49f3740a45b3fc1c7"
           }
         },
@@ -2558,7 +2347,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 476791,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/skinlayers3d-forge-1.6.6-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/skinlayers3d-forge-1.6.6-mc1.20.1.jar",
             "MD5": "fd1e7a0daf962b3e332af34214efdb79"
           },
           "required": {
@@ -2571,28 +2360,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 224151,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sliceanddice-forge-3.2.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/sliceanddice-forge-3.2.0.jar",
             "MD5": "35a44bc2f244fdc72f692c0d974ef66f"
           }
         },
         {
-          "id": "org.teacon.slides:slide_show:0.8.4@jar",
-          "name": "Slide Show",
+          "id": "com.smoothchunk:smoothchunk:1.20.1-3.6@jar",
+          "name": "Smoothchunk mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 437661,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/SlideShow-Forge-1.20-0.8.4.jar",
-            "MD5": "0fd2ef7cb42a2d20872285f807ec021b"
-          }
-        },
-        {
-          "id": "com.talhanation:smallships:2.0.0-b1.4@jar",
-          "name": "Small Ships",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1816687,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/smallships-forge-1.20.1-2.0.0-b1.4.jar",
-            "MD5": "c52bf453f18b87f43cae36acf628eb60"
+            "size": 12011,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/smoothchunk-1.20.1-3.6.jar",
+            "MD5": "b38a463e858e0b8c0afdf322917b4426"
           }
         },
         {
@@ -2601,7 +2380,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 61986,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/smoothswapping-0.9.3.1-1.20.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/smoothswapping-0.9.3.1-1.20.2-fabric.jar",
             "MD5": "b4410e1317c568a4cd429e62f614dcd8"
           },
           "required": {
@@ -2614,7 +2393,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 300659,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sodiumdynamiclights-forge-1.0.2-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/sodiumdynamiclights-forge-1.0.2-1.20.1.jar",
             "MD5": "cdd0a367b2fddfc7e837e8197e2b175a"
           }
         },
@@ -2624,7 +2403,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 856299,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.11.1115.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.11.1115.jar",
             "MD5": "05794ff4ec45fb90c5f55b22131af52b"
           }
         },
@@ -2634,7 +2413,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1083131,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.34.718.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.34.718.jar",
             "MD5": "d16b2fb78e41842296be1bb7897e15a8"
           }
         },
@@ -2644,7 +2423,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 196564,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/sound-physics-remastered-forge-1.20.1-1.4.5.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/sound-physics-remastered-forge-1.20.1-1.4.5.jar",
             "MD5": "8f73cf66156be28fc921de0f0a5c3b8e"
           },
           "required": {
@@ -2657,7 +2436,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3114590,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/spark-1.10.53-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/spark-1.10.53-forge.jar",
             "MD5": "95dcd3b5400cc5eb5d0478a744e6ef98"
           }
         },
@@ -2667,7 +2446,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 110583,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/starlight-1.1.2+forge.1cda73c.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/starlight-1.1.2+forge.1cda73c.jar",
             "MD5": "da99a054428fb62342b6767b993c4c8d"
           }
         },
@@ -2677,18 +2456,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9992147,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/Steam_Rails-1.6.6+forge-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Steam_Rails-1.6.6+forge-mc1.20.1.jar",
             "MD5": "c6350f36b77d6a46cdde4b6abfbeeeeb"
-          }
-        },
-        {
-          "id": "com.jaquadro.minecraft:storagedrawers:12.9.8@jar",
-          "name": "Storage Drawers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 931431,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/StorageDrawers-1.20.1-12.9.8.jar",
-            "MD5": "f729bfd25412f6039b1bf4c0fa002273"
           }
         },
         {
@@ -2697,7 +2466,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 206584,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
             "MD5": "cbece61946d4e059e90806c19dd66082"
           }
         },
@@ -2707,7 +2476,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 512069,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar",
             "MD5": "d1ac18092ea0b1b513edcd8c3999e1bd"
           }
         },
@@ -2717,18 +2486,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14534190,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/supplementaries-1.20-2.8.17.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/supplementaries-1.20-2.8.17.jar",
             "MD5": "638d1beb192ef20850ce0d161a23680b"
           }
         },
         {
-          "id": "com.drmangotea:tfmg:0.9.3-1.20.1@jar",
-          "name": "Create: The Factory Must Grow",
+          "id": "dev.worldgen:tectonic:2.4.1@jar",
+          "name": "Tectonic",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3853890,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/tfmg-0.9.3-1.20.1.jar",
-            "MD5": "6a8b3968d7ee2eacc8c869f08b292fb1"
+            "size": 349125,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/tectonic-forge-1.20.1-2.4.1.jar",
+            "MD5": "e4646116efca671837889dd58cad9844"
           }
         },
         {
@@ -2737,7 +2506,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11766,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/tia-1.20-1.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/tia-1.20-1.1-forge.jar",
             "MD5": "38982a15516bceae12cb15bf6092b26e"
           },
           "required": {
@@ -2750,28 +2519,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 137147,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/timecontrol-1.20.1-1.6.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/timecontrol-1.20.1-1.6.0.jar",
             "MD5": "4702a1dd935591ccbfabe81b33b601a8"
-          }
-        },
-        {
-          "id": "com.dplayend:togenc:1.0@jar",
-          "name": "Toggle Enchantments",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 38508,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/togenc-forge-1.20.x-v1.0.jar",
-            "MD5": "f196cd61c5156f637556e319cfa8151b"
-          }
-        },
-        {
-          "id": "com.tom.storagemod:toms_storage:1.6.8@jar",
-          "name": "Tom's Simple Storage Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 512499,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/toms_storage-1.20-1.6.8.jar",
-            "MD5": "becb1cfe0f902023c8d8e1b101ca482e"
           }
         },
         {
@@ -2780,38 +2529,38 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 82555,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/trainperspectivefix-1.0.0-universal.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/trainperspectivefix-1.0.0-universal.jar",
             "MD5": "9387c6329cc5eb418e5ec928e67e3c0c"
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.22@jar",
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.25@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7726437,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.22.jar",
-            "MD5": "8e10b4dd1c22b6addbaff441f4e5c8b1"
+            "size": 7729000,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.25.jar",
+            "MD5": "41840cef561b89417a42ac516ab3d3a8"
           }
         },
         {
-          "id": "me.srrapero720:waterframes:2.1.6@jar",
+          "id": "me.srrapero720:waterframes:2.1.7@jar",
           "name": "WaterFrames",
           "type": "ForgeMod",
           "artifact": {
-            "size": 221727,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.6.jar",
-            "MD5": "b29715c5eadab989d316eedadddee508"
+            "size": 224616,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.7.jar",
+            "MD5": "3c47a46184092e147aa5398d0ada0caa"
           }
         },
         {
-          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.75@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.3@jar",
           "name": "WaterMedia",
           "type": "ForgeMod",
           "artifact": {
-            "size": 27600243,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/watermedia-2.0.75.jar",
-            "MD5": "05ed7ef455800168b37d15da335a0553"
+            "size": 27510146,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/watermedia-2.1.3.jar",
+            "MD5": "daafa1100d700d892db82fc13c542b85"
           }
         },
         {
@@ -2820,21 +2569,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 141897,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/optionalon/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/WI-Zoom-1.5-MC1.20.1-Forge.jar",
             "MD5": "754b287265cb26821883f2afcab701ae"
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.5@jar",
-          "name": "YUNG's API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 365910,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.5.jar",
-            "MD5": "199469c1e63278dd21721860125e12ec"
           }
         },
         {
@@ -2843,7 +2582,7 @@
           "type": "File",
           "artifact": {
             "size": 1575,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/betterf3.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/betterf3.toml",
             "path": "config/betterf3.toml"
           }
         },
@@ -2853,7 +2592,7 @@
           "type": "File",
           "artifact": {
             "size": 695,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/assets/japsik-logo-o-16.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/assets/japsik-logo-o-16.png",
             "MD5": "a0cb5e54c2f2c158093a067b6c6a97ad",
             "path": "config/fancymenu/assets/japsik-logo-o-16.png"
           }
@@ -2864,7 +2603,7 @@
           "type": "File",
           "artifact": {
             "size": 1820,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/assets/japsik-logo-o-32.icns",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/assets/japsik-logo-o-32.icns",
             "MD5": "4ece270de6786b677b217d86eb62f813",
             "path": "config/fancymenu/assets/japsik-logo-o-32.icns"
           }
@@ -2875,7 +2614,7 @@
           "type": "File",
           "artifact": {
             "size": 1135,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/assets/japsik-logo-o-32.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/assets/japsik-logo-o-32.png",
             "MD5": "957a95c6623d6c5f065bf139b0d242b9",
             "path": "config/fancymenu/assets/japsik-logo-o-32.png"
           }
@@ -2886,7 +2625,7 @@
           "type": "File",
           "artifact": {
             "size": 17380,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/assets/japsik-logo-o.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/assets/japsik-logo-o.png",
             "MD5": "a1ec0a4fe93d0616331321c672d8331f",
             "path": "config/fancymenu/assets/japsik-logo-o.png"
           }
@@ -2897,7 +2636,7 @@
           "type": "File",
           "artifact": {
             "size": 4736,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/assets/xmark.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/assets/xmark.png",
             "MD5": "74974c0f2bcf0d49e073de34a16c45e1",
             "path": "config/fancymenu/assets/xmark.png"
           }
@@ -2908,7 +2647,7 @@
           "type": "File",
           "artifact": {
             "size": 381,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customizablemenus.txt",
             "MD5": "9584c1c482cecd3ca357f0c07adfa451",
             "path": "config/fancymenu/customizablemenus.txt"
           }
@@ -2919,7 +2658,7 @@
           "type": "File",
           "artifact": {
             "size": 1859,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/crafting_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/crafting_screen_layout.txt",
             "MD5": "7da83ce592dacce453f6550f06a3f43b",
             "path": "config/fancymenu/customization/crafting_screen_layout.txt"
           }
@@ -2930,7 +2669,7 @@
           "type": "File",
           "artifact": {
             "size": 6192,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/inventory_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/inventory_screen_layout.txt",
             "MD5": "9d3922e4e7b0bb96e19bc6e16b9d2330",
             "path": "config/fancymenu/customization/inventory_screen_layout.txt"
           }
@@ -2941,7 +2680,7 @@
           "type": "File",
           "artifact": {
             "size": 8432,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
             "MD5": "dad70f51971e77a511b49b7021a3be8a",
             "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
           }
@@ -2952,7 +2691,7 @@
           "type": "File",
           "artifact": {
             "size": 13730,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
             "MD5": "a571fa8ef3354dfd5e49c992da10d018",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
@@ -2963,7 +2702,7 @@
           "type": "File",
           "artifact": {
             "size": 18741,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
             "MD5": "571c4d4681c28847678663743150ea98",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
@@ -2974,7 +2713,7 @@
           "type": "File",
           "artifact": {
             "size": 9505,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/customization/top.theillusivec4.curios.client.gui.curiosscreenv2_layout.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/top.theillusivec4.curios.client.gui.curiosscreenv2_layout.txt",
             "MD5": "628f8f3018257730b2ae857c36834d7f",
             "path": "config/fancymenu/customization/top.theillusivec4.curios.client.gui.curiosscreenv2_layout.txt"
           }
@@ -2985,7 +2724,7 @@
           "type": "File",
           "artifact": {
             "size": 51,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
             "MD5": "106e52948415f0879c53304f50783b28",
             "path": "config/fancymenu/custom_gui_screens.txt"
           }
@@ -2996,7 +2735,7 @@
           "type": "File",
           "artifact": {
             "size": 197,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
             "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
@@ -3007,7 +2746,7 @@
           "type": "File",
           "artifact": {
             "size": 42,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/legacy_checklist.txt",
             "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
             "path": "config/fancymenu/legacy_checklist.txt"
           }
@@ -3018,7 +2757,7 @@
           "type": "File",
           "artifact": {
             "size": 1899,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/options.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/options.txt",
             "MD5": "45adfdd8a8a4e4d565f75f955a5dcac0",
             "path": "config/fancymenu/options.txt"
           }
@@ -3029,7 +2768,7 @@
           "type": "File",
           "artifact": {
             "size": 4133,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/ui_themes/dark.json",
             "MD5": "1fc916f1d20b24c5f0d2d138d19c49a4",
             "path": "config/fancymenu/ui_themes/dark.json"
           }
@@ -3040,7 +2779,7 @@
           "type": "File",
           "artifact": {
             "size": 4135,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/ui_themes/light.json",
             "MD5": "adfba137b3d62c50a5186a4f6523a72a",
             "path": "config/fancymenu/ui_themes/light.json"
           }
@@ -3051,53 +2790,19 @@
           "type": "File",
           "artifact": {
             "size": 23,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/fancymenu/user_variables.db",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/user_variables.db",
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
           }
         },
         {
-          "id": "cloth-config.json",
-          "name": "cloth-config.json",
+          "id": "fml.toml",
+          "name": "fml.toml",
           "type": "File",
           "artifact": {
-            "size": 44,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/invmove/cloth-config.json",
-            "MD5": "4a9c790f98f8783fb7d982dcd54a5efa",
-            "path": "config/invmove/cloth-config.json"
-          }
-        },
-        {
-          "id": "jei.json",
-          "name": "jei.json",
-          "type": "File",
-          "artifact": {
-            "size": 44,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/invmove/jei.json",
-            "MD5": "4a9c790f98f8783fb7d982dcd54a5efa",
-            "path": "config/invmove/jei.json"
-          }
-        },
-        {
-          "id": "unrecognized.json",
-          "name": "unrecognized.json",
-          "type": "File",
-          "artifact": {
-            "size": 2643,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/invmove/unrecognized.json",
-            "MD5": "48ca97cce74ebb32987299f2578061a1",
-            "path": "config/invmove/unrecognized.json"
-          }
-        },
-        {
-          "id": "vanilla.json",
-          "name": "vanilla.json",
-          "type": "File",
-          "artifact": {
-            "size": 1024,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/invmove/vanilla.json",
-            "MD5": "292ba3a6f16d65c93b621cc0def177c3",
-            "path": "config/invmove/vanilla.json"
+            "size": 965,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fml.toml",
+            "path": "config/fml.toml"
           }
         },
         {
@@ -3106,7 +2811,7 @@
           "type": "File",
           "artifact": {
             "size": 32,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/lmft.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/lmft.json",
             "path": "config/lmft.json"
           }
         },
@@ -3116,7 +2821,7 @@
           "type": "File",
           "artifact": {
             "size": 150,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/simple-rpc/server-entries.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/simple-rpc/server-entries.toml",
             "MD5": "2fca628745ebfdc5b64aa8101f507a36",
             "path": "config/simple-rpc/server-entries.toml"
           }
@@ -3127,7 +2832,7 @@
           "type": "File",
           "artifact": {
             "size": 8405,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/config/simple-rpc/simple-rpc.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/simple-rpc/simple-rpc.toml",
             "MD5": "d308d55f9fc2518ce222e223763ac50e",
             "path": "config/simple-rpc/simple-rpc.toml"
           }
@@ -3137,8 +2842,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 12706,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/options.txt",
+            "size": 10287,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -3148,7 +2853,7 @@
           "type": "File",
           "artifact": {
             "size": 80185,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/BetterHangulFont.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/BetterHangulFont.zip",
             "MD5": "8bee6a3d18c216e4d4e78faecc066ef3",
             "path": "resourcepacks/BetterHangulFont.zip"
           }
@@ -3159,7 +2864,7 @@
           "type": "File",
           "artifact": {
             "size": 164822,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/enchant%20icons%201.20%20v1.3.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/enchant%20icons%201.20%20v1.3.zip",
             "MD5": "00562749342d01db0b07176ea95d7734",
             "path": "resourcepacks/enchant icons 1.20 v1.3.zip"
           }
@@ -3170,7 +2875,7 @@
           "type": "File",
           "artifact": {
             "size": 260285,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/FA+All_Extensions-v1.4.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/FA+All_Extensions-v1.4.zip",
             "MD5": "6923ea8556177cc93166c01dc40a64e1",
             "path": "resourcepacks/FA+All_Extensions-v1.4.zip"
           }
@@ -3181,7 +2886,7 @@
           "type": "File",
           "artifact": {
             "size": 243431,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/FA+All_Extensions-v1.4_no-spider.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/FA+All_Extensions-v1.4_no-spider.zip",
             "MD5": "a2588a3ae56077e046ab84f3d012204c",
             "path": "resourcepacks/FA+All_Extensions-v1.4_no-spider.zip"
           }
@@ -3192,7 +2897,7 @@
           "type": "File",
           "artifact": {
             "size": 61029,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/Fancy%20Crops%20v1.0%20f5-34.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/Fancy%20Crops%20v1.0%20f5-34.zip",
             "MD5": "90cab0ec4d6988e09535385aa505dfc2",
             "path": "resourcepacks/Fancy Crops v1.0 f5-34.zip"
           }
@@ -3203,7 +2908,7 @@
           "type": "File",
           "artifact": {
             "size": 233432,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/Fancy_Beds-v3.4.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/Fancy_Beds-v3.4.zip",
             "MD5": "6e8ba92942dcd5570739177097492553",
             "path": "resourcepacks/Fancy_Beds-v3.4.zip"
           }
@@ -3214,7 +2919,7 @@
           "type": "File",
           "artifact": {
             "size": 757717,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/Fixed_Weather.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/Fixed_Weather.zip",
             "MD5": "99887fe51bd3d9d13b89284c8d9506e7",
             "path": "resourcepacks/Fixed_Weather.zip"
           }
@@ -3225,7 +2930,7 @@
           "type": "File",
           "artifact": {
             "size": 516256,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2.zip",
             "MD5": "ebdaffde1a25273994c74b5d9ec21e1f",
             "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
           }
@@ -3236,7 +2941,7 @@
           "type": "File",
           "artifact": {
             "size": 511191,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2_no-spider.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2_no-spider.zip",
             "MD5": "2bfb1cb5e4c24fc825acee485ada5843",
             "path": "resourcepacks/FreshAnimations_v1.9.2_no-spider.zip"
           }
@@ -3247,7 +2952,7 @@
           "type": "File",
           "artifact": {
             "size": 285132,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/GUIRevision_2.2.0.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/GUIRevision_2.2.0.zip",
             "MD5": "34ed00521a0cb844c0b64dcbdfdb00c8",
             "path": "resourcepacks/GUIRevision_2.2.0.zip"
           }
@@ -3258,7 +2963,7 @@
           "type": "File",
           "artifact": {
             "size": 3657536,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/HumanEraVillagersIllagers[2].zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/HumanEraVillagersIllagers[2].zip",
             "MD5": "da1b66161bd409733a51585cc9421f96",
             "path": "resourcepacks/HumanEraVillagersIllagers[2].zip"
           }
@@ -3269,7 +2974,7 @@
           "type": "File",
           "artifact": {
             "size": 22531,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/Midnighttiggers-CG-FCT-Default_1.17_V2.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/Midnighttiggers-CG-FCT-Default_1.17_V2.zip",
             "MD5": "79032c847667e7b71c2938b0ab65a295",
             "path": "resourcepacks/Midnighttiggers-CG-FCT-Default_1.17_V2.zip"
           }
@@ -3280,7 +2985,7 @@
           "type": "File",
           "artifact": {
             "size": 258617,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/Midnighttiggers-FCT-Default_1.20_V3.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/Midnighttiggers-FCT-Default_1.20_V3.zip",
             "MD5": "432a599b2f617895bf487374d68af16c",
             "path": "resourcepacks/Midnighttiggers-FCT-Default_1.20_V3.zip"
           }
@@ -3291,7 +2996,7 @@
           "type": "File",
           "artifact": {
             "size": 327648,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/qrafty's-capitalized-font.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/qrafty's-capitalized-font.zip",
             "MD5": "88e0ded51edc4e65566f6d80df3b3c24",
             "path": "resourcepacks/qrafty's-capitalized-font.zip"
           }
@@ -3302,7 +3007,7 @@
           "type": "File",
           "artifact": {
             "size": 58715,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/%C2%A79Better%20Boats.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/%C2%A79Better%20Boats.zip",
             "MD5": "946e43d741aa0c88171887d2bacfc4f8",
             "path": "resourcepacks/§9Better Boats.zip"
           }
@@ -3313,7 +3018,7 @@
           "type": "File",
           "artifact": {
             "size": 1152775,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/resourcepacks/%C2%A7eJapsik%20%C2%A7bRecommend%20%C2%A7aResource%20Pack.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/resourcepacks/%C2%A7eJapsik%20%C2%A7bRecommend%20%C2%A7aResource%20Pack.zip",
             "MD5": "e5114e2b1ad5de133f799495c329d684",
             "path": "resourcepacks/§eJapsik §bRecommend §aResource Pack.zip"
           }
@@ -3324,8 +3029,8 @@
           "type": "File",
           "artifact": {
             "size": 97,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/servers.dat",
-            "MD5": "3e28483af62aef0d13525d405036e048",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/servers.dat",
+            "MD5": "7c67d935d01f82879711d7e6a8ef2bf4",
             "path": "servers.dat"
           }
         },
@@ -3335,7 +3040,7 @@
           "type": "File",
           "artifact": {
             "size": 954784,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/shaderpacks/BSL_v8.2.09.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/BSL_v8.2.09.zip",
             "MD5": "4443556b4e0d63394f0df1297e484454",
             "path": "shaderpacks/BSL_v8.2.09.zip"
           }
@@ -3346,7 +3051,7 @@
           "type": "File",
           "artifact": {
             "size": 134,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/shaderpacks/BSL_v8.2.09.zip.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/BSL_v8.2.09.zip.txt",
             "MD5": "b375037d95b8a2cdbb2014f2eb97520c",
             "path": "shaderpacks/BSL_v8.2.09.zip.txt"
           }
@@ -3357,7 +3062,7 @@
           "type": "File",
           "artifact": {
             "size": 441687,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
             "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
             "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
           }
@@ -3368,7 +3073,7 @@
           "type": "File",
           "artifact": {
             "size": 658,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",
             "MD5": "2d07ac3c43e5a6510e10f81823bdccb4",
             "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
           }
@@ -3379,7 +3084,7 @@
           "type": "File",
           "artifact": {
             "size": 1558823,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/shaderpacks/photon_v1.0a.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/photon_v1.0a.zip",
             "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
             "path": "shaderpacks/photon_v1.0a.zip"
           }
@@ -3390,7 +3095,7 @@
           "type": "File",
           "artifact": {
             "size": 240,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/shaderpacks/photon_v1.0a.zip.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/photon_v1.0a.zip.txt",
             "MD5": "5acd889ffab60595038683df4a48e6b3",
             "path": "shaderpacks/photon_v1.0a.zip.txt"
           }
@@ -3401,7 +3106,7 @@
           "type": "File",
           "artifact": {
             "size": 4736,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/EventModded-1.20.1/files/xmark.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/xmark.png",
             "MD5": "74974c0f2bcf0d49e073de34a16c45e1",
             "path": "xmark.png"
           }
