@@ -850,7 +850,7 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.45+1.20.1@jar",
+          "id": "org.sinytra:connector:1.0.0-beta.45+1.20.1@jar",
           "name": "Connector",
           "type": "ForgeMod",
           "artifact": {
