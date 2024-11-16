@@ -850,13 +850,13 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
+          "id": "generated.forgemod:connector:1.0.0-beta.45+1.20.1@jar",
           "name": "Connector",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5043375,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "c12d01f7b20d6909689e458dd9fa760b"
+            "size": 4680145,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Connector-1.0.0-beta.45+1.20.1.jar",
+            "MD5": "c1bb644b86a0231f7b51f486ea8bab0b"
           }
         },
         {
