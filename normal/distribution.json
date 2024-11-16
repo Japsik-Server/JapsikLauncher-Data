@@ -584,6 +584,26 @@
           }
         },
         {
+          "id": "generated.forgemod:axiom:4.1.1-for-MC1.20.1@jar",
+          "name": "Axiom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 39017576,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Axiom-4.1.1-for-MC1.20.1.jar",
+            "MD5": "9667bc74fbcf6a3d07b4947d845f0c77"
+          }
+        },
+        {
+          "id": "generated.forgemod:axiom:Korean-Support-1.0.3@jar",
+          "name": "Axiom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1195569,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Axiom-Korean-Support-1.0.3.jar",
+            "MD5": "756ab57b8423d5f28075d2dbe30467c3"
+          }
+        },
+        {
           "id": "mod.azure:azurelib:2.0.27@jar",
           "name": "AzureLib",
           "type": "ForgeMod",
@@ -1880,6 +1900,16 @@
           }
         },
         {
+          "id": "generated.forgemod:modmenu:7.2.2@jar",
+          "name": "Modmenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 721366,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/modmenu-7.2.2.jar",
+            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
           "id": "com.cursee:monolib:1.3.0@jar",
           "name": "MonoLib",
           "type": "ForgeMod",
@@ -2805,39 +2835,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/simple-rpc/simple-rpc.toml",
             "MD5": "d308d55f9fc2518ce222e223763ac50e",
             "path": "config/simple-rpc/simple-rpc.toml"
-          }
-        },
-        {
-          "id": "Axiom-4.1.1-for-MC1.20.1.jar",
-          "name": "Axiom-4.1.1-for-MC1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 39017576,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/Axiom-4.1.1-for-MC1.20.1.jar",
-            "MD5": "9667bc74fbcf6a3d07b4947d845f0c77",
-            "path": "mods/Axiom-4.1.1-for-MC1.20.1.jar"
-          }
-        },
-        {
-          "id": "Axiom-Korean-Support-1.0.3.jar",
-          "name": "Axiom-Korean-Support-1.0.3.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1195569,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/Axiom-Korean-Support-1.0.3.jar",
-            "MD5": "756ab57b8423d5f28075d2dbe30467c3",
-            "path": "mods/Axiom-Korean-Support-1.0.3.jar"
-          }
-        },
-        {
-          "id": "modmenu-7.2.2.jar",
-          "name": "modmenu-7.2.2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 721366,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/modmenu-7.2.2.jar",
-            "MD5": "2629511a2d3b141d9f2a24dc9685637e",
-            "path": "mods/modmenu-7.2.2.jar"
           }
         },
         {
