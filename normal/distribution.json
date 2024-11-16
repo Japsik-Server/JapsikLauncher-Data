@@ -2544,13 +2544,13 @@
           }
         },
         {
-          "id": "me.srrapero720:waterframes:2.1.7@jar",
+          "id": "me.srrapero720:waterframes:2.1.7a@jar",
           "name": "WaterFrames",
           "type": "ForgeMod",
           "artifact": {
-            "size": 224616,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.7.jar",
-            "MD5": "3c47a46184092e147aa5398d0ada0caa"
+            "size": 224615,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.7a.jar",
+            "MD5": "53e8b94521ee4a994427ff01ab1e4fb8"
           }
         },
         {
