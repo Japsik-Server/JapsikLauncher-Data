@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Nebulaworkspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "0.0.1",
+    "name": "클라이언트 업데이트를 해주세요!",
+    "description": "클라이언트 업데이트를 해주세요!",
+    "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
+    "address": "play.japsik.xyz:25585",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.15.11"
+  },
+  "untrackedFiles": []
+}
