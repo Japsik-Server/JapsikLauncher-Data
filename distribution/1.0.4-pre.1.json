@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "크리스마스 및 새해 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "address": "event-play.japsik.xyz:25575",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -26,8 +26,8 @@
         "supported": "=21",
         "suggestedMajor": 21,
         "ram": {
-          "recommended": 8196,
-          "minimum": 5120
+          "recommended": 6144,
+          "minimum": 4096
         }
       },
       "modules": [
@@ -704,19 +704,6 @@
             "size": 40125,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
             "MD5": "e37854c44b1849b753afc4a205f31b46"
-          }
-        },
-        {
-          "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
-          "name": "CaramelChat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 348530,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/caramelChat-mc1.20.1-forge-1.2.0.jar",
-            "MD5": "5d362f779efdb0384f8b43815fd46e0c"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1528,45 +1515,6 @@
           }
         },
         {
-          "id": "mezz.jei:jei:15.20.0.104@jar",
-          "name": "Just Enough Items",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1406021,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.104.jar",
-            "MD5": "46bf38308872aae3351ce59d9e664437"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.christofmeg:justenoughbreeding:1.3.0@jar",
-          "name": "Just Enough Breeding",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 127879,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/justenoughbreeding-forge-1.20.x-1.3.0.jar",
-            "MD5": "1a1284a00c97f39d9aefdce50cdc75c3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "jeresources:jeresources:1.4.0.247@jar",
-          "name": "Just Enough Resources",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 276231,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/JustEnoughResources-1.20.1-1.4.0.247.jar",
-            "MD5": "413f7d427a16254ec8e08f78094a206d"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "de.keksuccino:konkrete:1.8.0@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
@@ -1627,13 +1575,13 @@
           }
         },
         {
-          "id": "team.creative:littletiles:1.6.0-pre131@jar",
+          "id": "team.creative:littletiles:1.6.0-pre135@jar",
           "name": "LittleTiles",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2596661,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre131_mc1.20.1.jar",
-            "MD5": "09890d527b2353f11862e851e0979933"
+            "size": 2599580,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre135_mc1.20.1.jar",
+            "MD5": "5d6fecc2de4f6d4e0e1eafaf4ee42014"
           }
         },
         {
@@ -2524,13 +2472,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.3@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.5@jar",
           "name": "WaterMedia",
           "type": "ForgeMod",
           "artifact": {
-            "size": 27510146,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/watermedia-2.1.3.jar",
-            "MD5": "daafa1100d700d892db82fc13c542b85"
+            "size": 27490415,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/watermedia-2.1.5.jar",
+            "MD5": "248a9828d6e54ce73a8e9f7f0d2acac8"
           }
         },
         {
@@ -2842,17 +2790,6 @@
           }
         },
         {
-          "id": "modmenu-7.2.2.jar",
-          "name": "modmenu-7.2.2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 721366,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/modmenu-7.2.2.jar",
-            "MD5": "2629511a2d3b141d9f2a24dc9685637e",
-            "path": "mods/modmenu-7.2.2.jar"
-          }
-        },
-        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -3047,72 +2984,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/servers.dat",
             "MD5": "7c67d935d01f82879711d7e6a8ef2bf4",
             "path": "servers.dat"
-          }
-        },
-        {
-          "id": "BSL_v8.2.09.zip",
-          "name": "BSL_v8.2.09.zip",
-          "type": "File",
-          "artifact": {
-            "size": 954784,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/BSL_v8.2.09.zip",
-            "MD5": "4443556b4e0d63394f0df1297e484454",
-            "path": "shaderpacks/BSL_v8.2.09.zip"
-          }
-        },
-        {
-          "id": "BSL_v8.2.09.zip.txt",
-          "name": "BSL_v8.2.09.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 134,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/BSL_v8.2.09.zip.txt",
-            "MD5": "b375037d95b8a2cdbb2014f2eb97520c",
-            "path": "shaderpacks/BSL_v8.2.09.zip.txt"
-          }
-        },
-        {
-          "id": "ComplementaryUnbound_r5.2.2.zip",
-          "name": "ComplementaryUnbound_r5.2.2.zip",
-          "type": "File",
-          "artifact": {
-            "size": 441687,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
-            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
-            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
-          }
-        },
-        {
-          "id": "ComplementaryUnbound_r5.2.2.zip.txt",
-          "name": "ComplementaryUnbound_r5.2.2.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 658,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",
-            "MD5": "2d07ac3c43e5a6510e10f81823bdccb4",
-            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
-          }
-        },
-        {
-          "id": "photon_v1.0a.zip",
-          "name": "photon_v1.0a.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1558823,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/photon_v1.0a.zip",
-            "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
-            "path": "shaderpacks/photon_v1.0a.zip"
-          }
-        },
-        {
-          "id": "photon_v1.0a.zip.txt",
-          "name": "photon_v1.0a.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 240,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/photon_v1.0a.zip.txt",
-            "MD5": "5acd889ffab60595038683df4a48e6b3",
-            "path": "shaderpacks/photon_v1.0a.zip.txt"
           }
         },
         {
