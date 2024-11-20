@@ -1,0 +1,38 @@
+{
+  "$schema": "file:///C:/Nebulaworkspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "0.1.1",
+    "name": "이벤트",
+    "description": "크리스마스 및 새해 이벤트 (Modded version)",
+    "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
+    "address": "event-play.japsik.xyz:25575",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": false,
+    "autoconnect": false,
+    "javaOptions": {
+      "supported": "=21",
+      "suggestedMajor": 21,
+      "ram": {
+        "recommended": 6144,
+        "minimum": 4096
+      }
+    }
+  },
+  "forge": {
+    "version": "47.2.21"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "config/betterf3.toml",
+        "config/fml.toml",
+        "options.txt"
+      ]
+    }
+  ]
+}
