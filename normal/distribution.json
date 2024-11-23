@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "크리스마스 및 새해 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "address": "event-play.japsik.xyz:25575",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -717,6 +717,16 @@
           }
         },
         {
+          "id": "mod.casinocraft:casinocraft:24.0@jar",
+          "name": "CasinoCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1858169,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/CasinoCraft_1.20.1_v24.jar",
+            "MD5": "faaf15405fcba7960b2312aabc711894"
+          }
+        },
+        {
           "id": "dan200.computercraft:computercraft:1.113.1@jar",
           "name": "CC: Tweaked",
           "type": "ForgeMod",
@@ -1087,6 +1097,16 @@
             "size": 342563,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/dynamic-fps-3.7.6+minecraft-1.20.0-forge.jar",
             "MD5": "2bbf97f07916817a0966074f245fbb6e"
+          }
+        },
+        {
+          "id": "de.markusbordihn.easynpc:easy_npc:5.7.6@jar",
+          "name": "Easy NPC",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1580370,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/easy_npc-forge-1.20.1-5.7.6.jar",
+            "MD5": "c33064f2206a50f649e7e61d4b168dfd"
           }
         },
         {
@@ -1605,6 +1625,16 @@
             "size": 31801,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/loadmyresources_forge_1.0.4_MC_1.19.3.jar",
             "MD5": "22bb77cda33ae4928fbbb00b0d63ebd0"
+          }
+        },
+        {
+          "id": "mod.lucky77:lucky77:4.0@jar",
+          "name": "Lucky77",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 231682,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Lucky77_1.20.1_v04.jar",
+            "MD5": "8b74fe15a1e6e4bab949e39e64a98890"
           }
         },
         {
@@ -2997,6 +3027,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/servers.dat",
             "MD5": "7c67d935d01f82879711d7e6a8ef2bf4",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "photon_v1.0a.zip",
+          "name": "photon_v1.0a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1558823,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/photon_v1.0a.zip",
+            "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
+            "path": "shaderpacks/photon_v1.0a.zip"
           }
         },
         {
