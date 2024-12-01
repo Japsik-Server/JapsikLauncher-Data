@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "크리스마스 및 새해 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "0.1.4",
+      "version": "0.1.4+hotfix.1",
       "address": "event-play.japsik.xyz:25575",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -3023,9 +3023,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 97,
+            "size": 174,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/servers.dat",
-            "MD5": "3e28483af62aef0d13525d405036e048",
+            "MD5": "3f2304107a65394623d4ffff72b1b7f0",
             "path": "servers.dat"
           }
         },
