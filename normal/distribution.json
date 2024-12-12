@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "크리스마스 및 새해 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "0.1.4+hotfix.1",
+      "version": "0.1.5",
       "address": "event-play.japsik.xyz:25575",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -950,13 +950,23 @@
           }
         },
         {
-          "id": "net.averageanime:createfood:1.1.4-forge@jar",
+          "id": "net.averageanime:createfood:1.1.7-forge@jar",
           "name": "Create: Food",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6067122,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/create-food-1.20.1-1.1.4-forge.jar",
-            "MD5": "7879abc365dd2dfddb8002fcb2215c6d"
+            "size": 6457433,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/create-food-1.20.1-1.1.7-forge.jar",
+            "MD5": "810014f908fbbd795cf6ba1dd3cbb4ad"
+          }
+        },
+        {
+          "id": "org.antarcticgardens.newage:create_new_age:1.1.2@jar",
+          "name": "Create: New Age",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 663575,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/create-new-age-forge-1.20.1-1.1.2.jar",
+            "MD5": "849f2be17ade31494ced55cb5c03aa8b"
           }
         },
         {
@@ -980,6 +990,16 @@
           }
         },
         {
+          "id": "net.dakotapride:createframed:1.5.6@jar",
+          "name": "Create: Framed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 922756,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/createframed-1.20.1-1.5.6.jar",
+            "MD5": "bebea06bd196338bbdc8f7f25d9938b4"
+          }
+        },
+        {
           "id": "de.mrjulsen.crn:createrailwaysnavigator:1.20.1-0.5.5@jar",
           "name": "Create Railways Navigator",
           "type": "ForgeMod",
@@ -1000,13 +1020,13 @@
           }
         },
         {
-          "id": "team.creative:creativecore:2.12.22@jar",
+          "id": "team.creative:creativecore:2.12.25@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1146751,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.22_mc1.20.1.jar",
-            "MD5": "a3b5e6181236c69e1bd963db2a1865de"
+            "size": 1152763,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.25_mc1.20.1.jar",
+            "MD5": "0ca343cbdebdb8ade3f1da861edfefb4"
           }
         },
         {
@@ -1262,13 +1282,13 @@
           }
         },
         {
-          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.5@jar",
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.6@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2937836,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.5.jar",
-            "MD5": "a5affe1dbf62a5bed405cdf6533e96a4"
+            "size": 2944818,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.6.jar",
+            "MD5": "3bedf3198980957b909a2ce41557960d"
           }
         },
         {
@@ -1598,13 +1618,13 @@
           }
         },
         {
-          "id": "team.creative:littletiles:1.6.0-pre135@jar",
+          "id": "team.creative:littletiles:1.6.0-pre139@jar",
           "name": "LittleTiles",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2599580,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre135_mc1.20.1.jar",
-            "MD5": "5d6fecc2de4f6d4e0e1eafaf4ee42014"
+            "size": 2602377,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre139_mc1.20.1.jar",
+            "MD5": "f85cb36ac31ee5e25266bf96a4bc752a"
           }
         },
         {
@@ -1625,6 +1645,16 @@
             "size": 31801,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/loadmyresources_forge_1.0.4_MC_1.19.3.jar",
             "MD5": "22bb77cda33ae4928fbbb00b0d63ebd0"
+          }
+        },
+        {
+          "id": "me.xjqsh:lradd:0.2.3@jar",
+          "name": "LesRaisinsAddon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28313874,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/lradd-1.20.1-0.2.3.jar",
+            "MD5": "d5ce1e804c1bb9e47d3f2455ecf2a334"
           }
         },
         {
@@ -2243,13 +2273,13 @@
           }
         },
         {
-          "id": "com.github.exopandora:shouldersurfing:1.20.1-4.6.0@jar",
+          "id": "com.github.exopandora:shouldersurfing:1.20.1-4.6.3@jar",
           "name": "Shoulder Surfing Reloaded",
           "type": "ForgeMod",
           "artifact": {
-            "size": 245311,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ShoulderSurfing-Forge-1.20.1-4.6.0.jar",
-            "MD5": "58275d36c5ba1a7502318d5566d82dca"
+            "size": 246698,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ShoulderSurfing-Forge-1.20.1-4.6.3.jar",
+            "MD5": "b3b3f2e70c885e1b790a57e204d0f6f3"
           }
         },
         {
@@ -2442,6 +2472,16 @@
           }
         },
         {
+          "id": "com.tacz.guns:tacz:1.0.3@jar",
+          "name": "Timeless & Classics Guns: Zero",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29012632,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/tacz-1.20.1-1.0.3-all.jar",
+            "MD5": "2db5220caffce0bc2dec2f6ab4f84266"
+          }
+        },
+        {
           "id": "dev.worldgen:tectonic:2.4.1@jar",
           "name": "Tectonic",
           "type": "ForgeMod",
@@ -2505,13 +2545,13 @@
           }
         },
         {
-          "id": "me.srrapero720:waterframes:2.1.7a@jar",
+          "id": "me.srrapero720:waterframes:2.1.8@jar",
           "name": "WaterFrames",
           "type": "ForgeMod",
           "artifact": {
-            "size": 224615,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.7a.jar",
-            "MD5": "53e8b94521ee4a994427ff01ab1e4fb8"
+            "size": 230491,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.8.jar",
+            "MD5": "cbdf60fbcdd9c5889692b83e7d001359"
           }
         },
         {
