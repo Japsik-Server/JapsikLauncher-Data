@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "크리스마스 및 새해 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "0.1.5",
+      "version": "0.1.5-hotfix.1",
       "address": "event-play.japsik.xyz:25575",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -2555,13 +2555,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.5@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.7@jar",
           "name": "WaterMedia",
           "type": "ForgeMod",
           "artifact": {
-            "size": 27490415,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/watermedia-2.1.5.jar",
-            "MD5": "248a9828d6e54ce73a8e9f7f0d2acac8"
+            "size": 22930744,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/watermedia-2.1.7.jar",
+            "MD5": "b6ef6019cf1b6b64c1f742859d80c0cd"
           }
         },
         {
