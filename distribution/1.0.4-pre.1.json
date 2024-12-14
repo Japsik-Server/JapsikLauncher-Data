@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "크리스마스 및 새해 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "0.1.5-hotfix.1",
+      "version": "0.1.6",
       "address": "event-play.japsik.xyz:25575",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -1618,13 +1618,13 @@
           }
         },
         {
-          "id": "team.creative:littletiles:1.6.0-pre139@jar",
+          "id": "team.creative:littletiles:1.6.0-pre140@jar",
           "name": "LittleTiles",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2602377,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre139_mc1.20.1.jar",
-            "MD5": "f85cb36ac31ee5e25266bf96a4bc752a"
+            "size": 2609665,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre140_mc1.20.1.jar",
+            "MD5": "66117e1bd5cb76f18d2819309b8b0ed3"
           }
         },
         {
@@ -2061,6 +2061,19 @@
             "size": 642506,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/Patchouli-1.20.1-84-FORGE.jar",
             "MD5": "64452a4404a2c47a782ba99cb90c3ca0"
+          }
+        },
+        {
+          "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
+          "name": "Player Animator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 181437,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionalon/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "MD5": "46f8554181d4d240075ea4919d01fd01"
+          },
+          "required": {
+            "value": false
           }
         },
         {
