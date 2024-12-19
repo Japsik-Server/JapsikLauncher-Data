@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "크리스마스 및 새해 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "0.1.6",
+      "version": "0.2.0",
       "address": "event-play.japsik.xyz:25575",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -707,6 +707,16 @@
           }
         },
         {
+          "id": "de.maxhenkel:car:1.20.1-1.0.34@jar",
+          "name": "Ultimate Car Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2659299,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/car-forge-1.20.1-1.0.34.jar",
+            "MD5": "6dce2212bc681950d463452904f61317"
+          }
+        },
+        {
           "id": "tschipp.carryon:carryon:2.1.2.7@jar",
           "name": "Carry On",
           "type": "ForgeMod",
@@ -1000,13 +1010,13 @@
           }
         },
         {
-          "id": "de.mrjulsen.crn:createrailwaysnavigator:1.20.1-0.5.5@jar",
+          "id": "de.mrjulsen.crn:createrailwaysnavigator:1.20.1-beta-0.7.1@jar",
           "name": "Create Railways Navigator",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2003765,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/createrailwaysnavigator-forge-1.20.1-0.5.5.jar",
-            "MD5": "119e6cbb90dce7238bcdbcac85b767d0"
+            "size": 2955333,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/createrailwaysnavigator-forge-1.20.1-beta-0.7.1.jar",
+            "MD5": "2d3bf67481b76f33bd324ed6956cb8fc"
           }
         },
         {
@@ -1020,13 +1030,13 @@
           }
         },
         {
-          "id": "team.creative:creativecore:2.12.25@jar",
+          "id": "team.creative:creativecore:2.12.27@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1152763,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.25_mc1.20.1.jar",
-            "MD5": "0ca343cbdebdb8ade3f1da861edfefb4"
+            "size": 1153866,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.27_mc1.20.1.jar",
+            "MD5": "d8d1ab402048d9d73e9dafdbb51b0183"
           }
         },
         {
@@ -1618,13 +1628,13 @@
           }
         },
         {
-          "id": "team.creative:littletiles:1.6.0-pre140@jar",
+          "id": "team.creative:littletiles:1.6.0-pre142@jar",
           "name": "LittleTiles",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2609665,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre140_mc1.20.1.jar",
-            "MD5": "66117e1bd5cb76f18d2819309b8b0ed3"
+            "size": 2617332,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/LittleTiles_BETA_v1.6.0-pre142_mc1.20.1.jar",
+            "MD5": "537f8c5c28f50bf2250a589b63da3e18"
           }
         },
         {
@@ -2538,6 +2548,16 @@
           }
         },
         {
+          "id": "de.mrjulsen:trafficcraft:1.20.1-1.1.1@jar",
+          "name": "TrafficCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6035009,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/trafficcraft-forge-1.20.1-1.1.1.jar",
+            "MD5": "76c42d7cdf465056001f4cd1170740ad"
+          }
+        },
+        {
           "id": "de.mrjulsen:trainperspectivefix:1.0.0-1.18.2@jar",
           "name": "Create: Train Perspective Fix",
           "type": "ForgeMod",
@@ -2558,13 +2578,13 @@
           }
         },
         {
-          "id": "me.srrapero720:waterframes:2.1.8@jar",
+          "id": "me.srrapero720:waterframes:2.1.9@jar",
           "name": "WaterFrames",
           "type": "ForgeMod",
           "artifact": {
-            "size": 230491,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.8.jar",
-            "MD5": "cbdf60fbcdd9c5889692b83e7d001359"
+            "size": 232183,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.9.jar",
+            "MD5": "b40fea9dfd1665f93ac868f08ecfb072"
           }
         },
         {
@@ -2598,6 +2618,17 @@
             "size": 1575,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/betterf3.toml",
             "path": "config/betterf3.toml"
+          }
+        },
+        {
+          "id": "create-common.toml",
+          "name": "create-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/create-common.toml",
+            "MD5": "7503e1571dd136604d3a78582d1a6cb0",
+            "path": "config/create-common.toml"
           }
         },
         {
@@ -2850,6 +2881,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/simple-rpc/simple-rpc.toml",
             "MD5": "d308d55f9fc2518ce222e223763ac50e",
             "path": "config/simple-rpc/simple-rpc.toml"
+          }
+        },
+        {
+          "id": "tacz-common.toml",
+          "name": "tacz-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1862,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/tacz-common.toml",
+            "MD5": "d14676e6725ecb5cb1ff9a822b07e40e",
+            "path": "config/tacz-common.toml"
           }
         },
         {
