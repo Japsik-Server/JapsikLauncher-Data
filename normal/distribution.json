@@ -10,10 +10,10 @@
     {
       "id": "Event-1.20.1",
       "name": "이벤트",
-      "description": "크리스마스 및 새해 이벤트 (Modded version)",
+      "description": "2025년 새해 해돋이이 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.1",
-      "address": "event-play.japsik.xyz:25575",
+      "version": "1.0.0-pre.2",
+      "address": "event-play.japsik.xyz:25585",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "",
@@ -2034,13 +2034,13 @@
           }
         },
         {
-          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2831148,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
-            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+            "size": 2851119,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
         {
@@ -2638,8 +2638,30 @@
           "artifact": {
             "size": 4447,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/createaddition-common.toml",
-            "MD5": "93a27cb53d90d94f245b8164eaf21865",
+            "MD5": "4dc5cc51b34089e0f8f60ecb09c98bfa",
             "path": "config/createaddition-common.toml"
+          }
+        },
+        {
+          "id": "create_new_age-common.toml",
+          "name": "create_new_age-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3446,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/create_new_age-common.toml",
+            "MD5": "bca84d054f6c4f82969a1e79e56e761c",
+            "path": "config/create_new_age-common.toml"
+          }
+        },
+        {
+          "id": "christmas_background.png",
+          "name": "christmas_background.png",
+          "type": "File",
+          "artifact": {
+            "size": 2276804,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/assets/christmas_background.png",
+            "MD5": "dad0683680a824da1063b5a25defac6b",
+            "path": "config/fancymenu/assets/christmas_background.png"
           }
         },
         {
@@ -2687,14 +2709,14 @@
           }
         },
         {
-          "id": "xmark.png",
-          "name": "xmark.png",
+          "id": "xmark-pixel.png",
+          "name": "xmark-pixel.png",
           "type": "File",
           "artifact": {
-            "size": 4736,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/assets/xmark.png",
-            "MD5": "74974c0f2bcf0d49e073de34a16c45e1",
-            "path": "config/fancymenu/assets/xmark.png"
+            "size": 266,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/assets/xmark-pixel.png",
+            "MD5": "5a272ec38d6ae126aa587d6c259ffccc",
+            "path": "config/fancymenu/assets/xmark-pixel.png"
           }
         },
         {
@@ -2704,7 +2726,7 @@
           "artifact": {
             "size": 381,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "9584c1c482cecd3ca357f0c07adfa451",
+            "MD5": "130b94e3cc064767df8006a5588fb972",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -2737,7 +2759,7 @@
           "artifact": {
             "size": 8432,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
-            "MD5": "dad70f51971e77a511b49b7021a3be8a",
+            "MD5": "893ea5b889d4f9dc052f4a14e8fc24b7",
             "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
           }
         },
@@ -2746,9 +2768,9 @@
           "name": "pause_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 13730,
+            "size": 15020,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "a571fa8ef3354dfd5e49c992da10d018",
+            "MD5": "6ead464f7bd042b99f85f25c7f8f8a5d",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -2757,9 +2779,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 18741,
+            "size": 20227,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "571c4d4681c28847678663743150ea98",
+            "MD5": "3db4b3f1a34599aaad1dcf00291c6269",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -2790,9 +2812,9 @@
           "name": "element_layer_control.lewidget",
           "type": "File",
           "artifact": {
-            "size": 197,
+            "size": 199,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-            "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
+            "MD5": "3421fa06aff1dbc5b20b631a67d0c595",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
         },
@@ -2888,9 +2910,9 @@
           "name": "simple-rpc.toml",
           "type": "File",
           "artifact": {
-            "size": 8405,
+            "size": 8581,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/simple-rpc/simple-rpc.toml",
-            "MD5": "d308d55f9fc2518ce222e223763ac50e",
+            "MD5": "b0ae2af338bbbfe8a06b0460f4d0327f",
             "path": "config/simple-rpc/simple-rpc.toml"
           }
         },
@@ -2903,28 +2925,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/tacz-common.toml",
             "MD5": "d14676e6725ecb5cb1ff9a822b07e40e",
             "path": "config/tacz-common.toml"
-          }
-        },
-        {
-          "id": "Axiom-4.1.1-for-MC1.20.1.jar",
-          "name": "Axiom-4.1.1-for-MC1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 39017576,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/Axiom-4.1.1-for-MC1.20.1.jar",
-            "MD5": "9667bc74fbcf6a3d07b4947d845f0c77",
-            "path": "mods/Axiom-4.1.1-for-MC1.20.1.jar"
-          }
-        },
-        {
-          "id": "Axiom-Korean-Support-1.0.3.jar",
-          "name": "Axiom-Korean-Support-1.0.3.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1195569,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/Axiom-Korean-Support-1.0.3.jar",
-            "MD5": "756ab57b8423d5f28075d2dbe30467c3",
-            "path": "mods/Axiom-Korean-Support-1.0.3.jar"
           }
         },
         {
@@ -3129,9 +3129,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 174,
+            "size": 87,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/servers.dat",
-            "MD5": "3f2304107a65394623d4ffff72b1b7f0",
+            "MD5": "38de4103244f5d4969f6c20862ffb5b2",
             "path": "servers.dat"
           }
         },
@@ -3144,17 +3144,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/shaderpacks/photon_v1.0a.zip",
             "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
             "path": "shaderpacks/photon_v1.0a.zip"
-          }
-        },
-        {
-          "id": "xmark.png",
-          "name": "xmark.png",
-          "type": "File",
-          "artifact": {
-            "size": 4736,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/xmark.png",
-            "MD5": "74974c0f2bcf0d49e073de34a16c45e1",
-            "path": "xmark.png"
           }
         }
       ]
