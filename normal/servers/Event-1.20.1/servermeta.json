@@ -3,9 +3,9 @@
   "meta": {
     "version": "1.0.0-pre.1",
     "name": "이벤트",
-    "description": "크리스마스 및 새해 이벤트 (Modded version)",
+    "description": "2025년 새해 해돋이이 이벤트 (Modded version)",
     "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-    "address": "event-play.japsik.xyz:25575",
+    "address": "event-play.japsik.xyz:25585",
     "discord": {
       "shortId": "",
       "largeImageText": "",
