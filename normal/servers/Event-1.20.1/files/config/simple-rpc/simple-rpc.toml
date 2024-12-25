@@ -22,7 +22,7 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["japsik-logo"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Japsik Event Server | 잡식 이벤트 서버"
+	largeImageText = "2025 New Year Event Server | 2025년 새해 해돋이 이벤트 서버"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
@@ -43,7 +43,7 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["japsik-logo"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Japsik Event Server | 잡식 이벤트 서버"
+	largeImageText = "2025 New Year Event Server | 2025년 새해 해돋이 이벤트 서버"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
@@ -64,7 +64,7 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["japsik-logo"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Japsik Event Server | 잡식 이벤트 서버"
+	largeImageText = "2025 New Year Event Server | 2025년 새해 해돋이 이벤트 서버"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
@@ -73,7 +73,7 @@
 
 	[[server_list.buttons]]
 		label = "The Japsik | 잡식서버"
-		url = "https://discord.gg/japsik"
+		url = "https://discord.japsik.xyz"
 
 [realms_list]
 	#Enable/Disable the Realms Screen Event
@@ -103,7 +103,7 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["japsik-logo"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Japsik Event Server | 잡식 이벤트 서버"
+	largeImageText = "2025 New Year Event Server | 2025년 새해 해돋이 이벤트 서버"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
@@ -142,7 +142,7 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["japsik-logo"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Japsik Event Server | 잡식 이벤트 서버"
+	largeImageText = "2025 New Year Event Server | 2025년 새해 해돋이 이벤트 서버"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
@@ -163,7 +163,7 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Japsik Event Server | 잡식 이벤트 서버"
+	largeImageText = "2025 New Year Event Server | 2025년 새해 해돋이 이벤트 서버"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -179,7 +179,7 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["japsik-logo"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Japsik Event Server | 잡식 이벤트 서버"
+	largeImageText = "2025 New Year Event Server | 2025년 새해 해돋이 이벤트 서버"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
