@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "2025년 새해 해돋이 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.3",
+      "version": "1.0.0-pre.4",
       "address": "event-play.japsik.xyz:25585",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -2034,13 +2034,13 @@
           }
         },
         {
-          "id": "net.coderbot.iris:oculus:1.6.15a@jar",
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2806358,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/oculus-mc1.20.1-1.6.15a.jar",
-            "MD5": "b6d1e02b5fccf72570fa19606006d711"
+            "size": 2831148,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
           }
         },
         {
@@ -2770,7 +2770,7 @@
           "artifact": {
             "size": 15020,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "afdf340528266939683411390189a0e4",
+            "MD5": "22a2796a90dd229aabf1032b42b1053d",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -2781,7 +2781,7 @@
           "artifact": {
             "size": 20227,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "3d2f5c4c8deb65054c78aa6cc06d0af5",
+            "MD5": "9b3c13a9d246737445a2d363a63e4330",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
