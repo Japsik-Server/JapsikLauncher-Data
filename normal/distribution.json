@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "2025년 새해 해돋이 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.2",
+      "version": "1.0.0-pre.3",
       "address": "event-play.japsik.xyz:25585",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -2034,13 +2034,13 @@
           }
         },
         {
-          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "id": "net.coderbot.iris:oculus:1.6.15a@jar",
           "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2851119,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
-            "MD5": "1dd891634ac21591b5a692471f112572"
+            "size": 2806358,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/oculus-mc1.20.1-1.6.15a.jar",
+            "MD5": "b6d1e02b5fccf72570fa19606006d711"
           }
         },
         {
@@ -2770,7 +2770,7 @@
           "artifact": {
             "size": 15020,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "6ead464f7bd042b99f85f25c7f8f8a5d",
+            "MD5": "afdf340528266939683411390189a0e4",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -2781,7 +2781,7 @@
           "artifact": {
             "size": 20227,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "3db4b3f1a34599aaad1dcf00291c6269",
+            "MD5": "3d2f5c4c8deb65054c78aa6cc06d0af5",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -2812,9 +2812,9 @@
           "name": "element_layer_control.lewidget",
           "type": "File",
           "artifact": {
-            "size": 199,
+            "size": 209,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-            "MD5": "3421fa06aff1dbc5b20b631a67d0c595",
+            "MD5": "a3077faf7fd4ae7b53778aef6fc8feb1",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
         },
