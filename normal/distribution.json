@@ -12,7 +12,7 @@
       "name": "이벤트",
       "description": "2025년 새해 해돋이 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.4",
+      "version": "1.0.0-pre.5",
       "address": "event-play.japsik.xyz:25585",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -498,6 +498,16 @@
             "size": 212292,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/almostunified-forge-1.20.1-0.9.3.jar",
             "MD5": "59f9b11e858546b825e747ee3ea1accd"
+          }
+        },
+        {
+          "id": "com.suppergerrie2.alwayseat.alwayseat:salwayseat:5.2@jar",
+          "name": "AlwaysEat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11372,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/AlwaysEat-5.2.jar",
+            "MD5": "f873a31bb8eb670836a7613bd385fef5"
           }
         },
         {
@@ -1352,6 +1362,20 @@
             "size": 123034,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
+          }
+        },
+        {
+          "id": "dev.tr7zw:firstperson:2.4.8@jar",
+          "name": "FirstPerson",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 126470,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/optionaloff/firstperson-forge-2.4.8-mc1.20.1.jar",
+            "MD5": "c1c1281332086f06f3906774f36503ed"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2588,13 +2612,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.7@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.10@jar",
           "name": "WaterMedia",
           "type": "ForgeMod",
           "artifact": {
-            "size": 22930744,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/watermedia-2.1.7.jar",
-            "MD5": "b6ef6019cf1b6b64c1f742859d80c0cd"
+            "size": 37823497,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/watermedia-2.1.10.jar",
+            "MD5": "96fcd98b01fda907d9e48c030250e3de"
           }
         },
         {
