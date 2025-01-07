@@ -3122,7 +3122,7 @@
       "name": "Japsik Client for 2025 New Year Event",
       "description": "2025년 새해 해돋이 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.6",
+      "version": "1.0.0-pre.7",
       "address": "event-play.japsik.xyz:25585",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -5045,13 +5045,13 @@
           }
         },
         {
-          "id": "net.mcreator.moadecorelectronics:moa_decor_electronics:1.20.1.@jar",
+          "id": "net.mcreator.moadecorelectronics:moa_decor_electronics:1.20.1@jar",
           "name": "MOA: ELECTRONICS",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1140709,
+            "size": 1117440,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/MOAdecor%20ELECTRONICS%201.20.1.A.jar",
-            "MD5": "a8a4df049f11d065782780761d1cc627"
+            "MD5": "40ccbfdc9b01f490c133e10dcd3e4514"
           }
         },
         {
@@ -6181,16 +6181,6 @@
           }
         },
         {
-          "id": "fml.toml",
-          "name": "fml.toml",
-          "type": "File",
-          "artifact": {
-            "size": 965,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fml.toml",
-            "path": "config/fml.toml"
-          }
-        },
-        {
           "id": "lmft.json",
           "name": "lmft.json",
           "type": "File",
@@ -6199,6 +6189,28 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/lmft.json",
             "MD5": "336c925d9d26824a9517b95bfdbb0833",
             "path": "config/lmft.json"
+          }
+        },
+        {
+          "id": "modernfix-common.toml",
+          "name": "modernfix-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 107,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/modernfix-common.toml",
+            "MD5": "1d50de2e9c0bda2952844de7a3306d10",
+            "path": "config/modernfix-common.toml"
+          }
+        },
+        {
+          "id": "modernfix-mixins.properties",
+          "name": "modernfix-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 5216,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/modernfix-mixins.properties",
+            "MD5": "b9fbcc9520d0a39a92d3d0f6d44602cf",
+            "path": "config/modernfix-mixins.properties"
           }
         },
         {
