@@ -1,0 +1,97 @@
+{
+  "$schema": "file:///E:/Userfile/Documents/GitHub/JapsikLauncher-Data/normal/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0-alpha.1",
+    "name": "Japsik Client for BearTown",
+    "description": "베어타운",
+    "icon": "https://static.japsik.xyz/assets/images/BearTown_title_v2-with_background.png",
+    "address": "beartown.kr:25565",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": false,
+    "autoconnect": false,
+    "javaOptions": {
+      "supported": "=21",
+      "suggestedMajor": 21,
+      "ram": {
+        "recommended": 5120,
+        "minimum": 4096
+      }
+    }
+  },
+  "fabric": {
+    "version": "0.16.9"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "config/inventoryprofilesnext/beartown.kr/villager-trading-config-v2.json",
+        "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+        "config/invmove/*",
+        "config/jade/*",
+        "config/NoChatReports/*",
+        "config/pickupnotifier/pickupnotifier-client.toml",
+        "config/presencefootsteps/*",
+        "config/sound_physics_remastered/*",
+        "config/sounds/*",
+        "config/yosbr/options.txt",
+        "config/yosbr/config/*",
+        "config/yosbr/config/NoChatReports/*",
+        "config/ambientsounds-client.json",
+        "config/animatica.properties",
+        "config/appleskin.json5",
+        "config/betterf3.toml",
+        "config/betterstats.json",
+        "config/blur.json",
+        "config/c2me.toml",
+        "config/capes.json5",
+        "config/chat_heads.json5",
+        "config/continuity.json",
+        "config/controlify.json",
+        "config/cubes-without-borders.json",
+        "config/durabilitytooltip-common.toml",
+        "config/dynamic_fps.json",
+        "config/emi_loot_config.toml",
+        "config/emi.css",
+        "config/emitrades.json5",
+        "config/entity_model_features.json",
+        "config/entity_texture_features.json",
+        "config/etf_warnings.json",
+        "config/fabricskyboxes-config.json",
+        "config/fabrishot.properties",
+        "config/fallingleaves.json",
+        "config/fpsreducer.json",
+        "config/freecam.json5",
+        "config/indium-render.properties",
+        "config/invmove.json",
+        "config/iris.properties",
+        "config/itemphysiclite-client.json",
+        "config/itemscroller.json",
+        "config/lambdynlights.toml",
+        "config/leahs-immersive-thunder.toml",
+        "config/make_bubbles_pop.json",
+        "config/moreculling.toml",
+        "config/notenoughanimations.json",
+        "config/PaginatedAdvancements.json5",
+        "config/particular.json5",
+        "config/replaymod.json",
+        "config/shouldersurfing-client.toml",
+        "config/skinlayers.json",
+        "config/smoothscroll.json",
+        "config/smoothswapping.json",
+        "config/sodium*",
+        "config/status-effect-bars.json",
+        "config/tia.json",
+        "config/visuality.json",
+        "config/visualworkbench-client.toml",
+        "config/zoomify.json",
+        "essential/config.toml",
+        "options.txt"
+      ]
+    }
+  ]
+}
