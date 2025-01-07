@@ -52,7 +52,7 @@ element {
 
 element {
   interactable = true
-  source = Japsik Client with Japsik Launcher%n%For 2025 New Year Event%n%Pre-Release 6%n%%n%Minecraft Forge 47.2.21
+  source = Japsik Client with Japsik Launcher%n%For 2025 New Year Event%n%Pre-Release 8%n%%n%Minecraft Forge 47.2.21
   source_mode = direct
   shadow = true
   scale = 1.0
