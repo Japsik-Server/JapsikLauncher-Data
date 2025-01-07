@@ -12,7 +12,7 @@
       "name": "Japsik Client for BearTown",
       "description": "베어타운",
       "icon": "https://static.japsik.xyz/assets/images/BearTown_title_v2-with_background.png",
-      "version": "1.0.0-alpha.1",
+      "version": "1.0.0-alpha.2",
       "address": "beartown.kr:25565",
       "minecraftVersion": "1.20.4",
       "discord": {
@@ -1156,6 +1156,19 @@
             "size": 1225846,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/shulkerboxtooltip-fabric-4.1.0+1.20.4.jar",
             "MD5": "949844eb69788cc29ac62ef1cbadbae3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.soradgaming:simplehudenhanced:4.7.3@jar",
+          "name": "Simple Hud Enhanced",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1169209,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/simple-hud-enhanced+1.20.2-1.20.4-4.7.3.jar",
+            "MD5": "0ac564e94b26cea7a84bf5f100c91bea"
           },
           "required": {
             "value": false
@@ -2391,6 +2404,16 @@
             "size": 11114,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/shouldersurfing-client.toml",
             "path": "config/shouldersurfing-client.toml"
+          }
+        },
+        {
+          "id": "simplehudenhanced.toml",
+          "name": "simplehudenhanced.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2387,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/simplehudenhanced.toml",
+            "path": "config/simplehudenhanced.toml"
           }
         },
         {

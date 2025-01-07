@@ -2394,6 +2394,16 @@
           }
         },
         {
+          "id": "simplehudenhanced.toml",
+          "name": "simplehudenhanced.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2387,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/simplehudenhanced.toml",
+            "path": "config/simplehudenhanced.toml"
+          }
+        },
+        {
           "id": "skinlayers.json",
           "name": "skinlayers.json",
           "type": "File",
