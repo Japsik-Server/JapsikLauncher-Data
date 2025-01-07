@@ -12,7 +12,7 @@
       "name": "Japsik Client for BearTown",
       "description": "베어타운",
       "icon": "https://static.japsik.xyz/assets/images/BearTown_title_v2-with_background.png",
-      "version": "1.0.0-alpha.1",
+      "version": "1.0.0-alpha.3",
       "address": "beartown.kr:25565",
       "minecraftVersion": "1.20.4",
       "discord": {
@@ -1162,6 +1162,19 @@
           }
         },
         {
+          "id": "com.soradgaming:simplehudenhanced:4.7.3@jar",
+          "name": "Simple Hud Enhanced",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1169209,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/simple-hud-enhanced+1.20.2-1.20.4-4.7.3.jar",
+            "MD5": "0ac564e94b26cea7a84bf5f100c91bea"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "dev.tr7zw.skinlayers:skinlayers3d:1.7.4@jar",
           "name": "3d-Skin-Layers",
           "type": "FabricMod",
@@ -1995,7 +2008,7 @@
           "artifact": {
             "size": 310,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/isxander-main-menu-credits.json",
-            "MD5": "a05e06b4681ef1558db07ac77e10b575",
+            "MD5": "3c386a81067f19a0d4d2af9378583377",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -3132,7 +3145,7 @@
       "name": "Japsik Client for 2025 New Year Event",
       "description": "2025년 새해 해돋이 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.7",
+      "version": "1.0.0-pre.8",
       "address": "event-play.japsik.xyz:25585",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -4003,13 +4016,13 @@
           }
         },
         {
-          "id": "cn.mcmod:corn_delight:1.0.4-1.20.1@jar",
+          "id": "cn.mcmod:corn_delight:1.1.6-1.20.1@jar",
           "name": "Corn Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 142501,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/corn_delight-1.0.4-1.20.1.jar",
-            "MD5": "a42ed2de00253c4df6d1989493e5d138"
+            "size": 164044,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/forgemods/required/corn_delight-1.1.6-1.20.1.jar",
+            "MD5": "0e9a550246c0a6f2da5141353bebdc5b"
           }
         },
         {
@@ -6070,24 +6083,13 @@
           }
         },
         {
-          "id": "join_multiplayer_screen_layout.txt",
-          "name": "join_multiplayer_screen_layout.txt",
-          "type": "File",
-          "artifact": {
-            "size": 8432,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
-            "MD5": "893ea5b889d4f9dc052f4a14e8fc24b7",
-            "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
-          }
-        },
-        {
           "id": "pause_screen_layout.txt",
           "name": "pause_screen_layout.txt",
           "type": "File",
           "artifact": {
             "size": 15020,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "f5a38e8930cfd5253542dca7fceb68ef",
+            "MD5": "5ad21e71ea091d9da13597cac500a112",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -6096,9 +6098,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 20227,
+            "size": 26770,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "d01e40a0a14cc3fabdb24552ba40969e",
+            "MD5": "8908a70e9f8e812634ee903722bc6707",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -6129,9 +6131,9 @@
           "name": "element_layer_control.lewidget",
           "type": "File",
           "artifact": {
-            "size": 209,
+            "size": 197,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-            "MD5": "a3077faf7fd4ae7b53778aef6fc8feb1",
+            "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
         },
@@ -6151,9 +6153,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1899,
+            "size": 1948,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "45adfdd8a8a4e4d565f75f955a5dcac0",
+            "MD5": "a4d5d7ff0db0cee524f3aff8c9ae0d1b",
             "path": "config/fancymenu/options.txt"
           }
         },
