@@ -3145,7 +3145,7 @@
       "name": "Japsik Client for 2025 New Year Event",
       "description": "2025년 새해 해돋이 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.8",
+      "version": "1.0.0-pre.9",
       "address": "event-play.japsik.xyz:25585",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -6087,9 +6087,9 @@
           "name": "pause_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 15020,
+            "size": 15019,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "5ad21e71ea091d9da13597cac500a112",
+            "MD5": "0236fb4ca6c4853a8b3219faba7a7420",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -6100,7 +6100,7 @@
           "artifact": {
             "size": 26770,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "8908a70e9f8e812634ee903722bc6707",
+            "MD5": "d4b42c6e3500cf76614b7f6f050e6806",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
