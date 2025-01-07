@@ -1,8 +1,8 @@
 {
   "$schema": "file:///C:/Nebulaworkspace/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0-pre.5",
-    "name": "이벤트",
+    "version": "1.0.0-pre.6",
+    "name": "Japsik Client for 2025 New Year Event",
     "description": "2025년 새해 해돋이 이벤트 (Modded version)",
     "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
     "address": "event-play.japsik.xyz:25585",
@@ -23,7 +23,7 @@
     }
   },
   "forge": {
-    "version": "47.2.21"
+    "version": "47.3.0"
   },
   "untrackedFiles": [
     {
