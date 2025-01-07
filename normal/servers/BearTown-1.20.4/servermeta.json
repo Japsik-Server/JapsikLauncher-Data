@@ -80,6 +80,7 @@
         "config/particular.json5",
         "config/replaymod.json",
         "config/shouldersurfing-client.toml",
+        "config/simplehudenhanced.toml",
         "config/skinlayers.json",
         "config/smoothscroll.json",
         "config/smoothswapping.json",
