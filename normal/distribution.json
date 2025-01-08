@@ -12,7 +12,7 @@
       "name": "Japsik Client for BearTown",
       "description": "베어타운",
       "icon": "https://static.japsik.xyz/assets/images/BearTown_title_v2-with_background.png",
-      "version": "1.0.0-alpha.4",
+      "version": "1.0.0-alpha.5",
       "address": "beartown.kr:25565",
       "minecraftVersion": "1.20.4",
       "discord": {
@@ -1644,7 +1644,7 @@
           "artifact": {
             "size": 310,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/isxander-main-menu-credits.json",
-            "MD5": "dd75af9d5c26e676ff4f79815d39c449",
+            "MD5": "07976f6d157ee28aca0fd398cfdf9c4e",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -2720,9 +2720,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 7723,
+            "size": 7726,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/options.txt",
-            "MD5": "07854f32843466e59bb0df89ba679265",
+            "MD5": "91927e30280e6e9ec00a4d23011da453",
             "path": "config/yosbr/options.txt"
           }
         },
