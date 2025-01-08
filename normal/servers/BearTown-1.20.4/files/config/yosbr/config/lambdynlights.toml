@@ -1,4 +1,5 @@
 mode = "fastest"
+
 [light_sources]
 	water_sensitive_check = false
 	block_entities = false
@@ -6,3 +7,11 @@ mode = "fastest"
 	self = true
 	tnt = "simple"
 	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+
