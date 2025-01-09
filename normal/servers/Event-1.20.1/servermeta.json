@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Nebulaworkspace/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0-pre.13",
+    "version": "1.0.0-pre.14",
     "name": "Japsik Client for 2025 New Year Event",
     "description": "2025년 새해 해돋이 이벤트 (Modded version)",
     "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
@@ -28,11 +28,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": [
-        "config/betterf3.toml",
-        "config/fml.toml",
-        "options.txt"
-      ]
+      "patterns": []
     }
   ]
 }
