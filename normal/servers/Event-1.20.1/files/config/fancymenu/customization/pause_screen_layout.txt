@@ -50,48 +50,6 @@ element {
   [loading_requirement_container_meta:e643e7bc-a060-4c68-8d6d-27a40eed2a4c-1712664441477] = [groups:][instances:]
 }
 
-element {
-  interactable = true
-  source = Japsik Client with Japsik Launcher%n%For 2025 New Year Event%n%Pre-Release 9%n%%n%Minecraft Forge 47.3.0
-  source_mode = direct
-  shadow = true
-  scale = 1.0
-  base_color = #FFFFFFFF
-  text_border = 2
-  line_spacing = 2
-  enable_scrolling = true
-  auto_line_wrapping = true
-  remove_html_breaks = true
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  quote_color = #818181FF
-  quote_indent = 8.0
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  parse_markdown = true
-  element_type = text_v2
-  instance_identifier = fbfe38d5-ed14-47da-840a-4f517ddff8d9-1735123264777
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -508
-  y = 238
-  width = 177
-  height = 61
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 6e8775e9-6134-4881-b507-2b359bdb577c-1735123264777
-  [loading_requirement_container_meta:6e8775e9-6134-4881-b507-2b359bdb577c-1735123264777] = [groups:][instances:]
-}
-
 vanilla_button {
   button_element_executable_block_identifier = 1746a6d6-c35e-461d-b070-af3e4c7d3040-1712664347213
   [executable_block:1746a6d6-c35e-461d-b070-af3e4c7d3040-1712664347213][type:generic] = [executables:]
