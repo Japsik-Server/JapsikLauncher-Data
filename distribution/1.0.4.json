@@ -2997,7 +2997,7 @@
       "name": "Japsik Client for 2025 New Year Event",
       "description": "2025년 새해 해돋이 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.10",
+      "version": "1.0.0-pre.11",
       "address": "event-play.japsik.xyz:25585",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -6021,7 +6021,7 @@
           "artifact": {
             "size": 26771,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "d6f7c90365c55435fb718092a591b52c",
+            "MD5": "6aa36b8841f8b2de3763972353a7ff23",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -6243,6 +6243,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/sushi_bar-0.2.2+1.20.jar",
             "MD5": "970522dbe0af60ee7532bcf9eca83b3e",
             "path": "mods/sushi_bar-0.2.2+1.20.jar"
+          }
+        },
+        {
+          "id": "tcdcommons-3.12.3+fabric-1.20.1.jar",
+          "name": "tcdcommons-3.12.3+fabric-1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 856154,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/tcdcommons-3.12.3+fabric-1.20.1.jar",
+            "MD5": "83ad27f7cf3f7e5f58d1c8142cdf47a4",
+            "path": "mods/tcdcommons-3.12.3+fabric-1.20.1.jar"
           }
         },
         {
