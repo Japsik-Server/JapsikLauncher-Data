@@ -2997,7 +2997,7 @@
       "name": "Japsik Client for 2025 New Year Event",
       "description": "2025년 새해 해돋이 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.12",
+      "version": "1.0.0-pre.13",
       "address": "event-play.japsik.xyz:25585",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -5975,9 +5975,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 381,
+            "size": 430,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "130b94e3cc064767df8006a5588fb972",
+            "MD5": "889a994dbe5a4aa2952250bcdc11468f",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -6004,6 +6004,17 @@
           }
         },
         {
+          "id": "join_multiplayer_screen_layout.txt",
+          "name": "join_multiplayer_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 14056,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+            "MD5": "fea9cf08facb7382a71e5b5b3bd5967e",
+            "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+          }
+        },
+        {
           "id": "pause_screen_layout.txt",
           "name": "pause_screen_layout.txt",
           "type": "File",
@@ -6021,7 +6032,7 @@
           "artifact": {
             "size": 26771,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "3899e5e1a4907792dc4df95a8c354fa0",
+            "MD5": "481b34d4a60d64d28681f79f95016d39",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -6052,9 +6063,9 @@
           "name": "element_layer_control.lewidget",
           "type": "File",
           "artifact": {
-            "size": 197,
+            "size": 199,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-            "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
+            "MD5": "77380b6e8984d12b6094924320f21e94",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
         },
@@ -6210,17 +6221,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/ConnectorExtras-1.11.2+1.20.1.jar",
             "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7",
             "path": "mods/ConnectorExtras-1.11.2+1.20.1.jar"
-          }
-        },
-        {
-          "id": "modmenu-7.2.2.jar",
-          "name": "modmenu-7.2.2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 721366,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/modmenu-7.2.2.jar",
-            "MD5": "2629511a2d3b141d9f2a24dc9685637e",
-            "path": "mods/modmenu-7.2.2.jar"
           }
         },
         {
