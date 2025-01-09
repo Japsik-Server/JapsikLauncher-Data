@@ -2997,7 +2997,7 @@
       "name": "Japsik Client for 2025 New Year Event",
       "description": "2025년 새해 해돋이 이벤트 (Modded version)",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-      "version": "1.0.0-pre.11",
+      "version": "1.0.0-pre.12",
       "address": "event-play.japsik.xyz:25585",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -6021,7 +6021,7 @@
           "artifact": {
             "size": 26771,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "6aa36b8841f8b2de3763972353a7ff23",
+            "MD5": "3899e5e1a4907792dc4df95a8c354fa0",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -6210,6 +6210,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/ConnectorExtras-1.11.2+1.20.1.jar",
             "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7",
             "path": "mods/ConnectorExtras-1.11.2+1.20.1.jar"
+          }
+        },
+        {
+          "id": "modmenu-7.2.2.jar",
+          "name": "modmenu-7.2.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 721366,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/Event-1.20.1/files/mods/modmenu-7.2.2.jar",
+            "MD5": "2629511a2d3b141d9f2a24dc9685637e",
+            "path": "mods/modmenu-7.2.2.jar"
           }
         },
         {
