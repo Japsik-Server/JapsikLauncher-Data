@@ -1,0 +1,10 @@
+{
+    {
+        "version": "1.0.5-pre.1",
+        "server": "live"
+    },
+    {
+        "version": "1.0.5",
+        "server": "live"
+    }
+}
