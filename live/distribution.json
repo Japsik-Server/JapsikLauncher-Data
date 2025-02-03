@@ -38,7 +38,7 @@
           "artifact": {
             "size": 1387357,
             "MD5": "27a6ef87676ce6316c777d81c1cd2962",
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar"
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/repo/lib/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar"
           },
           "subModules": [
             {
@@ -48,7 +48,7 @@
               "artifact": {
                 "size": 2857,
                 "MD5": "7821cebbb16ff24c4da5e053a1920e80",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/versions/1.20.4-fabric-0.16.9/1.20.4-fabric-0.16.9.json"
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/repo/versions/1.20.4-fabric-0.16.9/1.20.4-fabric-0.16.9.json"
               }
             },
             {
@@ -58,7 +58,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -68,7 +68,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -78,7 +78,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -98,7 +98,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -108,7 +108,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -118,7 +118,7 @@
               "artifact": {
                 "size": 608319,
                 "MD5": "3a1cade1634c518db6147c9771686ea9",
-                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/repo/lib/net/fabricmc/intermediary/1.20.4/intermediary-1.20.4.jar"
+                "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/repo/lib/net/fabricmc/intermediary/1.20.4/intermediary-1.20.4.jar"
               }
             }
           ]
@@ -129,7 +129,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 84261973,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/AmbientSounds_FABRIC_v5.3.9_mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/AmbientSounds_FABRIC_v5.3.9_mc1.20.4.jar",
             "MD5": "01e71bcdbceb826b96d50d606ae25b5a"
           },
           "required": {
@@ -142,7 +142,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 71415,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/animatica-0.6.1+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/animatica-0.6.1+1.20.4.jar",
             "MD5": "62f56949e2f934073f5576fc4758ff4f"
           }
         },
@@ -152,7 +152,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1077002,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/appleskin-fabric-mc1.20.3-2.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/appleskin-fabric-mc1.20.3-2.5.1.jar",
             "MD5": "60e559dd89ef9104af41449158634162"
           },
           "required": {
@@ -165,7 +165,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 98534,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/BetterAdvancements-Fabric-1.20.4-0.4.2.8.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/BetterAdvancements-Fabric-1.20.4-0.4.2.8.jar",
             "MD5": "a491d2eccd95ed206cf42a8fd6ac0231"
           },
           "required": {
@@ -178,7 +178,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1776259,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/BetterF3-9.0.2-Fabric-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/BetterF3-9.0.2-Fabric-1.20.4.jar",
             "MD5": "24fa26b55c158717323b0cb1abe58232"
           },
           "required": {
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21587,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/bettermounthud-1.2.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/bettermounthud-1.2.2.jar",
             "MD5": "fdd255bd204f7d84850fd31ba687ad01"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 380627,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/betterstats-3.12.6+fabric-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/betterstats-3.12.6+fabric-1.20.4.jar",
             "MD5": "d3837f5ee7bcfccbe521dfea1ab04885"
           },
           "required": {
@@ -214,7 +214,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 155092,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/blur-3.2.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/blur-3.2.0.jar",
             "MD5": "72dfc9ed13eab2bf1c83ec1e4aa68858"
           },
           "required": {
@@ -227,7 +227,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1289505,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/c2me-fabric-mc1.20.4-0.2.0+alpha.11.72.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/c2me-fabric-mc1.20.4-0.2.0+alpha.11.72.jar",
             "MD5": "22dc5cc9aa098e3273539a750b08da3c"
           }
         },
@@ -237,7 +237,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 209297,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/capes-1.5.3+1.20.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/capes-1.5.3+1.20.2-fabric.jar",
             "MD5": "4d728caea98bbc803c3631b4d8c1e772"
           }
         },
@@ -247,7 +247,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 163227,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/caramelChat-mc1.20.4-fabric-1.2.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/caramelChat-mc1.20.4-fabric-1.2.0.jar",
             "MD5": "59afda01c0be221d5e692e97dd2b77bf"
           },
           "required": {
@@ -260,7 +260,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 76120,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/chat_heads-0.13.7-fabric-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/chat_heads-0.13.7-fabric-1.20.4.jar",
             "MD5": "4fd789302e81f0e20c5e74d9a7d464b2"
           },
           "required": {
@@ -273,7 +273,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 395624,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/citresewn-1.2.2+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/citresewn-1.2.2+1.20.4.jar",
             "MD5": "0d7793537e4c0059d7b5888c4b3ea80d"
           }
         },
@@ -283,7 +283,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1154870,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/cloth-config-13.0.138-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/cloth-config-13.0.138-fabric.jar",
             "MD5": "fe340d88340db91313eb5d50febcbb81"
           }
         },
@@ -293,7 +293,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20966,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/Clumps-fabric-1.20.4-15.0.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/Clumps-fabric-1.20.4-15.0.0.2.jar",
             "MD5": "1e668ec4906f9f6b8dbaa574bb02f755"
           },
           "required": {
@@ -306,7 +306,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1016209,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/continuity-3.0.0+1.20.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/continuity-3.0.0+1.20.2.jar",
             "MD5": "66c63db86b7fbc4fbb5a3816c124b03b"
           }
         },
@@ -316,7 +316,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4141504,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/Controlify-2.0.0-beta.21+1.20.4-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/Controlify-2.0.0-beta.21+1.20.4-fabric.jar",
             "MD5": "d915da1fb3c4cdb6dbf05b9d3eecaa91"
           }
         },
@@ -326,7 +326,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1133265,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/CreativeCore_FABRIC_v2.11.26_mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/CreativeCore_FABRIC_v2.11.26_mc1.20.4.jar",
             "MD5": "cc228b7055f86c1a00be5448b362df00"
           }
         },
@@ -336,7 +336,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 70755,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/cullleaves-fabric-3.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/cullleaves-fabric-3.3.0.jar",
             "MD5": "0b95ae76093a6f8c6cc9f30e22f473e3"
           }
         },
@@ -346,7 +346,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 79729,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/cwb-fabric-3.0.0+mc1.20.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/cwb-fabric-3.0.0+mc1.20.jar",
             "MD5": "839cba082f3a423966694bb50a2d529c"
           }
         },
@@ -356,7 +356,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 270096,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/Debugify-1.20.4+1.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/Debugify-1.20.4+1.1.jar",
             "MD5": "584c3fa19ba42fa9e54a4f8a6d59fc5a"
           }
         },
@@ -366,7 +366,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20716,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/durabilitytooltip-1.1.5-fabric-mc1.20.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/durabilitytooltip-1.1.5-fabric-mc1.20.jar",
             "MD5": "0f276365c9667611687c126888677c10"
           },
           "required": {
@@ -379,7 +379,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 187590,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/dynamic-fps-3.7.7+minecraft-1.20.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/dynamic-fps-3.7.7+minecraft-1.20.2-fabric.jar",
             "MD5": "09545d9d6ffd7dea10f38a93a3758a7e"
           }
         },
@@ -389,7 +389,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 568993,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/e4mc_minecraft-fabric-5.2.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/e4mc_minecraft-fabric-5.2.1.jar",
             "MD5": "b035f7f6718f0f29b573f2b523bffe2f"
           }
         },
@@ -399,7 +399,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1218710,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/eating-animation-1.20+1.9.61.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/eating-animation-1.20+1.9.61.jar",
             "MD5": "090eeadcff74ce255e97285f8ab56472"
           },
           "required": {
@@ -412,7 +412,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 15241,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/emi_enchanting-0.1.2+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/emi_enchanting-0.1.2+1.20.1.jar",
             "MD5": "8684e1428daa0dbd3cd021d64f6dccdf"
           },
           "required": {
@@ -425,7 +425,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 369062,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/emi_loot-0.7.4+1.20.4+fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/emi_loot-0.7.4+1.20.4+fabric.jar",
             "MD5": "1e5b60639e8f951f7bf223a62d17daee"
           },
           "required": {
@@ -438,7 +438,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1004352,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/emi-1.1.18+1.20.4+fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/emi-1.1.18+1.20.4+fabric.jar",
             "MD5": "2c2bc4ed622cab0d824a8fc5b026a154"
           },
           "required": {
@@ -451,7 +451,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 33118,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/EMIEnchants-fabric-1.19.3-1.20.4-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/EMIEnchants-fabric-1.19.3-1.20.4-1.0.0.jar",
             "MD5": "f57aeb52502a38e8e82c5e38a9212637"
           },
           "required": {
@@ -464,7 +464,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 54352,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/emitrades-fabric-1.3.0+mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/emitrades-fabric-1.3.0+mc1.20.4.jar",
             "MD5": "b7ff1130f0f0565d5461106e7565ea52"
           },
           "required": {
@@ -477,7 +477,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 330603,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/enhancedblockentities-0.10.1+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/enhancedblockentities-0.10.1+1.20.4.jar",
             "MD5": "4258c4e9763224b9d6927441e5042e00"
           }
         },
@@ -487,7 +487,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 443556,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/entity_model_features_fabric_1.20.4-2.4.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/entity_model_features_fabric_1.20.4-2.4.1.jar",
             "MD5": "0869e170ef5ae4f0784620484b717115"
           }
         },
@@ -497,7 +497,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 651986,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/entity_texture_features_fabric_1.20.4-6.2.9.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/entity_texture_features_fabric_1.20.4-6.2.9.jar",
             "MD5": "e3ee94839f9c271ed7b80d42b8a04ff0"
           }
         },
@@ -507,7 +507,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 68822,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/entityculling-fabric-1.7.2-mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/entityculling-fabric-1.7.2-mc1.20.4.jar",
             "MD5": "06f858743f09318cf9cc4c52df19848c"
           }
         },
@@ -517,7 +517,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 54177271,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/essential_1-3-5-5_fabric_1-20-4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/essential_1-3-5-5_fabric_1-20-4.jar",
             "MD5": "81eb14c9d9af9a32fa2887b1c86dd0b9"
           }
         },
@@ -527,7 +527,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 114604,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/explosive-enhancement-1.3.2-1.20-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/explosive-enhancement-1.3.2-1.20-1.20.4.jar",
             "MD5": "83cf2e950a99ff268dc90e97aaca4f75"
           },
           "required": {
@@ -540,7 +540,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2187410,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/fabric-api-0.97.2+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/fabric-api-0.97.2+1.20.4.jar",
             "MD5": "2733c159c2f7628983a96b442ca3f823"
           }
         },
@@ -550,7 +550,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7089756,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
             "MD5": "f6623d8c006095c4e08323f084e6c00e"
           }
         },
@@ -560,7 +560,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 207267,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/fabricskyboxes-0.7.3+mc1.20.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/fabricskyboxes-0.7.3+mc1.20.2.jar",
             "MD5": "dc3e7903dd9fc8222b2866d9e220e369"
           }
         },
@@ -570,7 +570,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 51064,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/fabrishot-1.12.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/fabrishot-1.12.1.jar",
             "MD5": "099d1b76de6650f641232d8dfbf01253"
           }
         },
@@ -580,7 +580,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 156773,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/fallingleaves-1.15.6+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/fallingleaves-1.15.6+1.20.1.jar",
             "MD5": "1d13a592b3c329e2bc10b658161e8429"
           },
           "required": {
@@ -593,7 +593,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2884076,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/fancymenu_fabric_3.3.2_MC_1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/fancymenu_fabric_3.3.2_MC_1.20.4.jar",
             "MD5": "e2d016daa48fe71fbe72a21c5bcb8937"
           }
         },
@@ -603,7 +603,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 59105,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/fastquit-3.0.0+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/fastquit-3.0.0+1.20.4.jar",
             "MD5": "5a97735d1d3bdd5e6d1575d81a6081e0"
           }
         },
@@ -613,7 +613,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125100,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/ferritecore-6.0.3-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/ferritecore-6.0.3-fabric.jar",
             "MD5": "a684cfcdbc32eddaf78782fb4e5762f4"
           }
         },
@@ -623,7 +623,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 444627,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar",
             "MD5": "61c622d98e5938c377a45ad513b6de13"
           }
         },
@@ -633,7 +633,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 131585,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/FpsReducer2-fabric-1.20.4-2.7.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/FpsReducer2-fabric-1.20.4-2.7.jar",
             "MD5": "1ccbccd3c6063240b6c6357f2cf4e1d5"
           },
           "required": {
@@ -646,7 +646,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1084134,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/freecam-fabric-modrinth-1.2.3+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/freecam-fabric-modrinth-1.2.3+1.20.4.jar",
             "MD5": "5bac1bce5cf062596b5c26c9bf7c3682"
           },
           "required": {
@@ -659,7 +659,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49488,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/fsb-interop-1.3.6+mc1.20.2-build.52.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/fsb-interop-1.3.6+mc1.20.2-build.52.jar",
             "MD5": "9f749b8461924adaf73650aeae147808"
           }
         },
@@ -669,7 +669,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1538423,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/fzzy_config-0.5.9+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/fzzy_config-0.5.9+1.20.4.jar",
             "MD5": "ba40ba43dbaac702518f5967192c4af1"
           }
         },
@@ -679,7 +679,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 242845,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/ImmediatelyFast-Fabric-1.3.3+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/ImmediatelyFast-Fabric-1.3.3+1.20.4.jar",
             "MD5": "9057e10b1a666b5684d8eeee0b734d41"
           }
         },
@@ -689,7 +689,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3305838,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/ImmersiveThunder-1.20.4+1.2.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/ImmersiveThunder-1.20.4+1.2.2.jar",
             "MD5": "3d95acaeff9ef3861306908d381ec765"
           },
           "required": {
@@ -702,7 +702,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 105350,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/indium-1.0.31+mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/indium-1.0.31+mc1.20.4.jar",
             "MD5": "86d20afc613763546f51452ef893be82"
           }
         },
@@ -712,7 +712,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1449161,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/InventoryProfilesNext-fabric-1.20.3-1.10.11.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/InventoryProfilesNext-fabric-1.20.3-1.10.11.jar",
             "MD5": "bde03824fd240010db2eab46d56701a7"
           },
           "required": {
@@ -725,7 +725,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 127623,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/InvMove-1.20-0.8.6-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/InvMove-1.20-0.8.6-Fabric.jar",
             "MD5": "3158af677982416dc21ba7aa04d611a3"
           },
           "required": {
@@ -738,7 +738,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 102080,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/InvMoveCompats-1.20-0.3.2-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/InvMoveCompats-1.20-0.3.2-Fabric.jar",
             "MD5": "2e4cb16cea2e2a765bd138cbb58ffaa0"
           },
           "required": {
@@ -751,7 +751,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2703697,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/iris-1.7.2+mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/iris-1.7.2+mc1.20.4.jar",
             "MD5": "fa3647d1891a719b268c636236d989c2"
           }
         },
@@ -761,7 +761,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21934,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/ItemPhysicLite_FABRIC_v1.6.4_mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/ItemPhysicLite_FABRIC_v1.6.4_mc1.20.4.jar",
             "MD5": "1b29d37094a2262fe6505e9b7be4d9d6"
           },
           "required": {
@@ -774,7 +774,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 117890,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/itemscroller-fabric-1.20.4-0.22.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/itemscroller-fabric-1.20.4-0.22.0.jar",
             "MD5": "ff3d342d40799e4f90740874ace7edbe"
           },
           "required": {
@@ -787,7 +787,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 587222,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/Jade-1.20.4-fabric-13.3.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/Jade-1.20.4-fabric-13.3.1.jar",
             "MD5": "05c4597bdd78e0d194d76502c587df24"
           },
           "required": {
@@ -800,7 +800,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 89360,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/justenoughbreeding-fabric-1.20.4-1.5.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/justenoughbreeding-fabric-1.20.4-1.5.0.jar",
             "MD5": "f874e266aad2737582c3191e36d78f9a"
           },
           "required": {
@@ -813,7 +813,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 785596,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/konkrete_fabric_1.9.2_MC_1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/konkrete_fabric_1.9.2_MC_1.20.4.jar",
             "MD5": "5207d60a19db3a98d3be1c8cae732173"
           }
         },
@@ -823,7 +823,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 568669,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/lambdynamiclights-2.3.4+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/lambdynamiclights-2.3.4+1.20.4.jar",
             "MD5": "3c849e6337ff7c850762c6cc27f607ab"
           }
         },
@@ -833,7 +833,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 74949,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/language-reload-1.7.2+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/language-reload-1.7.2+1.20.4.jar",
             "MD5": "7f4ce71e7b771b9de8245fb61957eef1"
           }
         },
@@ -843,7 +843,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14531,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/lazydfu-0.1.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/lazydfu-0.1.3.jar",
             "MD5": "b36e83f424c5bb5100a3e8ffea0c6ce7"
           }
         },
@@ -853,7 +853,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 703031,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/libIPN-fabric-1.20.3-4.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/libIPN-fabric-1.20.3-4.0.2.jar",
             "MD5": "c12d98447b5c3a5caba5df97a9c71168"
           }
         },
@@ -863,7 +863,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 716022,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/lithium-fabric-mc1.20.4-0.12.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/lithium-fabric-mc1.20.4-0.12.1.jar",
             "MD5": "83da6729d5402dc42eca740a96f97346"
           }
         },
@@ -873,7 +873,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14340,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/main-menu-credits-1.1.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/main-menu-credits-1.1.2.jar",
             "MD5": "ca68af4e0939c9b2af2e8f0c5149f1d0"
           }
         },
@@ -883,7 +883,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 27579,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
             "MD5": "dfe43062ba0ba42f7e44a5ae83c0c6f8"
           },
           "required": {
@@ -896,7 +896,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 746090,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/malilib-fabric-1.20.4-0.18.4-alpha.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/malilib-fabric-1.20.4-0.18.4-alpha.1.jar",
             "MD5": "22c083240550aeadfa65cf2e10b858ec"
           }
         },
@@ -906,7 +906,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 39696,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
             "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
           }
         },
@@ -916,7 +916,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49334,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "MD5": "a8461f89d267441752c95beb5448e940"
           }
         },
@@ -926,7 +926,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 36039,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/mixintrace-1.1.1+1.17.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/mixintrace-1.1.1+1.17.jar",
             "MD5": "25673336ece740d8127ae7525bc0cd4f"
           }
         },
@@ -936,7 +936,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 65430,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/modelfix-1.14-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/modelfix-1.14-fabric.jar",
             "MD5": "37022aa425061707b0ed1ada2c071d97"
           }
         },
@@ -946,7 +946,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 458056,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/modernfix-fabric-5.17.0+mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/modernfix-fabric-5.17.0+mc1.20.4.jar",
             "MD5": "c988c6a3371040def77a32f3741c9723"
           }
         },
@@ -956,7 +956,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 963019,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/modmenu-9.2.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/modmenu-9.2.0.jar",
             "MD5": "f8008ee81dd401a441bd20f41e43fca2"
           }
         },
@@ -966,7 +966,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3546,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/morechathistory-1.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/morechathistory-1.3.0.jar",
             "MD5": "1980ac8b5b66417091d101682af8865c"
           }
         },
@@ -976,7 +976,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 272851,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/moreculling-1.20.4-0.24.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/moreculling-1.20.4-0.24.0.jar",
             "MD5": "109804ad4b9f14a549f02bf26c98ac44"
           }
         },
@@ -986,7 +986,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1183718,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/mru-0.4.5+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/mru-0.4.5+1.20.4.jar",
             "MD5": "0196da06aec5fe812d59569a826dab9c"
           }
         },
@@ -996,7 +996,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 317495,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/NoChatReports-FABRIC-1.20.4-v2.6.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/NoChatReports-FABRIC-1.20.4-v2.6.1.jar",
             "MD5": "96fef22842632ff1e758754ef74f8389"
           }
         },
@@ -1006,7 +1006,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 440635,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/notenoughanimations-fabric-1.9.0-mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/notenoughanimations-fabric-1.9.0-mc1.20.4.jar",
             "MD5": "35472e4151e16b3dbec23f193fdd887d"
           },
           "required": {
@@ -1019,7 +1019,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 627314,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/optigui-2.3.0-beta.6+1.20.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/optigui-2.3.0-beta.6+1.20.2.jar",
             "MD5": "3e21b57952fee47641b1417a1076ee4a"
           }
         },
@@ -1029,7 +1029,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1080159,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/owo-lib-0.12.6+1.20.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/owo-lib-0.12.6+1.20.3.jar",
             "MD5": "929747e07414ddac5c4079a72c97a32e"
           }
         },
@@ -1039,7 +1039,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 70974,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/paginatedadvancements-2.4.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/paginatedadvancements-2.4.2.jar",
             "MD5": "c70e11c1ddeca7f476f132450d28e982"
           },
           "required": {
@@ -1052,7 +1052,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 230403,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/particular-1.1.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/particular-1.1.1.jar",
             "MD5": "c6fac1fc1016028297bf12fd1d2485c9"
           },
           "required": {
@@ -1065,7 +1065,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 95182,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/PickUpNotifier-v20.4.2-1.20.4-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/PickUpNotifier-v20.4.2-1.20.4-Fabric.jar",
             "MD5": "e0bfa2e56dbe238e9271f4942c2ce08c"
           },
           "required": {
@@ -1078,7 +1078,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 438147,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/polytone-1.20.4-1.18.10-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/polytone-1.20.4-1.18.10-fabric.jar",
             "MD5": "eb821e99cc4f935461f88315104dfa24"
           }
         },
@@ -1088,7 +1088,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5666403,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/PresenceFootsteps-1.10.1+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/PresenceFootsteps-1.10.1+1.20.4.jar",
             "MD5": "0cfb4364783892e61f09dc1d28dda653"
           },
           "required": {
@@ -1101,7 +1101,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 128303,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/puzzle-1.6.1+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/puzzle-1.6.1+1.20.4.jar",
             "MD5": "79efed9b1ffbae3869a0b91afaca6e15"
           }
         },
@@ -1111,7 +1111,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1029113,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/PuzzlesLib-v20.4.52-1.20.4-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/PuzzlesLib-v20.4.52-1.20.4-Fabric.jar",
             "MD5": "a8a7d249a49aa2a4c960532318e870ba"
           }
         },
@@ -1121,7 +1121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77393,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
             "MD5": "3353347619cc18acb9b6ef811ac6a310"
           }
         },
@@ -1131,7 +1131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14069024,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/replaymod-1.20.4-2.6.20.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/replaymod-1.20.4-2.6.20.jar",
             "MD5": "65fe2ebe32d92ec9e10dbe808c2819a0"
           },
           "required": {
@@ -1144,7 +1144,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2516170,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/Resourcify%20(1.20.2-1.20.4-fabric)-1.6.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/Resourcify%20(1.20.2-1.20.4-fabric)-1.6.0.jar",
             "MD5": "99d258af227e5e05930924905b4fc134"
           }
         },
@@ -1154,7 +1154,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 160909,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/rrls-4.0.3+mc1.20.4-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/rrls-4.0.3+mc1.20.4-fabric.jar",
             "MD5": "d053e808ed35b00fb8062395854cf7d1"
           }
         },
@@ -1164,7 +1164,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 167858,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/ShoulderSurfing-Fabric-1.20.4-4.2.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/ShoulderSurfing-Fabric-1.20.4-4.2.1.jar",
             "MD5": "16d2e8e04915181250c62c0991943156"
           },
           "required": {
@@ -1177,7 +1177,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1225846,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/shulkerboxtooltip-fabric-4.1.0+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/shulkerboxtooltip-fabric-4.1.0+1.20.4.jar",
             "MD5": "949844eb69788cc29ac62ef1cbadbae3"
           },
           "required": {
@@ -1190,7 +1190,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1169209,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/simple-hud-enhanced+1.20.2-1.20.4-4.7.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/simple-hud-enhanced+1.20.2-1.20.4-4.7.3.jar",
             "MD5": "0ac564e94b26cea7a84bf5f100c91bea"
           },
           "required": {
@@ -1203,7 +1203,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 479930,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/skinlayers3d-fabric-1.7.4-mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/skinlayers3d-fabric-1.7.4-mc1.20.4.jar",
             "MD5": "eb814744630eeadcfce38a71cdb18f6d"
           },
           "required": {
@@ -1216,7 +1216,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 50456,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/smoothscroll-2.1.2-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/smoothscroll-2.1.2-1.20.4.jar",
             "MD5": "5a276d5b83f25b1def9cf6cbe1bac29f"
           },
           "required": {
@@ -1229,7 +1229,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 61122,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/smoothswapping-0.9.2-1.20.4-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/smoothswapping-0.9.2-1.20.4-fabric.jar",
             "MD5": "1886668c820092d50578e9d14e99fcc8"
           },
           "required": {
@@ -1242,7 +1242,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 385665,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/sodium-extra-0.5.4+mc1.20.4-build.116.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/sodium-extra-0.5.4+mc1.20.4-build.116.jar",
             "MD5": "a414a1b266c8e6bd22b37c72413000ff"
           }
         },
@@ -1252,7 +1252,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 949085,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
             "MD5": "d7753a50ca37f50abb10465a9a425dac"
           }
         },
@@ -1262,7 +1262,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 195142,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/sound-physics-remastered-fabric-1.20.4-1.4.5.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/sound-physics-remastered-fabric-1.20.4-1.4.5.jar",
             "MD5": "37038ab44ed2110b7bd73b67b590381e"
           },
           "required": {
@@ -1275,7 +1275,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 9135894,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/Sounds-1.1.5+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/Sounds-1.1.5+1.20.4.jar",
             "MD5": "a365a35ef223fa705a93ffe2275c8068"
           },
           "required": {
@@ -1288,7 +1288,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 126410,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/starlight-1.1.3+fabric.f5dcd1a.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/starlight-1.1.3+fabric.f5dcd1a.jar",
             "MD5": "e4b2c577ba4501b8cc29c7217eeaf108"
           }
         },
@@ -1298,7 +1298,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 43010,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/status-effect-bars-1.0.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/status-effect-bars-1.0.4.jar",
             "MD5": "c9bc80d8ffa655439bad43e62c310860"
           },
           "required": {
@@ -1311,7 +1311,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 205413,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/supermartijn642configlib-1.1.8a-fabric-mc1.20.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/supermartijn642configlib-1.1.8a-fabric-mc1.20.2.jar",
             "MD5": "d28265e83aa74ee97209f277cfb8863d"
           }
         },
@@ -1321,7 +1321,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 94415,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/sushi_bar-0.2.2+1.20.3.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/sushi_bar-0.2.2+1.20.3.jar",
             "MD5": "06922e3de203f37fa07d493f724b098b"
           }
         },
@@ -1331,7 +1331,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 861776,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/tcdcommons-3.12.3+fabric-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/tcdcommons-3.12.3+fabric-1.20.4.jar",
             "MD5": "a15b3e570504e050401f1dbfce75bdac"
           }
         },
@@ -1341,7 +1341,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 18492,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/tia-1.20-1.1-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/tia-1.20-1.1-fabric.jar",
             "MD5": "262aef6a6587de46b8238ca1144deea5"
           },
           "required": {
@@ -1354,7 +1354,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 76778,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/visuality-0.7.4+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/visuality-0.7.4+1.20.4.jar",
             "MD5": "c2eddafc0dd08abff152d2d313839ffa"
           },
           "required": {
@@ -1367,7 +1367,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77600,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/VisualWorkbench-v20.4.2-1.20.4-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/VisualWorkbench-v20.4.2-1.20.4-Fabric.jar",
             "MD5": "a9921ec436470683652b6d26aedd1d62"
           },
           "required": {
@@ -1380,7 +1380,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1107941,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/YetAnotherConfigLib-3.6.2+1.20.4-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/YetAnotherConfigLib-3.6.2+1.20.4-fabric.jar",
             "MD5": "312e74529b1f6bfc79c5334375bf9bb7"
           }
         },
@@ -1390,7 +1390,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 17373,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/required/yosbr-0.1.2.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/yosbr-0.1.2.jar",
             "MD5": "9fcce225f25b6fd17921c87ff1c720f1"
           }
         },
@@ -1400,7 +1400,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 807874,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/fabricmods/optionalon/Zoomify-2.14.2+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/Zoomify-2.14.2+1.20.4.jar",
             "MD5": "cf99ab393d527fda2e146206ac447a5d"
           },
           "required": {
@@ -1413,7 +1413,7 @@
           "type": "File",
           "artifact": {
             "size": 49,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/citresewn-defaults.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/citresewn-defaults.json",
             "MD5": "bc5045a4380a10d3b83bedd196a37f28",
             "path": "config/citresewn-defaults.json"
           }
@@ -1424,7 +1424,7 @@
           "type": "File",
           "artifact": {
             "size": 22,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/citresewn.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/citresewn.json",
             "MD5": "dda0ba4f22cfad7e248623fecdba5fa5",
             "path": "config/citresewn.json"
           }
@@ -1435,7 +1435,7 @@
           "type": "File",
           "artifact": {
             "size": 5216,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/debugify-descriptions.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/debugify-descriptions.json",
             "MD5": "f2e676c1c56101566ae01b2f5a83c4e5",
             "path": "config/debugify-descriptions.json"
           }
@@ -1446,7 +1446,7 @@
           "type": "File",
           "artifact": {
             "size": 266,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/debugify.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/debugify.json",
             "MD5": "8fe473c407458fe08c7c49f996a79e5a",
             "path": "config/debugify.json"
           }
@@ -1457,7 +1457,7 @@
           "type": "File",
           "artifact": {
             "size": 28,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/etf_warnings.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/etf_warnings.json",
             "MD5": "b49b5603d2df29fa132f89ec91974572",
             "path": "config/etf_warnings.json"
           }
@@ -1468,7 +1468,7 @@
           "type": "File",
           "artifact": {
             "size": 566,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/assets/title_v2-16x.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/assets/title_v2-16x.png",
             "MD5": "1f70fbd1e2e3eac52b9a632d5a4029c2",
             "path": "config/fancymenu/assets/title_v2-16x.png"
           }
@@ -1479,7 +1479,7 @@
           "type": "File",
           "artifact": {
             "size": 4418,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/assets/title_v2-32x.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/assets/title_v2-32x.png",
             "MD5": "47a5068e2b64e6bd2c595a27c36f5dc8",
             "path": "config/fancymenu/assets/title_v2-32x.png"
           }
@@ -1490,7 +1490,7 @@
           "type": "File",
           "artifact": {
             "size": 10420,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/assets/title_v2-with_background.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/assets/title_v2-with_background.png",
             "MD5": "fb75acf743e581daae100c401ba44030",
             "path": "config/fancymenu/assets/title_v2-with_background.png"
           }
@@ -1501,7 +1501,7 @@
           "type": "File",
           "artifact": {
             "size": 128209,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/assets/title_v2.icns",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/assets/title_v2.icns",
             "MD5": "18080cc3b7a8ec2b6774acaf8fdeb5bc",
             "path": "config/fancymenu/assets/title_v2.icns"
           }
@@ -1512,7 +1512,7 @@
           "type": "File",
           "artifact": {
             "size": 2958,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/assets/title_v2.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/assets/title_v2.png",
             "MD5": "61349854c258ebff315b8078e32e2902",
             "path": "config/fancymenu/assets/title_v2.png"
           }
@@ -1523,7 +1523,7 @@
           "type": "File",
           "artifact": {
             "size": 84,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/customizablemenus.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/customizablemenus.txt",
             "MD5": "c646f001e3312047405346b7e58edba2",
             "path": "config/fancymenu/customizablemenus.txt"
           }
@@ -1534,7 +1534,7 @@
           "type": "File",
           "artifact": {
             "size": 17007,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/customization/pause_screen_layout.txt",
             "MD5": "600c653003cffefdb7492ca12ef718a9",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
@@ -1545,7 +1545,7 @@
           "type": "File",
           "artifact": {
             "size": 23257,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/customization/title_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/customization/title_screen_layout.txt",
             "MD5": "a46e202aa0157a9fcfbb31c57b6e6702",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
@@ -1556,7 +1556,7 @@
           "type": "File",
           "artifact": {
             "size": 51,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/custom_gui_screens.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/custom_gui_screens.txt",
             "MD5": "106e52948415f0879c53304f50783b28",
             "path": "config/fancymenu/custom_gui_screens.txt"
           }
@@ -1567,7 +1567,7 @@
           "type": "File",
           "artifact": {
             "size": 197,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
             "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
@@ -1578,7 +1578,7 @@
           "type": "File",
           "artifact": {
             "size": 42,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/legacy_checklist.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/legacy_checklist.txt",
             "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
             "path": "config/fancymenu/legacy_checklist.txt"
           }
@@ -1589,7 +1589,7 @@
           "type": "File",
           "artifact": {
             "size": 1958,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/options.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/options.txt",
             "MD5": "da43e2012f4b21008cddccc422116ad6",
             "path": "config/fancymenu/options.txt"
           }
@@ -1600,7 +1600,7 @@
           "type": "File",
           "artifact": {
             "size": 4133,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/ui_themes/dark.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/ui_themes/dark.json",
             "MD5": "1fc916f1d20b24c5f0d2d138d19c49a4",
             "path": "config/fancymenu/ui_themes/dark.json"
           }
@@ -1611,7 +1611,7 @@
           "type": "File",
           "artifact": {
             "size": 4135,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/ui_themes/light.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/ui_themes/light.json",
             "MD5": "adfba137b3d62c50a5186a4f6523a72a",
             "path": "config/fancymenu/ui_themes/light.json"
           }
@@ -1622,7 +1622,7 @@
           "type": "File",
           "artifact": {
             "size": 23,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fancymenu/user_variables.db",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fancymenu/user_variables.db",
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
           }
@@ -1633,7 +1633,7 @@
           "type": "File",
           "artifact": {
             "size": 123,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/fastquit.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/fastquit.toml",
             "MD5": "8c1bd0cad1b72bf351f5032d448dca10",
             "path": "config/fastquit.toml"
           }
@@ -1644,7 +1644,7 @@
           "type": "File",
           "artifact": {
             "size": 1525,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/ferritecore.mixin.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/ferritecore.mixin.properties",
             "MD5": "bf3e6be63e300b0290cfc849beb64ede",
             "path": "config/ferritecore.mixin.properties"
           }
@@ -1655,7 +1655,7 @@
           "type": "File",
           "artifact": {
             "size": 1825,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/forgeconfigapiport.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/forgeconfigapiport.toml",
             "MD5": "a8c531c436edc482cde97f0071778c8d",
             "path": "config/forgeconfigapiport.toml"
           }
@@ -1666,7 +1666,7 @@
           "type": "File",
           "artifact": {
             "size": 359,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/isxander-main-menu-credits.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/isxander-main-menu-credits.json",
             "MD5": "d481ee3eeba6632ad0a14a0ed972301d",
             "path": "config/isxander-main-menu-credits.json"
           }
@@ -1677,7 +1677,7 @@
           "type": "File",
           "artifact": {
             "size": 369,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/konkrete/locals/de_de.local",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/konkrete/locals/de_de.local",
             "MD5": "3aac3df2519057d2305f894c37771e30",
             "path": "config/konkrete/locals/de_de.local"
           }
@@ -1688,7 +1688,7 @@
           "type": "File",
           "artifact": {
             "size": 426,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/konkrete/locals/en_us.local",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/konkrete/locals/en_us.local",
             "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
             "path": "config/konkrete/locals/en_us.local"
           }
@@ -1699,7 +1699,7 @@
           "type": "File",
           "artifact": {
             "size": 313,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/konkrete/locals/pl_pl.local",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/konkrete/locals/pl_pl.local",
             "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
             "path": "config/konkrete/locals/pl_pl.local"
           }
@@ -1710,7 +1710,7 @@
           "type": "File",
           "artifact": {
             "size": 322,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/konkrete/locals/pt_br.local",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/konkrete/locals/pt_br.local",
             "MD5": "2d055da094c115b94f0e4373a2e06ebe",
             "path": "config/konkrete/locals/pt_br.local"
           }
@@ -1721,7 +1721,7 @@
           "type": "File",
           "artifact": {
             "size": 206,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/modelfix-client.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/modelfix-client.json",
             "MD5": "bddb52111aa6b3b9fe5d30aba14d5f3a",
             "path": "config/modelfix-client.json"
           }
@@ -1732,7 +1732,7 @@
           "type": "File",
           "artifact": {
             "size": 3532,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/modernfix-mixins.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/modernfix-mixins.properties",
             "MD5": "7c16eee6d660b9c9d1322503344d3f12",
             "path": "config/modernfix-mixins.properties"
           }
@@ -1743,7 +1743,7 @@
           "type": "File",
           "artifact": {
             "size": 3429,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/ambientsounds-client.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/ambientsounds-client.json",
             "MD5": "af11b3fd1730392d37d35d82cf2acae9",
             "path": "config/yosbr/config/ambientsounds-client.json"
           }
@@ -1754,7 +1754,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/animatica.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/animatica.properties",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/yosbr/config/animatica.properties"
           }
@@ -1765,7 +1765,7 @@
           "type": "File",
           "artifact": {
             "size": 1327,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/appleskin.json5",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/appleskin.json5",
             "MD5": "406b4584562fb60304a8adc824de0000",
             "path": "config/yosbr/config/appleskin.json5"
           }
@@ -1776,7 +1776,7 @@
           "type": "File",
           "artifact": {
             "size": 1942,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/betterf3.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/betterf3.json",
             "MD5": "9e3631fe88a47b0b502c274d17298bf4",
             "path": "config/yosbr/config/betterf3.json"
           }
@@ -1787,7 +1787,7 @@
           "type": "File",
           "artifact": {
             "size": 1009,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/betterstats.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/betterstats.json",
             "MD5": "4920d17bf58bb03983cd006f9dc07eed",
             "path": "config/yosbr/config/betterstats.json"
           }
@@ -1798,7 +1798,7 @@
           "type": "File",
           "artifact": {
             "size": 697,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/blur.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/blur.json",
             "MD5": "6f0063acd055223fff02e5d7f358ae78",
             "path": "config/yosbr/config/blur.json"
           }
@@ -1809,7 +1809,7 @@
           "type": "File",
           "artifact": {
             "size": 7699,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/c2me.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/c2me.toml",
             "MD5": "27726130b9dd7131f82d5e3212ab60ee",
             "path": "config/yosbr/config/c2me.toml"
           }
@@ -1820,7 +1820,7 @@
           "type": "File",
           "artifact": {
             "size": 206,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/capes.json5",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/capes.json5",
             "MD5": "9f9407f4c74f6f6bfedbdb4973487e33",
             "path": "config/yosbr/config/capes.json5"
           }
@@ -1831,7 +1831,7 @@
           "type": "File",
           "artifact": {
             "size": 186,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/chat_heads.json5",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/chat_heads.json5",
             "MD5": "bb9ec2f6f04d4905eb0501d30ce13923",
             "path": "config/yosbr/config/chat_heads.json5"
           }
@@ -1842,7 +1842,7 @@
           "type": "File",
           "artifact": {
             "size": 122,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/continuity.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/continuity.json",
             "MD5": "16114edbb9460c49373bb12561ddf7c3",
             "path": "config/yosbr/config/continuity.json"
           }
@@ -1853,7 +1853,7 @@
           "type": "File",
           "artifact": {
             "size": 601,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/controlify.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/controlify.json",
             "MD5": "fc7e744e5331d17183ef05c82161519d",
             "path": "config/yosbr/config/controlify.json"
           }
@@ -1864,7 +1864,7 @@
           "type": "File",
           "artifact": {
             "size": 209,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/cubes-without-borders.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/cubes-without-borders.json",
             "MD5": "6fd38dd98b555645a417b64eb141af98",
             "path": "config/yosbr/config/cubes-without-borders.json"
           }
@@ -1875,7 +1875,7 @@
           "type": "File",
           "artifact": {
             "size": 42,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/cullleaves.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/cullleaves.json",
             "MD5": "727604a10633c683eb5b0b24985f2db2",
             "path": "config/yosbr/config/cullleaves.json"
           }
@@ -1886,7 +1886,7 @@
           "type": "File",
           "artifact": {
             "size": 1632,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/durabilitytooltip-common.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/durabilitytooltip-common.toml",
             "MD5": "17ad6abd0237b5d92d1ccffc7d74a63d",
             "path": "config/yosbr/config/durabilitytooltip-common.toml"
           }
@@ -1897,7 +1897,7 @@
           "type": "File",
           "artifact": {
             "size": 230,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/dynamic_fps.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/dynamic_fps.json",
             "MD5": "5d30dd25b16cb241df14a069f2d77a43",
             "path": "config/yosbr/config/dynamic_fps.json"
           }
@@ -1908,7 +1908,7 @@
           "type": "File",
           "artifact": {
             "size": 10083,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/emi.css",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/emi.css",
             "MD5": "03d36fa985ec769538782c0e356578be",
             "path": "config/yosbr/config/emi.css"
           }
@@ -1919,7 +1919,7 @@
           "type": "File",
           "artifact": {
             "size": 115,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/emitrades.json5",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/emitrades.json5",
             "MD5": "24f05a62d98228406a09683401b7fc1a",
             "path": "config/yosbr/config/emitrades.json5"
           }
@@ -1930,7 +1930,7 @@
           "type": "File",
           "artifact": {
             "size": 781,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/emi_loot_config.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/emi_loot_config.toml",
             "MD5": "7ee5f754d859b3a8e364f293488c3ca2",
             "path": "config/yosbr/config/emi_loot_config.toml"
           }
@@ -1941,7 +1941,7 @@
           "type": "File",
           "artifact": {
             "size": 1115,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/entity_model_features.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/entity_model_features.json",
             "MD5": "2303f1f389426ed19f18c61bd68e169d",
             "path": "config/yosbr/config/entity_model_features.json"
           }
@@ -1952,7 +1952,7 @@
           "type": "File",
           "artifact": {
             "size": 1423,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/entity_texture_features.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/entity_texture_features.json",
             "MD5": "a3dd97c47dcc8ddaa008ab4b44f72a6a",
             "path": "config/yosbr/config/entity_texture_features.json"
           }
@@ -1963,7 +1963,7 @@
           "type": "File",
           "artifact": {
             "size": 170,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/fabricskyboxes-config.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/fabricskyboxes-config.json",
             "MD5": "284099a6533d9a4cefdb6022d7c8c984",
             "path": "config/yosbr/config/fabricskyboxes-config.json"
           }
@@ -1974,7 +1974,7 @@
           "type": "File",
           "artifact": {
             "size": 167,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/fabrishot.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/fabrishot.properties",
             "MD5": "be42f1be4f113eea9d1c2f4cc5cf309c",
             "path": "config/yosbr/config/fabrishot.properties"
           }
@@ -1985,7 +1985,7 @@
           "type": "File",
           "artifact": {
             "size": 601,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/fallingleaves.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/fallingleaves.json",
             "MD5": "bd5752ca1c1c4428964d1d5f7b145192",
             "path": "config/yosbr/config/fallingleaves.json"
           }
@@ -1996,7 +1996,7 @@
           "type": "File",
           "artifact": {
             "size": 1520,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/fpsreducer.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/fpsreducer.json",
             "MD5": "c251937ea151276c71b90cb8e34f6976",
             "path": "config/yosbr/config/fpsreducer.json"
           }
@@ -2007,7 +2007,7 @@
           "type": "File",
           "artifact": {
             "size": 550,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/freecam.json5",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/freecam.json5",
             "MD5": "45a4174663ec3af6f9dd13cfa60bae70",
             "path": "config/yosbr/config/freecam.json5"
           }
@@ -2018,7 +2018,7 @@
           "type": "File",
           "artifact": {
             "size": 145,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/fsb-interop.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/fsb-interop.json",
             "MD5": "fc853a7dcfefa77c2e0a355b6fa379df",
             "path": "config/yosbr/config/fsb-interop.json"
           }
@@ -2029,7 +2029,7 @@
           "type": "File",
           "artifact": {
             "size": 1059,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/immediatelyfast.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/immediatelyfast.json",
             "MD5": "031c83220e645580e0b2fec97bb5148f",
             "path": "config/yosbr/config/immediatelyfast.json"
           }
@@ -2040,7 +2040,7 @@
           "type": "File",
           "artifact": {
             "size": 115,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/indium-renderer.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/indium-renderer.properties",
             "MD5": "c4d6d29446c75b4faa1a126af8c31397",
             "path": "config/yosbr/config/indium-renderer.properties"
           }
@@ -2051,7 +2051,7 @@
           "type": "File",
           "artifact": {
             "size": 1177,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/inventoryprofilesnext/beartown.kr/villager-trading-config-v2.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/inventoryprofilesnext/beartown.kr/villager-trading-config-v2.json",
             "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/yosbr/config/inventoryprofilesnext/beartown.kr/villager-trading-config-v2.json"
           }
@@ -2062,7 +2062,7 @@
           "type": "File",
           "artifact": {
             "size": 1450,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
             "MD5": "1a018549a3d0f945870f75056ce7e5eb",
             "path": "config/yosbr/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
           }
@@ -2073,7 +2073,7 @@
           "type": "File",
           "artifact": {
             "size": 44,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/invmove/cloth-config.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/invmove/cloth-config.json",
             "MD5": "4a9c790f98f8783fb7d982dcd54a5efa",
             "path": "config/yosbr/config/invmove/cloth-config.json"
           }
@@ -2084,7 +2084,7 @@
           "type": "File",
           "artifact": {
             "size": 44,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/invmove/emi.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/invmove/emi.json",
             "MD5": "4a9c790f98f8783fb7d982dcd54a5efa",
             "path": "config/yosbr/config/invmove/emi.json"
           }
@@ -2095,7 +2095,7 @@
           "type": "File",
           "artifact": {
             "size": 3731,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/invmove/unrecognized.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/invmove/unrecognized.json",
             "MD5": "61ebd924c75e7df0655183990c2fc5b9",
             "path": "config/yosbr/config/invmove/unrecognized.json"
           }
@@ -2106,7 +2106,7 @@
           "type": "File",
           "artifact": {
             "size": 1024,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/invmove/vanilla.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/invmove/vanilla.json",
             "MD5": "292ba3a6f16d65c93b621cc0def177c3",
             "path": "config/yosbr/config/invmove/vanilla.json"
           }
@@ -2117,7 +2117,7 @@
           "type": "File",
           "artifact": {
             "size": 352,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/invmove.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/invmove.json",
             "MD5": "a55bbdc26788256d72c0bba8eaaca596",
             "path": "config/yosbr/config/invmove.json"
           }
@@ -2128,7 +2128,7 @@
           "type": "File",
           "artifact": {
             "size": 283,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/iris.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/iris.properties",
             "MD5": "702ce596a2b40d7b71a89f6ca84c65cd",
             "path": "config/yosbr/config/iris.properties"
           }
@@ -2139,7 +2139,7 @@
           "type": "File",
           "artifact": {
             "size": 24,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/itemphysiclite-client.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/itemphysiclite-client.json",
             "MD5": "f3ff8365d75557b9ea87d819c0242a1b",
             "path": "config/yosbr/config/itemphysiclite-client.json"
           }
@@ -2150,7 +2150,7 @@
           "type": "File",
           "artifact": {
             "size": 3242,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/itemscroller.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/itemscroller.json",
             "MD5": "a2519bb53f22b7ccbbdc051bdcff1bed",
             "path": "config/yosbr/config/itemscroller.json"
           }
@@ -2161,7 +2161,7 @@
           "type": "File",
           "artifact": {
             "size": 149,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/jade/hide-blocks.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/jade/hide-blocks.json",
             "MD5": "83c9f405ab4ae1427f76ab4a30a16644",
             "path": "config/yosbr/config/jade/hide-blocks.json"
           }
@@ -2172,7 +2172,7 @@
           "type": "File",
           "artifact": {
             "size": 243,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/jade/hide-entities.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/jade/hide-entities.json",
             "MD5": "a52182a33844468228bdbc58dbe5a73a",
             "path": "config/yosbr/config/jade/hide-entities.json"
           }
@@ -2183,7 +2183,7 @@
           "type": "File",
           "artifact": {
             "size": 1026,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/jade/jade.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/jade/jade.json",
             "MD5": "dbd6e8269592e8a4613b336f7ce9f13d",
             "path": "config/yosbr/config/jade/jade.json"
           }
@@ -2194,7 +2194,7 @@
           "type": "File",
           "artifact": {
             "size": 1754,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/jade/plugins.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/jade/plugins.json",
             "MD5": "fd2c6fa4d2d832069f59a69637cf4f7e",
             "path": "config/yosbr/config/jade/plugins.json"
           }
@@ -2205,7 +2205,7 @@
           "type": "File",
           "artifact": {
             "size": 3602,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/jade/sort-order.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/jade/sort-order.json",
             "MD5": "773a92a590bf28f7b8f65e9340d64bb7",
             "path": "config/yosbr/config/jade/sort-order.json"
           }
@@ -2216,7 +2216,7 @@
           "type": "File",
           "artifact": {
             "size": 304,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/lambdynlights.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/lambdynlights.toml",
             "MD5": "e8e92c8cbad0e6fdf8ede101546d7a2e",
             "path": "config/yosbr/config/lambdynlights.toml"
           }
@@ -2227,7 +2227,7 @@
           "type": "File",
           "artifact": {
             "size": 179,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/languagereload.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/languagereload.json",
             "MD5": "99613d4865bfe1a2ddf1548253fffafc",
             "path": "config/yosbr/config/languagereload.json"
           }
@@ -2238,7 +2238,7 @@
           "type": "File",
           "artifact": {
             "size": 19,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/leahs-immersive-thunder.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/leahs-immersive-thunder.toml",
             "MD5": "bddcd96575a1f604790faedaa8840ce2",
             "path": "config/yosbr/config/leahs-immersive-thunder.toml"
           }
@@ -2249,7 +2249,7 @@
           "type": "File",
           "artifact": {
             "size": 430,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/lithium.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/lithium.properties",
             "MD5": "422e0797eef9c35fe7d8ecea0ac3f567",
             "path": "config/yosbr/config/lithium.properties"
           }
@@ -2260,7 +2260,7 @@
           "type": "File",
           "artifact": {
             "size": 383,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/make_bubbles_pop.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/make_bubbles_pop.json",
             "MD5": "77084faec3e3611042be08ebd456ad00",
             "path": "config/yosbr/config/make_bubbles_pop.json"
           }
@@ -2271,7 +2271,7 @@
           "type": "File",
           "artifact": {
             "size": 146,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/malilib.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/malilib.json",
             "MD5": "d34798c096a2cf2ce733ae0416ff548e",
             "path": "config/yosbr/config/malilib.json"
           }
@@ -2282,7 +2282,7 @@
           "type": "File",
           "artifact": {
             "size": 30,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/midnightlib.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/midnightlib.json",
             "MD5": "faf5b671cdefd24677633d1bf81130b9",
             "path": "config/yosbr/config/midnightlib.json"
           }
@@ -2293,7 +2293,7 @@
           "type": "File",
           "artifact": {
             "size": 809,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/modmenu.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/modmenu.json",
             "MD5": "fbb8da88645a5cbbfc7408056155405d",
             "path": "config/yosbr/config/modmenu.json"
           }
@@ -2304,7 +2304,7 @@
           "type": "File",
           "artifact": {
             "size": 553,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/moreculling.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/moreculling.toml",
             "MD5": "48b79a9e43db43ae2b104e4f3f6b9628",
             "path": "config/yosbr/config/moreculling.toml"
           }
@@ -2315,7 +2315,7 @@
           "type": "File",
           "artifact": {
             "size": 572,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/NoChatReports/NCR-Client.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/NoChatReports/NCR-Client.json",
             "MD5": "c8784797401b3467ef71a1339983dff0",
             "path": "config/yosbr/config/NoChatReports/NCR-Client.json"
           }
@@ -2326,7 +2326,7 @@
           "type": "File",
           "artifact": {
             "size": 231,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/NoChatReports/NCR-Common.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/NoChatReports/NCR-Common.json",
             "MD5": "94b4fcd8cb48239a9e1f3f5bfd4380e3",
             "path": "config/yosbr/config/NoChatReports/NCR-Common.json"
           }
@@ -2337,7 +2337,7 @@
           "type": "File",
           "artifact": {
             "size": 521,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/NoChatReports/NCR-Encryption.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/NoChatReports/NCR-Encryption.json",
             "MD5": "61cfae7725e56309306c475b043c321e",
             "path": "config/yosbr/config/NoChatReports/NCR-Encryption.json"
           }
@@ -2348,7 +2348,7 @@
           "type": "File",
           "artifact": {
             "size": 24,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/NoChatReports/NCR-ServerPreferences.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/NoChatReports/NCR-ServerPreferences.json",
             "MD5": "0968f5e80aa16a9f465f91ee816e165f",
             "path": "config/yosbr/config/NoChatReports/NCR-ServerPreferences.json"
           }
@@ -2359,7 +2359,7 @@
           "type": "File",
           "artifact": {
             "size": 167,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/NoChatReports/README.md",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/NoChatReports/README.md",
             "MD5": "964a995c80aa43cc34d780276a65b898",
             "path": "config/yosbr/config/NoChatReports/README.md"
           }
@@ -2370,7 +2370,7 @@
           "type": "File",
           "artifact": {
             "size": 1500,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/notenoughanimations.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/notenoughanimations.json",
             "MD5": "b62228e2a0d36f0ffc005ee74604f144",
             "path": "config/yosbr/config/notenoughanimations.json"
           }
@@ -2381,7 +2381,7 @@
           "type": "File",
           "artifact": {
             "size": 315,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/PaginatedAdvancements.json5",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/PaginatedAdvancements.json5",
             "MD5": "117f60da0def826d0b8ae0f3e6e37bb7",
             "path": "config/yosbr/config/PaginatedAdvancements.json5"
           }
@@ -2392,7 +2392,7 @@
           "type": "File",
           "artifact": {
             "size": 1119,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/particular.json5",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/particular.json5",
             "MD5": "ddcebdcf90960654a345db40d1a02f19",
             "path": "config/yosbr/config/particular.json5"
           }
@@ -2403,7 +2403,7 @@
           "type": "File",
           "artifact": {
             "size": 3355,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/pickupnotifier/pickupnotifier-client.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/pickupnotifier/pickupnotifier-client.toml",
             "MD5": "ad8c9e8394f4ea292c21d20502240813",
             "path": "config/yosbr/config/pickupnotifier/pickupnotifier-client.toml"
           }
@@ -2414,7 +2414,7 @@
           "type": "File",
           "artifact": {
             "size": 68,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/presencefootsteps/updater.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/presencefootsteps/updater.json",
             "MD5": "6a16a5be1c185667699608f173008110",
             "path": "config/yosbr/config/presencefootsteps/updater.json"
           }
@@ -2425,7 +2425,7 @@
           "type": "File",
           "artifact": {
             "size": 427,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/presencefootsteps/userconfig.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/presencefootsteps/userconfig.json",
             "MD5": "f86e533cab775e23360a2de006fdd503",
             "path": "config/yosbr/config/presencefootsteps/userconfig.json"
           }
@@ -2436,7 +2436,7 @@
           "type": "File",
           "artifact": {
             "size": 525,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/puzzle.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/puzzle.json",
             "MD5": "48114c44bb0deae46b197143721cf5eb",
             "path": "config/yosbr/config/puzzle.json"
           }
@@ -2447,7 +2447,7 @@
           "type": "File",
           "artifact": {
             "size": 1813,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/replaymod.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/replaymod.json",
             "MD5": "6992f49a0924f0107953e7679f1391a2",
             "path": "config/yosbr/config/replaymod.json"
           }
@@ -2458,7 +2458,7 @@
           "type": "File",
           "artifact": {
             "size": 319,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/rrls.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/rrls.toml",
             "MD5": "52d4c2b08bee1b1573fabb3e7e97d6d2",
             "path": "config/yosbr/config/rrls.toml"
           }
@@ -2469,7 +2469,7 @@
           "type": "File",
           "artifact": {
             "size": 149,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/rrp.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/rrp.properties",
             "MD5": "10b5626035bcce4e59310599c7f8ed13",
             "path": "config/yosbr/config/rrp.properties"
           }
@@ -2480,7 +2480,7 @@
           "type": "File",
           "artifact": {
             "size": 11114,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/shouldersurfing-client.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/shouldersurfing-client.toml",
             "MD5": "6460022b4d075910b74015e23d0674a3",
             "path": "config/yosbr/config/shouldersurfing-client.toml"
           }
@@ -2491,7 +2491,7 @@
           "type": "File",
           "artifact": {
             "size": 2387,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/simplehudenhanced.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/simplehudenhanced.toml",
             "MD5": "31d45f361278c8108904b8190cdb1885",
             "path": "config/yosbr/config/simplehudenhanced.toml"
           }
@@ -2502,7 +2502,7 @@
           "type": "File",
           "artifact": {
             "size": 430,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/skinlayers.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/skinlayers.json",
             "MD5": "442c83a747a9b01708fa9587880e9341",
             "path": "config/yosbr/config/skinlayers.json"
           }
@@ -2513,7 +2513,7 @@
           "type": "File",
           "artifact": {
             "size": 362,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/smoothscroll.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/smoothscroll.json",
             "MD5": "7e40e8433eabc138d781c98fd4884118",
             "path": "config/yosbr/config/smoothscroll.json"
           }
@@ -2524,7 +2524,7 @@
           "type": "File",
           "artifact": {
             "size": 72,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/smoothswapping.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/smoothswapping.json",
             "MD5": "c57d8b454cf82c8d8957b33bdb21a420",
             "path": "config/yosbr/config/smoothswapping.json"
           }
@@ -2535,7 +2535,7 @@
           "type": "File",
           "artifact": {
             "size": 1690,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sodium-extra-options.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sodium-extra-options.json",
             "MD5": "93ddeccc9010ecb026b29995eff6d6ad",
             "path": "config/yosbr/config/sodium-extra-options.json"
           }
@@ -2546,7 +2546,7 @@
           "type": "File",
           "artifact": {
             "size": 360,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sodium-extra.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sodium-extra.properties",
             "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
             "path": "config/yosbr/config/sodium-extra.properties"
           }
@@ -2557,7 +2557,7 @@
           "type": "File",
           "artifact": {
             "size": 427,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sodium-fingerprint.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sodium-fingerprint.json",
             "MD5": "678f06c1be234553f7c25d758481bc73",
             "path": "config/yosbr/config/sodium-fingerprint.json"
           }
@@ -2568,7 +2568,7 @@
           "type": "File",
           "artifact": {
             "size": 258,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sodium-mixins.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sodium-mixins.properties",
             "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
             "path": "config/yosbr/config/sodium-mixins.properties"
           }
@@ -2579,7 +2579,7 @@
           "type": "File",
           "artifact": {
             "size": 630,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sodium-options.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sodium-options.json",
             "MD5": "d0fcdd4485106a8d349568c8f2900737",
             "path": "config/yosbr/config/sodium-options.json"
           }
@@ -2590,7 +2590,7 @@
           "type": "File",
           "artifact": {
             "size": 589,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sounds/chat.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sounds/chat.json",
             "MD5": "6a27787b4ec8bf0119fd4e6c30fc4c73",
             "path": "config/yosbr/config/sounds/chat.json"
           }
@@ -2601,7 +2601,7 @@
           "type": "File",
           "artifact": {
             "size": 797,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sounds/event.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sounds/event.json",
             "MD5": "c3f29ed1e95a458a27698a3c411ece6f",
             "path": "config/yosbr/config/sounds/event.json"
           }
@@ -2612,7 +2612,7 @@
           "type": "File",
           "artifact": {
             "size": 2108,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sounds/ui.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sounds/ui.json",
             "MD5": "94252fa9b7107f42790a7a9fb821d7f2",
             "path": "config/yosbr/config/sounds/ui.json"
           }
@@ -2623,7 +2623,7 @@
           "type": "File",
           "artifact": {
             "size": 1576,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sounds/world.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sounds/world.json",
             "MD5": "de1a5db2d40db185f4fe4e893bb01058",
             "path": "config/yosbr/config/sounds/world.json"
           }
@@ -2634,7 +2634,7 @@
           "type": "File",
           "artifact": {
             "size": 63006,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sound_physics_remastered/allowed_sounds.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sound_physics_remastered/allowed_sounds.properties",
             "MD5": "cc1150cc580f7dc3c063df3fe69266d9",
             "path": "config/yosbr/config/sound_physics_remastered/allowed_sounds.properties"
           }
@@ -2645,7 +2645,7 @@
           "type": "File",
           "artifact": {
             "size": 4831,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sound_physics_remastered/occlusion.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sound_physics_remastered/occlusion.properties",
             "MD5": "39a295e20bf7c06db4a6378195c9a8b2",
             "path": "config/yosbr/config/sound_physics_remastered/occlusion.properties"
           }
@@ -2656,7 +2656,7 @@
           "type": "File",
           "artifact": {
             "size": 4713,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sound_physics_remastered/reflectivity.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sound_physics_remastered/reflectivity.properties",
             "MD5": "9ceb4449a5064e30a26675ab2c407d0d",
             "path": "config/yosbr/config/sound_physics_remastered/reflectivity.properties"
           }
@@ -2667,7 +2667,7 @@
           "type": "File",
           "artifact": {
             "size": 4908,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/sound_physics_remastered/soundphysics.properties",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/sound_physics_remastered/soundphysics.properties",
             "MD5": "23fe19e40092835b07cedbd8832b401f",
             "path": "config/yosbr/config/sound_physics_remastered/soundphysics.properties"
           }
@@ -2678,7 +2678,7 @@
           "type": "File",
           "artifact": {
             "size": 666,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/status-effect-bars.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/status-effect-bars.json",
             "MD5": "342007123fec48f4a0ac940e1e10cf25",
             "path": "config/yosbr/config/status-effect-bars.json"
           }
@@ -2689,7 +2689,7 @@
           "type": "File",
           "artifact": {
             "size": 51,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/tia.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/tia.json",
             "MD5": "b1d6b911625ae98766e749b687208ba4",
             "path": "config/yosbr/config/tia.json"
           }
@@ -2700,7 +2700,7 @@
           "type": "File",
           "artifact": {
             "size": 1142,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/visuality.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/visuality.json",
             "MD5": "413f495adf76dc7979ef198ba04b86f4",
             "path": "config/yosbr/config/visuality.json"
           }
@@ -2711,7 +2711,7 @@
           "type": "File",
           "artifact": {
             "size": 384,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/visualworkbench-client.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/visualworkbench-client.toml",
             "MD5": "6391ba694225286bfdc54c01e84f9e20",
             "path": "config/yosbr/config/visualworkbench-client.toml"
           }
@@ -2722,7 +2722,7 @@
           "type": "File",
           "artifact": {
             "size": 35,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/yacl.json5",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/yacl.json5",
             "MD5": "81d542abb72c4750c7218e0d975e3368",
             "path": "config/yosbr/config/yacl.json5"
           }
@@ -2733,7 +2733,7 @@
           "type": "File",
           "artifact": {
             "size": 713,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/config/zoomify.json",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/zoomify.json",
             "MD5": "9724d512b38a85f4e133cf9e5dba357f",
             "path": "config/yosbr/config/zoomify.json"
           }
@@ -2744,7 +2744,7 @@
           "type": "File",
           "artifact": {
             "size": 7726,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/config/yosbr/options.txt",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/options.txt",
             "MD5": "91927e30280e6e9ec00a4d23011da453",
             "path": "config/yosbr/options.txt"
           }
@@ -2755,7 +2755,7 @@
           "type": "File",
           "artifact": {
             "size": 2547,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/essential/config.toml",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/essential/config.toml",
             "path": "essential/config.toml"
           }
         },
@@ -2765,7 +2765,7 @@
           "type": "File",
           "artifact": {
             "size": 11447859,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/Better_Dogs_V0.41.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/Better_Dogs_V0.41.zip",
             "MD5": "120f28724b311d2a6a931f75aa9591ee",
             "path": "resourcepacks/Better_Dogs_V0.41.zip"
           }
@@ -2776,7 +2776,7 @@
           "type": "File",
           "artifact": {
             "size": 63195,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/Chat%20Reporting%20Helper.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/Chat%20Reporting%20Helper.zip",
             "MD5": "5687765341977e56ddc19fe689c38235",
             "path": "resourcepacks/Chat Reporting Helper.zip"
           }
@@ -2787,7 +2787,7 @@
           "type": "File",
           "artifact": {
             "size": 243282,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/FA+All_Extensions-v1.4%20-%20NO%20SPIDER%20AND%20CHEST.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/FA+All_Extensions-v1.4%20-%20NO%20SPIDER%20AND%20CHEST.zip",
             "MD5": "2ab9aeeaf0b44e6425a14831b423e207",
             "path": "resourcepacks/FA+All_Extensions-v1.4 - NO SPIDER AND CHEST.zip"
           }
@@ -2798,7 +2798,7 @@
           "type": "File",
           "artifact": {
             "size": 260285,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/FA+All_Extensions-v1.4.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/FA+All_Extensions-v1.4.zip",
             "MD5": "6923ea8556177cc93166c01dc40a64e1",
             "path": "resourcepacks/FA+All_Extensions-v1.4.zip"
           }
@@ -2809,7 +2809,7 @@
           "type": "File",
           "artifact": {
             "size": 13961379,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/Faithful%2064x%20-%20Release%203.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/Faithful%2064x%20-%20Release%203.zip",
             "MD5": "9be95fcfb64336e64e489388da977e1f",
             "path": "resourcepacks/Faithful 64x - Release 3.zip"
           }
@@ -2820,7 +2820,7 @@
           "type": "File",
           "artifact": {
             "size": 1101328,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/Faithful64x-FreshAnimations-v1.9.2.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/Faithful64x-FreshAnimations-v1.9.2.zip",
             "MD5": "1caf8ddca904c52ed077d996825b4011",
             "path": "resourcepacks/Faithful64x-FreshAnimations-v1.9.2.zip"
           }
@@ -2831,7 +2831,7 @@
           "type": "File",
           "artifact": {
             "size": 10917,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/Fast%20Better%20Grass.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/Fast%20Better%20Grass.zip",
             "MD5": "e30b16d8582feec333a1cc0186b070f5",
             "path": "resourcepacks/Fast Better Grass.zip"
           }
@@ -2842,7 +2842,7 @@
           "type": "File",
           "artifact": {
             "size": 511191,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/FreshAnimations_v1.9.2%20-%20NO%20SPIDER.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/FreshAnimations_v1.9.2%20-%20NO%20SPIDER.zip",
             "MD5": "2bfb1cb5e4c24fc825acee485ada5843",
             "path": "resourcepacks/FreshAnimations_v1.9.2 - NO SPIDER.zip"
           }
@@ -2853,7 +2853,7 @@
           "type": "File",
           "artifact": {
             "size": 516256,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/FreshAnimations_v1.9.2.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/FreshAnimations_v1.9.2.zip",
             "MD5": "ebdaffde1a25273994c74b5d9ec21e1f",
             "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
           }
@@ -2864,7 +2864,7 @@
           "type": "File",
           "artifact": {
             "size": 612689,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/MandalasGUI_Dakmode_Vanilla1.20.4.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/MandalasGUI_Dakmode_Vanilla1.20.4.zip",
             "MD5": "71e530ec06b2337a68b55d70340e6306",
             "path": "resourcepacks/MandalasGUI_Dakmode_Vanilla1.20.4.zip"
           }
@@ -2875,7 +2875,7 @@
           "type": "File",
           "artifact": {
             "size": 54290,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/Mod%20Menu%20Helper.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/Mod%20Menu%20Helper.zip",
             "MD5": "1eacca001328b5c6db5dc6bfa33d765d",
             "path": "resourcepacks/Mod Menu Helper.zip"
           }
@@ -2886,7 +2886,7 @@
           "type": "File",
           "artifact": {
             "size": 185200,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/Os'%20Colorful%20Grasses%20(Short+FluffierFerns).zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/Os'%20Colorful%20Grasses%20(Short+FluffierFerns).zip",
             "MD5": "8cdf82a257193efa8611277e31be22bf",
             "path": "resourcepacks/Os' Colorful Grasses (Short+FluffierFerns).zip"
           }
@@ -2897,7 +2897,7 @@
           "type": "File",
           "artifact": {
             "size": 281382,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/RAYs-3D-Ladders-for-Faithful-64x.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/RAYs-3D-Ladders-for-Faithful-64x.zip",
             "MD5": "3771c626cc658cd930a6613c242d1c8e",
             "path": "resourcepacks/RAYs-3D-Ladders-for-Faithful-64x.zip"
           }
@@ -2908,7 +2908,7 @@
           "type": "File",
           "artifact": {
             "size": 218738,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/SodiumTranslations.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/SodiumTranslations.zip",
             "MD5": "ff98a493254202fc3d1160014bdd18bd",
             "path": "resourcepacks/SodiumTranslations.zip"
           }
@@ -2919,7 +2919,7 @@
           "type": "File",
           "artifact": {
             "size": 7553340,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/Unique%20Dark%201.20.2-1.21.x%20(free).zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/Unique%20Dark%201.20.2-1.21.x%20(free).zip",
             "MD5": "bccca3a05e764a92142ce522f8c47fdb",
             "path": "resourcepacks/Unique Dark 1.20.2-1.21.x (free).zip"
           }
@@ -2930,7 +2930,7 @@
           "type": "File",
           "artifact": {
             "size": 800931,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/%C2%A79RAY's%20%C2%A7f3D%20%C2%A76Rails%C2%A78%C2%A7o%C2%A7k.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/%C2%A79RAY's%20%C2%A7f3D%20%C2%A76Rails%C2%A78%C2%A7o%C2%A7k.zip",
             "MD5": "824f06b6141ff71ec4653c1c21956ce1",
             "path": "resourcepacks/§9RAY's §f3D §6Rails§8§o§k.zip"
           }
@@ -2941,7 +2941,7 @@
           "type": "File",
           "artifact": {
             "size": 160203,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/resourcepacks/%C2%A7fFancy%C2%A75Fast%20%C2%A72Bushy%20Leaves%C2%A70.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/resourcepacks/%C2%A7fFancy%C2%A75Fast%20%C2%A72Bushy%20Leaves%C2%A70.zip",
             "MD5": "627dc060a27c1eeb8e889de82289868b",
             "path": "resourcepacks/§fFancy§5Fast §2Bushy Leaves§0.zip"
           }
@@ -2952,7 +2952,7 @@
           "type": "File",
           "artifact": {
             "size": 446656,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/shaderpacks/ComplementaryReimagined_r5.3.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/shaderpacks/ComplementaryReimagined_r5.3.zip",
             "MD5": "16aed916088bde7a7e4a252e3d7ebcda",
             "path": "shaderpacks/ComplementaryReimagined_r5.3.zip"
           }
@@ -2963,7 +2963,7 @@
           "type": "File",
           "artifact": {
             "size": 446661,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/shaderpacks/ComplementaryUnbound_r5.3.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/shaderpacks/ComplementaryUnbound_r5.3.zip",
             "MD5": "50893f00c06b63dfd140dbcac22cc69f",
             "path": "shaderpacks/ComplementaryUnbound_r5.3.zip"
           }
@@ -2974,7 +2974,7 @@
           "type": "File",
           "artifact": {
             "size": 1558823,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/shaderpacks/photon_v1.0a.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/shaderpacks/photon_v1.0a.zip",
             "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
             "path": "shaderpacks/photon_v1.0a.zip"
           }
@@ -2985,7 +2985,7 @@
           "type": "File",
           "artifact": {
             "size": 3182645,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/normal/servers/BearTown-1.20.4/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV91.0%C2%A7r%C2%A7l.zip",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV91.0%C2%A7r%C2%A7l.zip",
             "MD5": "f8ee335e23b1e93cd4b839e8f60350d6",
             "path": "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV91.0§r§l.zip"
           }
