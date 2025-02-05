@@ -2997,7 +2997,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식",
       "icon": "https://static.japsik.xyz/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.0.0-hotfix.2",
+      "version": "1.0.1",
       "address": "play.chosik.japsik.xyz:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3255,6 +3255,34 @@
             "size": 16580,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/AutochefsDelight-1.21.1-Fabric-2.0.2.jar",
             "MD5": "0e0d721e2b8c3e4c92ef755b0838f14e"
+          }
+        },
+        {
+          "id": "com.moulberry:axiom:4.3.3@jar",
+          "name": "Axiom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 39143210,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionaloff/Axiom-4.3.3-for-MC1.21.jar",
+            "MD5": "8e950792ec8b1fb1f06017a7ddeb21f1"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:axiom-korean-support:1.0.4@jar",
+          "name": "Axiom Korean Support",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1207070,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionaloff/Axiom-Korean-Support-1.0.4.jar",
+            "MD5": "4f1444c80eb2ccc6fee386221bff5c03"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -4215,6 +4243,20 @@
             "size": 1190879,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/Fireplace-Lib-Fabric-7.1.2+1.21.1.jar",
             "MD5": "d0e94bea618f2196b652cd096c3e8f8f"
+          }
+        },
+        {
+          "id": "dev.tr7zw:firstperson:2.4.8@jar",
+          "name": "FirstPerson",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 120188,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionaloff/firstperson-fabric-2.4.8-mc1.21.jar",
+            "MD5": "d32668b4d63fcfdbf32fad5c36a0b734"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -6180,9 +6222,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 131,
+            "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "d9a94de8c4d142b68ab2ea5538d7fd61",
+            "MD5": "e55d6c99b75ed31d0632e0bb1dc2e148",
             "path": "config/bcc.json"
           }
         },
@@ -7236,9 +7278,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 309,
+            "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "a7cef5eaffbbfa983a7c800f05cdb0fd",
+            "MD5": "57d63509cb0d0dda35f10e7cd8d420a2",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
