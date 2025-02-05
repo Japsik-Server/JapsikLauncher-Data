@@ -49,8 +49,6 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","moonlight:mods_dynamic_assets"]
-incompatibleResourcePacks:["annotateddi","appleskin","badoptimizations","balm-fabric","bcc","betteradvancements","betterfpsdist","bookshelf","carryon","cherishedworlds","chunksending","comforts","computercraft","craterlib","distraction_free_recipes","emiprofessions","emojiful","enchdesc","fancymenu","fireplacelib","imaginebook","immersivelanterns","jade","jadeaddons","kleeslabs","konkrete","lootintegrations","mes","mns","modernfix","mr_dungeons_andtaverns","mru","mvs","neruina","netherportalfix","now-playing","packetfixer","pv-addon-soundphysics","redstonepen","replaymod","resourcify","simplerpc","smoothchunk","sodiumdynamiclights","sodiumextras","sodiumleafculling","sodiumoptionsapi","sodiumoptionsmodcompat","spectrelib","terrablender","toms_peripherals","txnilib","waterframes","yet_another_config_lib_v3"]
 lastServer:play.chosik.japsik.xyz
 lang:ko_kr
 chatVisibility:0
