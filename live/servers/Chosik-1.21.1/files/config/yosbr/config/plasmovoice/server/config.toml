@@ -19,7 +19,7 @@ port = 0
 sample_rate = 48000
 keep_alive_timeout_ms = 15000
 mtu_size = 1024
-client_mod_required = true
+client_mod_required = false
 client_mod_required_check_timeout_ms = 5000
 # Minimum required version for a client with the mod to connect to the voice server.
 # This will not kick the player but will simply not connect them to the voice server and will suggest downloading the required version.
