@@ -150,9 +150,9 @@
       "enabled": true
     },
     "lumisene": {
-      "enabled": true,
+      "enabled": false,
       "lumisene_bottle": {
-        "enabled": true,
+        "enabled": false,
         "flammable_duration": 300,
         "glowing_duration": 200
       },
