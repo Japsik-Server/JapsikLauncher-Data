@@ -2997,7 +2997,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식",
       "icon": "https://static.japsik.xyz/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.0.1-hotfix.1",
+      "version": "1.0.1-hotfix.2",
       "address": "play.chosik.japsik.xyz:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3925,11 +3925,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1060520,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/eating-animation-1.21+1.9.72.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionaloff/eating-animation-1.21+1.9.72.jar",
             "MD5": "316cf908b94d508f9f3490bafef39cfc"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -6224,7 +6225,7 @@
           "artifact": {
             "size": 131,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "cc016147482bc925355bacdf28deaf52",
+            "MD5": "7955e5a41ed067490674bf5237f92f5d",
             "path": "config/bcc.json"
           }
         },
@@ -7280,7 +7281,7 @@
           "artifact": {
             "size": 309,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "96e25b6e46a3984fa3d3d237fd8a459b",
+            "MD5": "6821be88cc866fa93ad1b0145139b0cd",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7685,9 +7686,9 @@
           "name": "resourcepackoverrides.json",
           "type": "File",
           "artifact": {
-            "size": 463,
+            "size": 371,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/resourcepackoverrides.json",
-            "MD5": "6ffedf019b8726bb0a09de90f4f2359f",
+            "MD5": "59bafd4e46eef60342472cdfe27843f0",
             "path": "config/resourcepackoverrides.json"
           }
         },
