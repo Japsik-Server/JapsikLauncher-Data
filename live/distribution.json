@@ -2997,7 +2997,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식",
       "icon": "https://static.japsik.xyz/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.0.1",
+      "version": "1.0.1-hotfix.1",
       "address": "play.chosik.japsik.xyz:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3750,13 +3750,13 @@
           }
         },
         {
-          "id": "team.creative:creativecore:2.12.32@jar",
+          "id": "team.creative:creativecore:2.12.23@jar",
           "name": "CreativeCore",
           "type": "FabricMod",
           "artifact": {
-            "size": 1200222,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/CreativeCore_FABRIC_v2.12.32_mc1.21.1.jar",
-            "MD5": "bbd22ea737e55aa7af80094fa3bd50a2"
+            "size": 1189491,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/CreativeCore_FABRIC_v2.12.23_mc1.21.1.jar",
+            "MD5": "49b6b30fed6b3fdc625f16834a3dfafc"
           }
         },
         {
@@ -6222,9 +6222,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 122,
+            "size": 131,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "e55d6c99b75ed31d0632e0bb1dc2e148",
+            "MD5": "cc016147482bc925355bacdf28deaf52",
             "path": "config/bcc.json"
           }
         },
@@ -7278,9 +7278,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 300,
+            "size": 309,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "57d63509cb0d0dda35f10e7cd8d420a2",
+            "MD5": "96e25b6e46a3984fa3d3d237fd8a459b",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -8708,9 +8708,9 @@
           "name": "config.toml",
           "type": "File",
           "artifact": {
-            "size": 1091,
+            "size": 1092,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/config.toml",
-            "MD5": "ae98262728c2f8e93fa89ab2418353b0",
+            "MD5": "c9f8c735729f55d61b6c837b49507fae",
             "path": "config/yosbr/config/plasmovoice/server/config.toml"
           }
         },
