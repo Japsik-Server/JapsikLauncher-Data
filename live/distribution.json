@@ -2997,7 +2997,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.xyz/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.0.3",
+      "version": "1.1.0",
       "address": "play.chosik.japsik.xyz:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3011,7 +3011,7 @@
         "supported": "=21",
         "suggestedMajor": 21,
         "ram": {
-          "recommended": 6144,
+          "recommended": 5120,
           "minimum": 5120
         }
       },
@@ -3349,16 +3349,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "com.betterfpsdist:betterfpsdist:1.21-6.0@jar",
-          "name": "Better FPS distance Mod",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 19063,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/betterfpsdist-fabric-1.21-6.0.jar",
-            "MD5": "67271141f9d374fcb1cc7ba89eaa2f27"
           }
         },
         {
@@ -3810,6 +3800,16 @@
           }
         },
         {
+          "id": "toni.despawntweaks:despawntweaks:1.0.0@jar",
+          "name": "Despawn Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1059167,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/despawntweaks-fabric-1.0.0-1.21.1.jar",
+            "MD5": "f6140b9fef386ae7a603e360f4d65b80"
+          }
+        },
+        {
           "id": "elocindev.deuf_refabricated:deuf_refabricated:1.1.0@jar",
           "name": "DEUF Refabricated",
           "type": "FabricMod",
@@ -4214,6 +4214,16 @@
             "size": 58822,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fastquit-3.0.0+1.20.6.jar",
             "MD5": "57bd66e0fed3c73b37606995bcdf34bf"
+          }
+        },
+        {
+          "id": "generated.fabricmod:faux-custom-entity-data:13.0.1@jar",
+          "name": "Faux-Custom-Entity-Data",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 15966,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/FauxCustomEntityData-fabric-1.21.1-13.0.1.jar",
+            "MD5": "152ad82fd20ab2fd34bcd387bad5dde7"
           }
         },
         {
@@ -5076,6 +5086,26 @@
           }
         },
         {
+          "id": "elocindev.opacpvp:opacpvp:1.0.0@jar",
+          "name": "Open Parties PvP Support",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11687,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/opacpvp-fabric-1.0.0-1.21.1.jar",
+            "MD5": "f129d41b0f9a04757c8b7829b892d680"
+          }
+        },
+        {
+          "id": "xaero.pac:openpartiesandclaims:0.23.7@jar",
+          "name": "Open Parties and Claims",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1333943,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/open-parties-and-claims-fabric-1.21.1-0.23.7.jar",
+            "MD5": "08b46fad38c1f2a3ecb4aa80f5bca32a"
+          }
+        },
+        {
           "id": "opekope2.optigui:optigui:3.0.0-alpha.3+fabric.1.21@jar",
           "name": "OptiGUI",
           "type": "FabricMod",
@@ -5298,6 +5328,16 @@
           }
         },
         {
+          "id": "su.plo.voice.groups.server:pv-addon-groups:1.1.0@jar",
+          "name": "Pv-addon-groups",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 161428,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/pv-addon-groups-1.1.0.jar",
+            "MD5": "c89c03ae37cf860d908900357759b6ba"
+          }
+        },
+        {
           "id": "su.plo.voice.priority:pv-addon-priority:1.1.0@jar",
           "name": "Pv-addon-priority",
           "type": "FabricMod",
@@ -5362,6 +5402,16 @@
             "size": 133840,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/rch-supplementaries-compat-fabric-2.0.0+1.21.jar",
             "MD5": "eadddb48a7bc0e41a483af6e052cde12"
+          }
+        },
+        {
+          "id": "toni.redirected:redirected:1.0.0@jar",
+          "name": "Redirected",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 213687,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/redirected-fabric-1.0.0-1.21.1.jar",
+            "MD5": "4657eaad91ff4a9995961db80d2cd7a0"
           }
         },
         {
@@ -6225,7 +6275,7 @@
           "artifact": {
             "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "60bf36f0403ab2b4e04c9740be75fc96",
+            "MD5": "38e62812a4aa1d8760b873ef30ee9a34",
             "path": "config/bcc.json"
           }
         },
@@ -7281,7 +7331,7 @@
           "artifact": {
             "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "993d721d3767374568c9b28766cb3b7a",
+            "MD5": "3d2eb5b80e1426c117b1dc7b29f9ce3f",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -10117,9 +10167,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8028,
+            "size": 8085,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/options.txt",
-            "MD5": "984d1f9843b47f2dd0735bcfbb7707ee",
+            "MD5": "df877222d4aa9c0c32bbb5ffaf178a1c",
             "path": "config/yosbr/options.txt"
           }
         },
