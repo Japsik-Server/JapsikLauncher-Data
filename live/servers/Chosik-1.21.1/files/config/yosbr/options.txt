@@ -168,6 +168,7 @@ key_key.niftycarts.slow:key.keyboard.z
 key_nohotbarlooping.keybinding.name:key.keyboard.period
 key_key.now-playing.group.display:key.keyboard.unknown
 key_key.now-playing.group.next:key.keyboard.unknown
+key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
 key_key.optigui.inspect:key.keyboard.unknown
 key_ping-wheel.key.ping-location:key.mouse.4
 key_ping-wheel.key.open-settings:key.keyboard.unknown
