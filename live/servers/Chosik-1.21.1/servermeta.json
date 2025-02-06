@@ -1,7 +1,7 @@
 {
   "$schema": "file:///E:/Userfile/Documents/GitHub/JapsikLauncher-Data/live/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.3",
+    "version": "1.1.0",
     "name": "Japsik Client for Chosik",
     "description": "초식(싱글플레이 가능)",
     "icon": "https://static.japsik.xyz/assets/images/Chosik-Logo-cat_chap.png",
@@ -17,7 +17,7 @@
       "supported": "=21",
       "suggestedMajor": 21,
       "ram": {
-        "recommended": 6144,
+        "recommended": 5120,
         "minimum": 5120
       }
     }
