@@ -2997,7 +2997,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.xyz/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.1-hotfix.1",
+      "version": "1.1.2",
       "address": "play.chosik.japsik.xyz:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -6303,9 +6303,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 131,
+            "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "20d4424c4cba20a1e06d1586e8d7a209",
+            "MD5": "e273521ae245adc937b31e71325e1c6e",
             "path": "config/bcc.json"
           }
         },
@@ -7359,9 +7359,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 309,
+            "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "5ab565fe1ca62563d392209c4aed0ee1",
+            "MD5": "225d17fcb3e8219134e27d9a89d61c5b",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -10182,6 +10182,72 @@
           }
         },
         {
+          "id": "xaerominimap-common.txt",
+          "name": "xaerominimap-common.txt",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaerominimap-common.txt",
+            "MD5": "c4bb2d96ebd8182b307ef6b2fda27370",
+            "path": "config/yosbr/config/xaerominimap-common.txt"
+          }
+        },
+        {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3643,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaerominimap.txt",
+            "MD5": "7389f6bb027ba21964f059b051b79ed0",
+            "path": "config/yosbr/config/xaerominimap.txt"
+          }
+        },
+        {
+          "id": "xaerominimap_entities.json",
+          "name": "xaerominimap_entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 5531,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaerominimap_entities.json",
+            "MD5": "71086272395ab15f8fdaad8e2c7320da",
+            "path": "config/yosbr/config/xaerominimap_entities.json"
+          }
+        },
+        {
+          "id": "xaeroplus.txt",
+          "name": "xaeroplus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3064,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaeroplus.txt",
+            "MD5": "795597a41a9aafbd8b853da44d769255",
+            "path": "config/yosbr/config/xaeroplus.txt"
+          }
+        },
+        {
+          "id": "xaeroworldmap-common.txt",
+          "name": "xaeroworldmap-common.txt",
+          "type": "File",
+          "artifact": {
+            "size": 120,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaeroworldmap-common.txt",
+            "MD5": "5a2200d083554257d61384f2c486162b",
+            "path": "config/yosbr/config/xaeroworldmap-common.txt"
+          }
+        },
+        {
+          "id": "xaeroworldmap.txt",
+          "name": "xaeroworldmap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1218,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaeroworldmap.txt",
+            "MD5": "9d05a4d21c399ddb3fde4703a120f585",
+            "path": "config/yosbr/config/xaeroworldmap.txt"
+          }
+        },
+        {
           "id": "zoomify.json",
           "name": "zoomify.json",
           "type": "File",
@@ -10197,9 +10263,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8085,
+            "size": 11933,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/options.txt",
-            "MD5": "df877222d4aa9c0c32bbb5ffaf178a1c",
+            "MD5": "67cf22eb876ffcfd37ab2e98cc40ad92",
             "path": "config/yosbr/options.txt"
           }
         },
