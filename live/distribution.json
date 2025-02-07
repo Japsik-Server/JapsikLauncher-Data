@@ -12,7 +12,7 @@
       "name": "Japsik Client for BearTown",
       "description": "베어타운",
       "icon": "https://static.japsik.com/assets/images/BearTown_title_v2-with_background.png",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0",
       "address": "beartown.kr:25565",
       "minecraftVersion": "1.20.4",
       "discord": {
@@ -255,13 +255,13 @@
           }
         },
         {
-          "id": "dzwdz.chat_heads:chat_heads:0.13.7@jar",
+          "id": "dzwdz.chat_heads:chat_heads:0.13.12@jar",
           "name": "Chat Heads",
           "type": "FabricMod",
           "artifact": {
-            "size": 76120,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/chat_heads-0.13.7-fabric-1.20.4.jar",
-            "MD5": "4fd789302e81f0e20c5e74d9a7d464b2"
+            "size": 77122,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/chat_heads-0.13.12-fabric-1.20.4.jar",
+            "MD5": "339d49d0be6b66b1a48581ddb86402b8"
           },
           "required": {
             "value": false
@@ -384,16 +384,6 @@
           }
         },
         {
-          "id": "link.e4mc:e4mc_minecraft:5.2.1@jar",
-          "name": "E4mc",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 568993,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/e4mc_minecraft-fabric-5.2.1.jar",
-            "MD5": "b035f7f6718f0f29b573f2b523bffe2f"
-          }
-        },
-        {
           "id": "ru.tpsd.eatinganimationmod:eatinganimationid:1.20+1.9.61@jar",
           "name": "Eating Animation",
           "type": "FabricMod",
@@ -420,13 +410,13 @@
           }
         },
         {
-          "id": "fzzyhmstrs.emi_loot:emi_loot:0.7.4+1.20.4+fabric@jar",
+          "id": "fzzyhmstrs.emi_loot:emi_loot:0.7.5+1.20.4+fix1+fabric@jar",
           "name": "EMI Loot",
           "type": "FabricMod",
           "artifact": {
-            "size": 369062,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/emi_loot-0.7.4+1.20.4+fabric.jar",
-            "MD5": "1e5b60639e8f951f7bf223a62d17daee"
+            "size": 373491,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/emi_loot-0.7.5+1.20.4+fix1+fabric.jar",
+            "MD5": "5b25a8ab14bac1376e2694be919a6436"
           },
           "required": {
             "value": false
@@ -516,9 +506,9 @@
           "name": "Essential-container",
           "type": "FabricMod",
           "artifact": {
-            "size": 54177271,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/essential_1-3-5-5_fabric_1-20-4.jar",
-            "MD5": "81eb14c9d9af9a32fa2887b1c86dd0b9"
+            "size": 53198045,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/essential_1-3-5-7_fabric_1-20-4.jar",
+            "MD5": "640e80bb8cb181cac7d6fe6ad6164a8f"
           }
         },
         {
@@ -1665,9 +1655,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 359,
+            "size": 351,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/isxander-main-menu-credits.json",
-            "MD5": "d481ee3eeba6632ad0a14a0ed972301d",
+            "MD5": "2429c52ed5e1a7dcda5700fa54258756",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -2739,6 +2729,17 @@
           }
         },
         {
+          "id": "config.toml",
+          "name": "config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2547,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/essential/config.toml",
+            "MD5": "d9c996d454f580944881c0114323c27a",
+            "path": "config/yosbr/essential/config.toml"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -2747,16 +2748,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/options.txt",
             "MD5": "91927e30280e6e9ec00a4d23011da453",
             "path": "config/yosbr/options.txt"
-          }
-        },
-        {
-          "id": "config.toml",
-          "name": "config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2547,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/essential/config.toml",
-            "path": "essential/config.toml"
           }
         },
         {
