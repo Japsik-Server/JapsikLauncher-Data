@@ -6004,12 +6004,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4747736,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionaloff/XaeroPlus-2.26.1+fabric-1.21.1-WM1.39.2-MM25.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/XaeroPlus-2.26.1+fabric-1.21.1-WM1.39.2-MM25.0.0.jar",
             "MD5": "c45cd0aeb40b883f5780c5439da61642"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -6018,12 +6014,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1686418,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionaloff/Xaeros_Minimap_25.0.0_Fabric_1.21.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/Xaeros_Minimap_25.0.0_Fabric_1.21.jar",
             "MD5": "f2bdb915912893cc3eccdc9928f6a29b"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -6032,12 +6024,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 952412,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionaloff/XaerosWorldMap_1.39.2_Fabric_1.21.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/XaerosWorldMap_1.39.2_Fabric_1.21.jar",
             "MD5": "c918de19a70ff5d7509346dc9e09648d"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
