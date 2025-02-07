@@ -1,7 +1,7 @@
 {
   "$schema": "file:///E:/Userfile/Documents/GitHub/JapsikLauncher-Data/normal/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0-alpha.6",
+    "version": "1.0.0",
     "name": "Japsik Client for BearTown",
     "description": "베어타운",
     "icon": "https://static.japsik.com/assets/images/BearTown_title_v2-with_background.png",
@@ -28,9 +28,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": [
-        "essential/config.toml"
-      ]
+      "patterns": []
     }
   ]
 }
