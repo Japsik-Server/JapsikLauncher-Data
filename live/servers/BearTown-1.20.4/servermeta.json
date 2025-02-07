@@ -4,7 +4,7 @@
     "version": "1.0.0-alpha.6",
     "name": "Japsik Client for BearTown",
     "description": "베어타운",
-    "icon": "https://static.japsik.xyz/assets/images/BearTown_title_v2-with_background.png",
+    "icon": "https://static.japsik.com/assets/images/BearTown_title_v2-with_background.png",
     "address": "beartown.kr:25565",
     "discord": {
       "shortId": "",
