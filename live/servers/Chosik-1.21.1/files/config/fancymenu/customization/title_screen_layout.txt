@@ -13,6 +13,11 @@ layout-meta {
 }
 
 customization {
+  action = setscale
+  scale = 2.0
+}
+
+customization {
   action = backgroundoptions
   keepaspectratio = false
 }
@@ -61,7 +66,7 @@ element {
 
 element {
   button_element_executable_block_identifier = a95cd26e-2606-4f49-887b-a2b95a567e88-1738675388697
-  [executable_action_instance:f357941d-2d7d-46aa-a9e3-207ab4d36bed-1738675408346][action_type:joinserver] = play.chosik.japsik.xyz:25565
+  [executable_action_instance:f357941d-2d7d-46aa-a9e3-207ab4d36bed-1738675408346][action_type:joinserver] = play.chosik.japsik.com:25565
   [executable_block:a95cd26e-2606-4f49-887b-a2b95a567e88-1738675388697][type:generic] = [executables:f357941d-2d7d-46aa-a9e3-207ab4d36bed-1738675408346;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
