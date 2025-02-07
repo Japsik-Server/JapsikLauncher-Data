@@ -11,7 +11,7 @@
       "id": "BearTown-1.20.4",
       "name": "Japsik Client for BearTown",
       "description": "베어타운",
-      "icon": "https://static.japsik.xyz/assets/images/BearTown_title_v2-with_background.png",
+      "icon": "https://static.japsik.com/assets/images/BearTown_title_v2-with_background.png",
       "version": "1.0.0-alpha.6",
       "address": "beartown.kr:25565",
       "minecraftVersion": "1.20.4",
@@ -2996,9 +2996,9 @@
       "id": "Chosik-1.21.1",
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
-      "icon": "https://static.japsik.xyz/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.2",
-      "address": "play.chosik.japsik.xyz:25565",
+      "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
+      "version": "1.1.3",
+      "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "",
@@ -4177,13 +4177,13 @@
           }
         },
         {
-          "id": "vectorwing.farmersdelight:farmersdelight:1.21.1-2.2.8+refabricated@jar",
+          "id": "vectorwing.farmersdelight:farmersdelight:1.21.1-2.2.9+refabricated@jar",
           "name": "Farmer's Delight",
           "type": "FabricMod",
           "artifact": {
-            "size": 10922872,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/FarmersDelight-1.21.1-2.2.8+refabricated.jar",
-            "MD5": "1e8fb0db1baa8262ee95bd825a2a248a"
+            "size": 10936065,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/FarmersDelight-1.21.1-2.2.9+refabricated.jar",
+            "MD5": "512ec42fe386018852a54d8636a5413e"
           }
         },
         {
@@ -6305,7 +6305,7 @@
           "artifact": {
             "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "e273521ae245adc937b31e71325e1c6e",
+            "MD5": "82da782d64a448e3483818b3456fe0fd",
             "path": "config/bcc.json"
           }
         },
@@ -7073,9 +7073,9 @@
           "name": "pause_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 18655,
+            "size": 18708,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "d046def9e69618045ed1f27f8c491272",
+            "MD5": "e937292f0a2005c54d65be0baabbf0a8",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -7084,9 +7084,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 23355,
+            "size": 23408,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "ab9b4b704d6e393f14fab7fc3b7ebcf2",
+            "MD5": "5bcbe6fba2308548ea1365d2c9bf6eaf",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -7361,7 +7361,7 @@
           "artifact": {
             "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "225d17fcb3e8219134e27d9a89d61c5b",
+            "MD5": "c8463793416713cd73d7a074a9bf30a2",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
