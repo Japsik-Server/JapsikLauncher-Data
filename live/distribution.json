@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3287,13 +3287,13 @@
           }
         },
         {
-          "id": "net.blay09.mods.balm:balm-fabric:21.0.23@jar",
+          "id": "net.blay09.mods.balm:balm-fabric:21.0.25@jar",
           "name": "Balm",
           "type": "FabricMod",
           "artifact": {
-            "size": 432108,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.23.jar",
-            "MD5": "fd3a13a854d90758a9005e42be78e6a9"
+            "size": 455029,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.25.jar",
+            "MD5": "d36304164c42cb9bd16a3e9d8bebbbc8"
           }
         },
         {
@@ -3698,6 +3698,16 @@
             "size": 31914,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/craft-saddle-48.1.jar",
             "MD5": "b89ded5e8ceca76c5c0447d14408ade1"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mr_craftable_nametag:48.1@jar",
+          "name": "Craftable Nametag",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 28405,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/craftable-nametag-48.1.jar",
+            "MD5": "ff24dd4b8b1faa794c036ef7bf7e0e24"
           }
         },
         {
@@ -4158,13 +4168,13 @@
           }
         },
         {
-          "id": "de.keksuccino:fancymenu:3.3.2@jar",
+          "id": "de.keksuccino:fancymenu:3.4.0@jar",
           "name": "FancyMenu",
           "type": "FabricMod",
           "artifact": {
-            "size": 2915241,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fancymenu_fabric_3.3.2_MC_1.21.1.jar",
-            "MD5": "c9f367772e1d7fada03e42933d0e5d00"
+            "size": 3069788,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fancymenu_fabric_3.4.0_MC_1.21.1.jar",
+            "MD5": "9b9b2c5c53506992050a3a66b4f36a3a"
           }
         },
         {
@@ -5867,6 +5877,19 @@
           }
         },
         {
+          "id": "sh.ndy:togglenametags:2.1.1@jar",
+          "name": "ToggleNametags",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 15505,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/togglenametags-2.1.1.jar",
+            "MD5": "55a3f5455946356013c0ea6c072efc56"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.tom.peripherals:toms_peripherals:1.2.2@jar",
           "name": "Tom's Peripherals",
           "type": "FabricMod",
@@ -6296,7 +6319,7 @@
           "artifact": {
             "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "82da782d64a448e3483818b3456fe0fd",
+            "MD5": "63f955c30fbbc77ef48a6a9d08c2a475",
             "path": "config/bcc.json"
           }
         },
@@ -7352,7 +7375,7 @@
           "artifact": {
             "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "c8463793416713cd73d7a074a9bf30a2",
+            "MD5": "13c60b17d9824189a533c2a728d76042",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7757,9 +7780,9 @@
           "name": "resourcepackoverrides.json",
           "type": "File",
           "artifact": {
-            "size": 371,
+            "size": 381,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/resourcepackoverrides.json",
-            "MD5": "59bafd4e46eef60342472cdfe27843f0",
+            "MD5": "5403e7f64362d5c696ba9872441a3422",
             "path": "config/resourcepackoverrides.json"
           }
         },
@@ -10254,9 +10277,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 11933,
+            "size": 12109,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/options.txt",
-            "MD5": "67cf22eb876ffcfd37ab2e98cc40ad92",
+            "MD5": "dcf6770eb84a2e7951734c60ab46b33e",
             "path": "config/yosbr/options.txt"
           }
         },
@@ -10338,14 +10361,25 @@
           }
         },
         {
-          "id": "Faithful 64x - Release 6.zip",
-          "name": "Faithful 64x - Release 6.zip",
+          "id": "Faithful 32x - 1.21.1.zip",
+          "name": "Faithful 32x - 1.21.1.zip",
           "type": "File",
           "artifact": {
-            "size": 16767880,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Faithful%2064x%20-%20Release%206.zip",
-            "MD5": "78270a32d4321374adaeb3c8b0ab4bd8",
-            "path": "resourcepacks/Faithful 64x - Release 6.zip"
+            "size": 10627974,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Faithful%2032x%20-%201.21.1.zip",
+            "MD5": "6d5a9c81ee1e943e0db1b67c971f8b3e",
+            "path": "resourcepacks/Faithful 32x - 1.21.1.zip"
+          }
+        },
+        {
+          "id": "Faithful 32x AppleSkin - 1.21.1.zip",
+          "name": "Faithful 32x AppleSkin - 1.21.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 9449,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Faithful%2032x%20AppleSkin%20-%201.21.1.zip",
+            "MD5": "2eb3e357e5d2947d82c64a0acb5b0d10",
+            "path": "resourcepacks/Faithful 32x AppleSkin - 1.21.1.zip"
           }
         },
         {
@@ -10379,28 +10413,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Mod%20Menu%20Helper.zip",
             "MD5": "14e440695fdfac54ab59e37c3b7d248f",
             "path": "resourcepacks/Mod Menu Helper.zip"
-          }
-        },
-        {
-          "id": "Patrix_1.21_32x_addon.zip",
-          "name": "Patrix_1.21_32x_addon.zip",
-          "type": "File",
-          "artifact": {
-            "size": 16073410,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Patrix_1.21_32x_addon.zip",
-            "MD5": "b7f1d8a862a1006e73e1d41daba65744",
-            "path": "resourcepacks/Patrix_1.21_32x_addon.zip"
-          }
-        },
-        {
-          "id": "Patrix_1.21_32x_basic.zip",
-          "name": "Patrix_1.21_32x_basic.zip",
-          "type": "File",
-          "artifact": {
-            "size": 63380206,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Patrix_1.21_32x_basic.zip",
-            "MD5": "e9b3205e6940b68838a9d0fb8cd12c71",
-            "path": "resourcepacks/Patrix_1.21_32x_basic.zip"
           }
         },
         {
