@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.4",
+      "version": "1.1.4-hotfix.1",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -6317,9 +6317,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 122,
+            "size": 131,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "63f955c30fbbc77ef48a6a9d08c2a475",
+            "MD5": "a838f3bf4429130eaa2194e2d83a3db7",
             "path": "config/bcc.json"
           }
         },
@@ -7087,9 +7087,9 @@
           "name": "pause_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 18708,
+            "size": 20989,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "e937292f0a2005c54d65be0baabbf0a8",
+            "MD5": "7794480c63450bcdeda73b8c51f139ad",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -7098,9 +7098,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 23408,
+            "size": 26704,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "5bcbe6fba2308548ea1365d2c9bf6eaf",
+            "MD5": "8e37e70dff95e90bf7d6505f23ac021b",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -7373,9 +7373,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 300,
+            "size": 309,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "13c60b17d9824189a533c2a728d76042",
+            "MD5": "7a7ca32baec6db9d5868ee3bbe7eb86f",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
