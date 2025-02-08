@@ -189,6 +189,10 @@ key_key.shouldersurfing.toggle_third_person_back:key.keyboard.unknown
 key_key.shouldersurfing.free_look:key.keyboard.g
 key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
 key_key.simplehudenhanced.toggle_hud:key.keyboard.comma
+key_Toggle Nametags:key.keyboard.minus
+key_Toggle Other Nametags:key.keyboard.equal
+key_Toggle Boss Bar:key.keyboard.unknown
+key_Show your own nametag:key.keyboard.unknown
 key_key.trade_cycling.cycle_trades:key.keyboard.unknown
 key_key.travelersbackpack.inventory:key.keyboard.grave.accent
 key_key.travelersbackpack.sort:key.keyboard.unknown
