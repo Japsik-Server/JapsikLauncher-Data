@@ -5,10 +5,10 @@
     "fabric",
     "moonlight:mods_dynamic_assets",
     "ubesdelight:udpresencefootsteps",
-    "continuity:default",
-    "continuity:glass_pane_culling_fix",
     "file/japsikclientforchosik-translations.zip",
     "file/Faithful 32x - 1.21.1.zip",
-    "file/Faithful 32x AppleSkin - 1.21.1.zip"
+    "file/Faithful 32x AppleSkin - 1.21.1.zip",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix"
   ]
 }
