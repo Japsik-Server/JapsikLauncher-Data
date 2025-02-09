@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.5",
+      "version": "1.1.5-hotfix.1",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3476,16 +3476,6 @@
             "size": 229179,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/cardinal-components-api-6.1.1.jar",
             "MD5": "eced863af0d6e49e2545cb0ab4ef8fdf"
-          }
-        },
-        {
-          "id": "carpetextra:carpet-extra:1.4.148@jar",
-          "name": "Carpet Extra",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 176645,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/carpet-extra-1.21-1.4.148.jar",
-            "MD5": "f2db81e1deaa74dcd77aac40aaf48717"
           }
         },
         {
@@ -4085,16 +4075,6 @@
             "size": 2385171,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fabric-api-0.115.0+1.21.1.jar",
             "MD5": "5e627455ae16cbb2c50eb0dd76314b1f"
-          }
-        },
-        {
-          "id": "carpet:carpet:1.4.147+v240613@jar",
-          "name": "Carpet Mod",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1525027,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fabric-carpet-1.21-1.4.147+v240613.jar",
-            "MD5": "01312e9955e79b21aaecc2caa7681446"
           }
         },
         {
@@ -6327,9 +6307,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 122,
+            "size": 131,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "2ec9f199dfa0965495b3ea71c1a7d038",
+            "MD5": "179c28528d07bd28abf67b8aff7cbee4",
             "path": "config/bcc.json"
           }
         },
@@ -6606,17 +6586,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/cardinal-components-api.properties",
             "MD5": "7a5c42bb5538c774652ad99f2a3b0078",
             "path": "config/cardinal-components-api.properties"
-          }
-        },
-        {
-          "id": "default_carpet.conf",
-          "name": "default_carpet.conf",
-          "type": "File",
-          "artifact": {
-            "size": 192,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/carpet/default_carpet.conf",
-            "MD5": "14f60d066290ada3486f1bcbee8be33f",
-            "path": "config/carpet/default_carpet.conf"
           }
         },
         {
@@ -7383,9 +7352,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 300,
+            "size": 309,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "a2d701efa655a30b71f4a79b43df990d",
+            "MD5": "b0ac0a4f41d723f25ea48226dae93eb7",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
