@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.7",
+      "version": "1.1.7-hotfix.1",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -5236,13 +5236,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:polytone:1.21-3.2.7@jar",
+          "id": "net.mehvahdjukaar:polytone:1.21-3.2.6@jar",
           "name": "Polytone",
           "type": "FabricMod",
           "artifact": {
-            "size": 699519,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/polytone-1.21-3.2.7-fabric.jar",
-            "MD5": "6db5540807f4713921abaed994ec8a21"
+            "size": 698056,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/polytone-1.21-3.2.6-fabric.jar",
+            "MD5": "12e535751b7490d46ddb7f169cbf7316"
           }
         },
         {
@@ -6277,9 +6277,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 122,
+            "size": 131,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "13d419db670e5eb924fa6a8e54b97eea",
+            "MD5": "55fa24f6b4fd3e1b129473196e9374ec",
             "path": "config/bcc.json"
           }
         },
@@ -7322,9 +7322,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 300,
+            "size": 309,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "8ca3519bd15d6d988189d17052c6de77",
+            "MD5": "d02cad4472e848f250e71c05a38c4689",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
