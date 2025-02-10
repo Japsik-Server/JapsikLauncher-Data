@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.7-hotfix.1",
+      "version": "1.1.7-hotfix.2",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -5625,13 +5625,13 @@
           }
         },
         {
-          "id": "net.caffeinemc.mods:sodium:0.6.7+mc1.21.1@jar",
+          "id": "net.caffeinemc.mods:sodium:0.6.5+mc1.21.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 1293429,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/sodium-fabric-0.6.7+mc1.21.1.jar",
-            "MD5": "55241bd20a15ed25644d02da61cd3296"
+            "size": 1289453,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/sodium-fabric-0.6.5+mc1.21.1.jar",
+            "MD5": "a3e62affdeb8c12331adaa2e1f783ed7"
           }
         },
         {
@@ -6279,7 +6279,7 @@
           "artifact": {
             "size": 131,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "55fa24f6b4fd3e1b129473196e9374ec",
+            "MD5": "52abaeb2421b26d8cbec13b5c6e999bf",
             "path": "config/bcc.json"
           }
         },
@@ -7324,7 +7324,7 @@
           "artifact": {
             "size": 309,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "d02cad4472e848f250e71c05a38c4689",
+            "MD5": "a67567bfb78f08e2501a94468cca7e6e",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
