@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.6-hotfix.1",
+      "version": "1.1.7",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3972,16 +3972,6 @@
             "size": 22991,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/EMIProfessions-fabric-1.21.1-1.0.2.jar",
             "MD5": "5a2deb34fd0f054a3f9935890e3b95d6"
-          }
-        },
-        {
-          "id": "com.hrznstudio:emojiful:5.1.5@jar",
-          "name": "Emojiful",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 295511,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/Emojiful-Fabric-1.21-5.1.5.jar",
-            "MD5": "4c25193e2380b411f9d660cd08b93f4d"
           }
         },
         {
@@ -6287,9 +6277,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 131,
+            "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "0f9641fb56771fbc804d163fdb74d86a",
+            "MD5": "13d419db670e5eb924fa6a8e54b97eea",
             "path": "config/bcc.json"
           }
         },
@@ -7332,9 +7322,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 309,
+            "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "90f66738702952e4c02e4b0d61f44346",
+            "MD5": "8ca3519bd15d6d988189d17052c6de77",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7453,9 +7443,9 @@
           "name": "logbegone.json",
           "type": "File",
           "artifact": {
-            "size": 216,
+            "size": 936,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/logbegone.json",
-            "MD5": "8fff7eab9941bc7d8cc33d7681deacf9",
+            "MD5": "07a63d5b2b89a9d78b347efd1682d40c",
             "path": "config/logbegone.json"
           }
         },
@@ -8249,17 +8239,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/durabilitytooltip-common.toml",
             "MD5": "0bc5002f45ec854174785cc2f6981ddd",
             "path": "config/yosbr/config/durabilitytooltip-common.toml"
-          }
-        },
-        {
-          "id": "emojiful.json",
-          "name": "emojiful.json",
-          "type": "File",
-          "artifact": {
-            "size": 285,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/emojiful.json",
-            "MD5": "13d1240f246a33198b33719d81f5b330",
-            "path": "config/yosbr/config/emojiful.json"
           }
         },
         {
