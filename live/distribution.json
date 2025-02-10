@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.7-hotfix.2",
+      "version": "1.1.7-hotfix.3",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -4885,13 +4885,13 @@
           }
         },
         {
-          "id": "ca.fxco:moreculling:1.0.4@jar",
+          "id": "ca.fxco:moreculling:1.0.3@jar",
           "name": "More Culling",
           "type": "FabricMod",
           "artifact": {
-            "size": 344762,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moreculling-fabric-1.21.1-1.0.4.jar",
-            "MD5": "cd541015ff359dd49fde9921a1acadc9"
+            "size": 345711,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moreculling-fabric-1.21.1-1.0.3.jar",
+            "MD5": "ce509904597e95ac0a196de835ad56b8"
           }
         },
         {
@@ -6279,7 +6279,7 @@
           "artifact": {
             "size": 131,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "52abaeb2421b26d8cbec13b5c6e999bf",
+            "MD5": "f8c444b461126b89485831a4b5f0a0b7",
             "path": "config/bcc.json"
           }
         },
@@ -7324,7 +7324,7 @@
           "artifact": {
             "size": 309,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "a67567bfb78f08e2501a94468cca7e6e",
+            "MD5": "3feea3c34f5bc3cbfb12496a1f037355",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
