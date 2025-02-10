@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.5-hotfix.1",
+      "version": "1.1.6",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -4128,13 +4128,13 @@
           }
         },
         {
-          "id": "fr.rakambda:fallingtree:1.21.1.3@jar",
+          "id": "fr.rakambda:fallingtree:1.21.1.4@jar",
           "name": "FallingTree",
           "type": "FabricMod",
           "artifact": {
-            "size": 465595,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/FallingTree-1.21.1-1.21.1.3.jar",
-            "MD5": "d70c1d2e1342728bb1f19b8855cd0a13"
+            "size": 468325,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/FallingTree-1.21.1-1.21.1.4.jar",
+            "MD5": "536ae34b56d51a384347b0cbde8238ce"
           }
         },
         {
@@ -4895,13 +4895,13 @@
           }
         },
         {
-          "id": "ca.fxco:moreculling:1.0.3@jar",
+          "id": "ca.fxco:moreculling:1.0.4@jar",
           "name": "More Culling",
           "type": "FabricMod",
           "artifact": {
-            "size": 345711,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moreculling-fabric-1.21.1-1.0.3.jar",
-            "MD5": "ce509904597e95ac0a196de835ad56b8"
+            "size": 344762,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moreculling-fabric-1.21.1-1.0.4.jar",
+            "MD5": "cd541015ff359dd49fde9921a1acadc9"
           }
         },
         {
@@ -5120,13 +5120,13 @@
           }
         },
         {
-          "id": "dev.tonimatas:packetfixer:1.4.3@jar",
+          "id": "dev.tonimatas:packetfixer:1.4.4@jar",
           "name": "Packet Fixer",
           "type": "FabricMod",
           "artifact": {
-            "size": 21644,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/packetfixer-fabric-1.4.3-1.21-to-1.21.3.jar",
-            "MD5": "783d17fb3664686ec5cf73cee2c796a2"
+            "size": 18731,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/packetfixer-fabric-1.4.4-1.21-to-1.21.3.jar",
+            "MD5": "b7352ab01d871e7d03dda8de40aea085"
           }
         },
         {
@@ -5246,13 +5246,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:polytone:1.21-3.2.6@jar",
+          "id": "net.mehvahdjukaar:polytone:1.21-3.2.7@jar",
           "name": "Polytone",
           "type": "FabricMod",
           "artifact": {
-            "size": 698056,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/polytone-1.21-3.2.6-fabric.jar",
-            "MD5": "12e535751b7490d46ddb7f169cbf7316"
+            "size": 699519,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/polytone-1.21-3.2.7-fabric.jar",
+            "MD5": "6db5540807f4713921abaed994ec8a21"
           }
         },
         {
@@ -5635,13 +5635,13 @@
           }
         },
         {
-          "id": "net.caffeinemc.mods:sodium:0.6.5+mc1.21.1@jar",
+          "id": "net.caffeinemc.mods:sodium:0.6.7+mc1.21.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 1289453,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/sodium-fabric-0.6.5+mc1.21.1.jar",
-            "MD5": "a3e62affdeb8c12331adaa2e1f783ed7"
+            "size": 1293429,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/sodium-fabric-0.6.7+mc1.21.1.jar",
+            "MD5": "55241bd20a15ed25644d02da61cd3296"
           }
         },
         {
@@ -5900,13 +5900,13 @@
           }
         },
         {
-          "id": "de.maxhenkel.tradecycling:trade_cycling:1.21.1-1.0.15@jar",
+          "id": "de.maxhenkel.tradecycling:trade_cycling:1.21.1-1.0.16@jar",
           "name": "Trade Cycling",
           "type": "FabricMod",
           "artifact": {
-            "size": 519736,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/trade-cycling-fabric-1.21.1-1.0.15.jar",
-            "MD5": "3022211d97e7ee722490f76a7c531950"
+            "size": 522124,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/trade-cycling-fabric-1.21.1-1.0.16.jar",
+            "MD5": "325fa31ef6b71480b0dfead3bbbc9c0f"
           }
         },
         {
@@ -5920,13 +5920,13 @@
           }
         },
         {
-          "id": "com.tiviacz:travelersbackpack:10.1.11@jar",
+          "id": "com.tiviacz:travelersbackpack:10.1.13@jar",
           "name": "Traveler's Backpack",
           "type": "FabricMod",
           "artifact": {
-            "size": 1257343,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/travelersbackpack-fabric-1.21.1-10.1.11.jar",
-            "MD5": "003347e241d8ae0d8263abbdbfc7977a"
+            "size": 1276261,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/travelersbackpack-fabric-1.21.1-10.1.13.jar",
+            "MD5": "2639c480b212d6f669409bae1998d3d7"
           }
         },
         {
@@ -6000,26 +6000,6 @@
             "size": 11572,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/wither_spawn_fix-MC1.21-1.0.0.jar",
             "MD5": "1c5658ebd9c53429ba5571fca8b37d05"
-          }
-        },
-        {
-          "id": "xaeroplus:xaeroplus:2.26.1@jar",
-          "name": "XaeroPlus",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 4747736,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/XaeroPlus-2.26.1+fabric-1.21.1-WM1.39.2-MM25.0.0.jar",
-            "MD5": "c45cd0aeb40b883f5780c5439da61642"
-          }
-        },
-        {
-          "id": "xaero.minimap:xaerominimap:25.0.0@jar",
-          "name": "Xaero's Minimap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1686418,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/Xaeros_Minimap_25.0.0_Fabric_1.21.jar",
-            "MD5": "f2bdb915912893cc3eccdc9928f6a29b"
           }
         },
         {
@@ -6307,9 +6287,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 131,
+            "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "179c28528d07bd28abf67b8aff7cbee4",
+            "MD5": "05b9e27f823475946fc2f3de8bc3208c",
             "path": "config/bcc.json"
           }
         },
@@ -7352,9 +7332,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 309,
+            "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "b0ac0a4f41d723f25ea48226dae93eb7",
+            "MD5": "890ed8bc5f8e0c1dc735292a43aa9047",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -8056,9 +8036,9 @@
           "name": "amendments-client.json",
           "type": "File",
           "artifact": {
-            "size": 1689,
+            "size": 1755,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/amendments-client.json",
-            "MD5": "1d72b724a72e68f28a6a68421e45bfeb",
+            "MD5": "381311f89e62074f40edf2cd4e29a84d",
             "path": "config/yosbr/config/amendments-client.json"
           }
         },
@@ -8078,9 +8058,9 @@
           "name": "appleskin.json5",
           "type": "File",
           "artifact": {
-            "size": 1327,
+            "size": 1348,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/appleskin.json5",
-            "MD5": "406b4584562fb60304a8adc824de0000",
+            "MD5": "9a3b33cba6c12027397060c0ef3252ff",
             "path": "config/yosbr/config/appleskin.json5"
           }
         },
@@ -8100,9 +8080,9 @@
           "name": "betteradvancements.json",
           "type": "File",
           "artifact": {
-            "size": 597,
+            "size": 614,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/betteradvancements.json",
-            "MD5": "de6c0f5eeba523282821b8d57ec86921",
+            "MD5": "e6b017026c953d3a2689a572790dd175",
             "path": "config/yosbr/config/betteradvancements.json"
           }
         },
@@ -8122,9 +8102,9 @@
           "name": "betterstats.json",
           "type": "File",
           "artifact": {
-            "size": 1049,
+            "size": 1096,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/betterstats.json",
-            "MD5": "ad87461cc075b6f2a983f7dbd5d19b51",
+            "MD5": "a8df8dba571f373bb4b85eadb0baba13",
             "path": "config/yosbr/config/betterstats.json"
           }
         },
@@ -8133,9 +8113,9 @@
           "name": "blur.json",
           "type": "File",
           "artifact": {
-            "size": 498,
+            "size": 518,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/blur.json",
-            "MD5": "841d5425465aec5ac2f20f7ff9f7a92b",
+            "MD5": "1dc3a0732f719c2cf27323f97acac31a",
             "path": "config/yosbr/config/blur.json"
           }
         },
@@ -8166,9 +8146,9 @@
           "name": "carryon-client.json",
           "type": "File",
           "artifact": {
-            "size": 676,
+            "size": 687,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/carryon-client.json",
-            "MD5": "97fd1f204b8095535a98a85c4ca9b049",
+            "MD5": "73be7881eda52f93b13309ad885ec12b",
             "path": "config/yosbr/config/carryon-client.json"
           }
         },
@@ -8177,9 +8157,9 @@
           "name": "chat_heads.json5",
           "type": "File",
           "artifact": {
-            "size": 186,
+            "size": 193,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/chat_heads.json5",
-            "MD5": "bb9ec2f6f04d4905eb0501d30ce13923",
+            "MD5": "4583be8eada7edc4e29ccf53135f20e6",
             "path": "config/yosbr/config/chat_heads.json5"
           }
         },
@@ -8199,9 +8179,9 @@
           "name": "continuity.json",
           "type": "File",
           "artifact": {
-            "size": 122,
+            "size": 127,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/continuity.json",
-            "MD5": "16114edbb9460c49373bb12561ddf7c3",
+            "MD5": "58d92fbb3f08453a5f8e2e65d80fd49a",
             "path": "config/yosbr/config/continuity.json"
           }
         },
@@ -8210,9 +8190,9 @@
           "name": "controlify.json",
           "type": "File",
           "artifact": {
-            "size": 602,
+            "size": 624,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/controlify.json",
-            "MD5": "cdf6e7a00acf96885cb3122481906339",
+            "MD5": "381b23d192f6b4b37ede4c72b934cbdf",
             "path": "config/yosbr/config/controlify.json"
           }
         },
@@ -8221,9 +8201,9 @@
           "name": "cubes-without-borders.json",
           "type": "File",
           "artifact": {
-            "size": 209,
+            "size": 215,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/cubes-without-borders.json",
-            "MD5": "6fd38dd98b555645a417b64eb141af98",
+            "MD5": "0d9aa01a884dc0387d2683872cdc4b89",
             "path": "config/yosbr/config/cubes-without-borders.json"
           }
         },
@@ -8232,9 +8212,9 @@
           "name": "cullleaves.json",
           "type": "File",
           "artifact": {
-            "size": 42,
+            "size": 45,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/cullleaves.json",
-            "MD5": "727604a10633c683eb5b0b24985f2db2",
+            "MD5": "09e776f72ae313a3c3219bc5282f376f",
             "path": "config/yosbr/config/cullleaves.json"
           }
         },
@@ -8276,9 +8256,9 @@
           "name": "emojiful.json",
           "type": "File",
           "artifact": {
-            "size": 274,
+            "size": 285,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/emojiful.json",
-            "MD5": "f6f4d39d63b81ba6b4f597c3b9a99069",
+            "MD5": "13d1240f246a33198b33719d81f5b330",
             "path": "config/yosbr/config/emojiful.json"
           }
         },
@@ -8287,9 +8267,9 @@
           "name": "enchdesc.json",
           "type": "File",
           "artifact": {
-            "size": 2059,
+            "size": 2128,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/enchdesc.json",
-            "MD5": "ade13569468e81ff622a879efc92e8e6",
+            "MD5": "c0b43359534f725131770a904019f4f5",
             "path": "config/yosbr/config/enchdesc.json"
           }
         },
@@ -8298,9 +8278,9 @@
           "name": "explorerscompass.json",
           "type": "File",
           "artifact": {
-            "size": 1716,
+            "size": 1739,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/explorerscompass.json",
-            "MD5": "419d24aee54c02d01af31b73b20ca150",
+            "MD5": "a65c09ef48942585ce9a884c285840f2",
             "path": "config/yosbr/config/explorerscompass.json"
           }
         },
@@ -8320,9 +8300,9 @@
           "name": "freecam.json5",
           "type": "File",
           "artifact": {
-            "size": 736,
+            "size": 778,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/freecam.json5",
-            "MD5": "480d21ef5d8753b47df85fd2282a1353",
+            "MD5": "fe366e46eda0569a1ea6ce30efa55d7c",
             "path": "config/yosbr/config/freecam.json5"
           }
         },
@@ -8331,9 +8311,9 @@
           "name": "ijmtweaks.json",
           "type": "File",
           "artifact": {
-            "size": 313,
+            "size": 325,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/ijmtweaks.json",
-            "MD5": "36d49abcdb558492421d98765099e984",
+            "MD5": "53aca33d05b04a3501b5e4260095ddb8",
             "path": "config/yosbr/config/ijmtweaks.json"
           }
         },
@@ -8353,9 +8333,9 @@
           "name": "inventoryprofiles.json",
           "type": "File",
           "artifact": {
-            "size": 983,
+            "size": 1029,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json",
-            "MD5": "7c5c4d4f8997f83fb7683766b5e57327",
+            "MD5": "eb7dc6a5aa506fdbf8deac45afa50115",
             "path": "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
           }
         },
@@ -8375,9 +8355,9 @@
           "name": "itemphysic-client.json",
           "type": "File",
           "artifact": {
-            "size": 610,
+            "size": 638,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/itemphysic-client.json",
-            "MD5": "6097c2a6db6df18aef944da96fe3313e",
+            "MD5": "a0e524d12e71a8877c3a693e6c903c27",
             "path": "config/yosbr/config/itemphysic-client.json"
           }
         },
@@ -8386,9 +8366,9 @@
           "name": "itemscroller.json",
           "type": "File",
           "artifact": {
-            "size": 4401,
+            "size": 4574,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/itemscroller.json",
-            "MD5": "78450a678b75e3d2ecda9a974bccf6e6",
+            "MD5": "62ac57aeab3f66dced226dffcda2473d",
             "path": "config/yosbr/config/itemscroller.json"
           }
         },
@@ -8397,9 +8377,9 @@
           "name": "hide-blocks.json",
           "type": "File",
           "artifact": {
-            "size": 149,
+            "size": 154,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/jade/hide-blocks.json",
-            "MD5": "83c9f405ab4ae1427f76ab4a30a16644",
+            "MD5": "a8929f690007a239664b77cccdc56f51",
             "path": "config/yosbr/config/jade/hide-blocks.json"
           }
         },
@@ -8408,9 +8388,9 @@
           "name": "hide-entities.json",
           "type": "File",
           "artifact": {
-            "size": 243,
+            "size": 252,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/jade/hide-entities.json",
-            "MD5": "a52182a33844468228bdbc58dbe5a73a",
+            "MD5": "33abdc5c63a2127fabeca4ec63fd3a5f",
             "path": "config/yosbr/config/jade/hide-entities.json"
           }
         },
@@ -8419,9 +8399,9 @@
           "name": "jade.json",
           "type": "File",
           "artifact": {
-            "size": 1090,
+            "size": 1136,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/jade/jade.json",
-            "MD5": "aad7d8f22fa7154059787f01e5c1263f",
+            "MD5": "ca1a71509dd9abe8ee04585364df3d36",
             "path": "config/yosbr/config/jade/jade.json"
           }
         },
@@ -8430,9 +8410,9 @@
           "name": "plugins.json",
           "type": "File",
           "artifact": {
-            "size": 2075,
+            "size": 2153,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/jade/plugins.json",
-            "MD5": "4ac3ab3fd11298e60a4e36df90ffea88",
+            "MD5": "e2f87a4d2c39938ac0079317e2adc125",
             "path": "config/yosbr/config/jade/plugins.json"
           }
         },
@@ -8441,9 +8421,9 @@
           "name": "sort-order.json",
           "type": "File",
           "artifact": {
-            "size": 2121,
+            "size": 2185,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/jade/sort-order.json",
-            "MD5": "1b155661dc84cdaf3dc507d8753527cb",
+            "MD5": "7ece91eaf37c0c0e5d83b4d8f96ecbbc",
             "path": "config/yosbr/config/jade/sort-order.json"
           }
         },
@@ -8452,9 +8432,9 @@
           "name": "lithium.properties",
           "type": "File",
           "artifact": {
-            "size": 267,
+            "size": 273,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/lithium.properties",
-            "MD5": "65a61a8f2201e0a571d48a7f0295da19",
+            "MD5": "2a8621a41751d7ea29fac06b88438269",
             "path": "config/yosbr/config/lithium.properties"
           }
         },
@@ -8463,9 +8443,9 @@
           "name": "make_bubbles_pop.json",
           "type": "File",
           "artifact": {
-            "size": 383,
+            "size": 395,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/make_bubbles_pop.json",
-            "MD5": "77084faec3e3611042be08ebd456ad00",
+            "MD5": "5dfc9813aa1a19b5eee0f6ee340d80ad",
             "path": "config/yosbr/config/make_bubbles_pop.json"
           }
         },
@@ -8474,9 +8454,9 @@
           "name": "moonlight-client.json",
           "type": "File",
           "artifact": {
-            "size": 297,
+            "size": 305,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/moonlight-client.json",
-            "MD5": "cceb3f6773545969de3fd5684e78624b",
+            "MD5": "ab3b2664a4df2064f46281fceb9b8170",
             "path": "config/yosbr/config/moonlight-client.json"
           }
         },
@@ -8485,9 +8465,9 @@
           "name": "moreculling.toml",
           "type": "File",
           "artifact": {
-            "size": 515,
+            "size": 537,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/moreculling.toml",
-            "MD5": "70527e0acd38565aa9f4301eafc7c4cc",
+            "MD5": "dd40c6170cb2544623a4ff61b84d436e",
             "path": "config/yosbr/config/moreculling.toml"
           }
         },
@@ -8496,9 +8476,9 @@
           "name": "naturescompass.json",
           "type": "File",
           "artifact": {
-            "size": 1834,
+            "size": 1859,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/naturescompass.json",
-            "MD5": "ceb344e12636902d35f9bb7b78062c07",
+            "MD5": "8342036dd525a967696b50419b41838a",
             "path": "config/yosbr/config/naturescompass.json"
           }
         },
@@ -8529,9 +8509,9 @@
           "name": "notenoughanimations.json",
           "type": "File",
           "artifact": {
-            "size": 1500,
+            "size": 1553,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/notenoughanimations.json",
-            "MD5": "b62228e2a0d36f0ffc005ee74604f144",
+            "MD5": "2f96433f0c17727b6de0f352151c93a0",
             "path": "config/yosbr/config/notenoughanimations.json"
           }
         },
@@ -8540,9 +8520,9 @@
           "name": "now-playing.json",
           "type": "File",
           "artifact": {
-            "size": 292,
+            "size": 306,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/now-playing.json",
-            "MD5": "f0a6dbc50b1a0b0357eaaa27ed7af812",
+            "MD5": "7f93fff4dd6dcac732d4b8454ed1a029",
             "path": "config/yosbr/config/now-playing.json"
           }
         },
@@ -8562,9 +8542,9 @@
           "name": "PaginatedAdvancements.json5",
           "type": "File",
           "artifact": {
-            "size": 315,
+            "size": 326,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/PaginatedAdvancements.json5",
-            "MD5": "117f60da0def826d0b8ae0f3e6e37bb7",
+            "MD5": "39ad06704dd79fb1b3bf6f183bc6aebd",
             "path": "config/yosbr/config/PaginatedAdvancements.json5"
           }
         },
@@ -8573,9 +8553,9 @@
           "name": "particular.json5",
           "type": "File",
           "artifact": {
-            "size": 1119,
+            "size": 1172,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/particular.json5",
-            "MD5": "ddcebdcf90960654a345db40d1a02f19",
+            "MD5": "f677f53842522043e97d8d4d5147823c",
             "path": "config/yosbr/config/particular.json5"
           }
         },
@@ -8606,9 +8586,9 @@
           "name": "ping-wheel.json",
           "type": "File",
           "artifact": {
-            "size": 359,
+            "size": 375,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/ping-wheel.json",
-            "MD5": "59fb2b54f3c2a7f1c765417cf9aabd31",
+            "MD5": "20ac9cf0d898efba449fcc8643c5668d",
             "path": "config/yosbr/config/ping-wheel.json"
           }
         },
@@ -8771,9 +8751,9 @@
           "name": "client.toml",
           "type": "File",
           "artifact": {
-            "size": 1399,
+            "size": 1467,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/client.toml",
-            "MD5": "996e7205abf5cfeb9049429ab41ad90d",
+            "MD5": "b36ec27ccf449dbc9b634853b6cbbc6a",
             "path": "config/yosbr/config/plasmovoice/client.toml"
           }
         },
@@ -8782,9 +8762,9 @@
           "name": "config.toml",
           "type": "File",
           "artifact": {
-            "size": 1092,
+            "size": 1136,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/config.toml",
-            "MD5": "c9f8c735729f55d61b6c837b49507fae",
+            "MD5": "7071fd1337270a20297f2842bebba522",
             "path": "config/yosbr/config/plasmovoice/server/config.toml"
           }
         },
@@ -8793,9 +8773,9 @@
           "name": "de_de.toml",
           "type": "File",
           "artifact": {
-            "size": 2187,
+            "size": 2244,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/de_de.toml",
-            "MD5": "2089abe483e394b6bca56e9d5e678356",
+            "MD5": "c62b4427a9a73a07820f231859fd4da8",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/de_de.toml"
           }
         },
@@ -8804,9 +8784,9 @@
           "name": "es_es.toml",
           "type": "File",
           "artifact": {
-            "size": 2123,
+            "size": 2180,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/es_es.toml",
-            "MD5": "a460aa40e6caf8f608d5d9eef37a352d",
+            "MD5": "50cac538aeda0e8bc1ba3e6185c93375",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/es_es.toml"
           }
         },
@@ -8815,9 +8795,9 @@
           "name": "fr_fr.toml",
           "type": "File",
           "artifact": {
-            "size": 2099,
+            "size": 2156,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/fr_fr.toml",
-            "MD5": "740fdb640a023b211ed687635401a9d1",
+            "MD5": "b90b52b71254ff8dbfbbd30ab8f37b3b",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/fr_fr.toml"
           }
         },
@@ -8826,9 +8806,9 @@
           "name": "he_il.toml",
           "type": "File",
           "artifact": {
-            "size": 2228,
+            "size": 2285,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/he_il.toml",
-            "MD5": "f9dea392bcf8b6e753a27df4f992423b",
+            "MD5": "666fa22dcf42b59dea3918d1c1c611f9",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/he_il.toml"
           }
         },
@@ -8837,9 +8817,9 @@
           "name": "ko_kr.toml",
           "type": "File",
           "artifact": {
-            "size": 2356,
+            "size": 2413,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/ko_kr.toml",
-            "MD5": "0ebaa356e476ef191aea62286e6f6201",
+            "MD5": "789063bd46b91a83b172f4c63ab2d653",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/ko_kr.toml"
           }
         },
@@ -8848,9 +8828,9 @@
           "name": "pl_pl.toml",
           "type": "File",
           "artifact": {
-            "size": 2040,
+            "size": 2097,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/pl_pl.toml",
-            "MD5": "878c8082d74bf35b7a90e09bdeb2e77c",
+            "MD5": "4b952347c523a8c0a28585077bc64d05",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/pl_pl.toml"
           }
         },
@@ -8859,9 +8839,9 @@
           "name": "pt_br.toml",
           "type": "File",
           "artifact": {
-            "size": 2035,
+            "size": 2092,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/pt_br.toml",
-            "MD5": "5bce271883e6122226e028673426ef48",
+            "MD5": "ed3644d081503431407a6dcc7737ed14",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/pt_br.toml"
           }
         },
@@ -8870,9 +8850,9 @@
           "name": "ru_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 2531,
+            "size": 2588,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/ru_ru.toml",
-            "MD5": "c7f9382eefb0b7eaa0019e53ca59a1d8",
+            "MD5": "38e5bc657ee4a11bb10dee43724eb5da",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/ru_ru.toml"
           }
         },
@@ -8892,9 +8872,9 @@
           "name": "tr_tr.toml",
           "type": "File",
           "artifact": {
-            "size": 825,
+            "size": 839,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
-            "MD5": "973828fe670930a51d9594913a270cb4",
+            "MD5": "059eb769e7487cffd7544ec0fc225849",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/tr_tr.toml"
           }
         },
@@ -8903,9 +8883,9 @@
           "name": "tt_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 2913,
+            "size": 2970,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/tt_ru.toml",
-            "MD5": "f5d14860658cf0751277709266047a8c",
+            "MD5": "d333b5aad4c937148a94f759bd1c221f",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/tt_ru.toml"
           }
         },
@@ -8914,9 +8894,9 @@
           "name": "uk_ua.toml",
           "type": "File",
           "artifact": {
-            "size": 2730,
+            "size": 2787,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/uk_ua.toml",
-            "MD5": "679c42fb12563dead83f7a0111ba6eb4",
+            "MD5": "b8ec9e111f686df607f5018901b33296",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/uk_ua.toml"
           }
         },
@@ -8925,9 +8905,9 @@
           "name": "zh_cn.toml",
           "type": "File",
           "artifact": {
-            "size": 1882,
+            "size": 1939,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/zh_cn.toml",
-            "MD5": "74b40c78208fe6f358a346dd2adb76e8",
+            "MD5": "9de7b84bb56baca3bff873c5c2454d6c",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/zh_cn.toml"
           }
         },
@@ -8936,9 +8916,9 @@
           "name": "zh_tw.toml",
           "type": "File",
           "artifact": {
-            "size": 1879,
+            "size": 1936,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/.crowdin/zh_tw.toml",
-            "MD5": "6c4a2685db02eb56892a8440c075ce40",
+            "MD5": "1c16caadaa498731799e749de0c02b91",
             "path": "config/yosbr/config/plasmovoice/server/languages/.crowdin/zh_tw.toml"
           }
         },
@@ -8947,9 +8927,9 @@
           "name": "de_de.toml",
           "type": "File",
           "artifact": {
-            "size": 2175,
+            "size": 2222,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/de_de.toml",
-            "MD5": "93a9d14a724a6502ac6e7fdca8d7b121",
+            "MD5": "2bd26d129a681711a0996e6d73e03e72",
             "path": "config/yosbr/config/plasmovoice/server/languages/de_de.toml"
           }
         },
@@ -8958,9 +8938,9 @@
           "name": "en_us.toml",
           "type": "File",
           "artifact": {
-            "size": 1892,
+            "size": 1939,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/en_us.toml",
-            "MD5": "49ebe9ff33a62a4f28ec5b8b965ba2c9",
+            "MD5": "95ddfb070d0cc909925e9d3540291ec8",
             "path": "config/yosbr/config/plasmovoice/server/languages/en_us.toml"
           }
         },
@@ -8969,9 +8949,9 @@
           "name": "es_es.toml",
           "type": "File",
           "artifact": {
-            "size": 2111,
+            "size": 2158,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/es_es.toml",
-            "MD5": "285832ac1b88e96ce360eddf2b5fe8b3",
+            "MD5": "93d86d47a4c2f312ab1108cda77cd8fe",
             "path": "config/yosbr/config/plasmovoice/server/languages/es_es.toml"
           }
         },
@@ -8980,9 +8960,9 @@
           "name": "fr_fr.toml",
           "type": "File",
           "artifact": {
-            "size": 2087,
+            "size": 2134,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/fr_fr.toml",
-            "MD5": "ac96d5a885a08166603b8c4a872b8cfa",
+            "MD5": "93f05a8650233ecd25efa49e357d01b6",
             "path": "config/yosbr/config/plasmovoice/server/languages/fr_fr.toml"
           }
         },
@@ -8991,9 +8971,9 @@
           "name": "he_il.toml",
           "type": "File",
           "artifact": {
-            "size": 2216,
+            "size": 2263,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/he_il.toml",
-            "MD5": "e0dd440bbd2b90aa0218ce09316ba0fa",
+            "MD5": "83e1949c2c504bc8c38552a51f31d309",
             "path": "config/yosbr/config/plasmovoice/server/languages/he_il.toml"
           }
         },
@@ -9002,9 +8982,9 @@
           "name": "ko_kr.toml",
           "type": "File",
           "artifact": {
-            "size": 2344,
+            "size": 2391,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/ko_kr.toml",
-            "MD5": "22ca682e2bacbdd62a664d52977218e6",
+            "MD5": "4472d2bf1a9a6110139e25df349587fb",
             "path": "config/yosbr/config/plasmovoice/server/languages/ko_kr.toml"
           }
         },
@@ -9013,9 +8993,9 @@
           "name": "pl_pl.toml",
           "type": "File",
           "artifact": {
-            "size": 2028,
+            "size": 2075,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/pl_pl.toml",
-            "MD5": "65591e68a7501980c5c4270c096203ea",
+            "MD5": "afb482f1370b5e860dc832250b68ddbe",
             "path": "config/yosbr/config/plasmovoice/server/languages/pl_pl.toml"
           }
         },
@@ -9024,9 +9004,9 @@
           "name": "pt_br.toml",
           "type": "File",
           "artifact": {
-            "size": 2023,
+            "size": 2070,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/pt_br.toml",
-            "MD5": "f0f8d12c31b72c36c2b806fd47786f80",
+            "MD5": "5f6976b345385ad0a435dd8376ccf6ae",
             "path": "config/yosbr/config/plasmovoice/server/languages/pt_br.toml"
           }
         },
@@ -9035,9 +9015,9 @@
           "name": "ru_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 2519,
+            "size": 2566,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/ru_ru.toml",
-            "MD5": "1b3d72cf2e187d8bcd62fb8d49bd03a7",
+            "MD5": "fe35242aa7f0eea0c405995b2003add8",
             "path": "config/yosbr/config/plasmovoice/server/languages/ru_ru.toml"
           }
         },
@@ -9046,9 +9026,9 @@
           "name": "tr_tr.toml",
           "type": "File",
           "artifact": {
-            "size": 820,
+            "size": 831,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/tr_tr.toml",
-            "MD5": "a8fc4a714b0ed6278edcf749df422636",
+            "MD5": "2cc091602a2b6245d6590c8e284d3076",
             "path": "config/yosbr/config/plasmovoice/server/languages/tr_tr.toml"
           }
         },
@@ -9057,9 +9037,9 @@
           "name": "tt_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 2901,
+            "size": 2948,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/tt_ru.toml",
-            "MD5": "0b9b86cc64bb0b57427f61dfe53d436f",
+            "MD5": "bce807f33e9580185016ac2e2cf84c70",
             "path": "config/yosbr/config/plasmovoice/server/languages/tt_ru.toml"
           }
         },
@@ -9068,9 +9048,9 @@
           "name": "uk_ua.toml",
           "type": "File",
           "artifact": {
-            "size": 2718,
+            "size": 2765,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/uk_ua.toml",
-            "MD5": "3460a9c5c46205ee2892e18b2f62a2bd",
+            "MD5": "240893f79cd34e024c4c519d0d63e4e2",
             "path": "config/yosbr/config/plasmovoice/server/languages/uk_ua.toml"
           }
         },
@@ -9079,9 +9059,9 @@
           "name": "zh_cn.toml",
           "type": "File",
           "artifact": {
-            "size": 1870,
+            "size": 1917,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/zh_cn.toml",
-            "MD5": "3fdc475103740fa0974b9c006a78bd5d",
+            "MD5": "86152639cf1e9878897b471ffb94bbd8",
             "path": "config/yosbr/config/plasmovoice/server/languages/zh_cn.toml"
           }
         },
@@ -9090,9 +9070,9 @@
           "name": "zh_tw.toml",
           "type": "File",
           "artifact": {
-            "size": 1867,
+            "size": 1914,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/server/languages/zh_tw.toml",
-            "MD5": "d5f312dfe6d8ef936b807e736807d2f4",
+            "MD5": "25df9ccd4b758d33bd33cbcfe534efbf",
             "path": "config/yosbr/config/plasmovoice/server/languages/zh_tw.toml"
           }
         },
@@ -9112,9 +9092,9 @@
           "name": "updater.json",
           "type": "File",
           "artifact": {
-            "size": 68,
+            "size": 72,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/presencefootsteps/updater.json",
-            "MD5": "6a16a5be1c185667699608f173008110",
+            "MD5": "93b897564fc2650279b132f5daee73ff",
             "path": "config/yosbr/config/presencefootsteps/updater.json"
           }
         },
@@ -9123,9 +9103,9 @@
           "name": "userconfig.json",
           "type": "File",
           "artifact": {
-            "size": 427,
+            "size": 445,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/presencefootsteps/userconfig.json",
-            "MD5": "f86e533cab775e23360a2de006fdd503",
+            "MD5": "27e4f0bdf8713b309f6863a14559d5c1",
             "path": "config/yosbr/config/presencefootsteps/userconfig.json"
           }
         },
@@ -9134,9 +9114,9 @@
           "name": "config.toml",
           "type": "File",
           "artifact": {
-            "size": 257,
+            "size": 264,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/config.toml",
-            "MD5": "baf270682a8a916594d41c00381e480e",
+            "MD5": "79b2875cb154cd49b4c82c1feee00cee",
             "path": "config/yosbr/config/pv-addon-broadcast/config.toml"
           }
         },
@@ -9145,9 +9125,9 @@
           "name": "es_es.toml",
           "type": "File",
           "artifact": {
-            "size": 572,
+            "size": 586,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/.crowdin/es_es.toml",
-            "MD5": "74df20b6eecefc77191ecbfd57199041",
+            "MD5": "6612d2be1cedea0d1ac3a9647eb27bbc",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/.crowdin/es_es.toml"
           }
         },
@@ -9156,9 +9136,9 @@
           "name": "he_il.toml",
           "type": "File",
           "artifact": {
-            "size": 567,
+            "size": 581,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/.crowdin/he_il.toml",
-            "MD5": "1c0063830c1271907f5f3a848945fe91",
+            "MD5": "435b861e011a5be4d2cb24cdfa7cd570",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/.crowdin/he_il.toml"
           }
         },
@@ -9167,9 +9147,9 @@
           "name": "ko_kr.toml",
           "type": "File",
           "artifact": {
-            "size": 539,
+            "size": 553,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml",
-            "MD5": "2bffbbc6e6bf74ffb211496f8f957c3d",
+            "MD5": "d946538415b4355bad98852d0349e640",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml"
           }
         },
@@ -9178,9 +9158,9 @@
           "name": "pl_pl.toml",
           "type": "File",
           "artifact": {
-            "size": 585,
+            "size": 599,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml",
-            "MD5": "7c8a1a282644455a491c630353f9c10b",
+            "MD5": "49558db9eac77185a8c3f17ef985ea06",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml"
           }
         },
@@ -9189,9 +9169,9 @@
           "name": "pt_br.toml",
           "type": "File",
           "artifact": {
-            "size": 539,
+            "size": 553,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/.crowdin/pt_br.toml",
-            "MD5": "8ad644dd6212b6704aa553c7ba2cf908",
+            "MD5": "484c24daaea36a475f0a6784bed4d828",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/.crowdin/pt_br.toml"
           }
         },
@@ -9200,9 +9180,9 @@
           "name": "ru_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 742,
+            "size": 756,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml",
-            "MD5": "0c3fd746c221dbcf0f8c49da650fa88f",
+            "MD5": "09ec2eaca067d119866dae7407f19ad1",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml"
           }
         },
@@ -9222,9 +9202,9 @@
           "name": "tt_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 757,
+            "size": 771,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml",
-            "MD5": "4670c034db25616bae8adfb58079ddde",
+            "MD5": "903f4d66f496cdf055f3d242d173098e",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml"
           }
         },
@@ -9233,9 +9213,9 @@
           "name": "zh_cn.toml",
           "type": "File",
           "artifact": {
-            "size": 531,
+            "size": 545,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml",
-            "MD5": "5bbdf7c7911641285e3afaa572d559f1",
+            "MD5": "151b1815512249fe94bbbce08fee5ca1",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml"
           }
         },
@@ -9244,9 +9224,9 @@
           "name": "zh_tw.toml",
           "type": "File",
           "artifact": {
-            "size": 531,
+            "size": 545,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml",
-            "MD5": "4c944c26420cfc7950676405facf0064",
+            "MD5": "604ed0ec52dcce6647c53ed60c36763a",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml"
           }
         },
@@ -9255,9 +9235,9 @@
           "name": "en_us.toml",
           "type": "File",
           "artifact": {
-            "size": 531,
+            "size": 544,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/en_us.toml",
-            "MD5": "7a584e74a76d29f04c70b98d713a9c58",
+            "MD5": "24c8f276df5c5bc4446a06eeee94b93a",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/en_us.toml"
           }
         },
@@ -9266,9 +9246,9 @@
           "name": "es_es.toml",
           "type": "File",
           "artifact": {
-            "size": 571,
+            "size": 584,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/es_es.toml",
-            "MD5": "6952743a711539e61d6fdd4028f68090",
+            "MD5": "78979ab31d19921aba7522f483a3e78d",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/es_es.toml"
           }
         },
@@ -9277,9 +9257,9 @@
           "name": "he_il.toml",
           "type": "File",
           "artifact": {
-            "size": 566,
+            "size": 579,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/he_il.toml",
-            "MD5": "73f6519c66b02b1aac582360386e705b",
+            "MD5": "4d76270b3d505b932eade255519e97bf",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/he_il.toml"
           }
         },
@@ -9288,9 +9268,9 @@
           "name": "ko_kr.toml",
           "type": "File",
           "artifact": {
-            "size": 538,
+            "size": 551,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/ko_kr.toml",
-            "MD5": "fae23b13561725fb13d34c11ffb43442",
+            "MD5": "2807f893f533f5d073f55bca82551bc0",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/ko_kr.toml"
           }
         },
@@ -9299,9 +9279,9 @@
           "name": "pl_pl.toml",
           "type": "File",
           "artifact": {
-            "size": 584,
+            "size": 597,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/pl_pl.toml",
-            "MD5": "6054236d22dd2b5ff3ea2c3c517977bf",
+            "MD5": "b3419d523ccc3795e5abec595401494e",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/pl_pl.toml"
           }
         },
@@ -9310,9 +9290,9 @@
           "name": "pt_br.toml",
           "type": "File",
           "artifact": {
-            "size": 538,
+            "size": 551,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/pt_br.toml",
-            "MD5": "ee963bb3ef1f035951024e4970595523",
+            "MD5": "623dd82bfed44405c0abea00e6b085f0",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/pt_br.toml"
           }
         },
@@ -9321,9 +9301,9 @@
           "name": "ru_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 741,
+            "size": 754,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/ru_ru.toml",
-            "MD5": "2f7ee16e1e8d0650f65490c318b80f55",
+            "MD5": "9ba072fb7f08190ef54112895360ed79",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/ru_ru.toml"
           }
         },
@@ -9332,9 +9312,9 @@
           "name": "tt_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 756,
+            "size": 769,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/tt_ru.toml",
-            "MD5": "afb5933fa7690d2340f6199a3f49d53c",
+            "MD5": "dc6c520272a3860c90da72e3a9dcf316",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/tt_ru.toml"
           }
         },
@@ -9343,9 +9323,9 @@
           "name": "zh_cn.toml",
           "type": "File",
           "artifact": {
-            "size": 530,
+            "size": 543,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/zh_cn.toml",
-            "MD5": "731e915e650606f3a9a98d17a53a5e6e",
+            "MD5": "052472bea1d39d6999c2c03cc9db7bb0",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/zh_cn.toml"
           }
         },
@@ -9354,9 +9334,9 @@
           "name": "zh_tw.toml",
           "type": "File",
           "artifact": {
-            "size": 530,
+            "size": 543,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-broadcast/languages/zh_tw.toml",
-            "MD5": "38a8d519077edaa1ca5886ef39bf5ebc",
+            "MD5": "4625e7d1b76cfbf86821bf1d6404b886",
             "path": "config/yosbr/config/pv-addon-broadcast/languages/zh_tw.toml"
           }
         },
@@ -9365,9 +9345,9 @@
           "name": "config.toml",
           "type": "File",
           "artifact": {
-            "size": 177,
+            "size": 184,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/config.toml",
-            "MD5": "c27b4fef066d7b83e81ba905110d5c16",
+            "MD5": "01c6692de2a1be7dde44a60da334a424",
             "path": "config/yosbr/config/pv-addon-priority/config.toml"
           }
         },
@@ -9376,9 +9356,9 @@
           "name": "es_es.toml",
           "type": "File",
           "artifact": {
-            "size": 46,
+            "size": 48,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/.crowdin/es_es.toml",
-            "MD5": "2b823ba9db2da6deefd926fc83f27469",
+            "MD5": "654c27d361f22bff60d41e05ed53b519",
             "path": "config/yosbr/config/pv-addon-priority/languages/.crowdin/es_es.toml"
           }
         },
@@ -9387,9 +9367,9 @@
           "name": "he_il.toml",
           "type": "File",
           "artifact": {
-            "size": 49,
+            "size": 51,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/.crowdin/he_il.toml",
-            "MD5": "58fab0078bc723b669f6ad21707a3d67",
+            "MD5": "a6b787973495d1f5e45cfa6a52ed7976",
             "path": "config/yosbr/config/pv-addon-priority/languages/.crowdin/he_il.toml"
           }
         },
@@ -9398,9 +9378,9 @@
           "name": "ko_kr.toml",
           "type": "File",
           "artifact": {
-            "size": 49,
+            "size": 51,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/.crowdin/ko_kr.toml",
-            "MD5": "d973f11d9853cfa08a1d4d78e676535b",
+            "MD5": "f99009cf40f314917fbfb86e8b40962a",
             "path": "config/yosbr/config/pv-addon-priority/languages/.crowdin/ko_kr.toml"
           }
         },
@@ -9409,9 +9389,9 @@
           "name": "pl_pl.toml",
           "type": "File",
           "artifact": {
-            "size": 46,
+            "size": 48,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/.crowdin/pl_pl.toml",
-            "MD5": "e067d597317a070da6119cb8fc7d7ecb",
+            "MD5": "307ac81ce144ac4793ae22e1504ec363",
             "path": "config/yosbr/config/pv-addon-priority/languages/.crowdin/pl_pl.toml"
           }
         },
@@ -9420,9 +9400,9 @@
           "name": "pt_br.toml",
           "type": "File",
           "artifact": {
-            "size": 47,
+            "size": 49,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/.crowdin/pt_br.toml",
-            "MD5": "b7144a7027211c2884b0543f0bc958bd",
+            "MD5": "94e234a7065b465b3d3f1354049bc46f",
             "path": "config/yosbr/config/pv-addon-priority/languages/.crowdin/pt_br.toml"
           }
         },
@@ -9431,9 +9411,9 @@
           "name": "ru_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 55,
+            "size": 57,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/.crowdin/ru_ru.toml",
-            "MD5": "6977ef32e0685f6b4260c2d05c023bb1",
+            "MD5": "626204dee93a523232145063dd026c76",
             "path": "config/yosbr/config/pv-addon-priority/languages/.crowdin/ru_ru.toml"
           }
         },
@@ -9453,9 +9433,9 @@
           "name": "tt_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 53,
+            "size": 55,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/.crowdin/tt_ru.toml",
-            "MD5": "03481f793726bd4f08267ec0e0cf7850",
+            "MD5": "68bd97c4ef044e710bb8f69540fcd77e",
             "path": "config/yosbr/config/pv-addon-priority/languages/.crowdin/tt_ru.toml"
           }
         },
@@ -9464,9 +9444,9 @@
           "name": "zh_cn.toml",
           "type": "File",
           "artifact": {
-            "size": 46,
+            "size": 48,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/.crowdin/zh_cn.toml",
-            "MD5": "80cae88dda07428560ed05f4ec8798e1",
+            "MD5": "1a9173b1675bbd89f360046afc3280e2",
             "path": "config/yosbr/config/pv-addon-priority/languages/.crowdin/zh_cn.toml"
           }
         },
@@ -9475,9 +9455,9 @@
           "name": "zh_tw.toml",
           "type": "File",
           "artifact": {
-            "size": 49,
+            "size": 51,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/.crowdin/zh_tw.toml",
-            "MD5": "57719b6ab734370d1f3f4ab661e47d5c",
+            "MD5": "ffdb97056ba1961611284a84c6bece34",
             "path": "config/yosbr/config/pv-addon-priority/languages/.crowdin/zh_tw.toml"
           }
         },
@@ -9486,9 +9466,9 @@
           "name": "en_us.toml",
           "type": "File",
           "artifact": {
-            "size": 45,
+            "size": 47,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/en_us.toml",
-            "MD5": "8b27c24e15a2c743b00b9794559150ea",
+            "MD5": "a10c08f27a24c191201ff890c701b6ee",
             "path": "config/yosbr/config/pv-addon-priority/languages/en_us.toml"
           }
         },
@@ -9497,9 +9477,9 @@
           "name": "es_es.toml",
           "type": "File",
           "artifact": {
-            "size": 46,
+            "size": 48,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/es_es.toml",
-            "MD5": "2b823ba9db2da6deefd926fc83f27469",
+            "MD5": "654c27d361f22bff60d41e05ed53b519",
             "path": "config/yosbr/config/pv-addon-priority/languages/es_es.toml"
           }
         },
@@ -9508,9 +9488,9 @@
           "name": "he_il.toml",
           "type": "File",
           "artifact": {
-            "size": 49,
+            "size": 51,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/he_il.toml",
-            "MD5": "58fab0078bc723b669f6ad21707a3d67",
+            "MD5": "a6b787973495d1f5e45cfa6a52ed7976",
             "path": "config/yosbr/config/pv-addon-priority/languages/he_il.toml"
           }
         },
@@ -9519,9 +9499,9 @@
           "name": "ko_kr.toml",
           "type": "File",
           "artifact": {
-            "size": 49,
+            "size": 51,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/ko_kr.toml",
-            "MD5": "d973f11d9853cfa08a1d4d78e676535b",
+            "MD5": "f99009cf40f314917fbfb86e8b40962a",
             "path": "config/yosbr/config/pv-addon-priority/languages/ko_kr.toml"
           }
         },
@@ -9530,9 +9510,9 @@
           "name": "pl_pl.toml",
           "type": "File",
           "artifact": {
-            "size": 46,
+            "size": 48,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/pl_pl.toml",
-            "MD5": "e067d597317a070da6119cb8fc7d7ecb",
+            "MD5": "307ac81ce144ac4793ae22e1504ec363",
             "path": "config/yosbr/config/pv-addon-priority/languages/pl_pl.toml"
           }
         },
@@ -9541,9 +9521,9 @@
           "name": "pt_br.toml",
           "type": "File",
           "artifact": {
-            "size": 47,
+            "size": 49,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/pt_br.toml",
-            "MD5": "b7144a7027211c2884b0543f0bc958bd",
+            "MD5": "94e234a7065b465b3d3f1354049bc46f",
             "path": "config/yosbr/config/pv-addon-priority/languages/pt_br.toml"
           }
         },
@@ -9552,9 +9532,9 @@
           "name": "ru_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 55,
+            "size": 57,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/ru_ru.toml",
-            "MD5": "6977ef32e0685f6b4260c2d05c023bb1",
+            "MD5": "626204dee93a523232145063dd026c76",
             "path": "config/yosbr/config/pv-addon-priority/languages/ru_ru.toml"
           }
         },
@@ -9563,9 +9543,9 @@
           "name": "tt_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 53,
+            "size": 55,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/tt_ru.toml",
-            "MD5": "03481f793726bd4f08267ec0e0cf7850",
+            "MD5": "68bd97c4ef044e710bb8f69540fcd77e",
             "path": "config/yosbr/config/pv-addon-priority/languages/tt_ru.toml"
           }
         },
@@ -9574,9 +9554,9 @@
           "name": "zh_cn.toml",
           "type": "File",
           "artifact": {
-            "size": 46,
+            "size": 48,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/zh_cn.toml",
-            "MD5": "80cae88dda07428560ed05f4ec8798e1",
+            "MD5": "1a9173b1675bbd89f360046afc3280e2",
             "path": "config/yosbr/config/pv-addon-priority/languages/zh_cn.toml"
           }
         },
@@ -9585,9 +9565,9 @@
           "name": "zh_tw.toml",
           "type": "File",
           "artifact": {
-            "size": 49,
+            "size": 51,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-priority/languages/zh_tw.toml",
-            "MD5": "57719b6ab734370d1f3f4ab661e47d5c",
+            "MD5": "ffdb97056ba1961611284a84c6bece34",
             "path": "config/yosbr/config/pv-addon-priority/languages/zh_tw.toml"
           }
         },
@@ -9596,9 +9576,9 @@
           "name": "config.toml",
           "type": "File",
           "artifact": {
-            "size": 17,
+            "size": 18,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-spectator/config.toml",
-            "MD5": "13c5b95bb97c58b23a83dedf15c4b028",
+            "MD5": "e5f7be7f5eba17890048e7d1d0206100",
             "path": "config/yosbr/config/pv-addon-spectator/config.toml"
           }
         },
@@ -9607,9 +9587,9 @@
           "name": "config.toml",
           "type": "File",
           "artifact": {
-            "size": 136,
+            "size": 141,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/config.toml",
-            "MD5": "5add62a6b7f5c7aab9951d7920b03b67",
+            "MD5": "41a2bde4e83530c3454ce92e5eff70eb",
             "path": "config/yosbr/config/pv-addon-whisper/config.toml"
           }
         },
@@ -9618,9 +9598,9 @@
           "name": "es_es.toml",
           "type": "File",
           "artifact": {
-            "size": 44,
+            "size": 46,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/.crowdin/es_es.toml",
-            "MD5": "18b45736e4fab76ce6387ef2ebd36a5f",
+            "MD5": "f6654d01d4d9b6b2a7b5803c9e40a700",
             "path": "config/yosbr/config/pv-addon-whisper/languages/.crowdin/es_es.toml"
           }
         },
@@ -9629,9 +9609,9 @@
           "name": "he_il.toml",
           "type": "File",
           "artifact": {
-            "size": 46,
+            "size": 48,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/.crowdin/he_il.toml",
-            "MD5": "649a519c84ea1bb5d7767fb744f865a3",
+            "MD5": "8f35dbcc5704c6a2c8d24415f59ba7f1",
             "path": "config/yosbr/config/pv-addon-whisper/languages/.crowdin/he_il.toml"
           }
         },
@@ -9640,9 +9620,9 @@
           "name": "ko_kr.toml",
           "type": "File",
           "artifact": {
-            "size": 45,
+            "size": 47,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/.crowdin/ko_kr.toml",
-            "MD5": "3ced2bfe2f09d411a8b120056f20b9ef",
+            "MD5": "df33f9852c6353449ed7571af27746c6",
             "path": "config/yosbr/config/pv-addon-whisper/languages/.crowdin/ko_kr.toml"
           }
         },
@@ -9651,9 +9631,9 @@
           "name": "pl_pl.toml",
           "type": "File",
           "artifact": {
-            "size": 41,
+            "size": 43,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/.crowdin/pl_pl.toml",
-            "MD5": "9a68bd9654b0b94e571d66932c3ef8b6",
+            "MD5": "9d9a29f5fa7930201424c0aa46f21dc7",
             "path": "config/yosbr/config/pv-addon-whisper/languages/.crowdin/pl_pl.toml"
           }
         },
@@ -9662,9 +9642,9 @@
           "name": "pt_br.toml",
           "type": "File",
           "artifact": {
-            "size": 44,
+            "size": 46,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/.crowdin/pt_br.toml",
-            "MD5": "38642aee89196146db51b0100727735b",
+            "MD5": "173bb613781761ced3794a7838b1e9ed",
             "path": "config/yosbr/config/pv-addon-whisper/languages/.crowdin/pt_br.toml"
           }
         },
@@ -9673,9 +9653,9 @@
           "name": "ru_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 46,
+            "size": 48,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/.crowdin/ru_ru.toml",
-            "MD5": "ff595e113414306c68c955c9777b9018",
+            "MD5": "230604a5169c4e67f9b1b1a092560e3e",
             "path": "config/yosbr/config/pv-addon-whisper/languages/.crowdin/ru_ru.toml"
           }
         },
@@ -9695,9 +9675,9 @@
           "name": "tt_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 52,
+            "size": 54,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/.crowdin/tt_ru.toml",
-            "MD5": "874c5408288a5880993afd61538367cb",
+            "MD5": "703ed1d89b2ad189defb43486866ff1a",
             "path": "config/yosbr/config/pv-addon-whisper/languages/.crowdin/tt_ru.toml"
           }
         },
@@ -9706,9 +9686,9 @@
           "name": "zh_cn.toml",
           "type": "File",
           "artifact": {
-            "size": 45,
+            "size": 47,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/.crowdin/zh_cn.toml",
-            "MD5": "ab757449988561ec8fcd09aed5a706df",
+            "MD5": "cf996f1436f6adb4ca733c5aaf35b5a0",
             "path": "config/yosbr/config/pv-addon-whisper/languages/.crowdin/zh_cn.toml"
           }
         },
@@ -9717,9 +9697,9 @@
           "name": "zh_tw.toml",
           "type": "File",
           "artifact": {
-            "size": 45,
+            "size": 47,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/.crowdin/zh_tw.toml",
-            "MD5": "e114c4efaf8c03ca3f54421d2bb565b6",
+            "MD5": "a969b3fc3f9702807c6a41779d54099b",
             "path": "config/yosbr/config/pv-addon-whisper/languages/.crowdin/zh_tw.toml"
           }
         },
@@ -9728,9 +9708,9 @@
           "name": "en_us.toml",
           "type": "File",
           "artifact": {
-            "size": 43,
+            "size": 45,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/en_us.toml",
-            "MD5": "9be1d3806594663734b2ae452975910e",
+            "MD5": "daf7c8d60e5e62aee2b770e0a6442db8",
             "path": "config/yosbr/config/pv-addon-whisper/languages/en_us.toml"
           }
         },
@@ -9739,9 +9719,9 @@
           "name": "es_es.toml",
           "type": "File",
           "artifact": {
-            "size": 44,
+            "size": 46,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/es_es.toml",
-            "MD5": "18b45736e4fab76ce6387ef2ebd36a5f",
+            "MD5": "f6654d01d4d9b6b2a7b5803c9e40a700",
             "path": "config/yosbr/config/pv-addon-whisper/languages/es_es.toml"
           }
         },
@@ -9750,9 +9730,9 @@
           "name": "he_il.toml",
           "type": "File",
           "artifact": {
-            "size": 46,
+            "size": 48,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/he_il.toml",
-            "MD5": "649a519c84ea1bb5d7767fb744f865a3",
+            "MD5": "8f35dbcc5704c6a2c8d24415f59ba7f1",
             "path": "config/yosbr/config/pv-addon-whisper/languages/he_il.toml"
           }
         },
@@ -9761,9 +9741,9 @@
           "name": "ko_kr.toml",
           "type": "File",
           "artifact": {
-            "size": 45,
+            "size": 47,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/ko_kr.toml",
-            "MD5": "3ced2bfe2f09d411a8b120056f20b9ef",
+            "MD5": "df33f9852c6353449ed7571af27746c6",
             "path": "config/yosbr/config/pv-addon-whisper/languages/ko_kr.toml"
           }
         },
@@ -9772,9 +9752,9 @@
           "name": "pl_pl.toml",
           "type": "File",
           "artifact": {
-            "size": 41,
+            "size": 43,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/pl_pl.toml",
-            "MD5": "9a68bd9654b0b94e571d66932c3ef8b6",
+            "MD5": "9d9a29f5fa7930201424c0aa46f21dc7",
             "path": "config/yosbr/config/pv-addon-whisper/languages/pl_pl.toml"
           }
         },
@@ -9783,9 +9763,9 @@
           "name": "pt_br.toml",
           "type": "File",
           "artifact": {
-            "size": 44,
+            "size": 46,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/pt_br.toml",
-            "MD5": "38642aee89196146db51b0100727735b",
+            "MD5": "173bb613781761ced3794a7838b1e9ed",
             "path": "config/yosbr/config/pv-addon-whisper/languages/pt_br.toml"
           }
         },
@@ -9794,9 +9774,9 @@
           "name": "ru_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 46,
+            "size": 48,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/ru_ru.toml",
-            "MD5": "ff595e113414306c68c955c9777b9018",
+            "MD5": "230604a5169c4e67f9b1b1a092560e3e",
             "path": "config/yosbr/config/pv-addon-whisper/languages/ru_ru.toml"
           }
         },
@@ -9805,9 +9785,9 @@
           "name": "tt_ru.toml",
           "type": "File",
           "artifact": {
-            "size": 52,
+            "size": 54,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/tt_ru.toml",
-            "MD5": "874c5408288a5880993afd61538367cb",
+            "MD5": "703ed1d89b2ad189defb43486866ff1a",
             "path": "config/yosbr/config/pv-addon-whisper/languages/tt_ru.toml"
           }
         },
@@ -9816,9 +9796,9 @@
           "name": "zh_cn.toml",
           "type": "File",
           "artifact": {
-            "size": 45,
+            "size": 47,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/zh_cn.toml",
-            "MD5": "ab757449988561ec8fcd09aed5a706df",
+            "MD5": "cf996f1436f6adb4ca733c5aaf35b5a0",
             "path": "config/yosbr/config/pv-addon-whisper/languages/zh_cn.toml"
           }
         },
@@ -9827,9 +9807,9 @@
           "name": "zh_tw.toml",
           "type": "File",
           "artifact": {
-            "size": 45,
+            "size": 47,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/pv-addon-whisper/languages/zh_tw.toml",
-            "MD5": "e114c4efaf8c03ca3f54421d2bb565b6",
+            "MD5": "a969b3fc3f9702807c6a41779d54099b",
             "path": "config/yosbr/config/pv-addon-whisper/languages/zh_tw.toml"
           }
         },
@@ -9838,9 +9818,9 @@
           "name": "replaymod.json",
           "type": "File",
           "artifact": {
-            "size": 1808,
+            "size": 1873,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/replaymod.json",
-            "MD5": "bd38bb4c24651aaa80bdc49d47339183",
+            "MD5": "5dc4a704f1887e61c92d4790e1195d99",
             "path": "config/yosbr/config/replaymod.json"
           }
         },
@@ -9849,9 +9829,9 @@
           "name": "resourcify.json",
           "type": "File",
           "artifact": {
-            "size": 232,
+            "size": 241,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/resourcify.json",
-            "MD5": "8017c98d96c6955ea8dacef2ad6e2a28",
+            "MD5": "b6ffeda29a9995a09e10fb68f6e80785",
             "path": "config/yosbr/config/resourcify.json"
           }
         },
@@ -9871,9 +9851,9 @@
           "name": "simplehudenhanced.toml",
           "type": "File",
           "artifact": {
-            "size": 2389,
+            "size": 2508,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/simplehudenhanced.toml",
-            "MD5": "072cfa582c66292ff6af68d591e83ae6",
+            "MD5": "c48fda74520331838df9586bcfb729c9",
             "path": "config/yosbr/config/simplehudenhanced.toml"
           }
         },
@@ -9882,9 +9862,9 @@
           "name": "skinlayers.json",
           "type": "File",
           "artifact": {
-            "size": 430,
+            "size": 447,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/skinlayers.json",
-            "MD5": "442c83a747a9b01708fa9587880e9341",
+            "MD5": "8c0822b8aa8bb7d958173543cad8c729",
             "path": "config/yosbr/config/skinlayers.json"
           }
         },
@@ -9893,9 +9873,9 @@
           "name": "smoothchunk.json",
           "type": "File",
           "artifact": {
-            "size": 416,
+            "size": 429,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/smoothchunk.json",
-            "MD5": "0ac2effacf817dc5e9de27c3c6311686",
+            "MD5": "5653cfe4ea8fb15a282d0247707582a5",
             "path": "config/yosbr/config/smoothchunk.json"
           }
         },
@@ -9904,9 +9884,9 @@
           "name": "smoothscroll.json",
           "type": "File",
           "artifact": {
-            "size": 595,
+            "size": 621,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/smoothscroll.json",
-            "MD5": "cd47f0fa8deb35dfbd367f65d419d4bc",
+            "MD5": "bb27cfd8f188f46c0fe2137b2e843cf5",
             "path": "config/yosbr/config/smoothscroll.json"
           }
         },
@@ -9915,9 +9895,9 @@
           "name": "sodium-extra-options.json",
           "type": "File",
           "artifact": {
-            "size": 1522,
+            "size": 1586,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sodium-extra-options.json",
-            "MD5": "df1af55d3e9af90a8e1554899fe2f0d2",
+            "MD5": "48ca8048d53253360852ec968fdf9dac",
             "path": "config/yosbr/config/sodium-extra-options.json"
           }
         },
@@ -9926,9 +9906,9 @@
           "name": "sodium-extra.properties",
           "type": "File",
           "artifact": {
-            "size": 360,
+            "size": 367,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sodium-extra.properties",
-            "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
+            "MD5": "2521ab4a5c01dea4175ae2e83130db53",
             "path": "config/yosbr/config/sodium-extra.properties"
           }
         },
@@ -9948,9 +9928,9 @@
           "name": "sodium-mixins.properties",
           "type": "File",
           "artifact": {
-            "size": 258,
+            "size": 264,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sodium-mixins.properties",
-            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
+            "MD5": "0b774034a42f57f16d1d354cbc37385f",
             "path": "config/yosbr/config/sodium-mixins.properties"
           }
         },
@@ -9959,9 +9939,9 @@
           "name": "sodium-options.json",
           "type": "File",
           "artifact": {
-            "size": 709,
+            "size": 735,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sodium-options.json",
-            "MD5": "74903d772e860dd07aa63f1df2a5273c",
+            "MD5": "279a3775042f0bb4d7e4bc36fd3aa1a7",
             "path": "config/yosbr/config/sodium-options.json"
           }
         },
@@ -9992,9 +9972,9 @@
           "name": "chat.json",
           "type": "File",
           "artifact": {
-            "size": 589,
+            "size": 617,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sounds/chat.json",
-            "MD5": "6a27787b4ec8bf0119fd4e6c30fc4c73",
+            "MD5": "4c2308c7f3a7d8e2b41f1c245a8b4008",
             "path": "config/yosbr/config/sounds/chat.json"
           }
         },
@@ -10003,9 +9983,9 @@
           "name": "event.json",
           "type": "File",
           "artifact": {
-            "size": 797,
+            "size": 827,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sounds/event.json",
-            "MD5": "c3f29ed1e95a458a27698a3c411ece6f",
+            "MD5": "8ae0c32b0161d0f73247a2a18590359d",
             "path": "config/yosbr/config/sounds/event.json"
           }
         },
@@ -10014,9 +9994,9 @@
           "name": "mod_utils.json",
           "type": "File",
           "artifact": {
-            "size": 41,
+            "size": 43,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sounds/mod_utils.json",
-            "MD5": "8e13de10be491d0bc95bcc72a8335c60",
+            "MD5": "dc238bd345bc22d284de7af202fe6f84",
             "path": "config/yosbr/config/sounds/mod_utils.json"
           }
         },
@@ -10025,9 +10005,9 @@
           "name": "ui.json",
           "type": "File",
           "artifact": {
-            "size": 2108,
+            "size": 2199,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sounds/ui.json",
-            "MD5": "94252fa9b7107f42790a7a9fb821d7f2",
+            "MD5": "dbb0bb60ad536a3b67d6cae105f0f467",
             "path": "config/yosbr/config/sounds/ui.json"
           }
         },
@@ -10036,9 +10016,9 @@
           "name": "world.json",
           "type": "File",
           "artifact": {
-            "size": 1576,
+            "size": 1643,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sounds/world.json",
-            "MD5": "de1a5db2d40db185f4fe4e893bb01058",
+            "MD5": "2d8274e8d717afff8cc4809f0d5c05c7",
             "path": "config/yosbr/config/sounds/world.json"
           }
         },
@@ -10091,9 +10071,9 @@
           "name": "status-effect-bars.json",
           "type": "File",
           "artifact": {
-            "size": 666,
+            "size": 692,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/status-effect-bars.json",
-            "MD5": "342007123fec48f4a0ac940e1e10cf25",
+            "MD5": "03d9eb69f40a5a99f6e6707f53e99bd4",
             "path": "config/yosbr/config/status-effect-bars.json"
           }
         },
@@ -10102,9 +10082,9 @@
           "name": "stendhal.properties",
           "type": "File",
           "artifact": {
-            "size": 324,
+            "size": 335,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/stendhal/stendhal.properties",
-            "MD5": "420a1048488af028cac17fd81e1109ba",
+            "MD5": "167d39dd55abd6227bb16bc5d1f23cd8",
             "path": "config/yosbr/config/stendhal/stendhal.properties"
           }
         },
@@ -10124,9 +10104,9 @@
           "name": "supplementaries-client.json",
           "type": "File",
           "artifact": {
-            "size": 3586,
+            "size": 3743,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/supplementaries-client.json",
-            "MD5": "dc11ff2c5380aed64007738a059c48c5",
+            "MD5": "ca5cfca3bfb342acf46bdd28118d7c04",
             "path": "config/yosbr/config/supplementaries-client.json"
           }
         },
@@ -10135,9 +10115,9 @@
           "name": "tia.json",
           "type": "File",
           "artifact": {
-            "size": 51,
+            "size": 54,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/tia.json",
-            "MD5": "b1d6b911625ae98766e749b687208ba4",
+            "MD5": "dcf88bd267d393c438b28688ddc08023",
             "path": "config/yosbr/config/tia.json"
           }
         },
@@ -10157,9 +10137,9 @@
           "name": "waterframes-client.json",
           "type": "File",
           "artifact": {
-            "size": 152,
+            "size": 159,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/waterframes-client.json",
-            "MD5": "9d29a3b03ffb962fb3c7ff6992c7dbbf",
+            "MD5": "995f4861a43ca6fbbb3a21bcb21c4f33",
             "path": "config/yosbr/config/waterframes-client.json"
           }
         },
@@ -10172,50 +10152,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/watermedia/custom_vlc_path.txt",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/yosbr/config/watermedia/custom_vlc_path.txt"
-          }
-        },
-        {
-          "id": "xaerominimap-common.txt",
-          "name": "xaerominimap-common.txt",
-          "type": "File",
-          "artifact": {
-            "size": 145,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaerominimap-common.txt",
-            "MD5": "c4bb2d96ebd8182b307ef6b2fda27370",
-            "path": "config/yosbr/config/xaerominimap-common.txt"
-          }
-        },
-        {
-          "id": "xaerominimap.txt",
-          "name": "xaerominimap.txt",
-          "type": "File",
-          "artifact": {
-            "size": 3643,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaerominimap.txt",
-            "MD5": "7389f6bb027ba21964f059b051b79ed0",
-            "path": "config/yosbr/config/xaerominimap.txt"
-          }
-        },
-        {
-          "id": "xaerominimap_entities.json",
-          "name": "xaerominimap_entities.json",
-          "type": "File",
-          "artifact": {
-            "size": 5531,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaerominimap_entities.json",
-            "MD5": "71086272395ab15f8fdaad8e2c7320da",
-            "path": "config/yosbr/config/xaerominimap_entities.json"
-          }
-        },
-        {
-          "id": "xaeroplus.txt",
-          "name": "xaeroplus.txt",
-          "type": "File",
-          "artifact": {
-            "size": 3064,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaeroplus.txt",
-            "MD5": "795597a41a9aafbd8b853da44d769255",
-            "path": "config/yosbr/config/xaeroplus.txt"
           }
         },
         {
@@ -10245,9 +10181,9 @@
           "name": "zoomify.json",
           "type": "File",
           "artifact": {
-            "size": 713,
+            "size": 738,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/zoomify.json",
-            "MD5": "b1bbd7da77bd3e5400f0f92113285de3",
+            "MD5": "4fcd2b58edaf6a1517be6f70c77192ba",
             "path": "config/yosbr/config/zoomify.json"
           }
         },
@@ -10377,9 +10313,9 @@
           "name": "japsikclientforchosik-translations.zip",
           "type": "File",
           "artifact": {
-            "size": 36636,
+            "size": 38773,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/japsikclientforchosik-translations.zip",
-            "MD5": "375ae28b6ee770ac4d2a76a48782dae7",
+            "MD5": "d575bb88ec13b3a2729c566329d266da",
             "path": "resourcepacks/japsikclientforchosik-translations.zip"
           }
         },
