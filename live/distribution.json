@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.8-hotfix.1",
+      "version": "1.1.8-hotfix.2",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -5973,13 +5973,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.17@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.16@jar",
           "name": "WaterMedia",
           "type": "FabricMod",
           "artifact": {
-            "size": 37839284,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/watermedia-2.1.17.jar",
-            "MD5": "e72556291dbb319aaffd37b19bdf7ace"
+            "size": 37840085,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/watermedia-2.1.16.jar",
+            "MD5": "ef47093c6b20dec4738dd19506704d9c"
           }
         },
         {
@@ -6279,7 +6279,7 @@
           "artifact": {
             "size": 131,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "630c61e3254ca2f971e6d723facc7d80",
+            "MD5": "546f7285fd473fcd46970b52d1b0bdc5",
             "path": "config/bcc.json"
           }
         },
@@ -7324,7 +7324,7 @@
           "artifact": {
             "size": 309,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "e4d67987a7bceac7513138cac517363e",
+            "MD5": "1630ad81265b5fbd55c6207e69198ff6",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
