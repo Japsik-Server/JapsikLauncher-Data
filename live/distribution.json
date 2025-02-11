@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.7-hotfix.5",
+      "version": "1.1.8",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -5031,13 +5031,13 @@
           }
         },
         {
-          "id": "dev.tr7zw:notenoughanimations:1.9.1@jar",
+          "id": "dev.tr7zw:notenoughanimations:1.9.2@jar",
           "name": "NotEnoughAnimations",
           "type": "FabricMod",
           "artifact": {
-            "size": 441724,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/notenoughanimations-fabric-1.9.1-mc1.21.jar",
-            "MD5": "aa9f60b9051d54fc688226522f5cd0d5"
+            "size": 447895,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/notenoughanimations-fabric-1.9.2-mc1.21.jar",
+            "MD5": "79763c5a4ec264cfb3bd3b2f5ace2afe"
           },
           "required": {
             "value": false
@@ -5973,13 +5973,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.16@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.17@jar",
           "name": "WaterMedia",
           "type": "FabricMod",
           "artifact": {
-            "size": 37840085,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/watermedia-2.1.16.jar",
-            "MD5": "ef47093c6b20dec4738dd19506704d9c"
+            "size": 37839284,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/watermedia-2.1.17.jar",
+            "MD5": "e72556291dbb319aaffd37b19bdf7ace"
           }
         },
         {
@@ -6277,9 +6277,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 131,
+            "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "2a37c52719b0ea2a4fcde66efe504811",
+            "MD5": "16fdd54d79e8aed78235d3d45df1d2e2",
             "path": "config/bcc.json"
           }
         },
@@ -7322,9 +7322,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 309,
+            "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "dbec791040c8c27f5113280ef6417d38",
+            "MD5": "7e178cd44352742b53f238028ba54b05",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7729,9 +7729,9 @@
           "name": "resourcepackoverrides.json",
           "type": "File",
           "artifact": {
-            "size": 381,
+            "size": 410,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/resourcepackoverrides.json",
-            "MD5": "10633ae81262acdd448c8660593f4b8d",
+            "MD5": "67011a3e382805cdb9d49d7a93041081",
             "path": "config/resourcepackoverrides.json"
           }
         },
@@ -10318,6 +10318,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/SodiumTranslations.zip",
             "MD5": "55a7f373b26aa5e4ecc7aa7e248b52f4",
             "path": "resourcepacks/SodiumTranslations.zip"
+          }
+        },
+        {
+          "id": "sounds-patch.zip",
+          "name": "sounds-patch.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5075,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/sounds-patch.zip",
+            "MD5": "10620bdfab130ee6ee345ba41b6004fe",
+            "path": "resourcepacks/sounds-patch.zip"
           }
         },
         {
