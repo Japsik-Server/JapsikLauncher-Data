@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.8",
+      "version": "1.1.8-hotfix.1",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -6277,9 +6277,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 122,
+            "size": 131,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "16fdd54d79e8aed78235d3d45df1d2e2",
+            "MD5": "630c61e3254ca2f971e6d723facc7d80",
             "path": "config/bcc.json"
           }
         },
@@ -7322,9 +7322,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 300,
+            "size": 309,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "7e178cd44352742b53f238028ba54b05",
+            "MD5": "e4d67987a7bceac7513138cac517363e",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7729,9 +7729,9 @@
           "name": "resourcepackoverrides.json",
           "type": "File",
           "artifact": {
-            "size": 410,
+            "size": 516,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/resourcepackoverrides.json",
-            "MD5": "67011a3e382805cdb9d49d7a93041081",
+            "MD5": "f4993d6503e70162db1cb1cd0c522869",
             "path": "config/resourcepackoverrides.json"
           }
         },
@@ -10222,6 +10222,28 @@
           }
         },
         {
+          "id": "Better+Lanterns+v1.2(mc-1.21).zip",
+          "name": "Better+Lanterns+v1.2(mc-1.21).zip",
+          "type": "File",
+          "artifact": {
+            "size": 51529,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip",
+            "MD5": "85a84e027f39f0f73d779027435d1d15",
+            "path": "resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip"
+          }
+        },
+        {
+          "id": "BetterHangulFont.zip",
+          "name": "BetterHangulFont.zip",
+          "type": "File",
+          "artifact": {
+            "size": 80065,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/BetterHangulFont.zip",
+            "MD5": "7e53a307e7c7a9f12c7ed189ad416112",
+            "path": "resourcepacks/BetterHangulFont.zip"
+          }
+        },
+        {
           "id": "Chat Reporting Helper.zip",
           "name": "Chat Reporting Helper.zip",
           "type": "File",
@@ -10296,6 +10318,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/japsikclientforchosik-translations.zip",
             "MD5": "158ff1d9ff53ba669cf4e49f06eadfd4",
             "path": "resourcepacks/japsikclientforchosik-translations.zip"
+          }
+        },
+        {
+          "id": "Low Shield.zip",
+          "name": "Low Shield.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3274,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Low%20Shield.zip",
+            "MD5": "5d8465928b0893646648147055afeec2",
+            "path": "resourcepacks/Low Shield.zip"
           }
         },
         {
