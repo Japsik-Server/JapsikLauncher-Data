@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3535,16 +3535,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "com.supermartijn642:chunkloaders:1.2.8+b@jar",
-          "name": "Chunk Loaders",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 147412,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/chunkloaders-1.2.8b-fabric-mc1.21.jar",
-            "MD5": "98ce3556fd0f73150cecbdf468d2874f"
           }
         },
         {
@@ -6322,7 +6312,7 @@
           "artifact": {
             "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "b3c2b7208b1f2fecfb4027c989eaae5c",
+            "MD5": "425224e07130bf1cefd59241324af030",
             "path": "config/bcc.json"
           }
         },
@@ -7356,7 +7346,7 @@
           "artifact": {
             "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "9f6f18c87c045f3545f0ca927ca94144",
+            "MD5": "3a351844be5cf0c6ec8ab687b29de878",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -10203,9 +10193,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8733,
+            "size": 8677,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/options.txt",
-            "MD5": "535edd82eac83fd4e5c81b2b756ab452",
+            "MD5": "37f8803ae4682ad9e9385e12905d525b",
             "path": "config/yosbr/options.txt"
           }
         },
