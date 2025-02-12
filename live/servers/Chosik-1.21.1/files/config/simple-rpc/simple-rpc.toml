@@ -99,7 +99,7 @@
 	#The first line of text under the app name
 	description = "%player%은(는) 초식서버에 참여중입니다."
 	#The second line of text under the app name
-	state = "Japsik Server 참여중"
+	state = "Chosik 참여중"
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["japsik-logo"]
 	#The text that gets displayed when the large image is hovered
@@ -136,9 +136,9 @@
 	#Enable/Disable the Multi Player Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%player%은(는) 잡식서버에서 플레이 중입니다."
+	description = "%player%은(는) 초식에서 플레이 중입니다."
 	#The second line of text under the app name
-	state = "Japsik Server 플레이 중"
+	state = "Chosik 플레이 중"
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["japsik-logo"]
 	#The text that gets displayed when the large image is hovered

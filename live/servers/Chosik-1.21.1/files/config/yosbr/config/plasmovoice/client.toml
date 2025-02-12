@@ -2,6 +2,20 @@ debug = false
 disable_crowdin = false
 check_for_updates = true
 
+[[key_bindings]]
+name = "key.plasmovoice.general.mute_microphone"
+any_context = false
+category = "key.plasmovoice.general"
+
+[[key_bindings.keys]]
+code = 75
+type = "KEYSYM"
+
+[[key_bindings]]
+name = "key.plasmovoice.proximity.ptt"
+any_context = true
+category = "hidden"
+
 [[key_bindings.keys]]
 code = 84
 type = "KEYSYM"

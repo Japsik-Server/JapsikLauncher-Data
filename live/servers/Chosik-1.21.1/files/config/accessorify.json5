@@ -4,6 +4,9 @@
 	"elytraAccessory": true,
 	"spyglassAccessory": true,
 	"totemOfUndyingAccessory": true,
+	"recoveryCompassAccessory": false,
+	"shulkerBoxAccessory": false,
+	"allowedShulkerBoxes": 3,
 	"hideDebugInfoInSurvival": false,
 	"overlay": {
 		"showYCoordinate": true,
@@ -27,5 +30,9 @@
 			"autumn": 16086338,
 			"winter": 4388341
 		}
+	},
+	"spyglassZoom": {
+		"scrollableZoom": true,
+		"rememberZoomLevel": true
 	}
 }
