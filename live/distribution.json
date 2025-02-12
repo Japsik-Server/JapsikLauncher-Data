@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.1.8-hotfix.2",
+      "version": "1.2.0",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3120,13 +3120,13 @@
           }
         },
         {
-          "id": "me.pajic:accessorify:1.2.0+1.21.1@jar",
+          "id": "me.pajic:accessorify:1.3.0+1.21.1@jar",
           "name": "Accessorify",
           "type": "FabricMod",
           "artifact": {
-            "size": 219560,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/accessorify-1.2.0+1.21.1.jar",
-            "MD5": "6d2859f950815a814b6184f80fbe1d38"
+            "size": 235421,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/accessorify-1.3.0+1.21.1.jar",
+            "MD5": "7136efa782d88d7bd37427ea3666953e"
           }
         },
         {
@@ -3166,13 +3166,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:amendments:1.21-1.2.22@jar",
+          "id": "net.mehvahdjukaar:amendments:1.21-1.2.23@jar",
           "name": "Amendments",
           "type": "FabricMod",
           "artifact": {
-            "size": 814871,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/amendments-1.21-1.2.22-fabric.jar",
-            "MD5": "01c2497a0be4ee23983ccc02389d7346"
+            "size": 819417,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/amendments-1.21-1.2.23-fabric.jar",
+            "MD5": "c287221ccf3b020714d0d7b628b86dc7"
           }
         },
         {
@@ -3598,13 +3598,13 @@
           }
         },
         {
-          "id": "com.natamus:collective:7.87@jar",
+          "id": "com.natamus:collective:7.90@jar",
           "name": "Collective",
           "type": "FabricMod",
           "artifact": {
-            "size": 922673,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/collective-1.21.1-7.87.jar",
-            "MD5": "2234bf405d5b01d651254cf69aad6ee0"
+            "size": 922980,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/collective-1.21.1-7.90.jar",
+            "MD5": "6d4bb07149fae241c1a67af39785c6cd"
           }
         },
         {
@@ -3848,6 +3848,19 @@
             "size": 659626,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/distraction_free_recipes-fabric-1.2.1-1.21.1.jar",
             "MD5": "c5f888a591c50e9427e7f90a1847318a"
+          }
+        },
+        {
+          "id": "fabric.com.mrmelon54.DraggableLists:draggable_lists:1.0.7@jar",
+          "name": "Draggable Lists",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 98190,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/draggable_lists-mc1.20.6-1.0.7-build.39.jar",
+            "MD5": "be6f92c3a6ba5ed7d130c81cae0e1b68"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -4138,13 +4151,13 @@
           }
         },
         {
-          "id": "de.keksuccino:fancymenu:3.4.0@jar",
+          "id": "de.keksuccino:fancymenu:3.4.3@jar",
           "name": "FancyMenu",
           "type": "FabricMod",
           "artifact": {
-            "size": 3069788,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fancymenu_fabric_3.4.0_MC_1.21.1.jar",
-            "MD5": "9b9b2c5c53506992050a3a66b4f36a3a"
+            "size": 3069846,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fancymenu_fabric_3.4.3_MC_1.21.1.jar",
+            "MD5": "5832e13da4990dd0e5c80a224dec8bbb"
           }
         },
         {
@@ -4865,13 +4878,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.21@jar",
+          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.23@jar",
           "name": "Moonlight Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1094216,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moonlight-1.21-2.17.21-fabric.jar",
-            "MD5": "2baf6ce23e895a5f7833886a5a8e91e6"
+            "size": 1095773,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moonlight-1.21-2.17.23-fabric.jar",
+            "MD5": "8e73cad22aba5285cb7ede78cf865288"
           }
         },
         {
@@ -5008,6 +5021,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:nofireworkboosting:1.0.1@jar",
+          "name": "No Firework Boosting",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6651,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/NoFireworkBoosting-v1.0.1-mc1.20.jar",
+            "MD5": "f1eaffd948eb0b58a68674b7ea660278"
+          }
+        },
+        {
           "id": "github.erb3:nohotbarlooping:1.1.1@jar",
           "name": "No Hotbar Looping",
           "type": "FabricMod",
@@ -5110,13 +5133,13 @@
           }
         },
         {
-          "id": "dev.tonimatas:packetfixer:1.4.4@jar",
+          "id": "dev.tonimatas:packetfixer:2.0.1@jar",
           "name": "Packet Fixer",
           "type": "FabricMod",
           "artifact": {
-            "size": 18731,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/packetfixer-fabric-1.4.4-1.21-to-1.21.3.jar",
-            "MD5": "b7352ab01d871e7d03dda8de40aea085"
+            "size": 24709,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/packetfixer-fabric-2.0.1-1.21-to-1.21.3.jar",
+            "MD5": "99554eaba2d08c24548e457dc1c4c492"
           }
         },
         {
@@ -5490,13 +5513,13 @@
           }
         },
         {
-          "id": "com.phantomwing:rusticdelight:1.3.2@jar",
+          "id": "com.phantomwing:rusticdelight:1.3.3@jar",
           "name": "Rustic Delight",
           "type": "FabricMod",
           "artifact": {
-            "size": 282745,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/rusticdelight-fabric-1.21.1-1.3.2.jar",
-            "MD5": "cd488ad303173f17217ccc12f687ef15"
+            "size": 282743,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/rusticdelight-fabric-1.21.1-1.3.3.jar",
+            "MD5": "a2e6027aba6bf4b7af1508e545330045"
           }
         },
         {
@@ -5517,6 +5540,16 @@
             "size": 93832,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/SeedDelight-Fabric-1.21-1.0.1-Fix.jar",
             "MD5": "b95d94138d9635ec5aa277176f19082b"
+          }
+        },
+        {
+          "id": "com.dooji.sn:server-notify:1.0.4@jar",
+          "name": "Server Notify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 947511,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/server-notify-1.21-1.0.4.jar",
+            "MD5": "38862e5e30bd55e1544b229c7d257f3d"
           }
         },
         {
@@ -5890,6 +5923,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:tooltipfix:1.1.1-1.20@jar",
+          "name": "ToolTip Fix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12432,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/tooltipfix-1.1.1-1.20.jar",
+            "MD5": "492430f451d89f7fe2d7b8410c9748ac"
+          }
+        },
+        {
           "id": "de.maxhenkel.tradecycling:trade_cycling:1.21.1-1.0.16@jar",
           "name": "Trade Cycling",
           "type": "FabricMod",
@@ -6211,9 +6254,9 @@
           "name": "accessorify.json5",
           "type": "File",
           "artifact": {
-            "size": 714,
+            "size": 885,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/accessorify.json5",
-            "MD5": "abef20995c99a14b3d7c169c5ea7132d",
+            "MD5": "391b6a1270aff3468a286a721d821335",
             "path": "config/accessorify.json5"
           }
         },
@@ -6277,9 +6320,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 131,
+            "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "546f7285fd473fcd46970b52d1b0bdc5",
+            "MD5": "b3c2b7208b1f2fecfb4027c989eaae5c",
             "path": "config/bcc.json"
           }
         },
@@ -7036,9 +7079,9 @@
           "name": "pause_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 20989,
+            "size": 20991,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "7794480c63450bcdeda73b8c51f139ad",
+            "MD5": "d1ab7ae4b1a3bb5145144115e489f407",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -7117,17 +7160,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/fancymenu/ui_themes/light.json",
             "MD5": "adfba137b3d62c50a5186a4f6523a72a",
             "path": "config/fancymenu/ui_themes/light.json"
-          }
-        },
-        {
-          "id": "user_variables.db",
-          "name": "user_variables.db",
-          "type": "File",
-          "artifact": {
-            "size": 23,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/fancymenu/user_variables.db",
-            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
-            "path": "config/fancymenu/user_variables.db"
           }
         },
         {
@@ -7322,9 +7354,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 309,
+            "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "1630ad81265b5fbd55c6207e69198ff6",
+            "MD5": "9f6f18c87c045f3545f0ca927ca94144",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7795,9 +7827,9 @@
           "name": "simple-rpc.toml",
           "type": "File",
           "artifact": {
-            "size": 8161,
+            "size": 8141,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/simple-rpc/simple-rpc.toml",
-            "MD5": "f276b18cdb0bc55354a27288834d464c",
+            "MD5": "31ed96181da9e78cc538487e6e69cd81",
             "path": "config/simple-rpc/simple-rpc.toml"
           }
         },
@@ -7810,6 +7842,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/sit.json5",
             "MD5": "2f93a717e70005e7b61259737fbe34e6",
             "path": "config/sit.json5"
+          }
+        },
+        {
+          "id": "sodiumdynamiclights-client.toml",
+          "name": "sodiumdynamiclights-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 654,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/sodiumdynamiclights-client.toml",
+            "MD5": "d3905742bcf3b51e5ff8815d9c7ff32b",
+            "path": "config/sodiumdynamiclights-client.toml"
           }
         },
         {
@@ -8730,9 +8773,9 @@
           "name": "client.toml",
           "type": "File",
           "artifact": {
-            "size": 1467,
+            "size": 1750,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/plasmovoice/client.toml",
-            "MD5": "b36ec27ccf449dbc9b634853b6cbbc6a",
+            "MD5": "4b4a42d102ebc255d9eb40ae35759c1e",
             "path": "config/yosbr/config/plasmovoice/client.toml"
           }
         },
@@ -9925,17 +9968,6 @@
           }
         },
         {
-          "id": "sodiumdynamiclights-client.toml",
-          "name": "sodiumdynamiclights-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 655,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sodiumdynamiclights-client.toml",
-            "MD5": "1aa7ab78fb5b1f74d98a096821d7ac08",
-            "path": "config/yosbr/config/sodiumdynamiclights-client.toml"
-          }
-        },
-        {
           "id": "sodiumextras-client.toml",
           "name": "sodiumextras-client.toml",
           "type": "File",
@@ -10171,9 +10203,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 12109,
+            "size": 8733,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/options.txt",
-            "MD5": "dcf6770eb84a2e7951734c60ab46b33e",
+            "MD5": "535edd82eac83fd4e5c81b2b756ab452",
             "path": "config/yosbr/options.txt"
           }
         },
@@ -10314,9 +10346,9 @@
           "name": "japsikclientforchosik-translations.zip",
           "type": "File",
           "artifact": {
-            "size": 38783,
+            "size": 38807,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/japsikclientforchosik-translations.zip",
-            "MD5": "158ff1d9ff53ba669cf4e49f06eadfd4",
+            "MD5": "8835ac2eabffaa7d24ab8220ddb9356e",
             "path": "resourcepacks/japsikclientforchosik-translations.zip"
           }
         },
