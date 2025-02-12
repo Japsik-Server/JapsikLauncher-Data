@@ -129,7 +129,6 @@ key_key.accessorify.use_spyglass:key.keyboard.v
 key_key.accessorify.open_shulker_box:key.keyboard.unknown
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.caps.lock
-key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_key.crawl:key.keyboard.b
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
