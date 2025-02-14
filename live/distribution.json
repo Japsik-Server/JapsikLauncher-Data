@@ -9,10 +9,10 @@
   "servers": [
     {
       "id": "BearTown-1.20.4",
-      "name": "Japsik Client for BearTown",
+      "name": "BearTown Client",
       "description": "베어타운",
       "icon": "https://static.japsik.com/assets/images/BearTown_title_v2-with_background.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "beartown.kr:25565",
       "minecraftVersion": "1.20.4",
       "discord": {
@@ -255,13 +255,13 @@
           }
         },
         {
-          "id": "dzwdz.chat_heads:chat_heads:0.13.12@jar",
+          "id": "dzwdz.chat_heads:chat_heads:0.13.13@jar",
           "name": "Chat Heads",
           "type": "FabricMod",
           "artifact": {
-            "size": 77122,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/chat_heads-0.13.12-fabric-1.20.4.jar",
-            "MD5": "339d49d0be6b66b1a48581ddb86402b8"
+            "size": 77199,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/chat_heads-0.13.13-fabric-1.20.4.jar",
+            "MD5": "635a20747f377708dde6058d97c96e86"
           },
           "required": {
             "value": false
@@ -615,19 +615,6 @@
             "size": 444627,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/required/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar",
             "MD5": "61c622d98e5938c377a45ad513b6de13"
-          }
-        },
-        {
-          "id": "bre2el.fpsreducer:fpsreducer:1.20.4-2.7@jar",
-          "name": "FPS Reducer",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 131585,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/FpsReducer2-fabric-1.20.4-2.7.jar",
-            "MD5": "1ccbccd3c6063240b6c6357f2cf4e1d5"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -991,13 +978,13 @@
           }
         },
         {
-          "id": "dev.tr7zw:notenoughanimations:1.9.0@jar",
+          "id": "dev.tr7zw:notenoughanimations:1.9.2@jar",
           "name": "NotEnoughAnimations",
           "type": "FabricMod",
           "artifact": {
-            "size": 440635,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/notenoughanimations-fabric-1.9.0-mc1.20.4.jar",
-            "MD5": "35472e4151e16b3dbec23f193fdd887d"
+            "size": 450432,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/fabricmods/optionalon/notenoughanimations-fabric-1.9.2-mc1.20.4.jar",
+            "MD5": "6fe470abcec9cf291eec4f949d6d5dac"
           },
           "required": {
             "value": false
@@ -1655,9 +1642,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 351,
+            "size": 340,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/isxander-main-menu-credits.json",
-            "MD5": "2429c52ed5e1a7dcda5700fa54258756",
+            "MD5": "bf376dbd6f6dee2787500a5238536bdf",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -1978,17 +1965,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/fallingleaves.json",
             "MD5": "bd5752ca1c1c4428964d1d5f7b145192",
             "path": "config/yosbr/config/fallingleaves.json"
-          }
-        },
-        {
-          "id": "fpsreducer.json",
-          "name": "fpsreducer.json",
-          "type": "File",
-          "artifact": {
-            "size": 1520,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/BearTown-1.20.4/files/config/yosbr/config/fpsreducer.json",
-            "MD5": "c251937ea151276c71b90cb8e34f6976",
-            "path": "config/yosbr/config/fpsreducer.json"
           }
         },
         {
@@ -2985,10 +2961,10 @@
     },
     {
       "id": "Chosik-1.21.1",
-      "name": "Japsik Client for Chosik",
+      "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -6299,7 +6275,7 @@
           "artifact": {
             "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "cf64cdea72cd0b02dcee08351355556b",
+            "MD5": "b0f8c6487c14071862f40d9666fea9e9",
             "path": "config/bcc.json"
           }
         },
@@ -7320,9 +7296,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 300,
+            "size": 289,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "66225e9a9217dd966ac9eb6487b8a416",
+            "MD5": "4abc76ca2156d38a02078c0cc4c962ee",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
