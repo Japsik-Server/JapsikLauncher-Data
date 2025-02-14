@@ -16,7 +16,7 @@
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Japsik Client 로딩 중"
+	description = "Chosik Client 로딩 중"
 	#The second line of text under the app name
 	state = "게임 실행중..."
 	#The Asset ID/URL of the image to display as the large image
@@ -26,11 +26,11 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Japsik Client"
+	smallImageText = "Chosik Client"
 	#The buttons to display on Discord 
 
 	[[init.buttons]]
-		label = "The Japsik | 잡식"
+		label = "Japsik | 잡식"
 		url = "https://discord.japsik.com"
 
 [main_menu]
@@ -47,11 +47,11 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Japsik Client"
+	smallImageText = "Chosik Client"
 	#The buttons to display on Discord 
 
 	[[main_menu.buttons]]
-		label = "The Japsik | 잡식"
+		label = "Japsik | 잡식"
 		url = "https://discord.japsik.com"
 
 [server_list]
@@ -68,11 +68,11 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Japsik Client"
+	smallImageText = "Chosik Client"
 	#The buttons to display on Discord 
 
 	[[server_list.buttons]]
-		label = "The Japsik | 잡식"
+		label = "Japsik | 잡식"
 		url = "https://discord.japsik.xyz"
 
 [realms_list]
@@ -107,11 +107,11 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Japsik Client"
+	smallImageText = "Chosik Client"
 	#The buttons to display on Discord 
 
 	[[join_game.buttons]]
-		label = "The Japsik | 잡식"
+		label = "Japsik | 잡식"
 		url = "https://discord.japsik.com"
 
 [single_player]
@@ -146,11 +146,11 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Japsik Client"
+	smallImageText = "Chosik Client"
 	#The buttons to display on Discord 
 
 	[[multi_player.buttons]]
-		label = "The Japsik | 잡식"
+		label = "Japsik | 잡식"
 		url = "https://discord.japsik.com"
 
 [realms]
@@ -173,7 +173,7 @@
 
 [generic]
 	#The first line of text under the app name
-	description = "Japsik Client 실행중"
+	description = "Chosik Client 실행중"
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID/URL of the image to display as the large image
@@ -183,11 +183,11 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["japsik-logo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Japsik Client"
+	smallImageText = "Chosik Client"
 	#The buttons to display on Discord 
 
 	[[generic.buttons]]
-		label = "The Japsik | 잡식"
+		label = "Japsik | 잡식"
 		url = "https://discord.japsik.com"
 
 [custom]
