@@ -2988,7 +2988,7 @@
       "name": "Japsik Client for Chosik",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3287,13 +3287,13 @@
           }
         },
         {
-          "id": "net.blay09.mods.balm:balm-fabric:21.0.26@jar",
+          "id": "net.blay09.mods.balm:balm-fabric:21.0.27@jar",
           "name": "Balm",
           "type": "FabricMod",
           "artifact": {
-            "size": 457954,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.26.jar",
-            "MD5": "ed2aefd0898c4e181af6c974fa36a4c0"
+            "size": 458611,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.27.jar",
+            "MD5": "a4ef7eafb4ec3b1db1e90346dfd0bf74"
           }
         },
         {
@@ -4128,23 +4128,23 @@
           }
         },
         {
-          "id": "de.keksuccino:fancymenu:3.4.3@jar",
+          "id": "de.keksuccino:fancymenu:3.4.4@jar",
           "name": "FancyMenu",
           "type": "FabricMod",
           "artifact": {
-            "size": 3069846,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fancymenu_fabric_3.4.3_MC_1.21.1.jar",
-            "MD5": "5832e13da4990dd0e5c80a224dec8bbb"
+            "size": 3069922,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fancymenu_fabric_3.4.4_MC_1.21.1.jar",
+            "MD5": "793a31e7d85788050fb7810e6c390032"
           }
         },
         {
-          "id": "vectorwing.farmersdelight:farmersdelight:1.21.1-2.2.9+refabricated@jar",
+          "id": "vectorwing.farmersdelight:farmersdelight:1.21.1-2.3.0+refabricated@jar",
           "name": "Farmer's Delight",
           "type": "FabricMod",
           "artifact": {
-            "size": 10936065,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/FarmersDelight-1.21.1-2.2.9+refabricated.jar",
-            "MD5": "512ec42fe386018852a54d8636a5413e"
+            "size": 10939580,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/FarmersDelight-1.21.1-2.3.0+refabricated.jar",
+            "MD5": "c3dc1d0832f8893cef7e814d68d8d81d"
           }
         },
         {
@@ -4325,13 +4325,13 @@
           }
         },
         {
-          "id": "com.natamus:healingcampfire:6.1@jar",
+          "id": "com.natamus:healingcampfire:6.2@jar",
           "name": "Healing Campfire",
           "type": "FabricMod",
           "artifact": {
-            "size": 47584,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/healingcampfire-1.21.1-6.1.jar",
-            "MD5": "cb2a253af27097a9039e7e3ae72b1854"
+            "size": 47517,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/healingcampfire-1.21.1-6.2.jar",
+            "MD5": "3c7eff87e0aa03b042a09e085758c622"
           }
         },
         {
@@ -4418,13 +4418,13 @@
           }
         },
         {
-          "id": "com.natamus:infinitetrading:4.5@jar",
+          "id": "com.natamus:infinitetrading:4.6@jar",
           "name": "Infinite Trading",
           "type": "FabricMod",
           "artifact": {
-            "size": 37027,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/infinitetrading-1.21.1-4.5.jar",
-            "MD5": "870fdd2826e94fa6c535f12680fdf96d"
+            "size": 36954,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/infinitetrading-1.21.1-4.6.jar",
+            "MD5": "3a8537a81af88d7ba8d65f12fdcfba60"
           }
         },
         {
@@ -4556,13 +4556,13 @@
           }
         },
         {
-          "id": "net.blay09.mods:kleeslabs:21.1.3@jar",
+          "id": "net.blay09.mods:kleeslabs:21.1.4@jar",
           "name": "KleeSlabs",
           "type": "FabricMod",
           "artifact": {
-            "size": 300216,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/kleeslabs-fabric-1.21.1-21.1.3.jar",
-            "MD5": "ad6e34e2a7edcb41333ee5d5ea276d7a"
+            "size": 300269,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/kleeslabs-fabric-1.21.1-21.1.4.jar",
+            "MD5": "5c9124d8835d30f57681e905300a21e4"
           }
         },
         {
@@ -4855,13 +4855,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.24@jar",
+          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.25@jar",
           "name": "Moonlight Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1095805,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moonlight-1.21-2.17.24-fabric.jar",
-            "MD5": "1034f704f92b31c9c568a7a2a106f8ba"
+            "size": 1095871,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moonlight-1.21-2.17.25-fabric.jar",
+            "MD5": "ff6a6d0cb1e101594e411e70eeabd8f1"
           }
         },
         {
@@ -5110,13 +5110,13 @@
           }
         },
         {
-          "id": "dev.tonimatas:packetfixer:2.0.1@jar",
+          "id": "dev.tonimatas:packetfixer:2.0.2@jar",
           "name": "Packet Fixer",
           "type": "FabricMod",
           "artifact": {
-            "size": 24709,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/packetfixer-fabric-2.0.1-1.21-to-1.21.3.jar",
-            "MD5": "99554eaba2d08c24548e457dc1c4c492"
+            "size": 24201,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/packetfixer-fabric-2.0.2-1.21-to-1.21.3.jar",
+            "MD5": "4a619392bb297dd8414fc4d68adc4da3"
           }
         },
         {
@@ -6299,7 +6299,7 @@
           "artifact": {
             "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "f71a61f869af17293bd1c531a875c6e9",
+            "MD5": "cf64cdea72cd0b02dcee08351355556b",
             "path": "config/bcc.json"
           }
         },
@@ -7322,7 +7322,7 @@
           "artifact": {
             "size": 300,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "7d072312b260d593757395a7737610ae",
+            "MD5": "66225e9a9217dd966ac9eb6487b8a416",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7793,9 +7793,9 @@
           "name": "simple-rpc.toml",
           "type": "File",
           "artifact": {
-            "size": 8141,
+            "size": 8146,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/simple-rpc/simple-rpc.toml",
-            "MD5": "31ed96181da9e78cc538487e6e69cd81",
+            "MD5": "f16e12364e0e2b8b851885ec60cff798",
             "path": "config/simple-rpc/simple-rpc.toml"
           }
         },
