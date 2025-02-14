@@ -36,7 +36,8 @@
     "net.minecraft.class_6599": false,
     "net.minecraft.class_443": false,
     "net.minecraft.class_404": false,
-    "io.github.thecsdev.betterstats.api.client.gui.screen.BetterStatsScreenWrapper": false
+    "io.github.thecsdev.betterstats.api.client.gui.screen.BetterStatsScreenWrapper": false,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": false
   },
   "hideBackground": {
     "net.replaceitem.integratedcircuit.client.gui.IntegratedCircuitScreen": true,
