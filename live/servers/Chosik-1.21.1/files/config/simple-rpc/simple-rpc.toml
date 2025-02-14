@@ -31,7 +31,7 @@
 
 	[[init.buttons]]
 		label = "The Japsik | 잡식"
-		url = "https://discord.gg/japsik"
+		url = "https://discord.japsik.com"
 
 [main_menu]
 	#Enable/Disable the Main Menu Event
@@ -52,7 +52,7 @@
 
 	[[main_menu.buttons]]
 		label = "The Japsik | 잡식"
-		url = "https://discord.gg/japsik"
+		url = "https://discord.japsik.com"
 
 [server_list]
 	#Enable/Disable the Server List Event
@@ -112,7 +112,7 @@
 
 	[[join_game.buttons]]
 		label = "The Japsik | 잡식"
-		url = "https://discord.gg/japsik"
+		url = "https://discord.japsik.com"
 
 [single_player]
 	#Enable/Disable the Single Player Event
@@ -151,7 +151,7 @@
 
 	[[multi_player.buttons]]
 		label = "The Japsik | 잡식"
-		url = "https://discord.gg/japsik"
+		url = "https://discord.japsik.com"
 
 [realms]
 	#Enable/Disable the Realms Game Event
@@ -188,7 +188,7 @@
 
 	[[generic.buttons]]
 		label = "The Japsik | 잡식"
-		url = "https://discord.gg/japsik"
+		url = "https://discord.japsik.com"
 
 [custom]
 	#Must these variables be parsed along with other variables
