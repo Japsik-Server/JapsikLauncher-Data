@@ -1,8 +1,8 @@
 {
   "$schema": "file:///E:/Userfile/Documents/GitHub/JapsikLauncher-Data/normal/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
-    "name": "Japsik Client for BearTown",
+    "version": "1.0.1",
+    "name": "BearTown Client",
     "description": "베어타운",
     "icon": "https://static.japsik.com/assets/images/BearTown_title_v2-with_background.png",
     "address": "beartown.kr:25565",
