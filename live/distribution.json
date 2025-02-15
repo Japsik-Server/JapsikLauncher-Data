@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.2.6",
+      "version": "1.2.7",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3086,13 +3086,13 @@
           }
         },
         {
-          "id": "io.wispforest:accessories:1.1.0-beta.27+1.21.1@jar",
+          "id": "io.wispforest:accessories:1.1.0-beta.28+1.21.1@jar",
           "name": "Accessories",
           "type": "FabricMod",
           "artifact": {
-            "size": 966461,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/accessories-fabric-1.1.0-beta.27+1.21.1.jar",
-            "MD5": "2c645bfaedbb66743feb4c9051e68546"
+            "size": 966988,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/accessories-fabric-1.1.0-beta.28+1.21.1.jar",
+            "MD5": "7f0a382a40147becb358a8569343fb70"
           }
         },
         {
@@ -6275,7 +6275,7 @@
           "artifact": {
             "size": 122,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "7215f2c58ac685c58c63d50c2be1db07",
+            "MD5": "37a03a347fbe713a21f8023792a1fb6f",
             "path": "config/bcc.json"
           }
         },
@@ -7320,7 +7320,7 @@
           "artifact": {
             "size": 289,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "2c7e817d2139a933145f4de4e1592325",
+            "MD5": "63719cc831adf368715c60f7ab36fc3a",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -10156,9 +10156,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8800,
+            "size": 8763,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/options.txt",
-            "MD5": "1e927fccf219b91376f2d8c03ed8bc64",
+            "MD5": "cc40ed7d590e547eab5845048c2d11c1",
             "path": "config/yosbr/options.txt"
           }
         },
