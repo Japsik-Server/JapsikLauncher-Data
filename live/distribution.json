@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.2.9",
+      "version": "1.2.10",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -4851,13 +4851,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.26@jar",
+          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.27@jar",
           "name": "Moonlight Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1097412,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moonlight-1.21-2.17.26-fabric.jar",
-            "MD5": "28ad2a79a1b45c2543da12f1a60e02be"
+            "size": 1100406,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moonlight-1.21-2.17.27-fabric.jar",
+            "MD5": "7409e71676da27fd60d10d0b5fa847ee"
           }
         },
         {
@@ -4951,13 +4951,13 @@
           }
         },
         {
-          "id": "net.blay09.mods:netherportalfix:21.1.1@jar",
+          "id": "net.blay09.mods:netherportalfix:21.1.3@jar",
           "name": "NetherPortalFix",
           "type": "FabricMod",
           "artifact": {
-            "size": 213232,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/netherportalfix-fabric-1.21.1-21.1.1.jar",
-            "MD5": "1e03e3a8dde21b13363531025d4d7416"
+            "size": 213294,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/netherportalfix-fabric-1.21.1-21.1.3.jar",
+            "MD5": "b9a0a822741aafe118ce9f883f8e86c4"
           }
         },
         {
@@ -5979,13 +5979,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.16@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.18@jar",
           "name": "WaterMedia",
           "type": "FabricMod",
           "artifact": {
-            "size": 37840085,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/watermedia-2.1.16.jar",
-            "MD5": "ef47093c6b20dec4738dd19506704d9c"
+            "size": 37845038,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/watermedia-2.1.18.jar",
+            "MD5": "ea5779a60d28d343a8a0240bd9e361b6"
           }
         },
         {
@@ -6283,9 +6283,9 @@
           "name": "bcc.json",
           "type": "File",
           "artifact": {
-            "size": 111,
+            "size": 112,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "c47fa929fb033a317fce649a9ef1fa41",
+            "MD5": "6d3ca79ab8d0b53c32f8f59796479f15",
             "path": "config/bcc.json"
           }
         },
@@ -6800,9 +6800,9 @@
           "name": "emi.css",
           "type": "File",
           "artifact": {
-            "size": 10165,
+            "size": 10160,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/emi.css",
-            "MD5": "762bb444e856485250a67503e86c89a6",
+            "MD5": "773521009a8b6dd240292414a5d15455",
             "path": "config/emi.css"
           }
         },
@@ -7328,9 +7328,9 @@
           "name": "isxander-main-menu-credits.json",
           "type": "File",
           "artifact": {
-            "size": 289,
+            "size": 290,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "475a1c7f4c0fc3cae90687b1937739e1",
+            "MD5": "653bbafcda15b306b060f9e35ba40b03",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7735,9 +7735,9 @@
           "name": "resourcepackoverrides.json",
           "type": "File",
           "artifact": {
-            "size": 533,
+            "size": 568,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/resourcepackoverrides.json",
-            "MD5": "2b2ce9584998c0b359da6524a90f78fb",
+            "MD5": "3d7fc9bf53c40cc809ea71b6b524c386",
             "path": "config/resourcepackoverrides.json"
           }
         },
@@ -10173,14 +10173,25 @@
           }
         },
         {
-          "id": "ComplementaryUnbound_r5.4.zip.txt",
-          "name": "ComplementaryUnbound_r5.4.zip.txt",
+          "id": "MakeUp-UltraFast-9.1c.zip.txt",
+          "name": "MakeUp-UltraFast-9.1c.zip.txt",
           "type": "File",
           "artifact": {
-            "size": 183,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/shaderpacks/ComplementaryUnbound_r5.4.zip.txt",
-            "MD5": "6ed20b51dbe978bf632ddfc645065994",
-            "path": "config/yosbr/shaderpacks/ComplementaryUnbound_r5.4.zip.txt"
+            "size": 141,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/shaderpacks/MakeUp-UltraFast-9.1c.zip.txt",
+            "MD5": "cc9f10b22bbb87940fa9c3bdda2ccd30",
+            "path": "config/yosbr/shaderpacks/MakeUp-UltraFast-9.1c.zip.txt"
+          }
+        },
+        {
+          "id": "Solas Shader V2.6.zip.txt",
+          "name": "Solas Shader V2.6.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 155,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/shaderpacks/Solas%20Shader%20V2.6.zip.txt",
+            "MD5": "34568fac2aadabd2504c0fd494904335",
+            "path": "config/yosbr/shaderpacks/Solas Shader V2.6.zip.txt"
           }
         },
         {
@@ -10225,6 +10236,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip",
             "MD5": "85a84e027f39f0f73d779027435d1d15",
             "path": "resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip"
+          }
+        },
+        {
+          "id": "Better-Leaves-9.0.zip",
+          "name": "Better-Leaves-9.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 762569,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Better-Leaves-9.0.zip",
+            "MD5": "e7505d48937505f9c7acc97c7264690e",
+            "path": "resourcepacks/Better-Leaves-9.0.zip"
           }
         },
         {
@@ -10360,14 +10382,25 @@
           }
         },
         {
-          "id": "ComplementaryUnbound_r5.4.zip",
-          "name": "ComplementaryUnbound_r5.4.zip",
+          "id": "MakeUp-UltraFast-9.1c.zip",
+          "name": "MakeUp-UltraFast-9.1c.zip",
           "type": "File",
           "artifact": {
-            "size": 452408,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
-            "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
-            "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
+            "size": 372691,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/shaderpacks/MakeUp-UltraFast-9.1c.zip",
+            "MD5": "44d0e1ca4286d06dd3a57e0048a5be86",
+            "path": "shaderpacks/MakeUp-UltraFast-9.1c.zip"
+          }
+        },
+        {
+          "id": "Solas Shader V2.6.zip",
+          "name": "Solas Shader V2.6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1267054,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/shaderpacks/Solas%20Shader%20V2.6.zip",
+            "MD5": "b7ccabe7e4a4883e6b7badb2a7f74f60",
+            "path": "shaderpacks/Solas Shader V2.6.zip"
           }
         }
       ]
