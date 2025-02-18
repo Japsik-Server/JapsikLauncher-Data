@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.2.12",
+      "version": "1.2.13",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -4891,13 +4891,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:mru:1.0.7+1.21+fabric@jar",
+          "id": "generated.fabricmod:mru:1.0.8+1.21+fabric@jar",
           "name": "Mineblock's Repeated Utilities",
           "type": "FabricMod",
           "artifact": {
-            "size": 87965,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/MRU-1.0.7+1.21+fabric.jar",
-            "MD5": "dc3a451b60ec46c6aeb3dc77bdd7ede9"
+            "size": 87689,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/MRU-1.0.8+1.21+fabric.jar",
+            "MD5": "7b4c93d39ee0387dbe253beef91c24b4"
           }
         },
         {
@@ -5694,13 +5694,13 @@
           }
         },
         {
-          "id": "dev.imb11.sounds.loaders:sounds:2.3.2+1.21+fabric@jar",
+          "id": "dev.imb11.sounds.loaders:sounds:2.4.4+1.21.1+fabric@jar",
           "name": "Sounds",
           "type": "FabricMod",
           "artifact": {
-            "size": 10425255,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/Sounds-2.3.2+1.21+fabric.jar",
-            "MD5": "033f5fcb02bd6f0f475c6251304e64d3"
+            "size": 10054471,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/sounds-2.4.4+1.21.1+fabric.jar",
+            "MD5": "36615bb2c4d001b85a5fef4bab8e8b6f"
           },
           "required": {
             "value": false
@@ -6285,7 +6285,7 @@
           "artifact": {
             "size": 112,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "2ef2c6384bc518bdd60c21bec5b50881",
+            "MD5": "32cc769bdbc90f2393f2f7d2f119d0dc",
             "path": "config/bcc.json"
           }
         },
@@ -7297,7 +7297,7 @@
           "artifact": {
             "size": 290,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "2d34509c0200aa24d68a6173addbaefe",
+            "MD5": "7c43c98828077654c230946a33e6bf53",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -9990,9 +9990,9 @@
           "name": "world.json",
           "type": "File",
           "artifact": {
-            "size": 1643,
+            "size": 1598,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/sounds/world.json",
-            "MD5": "2d8274e8d717afff8cc4809f0d5c05c7",
+            "MD5": "e393dcf48f00c26335449cf4fc2ffd18",
             "path": "config/yosbr/config/sounds/world.json"
           }
         },
