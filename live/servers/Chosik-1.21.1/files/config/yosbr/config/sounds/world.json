@@ -64,5 +64,6 @@
 		"soundEvent": "minecraft:entity.generic.eat"
 	},
 	"enableEnderpearlVariety": true,
-	"disableBlocksEntirely": false
+	"disableBlocksEntirely": false,
+	"ignoredBlocks": []
 }
