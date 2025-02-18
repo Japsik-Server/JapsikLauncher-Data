@@ -6796,39 +6796,6 @@
           }
         },
         {
-          "id": "emi.css",
-          "name": "emi.css",
-          "type": "File",
-          "artifact": {
-            "size": 10160,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/emi.css",
-            "MD5": "773521009a8b6dd240292414a5d15455",
-            "path": "config/emi.css"
-          }
-        },
-        {
-          "id": "emi_loot_config.toml",
-          "name": "emi_loot_config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 781,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/emi_loot_config.toml",
-            "MD5": "2a29490e1aaa1139918f47fa7e8cd10d",
-            "path": "config/emi_loot_config.toml"
-          }
-        },
-        {
-          "id": "emi_ores-client.json",
-          "name": "emi_ores-client.json",
-          "type": "File",
-          "artifact": {
-            "size": 33,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/emi_ores-client.json",
-            "MD5": "04e82b0f46786c38e6425074b7200c2c",
-            "path": "config/emi_ores-client.json"
-          }
-        },
-        {
           "id": "enhanced_bes.properties",
           "name": "enhanced_bes.properties",
           "type": "File",
@@ -8245,6 +8212,39 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/durabilitytooltip-common.toml",
             "MD5": "0bc5002f45ec854174785cc2f6981ddd",
             "path": "config/yosbr/config/durabilitytooltip-common.toml"
+          }
+        },
+        {
+          "id": "emi.css",
+          "name": "emi.css",
+          "type": "File",
+          "artifact": {
+            "size": 10160,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/emi.css",
+            "MD5": "773521009a8b6dd240292414a5d15455",
+            "path": "config/yosbr/config/emi.css"
+          }
+        },
+        {
+          "id": "emi_loot_config.toml",
+          "name": "emi_loot_config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 781,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/emi_loot_config.toml",
+            "MD5": "2a29490e1aaa1139918f47fa7e8cd10d",
+            "path": "config/yosbr/config/emi_loot_config.toml"
+          }
+        },
+        {
+          "id": "emi_ores-client.json",
+          "name": "emi_ores-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 33,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/emi_ores-client.json",
+            "MD5": "04e82b0f46786c38e6425074b7200c2c",
+            "path": "config/yosbr/config/emi_ores-client.json"
           }
         },
         {
