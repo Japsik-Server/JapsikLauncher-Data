@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.2.11",
+      "version": "1.2.12",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3263,13 +3263,13 @@
           }
         },
         {
-          "id": "net.blay09.mods.balm:balm-fabric:21.0.28@jar",
+          "id": "net.blay09.mods.balm:balm-fabric:21.0.30@jar",
           "name": "Balm",
           "type": "FabricMod",
           "artifact": {
-            "size": 464576,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.28.jar",
-            "MD5": "1d5c3ffa4abfd4e558ad051b9b97a340"
+            "size": 479867,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.30.jar",
+            "MD5": "f9add2f411ef16894d2cce9c6e49bc3c"
           }
         },
         {
@@ -6285,7 +6285,7 @@
           "artifact": {
             "size": 112,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "54b058efd2a898a4444245418b48dcbf",
+            "MD5": "2ef2c6384bc518bdd60c21bec5b50881",
             "path": "config/bcc.json"
           }
         },
@@ -7297,7 +7297,7 @@
           "artifact": {
             "size": 290,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "36384f19167611281feea66992c1083b",
+            "MD5": "2d34509c0200aa24d68a6173addbaefe",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
