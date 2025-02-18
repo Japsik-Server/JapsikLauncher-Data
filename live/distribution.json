@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.2.10",
+      "version": "1.2.11",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -6285,7 +6285,7 @@
           "artifact": {
             "size": 112,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "6d3ca79ab8d0b53c32f8f59796479f15",
+            "MD5": "54b058efd2a898a4444245418b48dcbf",
             "path": "config/bcc.json"
           }
         },
@@ -7297,7 +7297,7 @@
           "artifact": {
             "size": 290,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "653bbafcda15b306b060f9e35ba40b03",
+            "MD5": "36384f19167611281feea66992c1083b",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -10188,9 +10188,9 @@
           "name": "Solas Shader V2.6.zip.txt",
           "type": "File",
           "artifact": {
-            "size": 155,
+            "size": 228,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/shaderpacks/Solas%20Shader%20V2.6.zip.txt",
-            "MD5": "34568fac2aadabd2504c0fd494904335",
+            "MD5": "766c9a5e2d99ad593bc3756c5a48d1b5",
             "path": "config/yosbr/shaderpacks/Solas Shader V2.6.zip.txt"
           }
         },
