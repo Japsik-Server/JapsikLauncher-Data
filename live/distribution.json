@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.2.15",
+      "version": "1.2.16",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -5896,13 +5896,13 @@
           }
         },
         {
-          "id": "de.maxhenkel.tradecycling:trade_cycling:1.21.1-1.0.16@jar",
+          "id": "de.maxhenkel.tradecycling:trade_cycling:1.21.1-1.0.17@jar",
           "name": "Trade Cycling",
           "type": "FabricMod",
           "artifact": {
-            "size": 522124,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/trade-cycling-fabric-1.21.1-1.0.16.jar",
-            "MD5": "325fa31ef6b71480b0dfead3bbbc9c0f"
+            "size": 522267,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/trade-cycling-fabric-1.21.1-1.0.17.jar",
+            "MD5": "f5f717edef8033c0794970cf8646e436"
           }
         },
         {
@@ -6285,7 +6285,7 @@
           "artifact": {
             "size": 112,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "cb49f6c9ebb00ee19668a152ec8e88e9",
+            "MD5": "66ab7589e70b559e0b0ea339dd08b75b",
             "path": "config/bcc.json"
           }
         },
@@ -7297,7 +7297,7 @@
           "artifact": {
             "size": 290,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "130462ed1bfbfb2e95bee0de84af1aad",
+            "MD5": "4a9afc7ef8c6590b6820ca00ce987e9b",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
