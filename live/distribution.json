@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.2.14",
+      "version": "1.2.15",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -4851,13 +4851,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.27@jar",
+          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.28@jar",
           "name": "Moonlight Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1100406,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moonlight-1.21-2.17.27-fabric.jar",
-            "MD5": "7409e71676da27fd60d10d0b5fa847ee"
+            "size": 1102553,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moonlight-1.21-2.17.28-fabric.jar",
+            "MD5": "fcadd07cb323e150104b2d41326e1685"
           }
         },
         {
@@ -6285,7 +6285,7 @@
           "artifact": {
             "size": 112,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "ac7f4cdf7817cb3bf3a8c3d75142be81",
+            "MD5": "cb49f6c9ebb00ee19668a152ec8e88e9",
             "path": "config/bcc.json"
           }
         },
@@ -7297,7 +7297,7 @@
           "artifact": {
             "size": 290,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "20dcaa4abb09999b0883d298250c2006",
+            "MD5": "130462ed1bfbfb2e95bee0de84af1aad",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
