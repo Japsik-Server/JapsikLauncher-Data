@@ -138,7 +138,7 @@ key_key.freecam.toggle:key.keyboard.unknown
 key_key.freecam.playerControl:key.keyboard.unknown
 key_key.freecam.tripodReset:key.keyboard.unknown
 key_key.freecam.configGui:key.keyboard.unknown
-key_key.fsit.sit:key.keyboard.right.control
+key_key.fsit.sit:key.keyboard.n
 key_key.fsit.crawl:key.keyboard.unknown
 key_key.ijmtweaks.zoom:key.keyboard.unknown
 key_key.ijmtweaks.config:key.keyboard.unknown
