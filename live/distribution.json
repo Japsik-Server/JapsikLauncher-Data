@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3425,13 +3425,13 @@
           }
         },
         {
-          "id": "com.ishland:c2me:0.3.0+alpha.0.315+1.21.1@jar",
+          "id": "com.ishland:c2me:0.3.0+alpha.0.317+1.21.1@jar",
           "name": "Concurrent Chunk Management Engine",
           "type": "FabricMod",
           "artifact": {
-            "size": 4664347,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/c2me-fabric-mc1.21.1-0.3.0+alpha.0.315.jar",
-            "MD5": "e45a8f5a89183b6efbedb2058e122d63"
+            "size": 4662924,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/c2me-fabric-mc1.21.1-0.3.0+alpha.0.317.jar",
+            "MD5": "5c6298d2f927ebecaff6f5d076d9a562"
           }
         },
         {
@@ -6262,7 +6262,7 @@
           "artifact": {
             "size": 111,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "749656c47bc8b92173f037b9bfc67813",
+            "MD5": "311d97b662343ba8bcf098a483828be0",
             "path": "config/bcc.json"
           }
         },
@@ -7274,7 +7274,7 @@
           "artifact": {
             "size": 498,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "87446c700ad1b64212d72580de1b075a",
+            "MD5": "244d63bf7830d79dd6d2b44392feab6b",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
