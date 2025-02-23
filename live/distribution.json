@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3096,13 +3096,13 @@
           }
         },
         {
-          "id": "me.pajic:accessorify:1.3.2+1.21.1@jar",
+          "id": "me.pajic:accessorify:1.3.3+1.21.1@jar",
           "name": "Accessorify",
           "type": "FabricMod",
           "artifact": {
-            "size": 257011,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/accessorify-1.3.2+1.21.1.jar",
-            "MD5": "640aa9a7566926bc7a5e024af0b50a75"
+            "size": 257058,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/accessorify-1.3.3+1.21.1.jar",
+            "MD5": "3b5f7133ce43df4d60d7d81cee6bc12b"
           }
         },
         {
@@ -3263,13 +3263,13 @@
           }
         },
         {
-          "id": "net.blay09.mods.balm:balm-fabric:21.0.30@jar",
+          "id": "net.blay09.mods.balm:balm-fabric:21.0.31@jar",
           "name": "Balm",
           "type": "FabricMod",
           "artifact": {
-            "size": 479867,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.30.jar",
-            "MD5": "f9add2f411ef16894d2cce9c6e49bc3c"
+            "size": 480194,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.31.jar",
+            "MD5": "d917c34ca30ff4804a746368540e1a90"
           }
         },
         {
@@ -3564,13 +3564,13 @@
           }
         },
         {
-          "id": "com.natamus:collective:7.92@jar",
+          "id": "com.natamus:collective:7.93@jar",
           "name": "Collective",
           "type": "FabricMod",
           "artifact": {
-            "size": 928877,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/collective-1.21.1-7.92.jar",
-            "MD5": "26397a07460efbcb074afd2e77d6277c"
+            "size": 930978,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/collective-1.21.1-7.93.jar",
+            "MD5": "0c5563a83bcedcb8245916e05a044a7d"
           }
         },
         {
@@ -3847,13 +3847,13 @@
           }
         },
         {
-          "id": "link.e4mc:e4mc_minecraft:5.2.1@jar",
+          "id": "link.e4mc:e4mc_minecraft:5.3.0@jar",
           "name": "E4mc",
           "type": "FabricMod",
           "artifact": {
-            "size": 568993,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/e4mc_minecraft-fabric-5.2.1.jar",
-            "MD5": "b035f7f6718f0f29b573f2b523bffe2f"
+            "size": 574569,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/e4mc_minecraft-fabric-5.3.0.jar",
+            "MD5": "3f7df0f8ed9540f72cd7c062bd167abd"
           }
         },
         {
@@ -4104,13 +4104,13 @@
           }
         },
         {
-          "id": "de.keksuccino:fancymenu:3.4.4@jar",
+          "id": "de.keksuccino:fancymenu:3.4.5@jar",
           "name": "FancyMenu",
           "type": "FabricMod",
           "artifact": {
-            "size": 3069922,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fancymenu_fabric_3.4.4_MC_1.21.1.jar",
-            "MD5": "793a31e7d85788050fb7810e6c390032"
+            "size": 3217022,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fancymenu_fabric_3.4.5_MC_1.21.1.jar",
+            "MD5": "335f03ab96d9ac4a16e44d189e2e010a"
           }
         },
         {
@@ -4791,13 +4791,13 @@
           }
         },
         {
-          "id": "eu.midnightdust.fabric.core:midnightlib:1.6.8@jar",
+          "id": "eu.midnightdust.fabric.core:midnightlib:1.6.9@jar",
           "name": "MidnightLib",
           "type": "FabricMod",
           "artifact": {
-            "size": 59641,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/midnightlib-1.6.8-fabric+1.21.jar",
-            "MD5": "14a229dbd37085dd4d9d2942a646242b"
+            "size": 59650,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/midnightlib-1.6.9-fabric+1.21.jar",
+            "MD5": "9201e710e273e705c478e66b0e4eccf0"
           }
         },
         {
@@ -4851,13 +4851,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.29@jar",
+          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.30@jar",
           "name": "Moonlight Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1102932,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moonlight-1.21-2.17.29-fabric.jar",
-            "MD5": "2a6d77bd550013623650f9c9b4be9c8e"
+            "size": 1103010,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/moonlight-1.21-2.17.30-fabric.jar",
+            "MD5": "f72bd913efea3059c706ca74cfb80027"
           }
         },
         {
@@ -5456,13 +5456,13 @@
           }
         },
         {
-          "id": "io.github.jamalam360:rightclickharvest:4.5.0+1.21.1@jar",
+          "id": "io.github.jamalam360:rightclickharvest:4.5.1+1.21.1@jar",
           "name": "Right Click Harvest",
           "type": "FabricMod",
           "artifact": {
-            "size": 286063,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/rightclickharvest-fabric-4.5.0+1.21.1.jar",
-            "MD5": "1b149d485d25ef906682c0e7451e691d"
+            "size": 286177,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/rightclickharvest-fabric-4.5.1+1.21.1.jar",
+            "MD5": "c8d9445998bf2aa2cc17f0761819494f"
           }
         },
         {
@@ -5516,13 +5516,13 @@
           }
         },
         {
-          "id": "com.github.exopandora:shouldersurfing:4.9.1@jar",
+          "id": "com.github.exopandora:shouldersurfing:4.9.2@jar",
           "name": "Shoulder Surfing Reloaded",
           "type": "FabricMod",
           "artifact": {
-            "size": 204111,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/ShoulderSurfing-Fabric-1.21.1-4.9.1.jar",
-            "MD5": "ccd99643fdab013e690ab544e7c51c34"
+            "size": 194886,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/ShoulderSurfing-Fabric-1.21.1-4.9.2.jar",
+            "MD5": "76afb706ec414869c294198a62881b6a"
           },
           "required": {
             "value": false
@@ -5956,13 +5956,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.18@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.19@jar",
           "name": "WaterMedia",
           "type": "FabricMod",
           "artifact": {
-            "size": 37845038,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/watermedia-2.1.18.jar",
-            "MD5": "ea5779a60d28d343a8a0240bd9e361b6"
+            "size": 37845302,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/watermedia-2.1.19.jar",
+            "MD5": "d047db3da02e768eb5bdc373178e76c2"
           }
         },
         {
@@ -6262,7 +6262,7 @@
           "artifact": {
             "size": 111,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "311d97b662343ba8bcf098a483828be0",
+            "MD5": "2eb4049ef9a9e333e4fcc626805169b0",
             "path": "config/bcc.json"
           }
         },
@@ -7274,7 +7274,7 @@
           "artifact": {
             "size": 498,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "244d63bf7830d79dd6d2b44392feab6b",
+            "MD5": "80004ea5b22349ede25af8b263cdbdde",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
