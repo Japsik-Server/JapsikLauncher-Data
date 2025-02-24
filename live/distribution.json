@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.3.4",
+      "version": "1.3.5",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -5510,9 +5510,9 @@
           "name": "Seed Delight",
           "type": "FabricMod",
           "artifact": {
-            "size": 93832,
+            "size": 90145,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/SeedDelight-Fabric-1.21-1.0.1-Fix.jar",
-            "MD5": "b95d94138d9635ec5aa277176f19082b"
+            "MD5": "9ff8d368b83ba2a39fc57fa07e10da20"
           }
         },
         {
@@ -6272,7 +6272,7 @@
           "artifact": {
             "size": 111,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "872cf60fd4450eadf4868be92194d23d",
+            "MD5": "5230101552ac79243efccf3c026782a9",
             "path": "config/bcc.json"
           }
         },
@@ -7284,7 +7284,7 @@
           "artifact": {
             "size": 458,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "a865e68e76a780e0903d63c2922ec799",
+            "MD5": "9d1e6f01434bcdec53dac99aad06fc71",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
