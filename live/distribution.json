@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3179,6 +3179,16 @@
             "size": 2395632,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/another_furniture-fabric-4.0.0.jar",
             "MD5": "05a58916fad86215b7b9b96d00f21575"
+          }
+        },
+        {
+          "id": "me.drex:antixray:1.4.6@jar",
+          "name": "AntiXray",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 129080,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/antixray-fabric-1.4.6+1.21.1.jar",
+            "MD5": "556828afd5a305c86b93230b47bcd3fa"
           }
         },
         {
@@ -6262,7 +6272,7 @@
           "artifact": {
             "size": 111,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "2eb4049ef9a9e333e4fcc626805169b0",
+            "MD5": "d8c4a93bea0bbc805cf5efdda8fcf65f",
             "path": "config/bcc.json"
           }
         },
@@ -7274,7 +7284,7 @@
           "artifact": {
             "size": 498,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "80004ea5b22349ede25af8b263cdbdde",
+            "MD5": "b31873642f3a35f7add67dbfc34fe3b5",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7296,7 +7306,7 @@
           "artifact": {
             "size": 172,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/jamlib/known_suspicious_jars.txt",
-            "MD5": "e754ffe2ab4b0a2a485b8e04a365eecf",
+            "MD5": "a308f20493d8c337824b8cba1b83841d",
             "path": "config/jamlib/known_suspicious_jars.txt"
           }
         },
@@ -10121,9 +10131,9 @@
           "name": "xaeroworldmap.txt",
           "type": "File",
           "artifact": {
-            "size": 1218,
+            "size": 1221,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/xaeroworldmap.txt",
-            "MD5": "9d05a4d21c399ddb3fde4703a120f585",
+            "MD5": "c4077924b6fcb062759a384a953e2d8d",
             "path": "config/yosbr/config/xaeroworldmap.txt"
           }
         },
