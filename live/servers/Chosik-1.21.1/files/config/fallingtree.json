@@ -5,7 +5,7 @@
     "allowedLeaves": [],
     "allowedNonDecayLeaves": [],
     "deniedLeaves": [],
-    "breakMode": "INSTANTANEOUS",
+    "breakMode": "SHIFT_DOWN",
     "detectionMode": "WHOLE_TREE",
     "maxScanSize": 500,
     "maxSize": 100,
