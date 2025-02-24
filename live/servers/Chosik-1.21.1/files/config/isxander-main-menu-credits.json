@@ -1,22 +1,22 @@
 {
-    "main_menu": {
-      "bottom_right": [
-        {
-          "text": "Chosik Client 1.3.3",
-          "clickEvent": {
-            "action": "open_url",
-            "value": "https://static.japsik.com/launcher"
-          }
+  "main_menu": {
+    "bottom_right": [
+      {
+        "text": "Chosik Client 1.3.4",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://static.japsik.com/launcher"
         }
-      ]
-    },
-    "pause_menu": {
-      "bottom_right": [
-        {
-          "translate": "isxander-main-menu-credits.fabrishot",
-          "fallback": "Take 4K screenshots with F9",
-          "color": "dark_gray"
-        }
-      ]
-    }
+      }
+    ]
+  },
+  "pause_menu": {
+    "bottom_right": [
+      {
+        "translate": "isxander-main-menu-credits.fabrishot",
+        "fallback": "Take 4K screenshots with F9",
+        "color": "dark_gray"
+      }
+    ]
+  }
 }
