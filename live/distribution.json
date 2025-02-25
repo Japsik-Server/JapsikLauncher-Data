@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.3.5",
+      "version": "1.3.6",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3901,6 +3901,16 @@
           }
         },
         {
+          "id": "net.doomturtle.elytrarebalance:dooms-elytra-rebalance:1.0.3+1.21@jar",
+          "name": "Elytra Rebalance",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 171262,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/elytra-rebalance-1.0.3+1.21.jar",
+            "MD5": "6f0f1eef2089ba6c656ff7b6ddfc4446"
+          }
+        },
+        {
           "id": "generated.fabricmod:emi_enchanting:0.1.2+1.21@jar",
           "name": "EMI Enchanting",
           "type": "FabricMod",
@@ -3941,13 +3951,13 @@
           }
         },
         {
-          "id": "com.mrbysco:emiprofessions:1.0.2@jar",
+          "id": "com.mrbysco:emiprofessions:1.0.3@jar",
           "name": "EMI Professions ",
           "type": "FabricMod",
           "artifact": {
-            "size": 22991,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/EMIProfessions-fabric-1.21.1-1.0.2.jar",
-            "MD5": "5a2deb34fd0f054a3f9935890e3b95d6"
+            "size": 23809,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/EMIProfessions-fabric-1.21.1-1.0.3.jar",
+            "MD5": "2f304b78f44889938771a9dfaf87c829"
           }
         },
         {
@@ -4114,13 +4124,13 @@
           }
         },
         {
-          "id": "de.keksuccino:fancymenu:3.4.5@jar",
+          "id": "de.keksuccino:fancymenu:3.4.6@jar",
           "name": "FancyMenu",
           "type": "FabricMod",
           "artifact": {
-            "size": 3217022,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fancymenu_fabric_3.4.5_MC_1.21.1.jar",
-            "MD5": "335f03ab96d9ac4a16e44d189e2e010a"
+            "size": 3220667,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/fancymenu_fabric_3.4.6_MC_1.21.1.jar",
+            "MD5": "26e17a3343bb9e4f4406d092fca79cd4"
           }
         },
         {
@@ -5004,16 +5014,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:nofireworkboosting:1.0.1@jar",
-          "name": "No Firework Boosting",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 6651,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/NoFireworkBoosting-v1.0.1-mc1.20.jar",
-            "MD5": "f1eaffd948eb0b58a68674b7ea660278"
-          }
-        },
-        {
           "id": "github.erb3:nohotbarlooping:1.1.1@jar",
           "name": "No Hotbar Looping",
           "type": "FabricMod",
@@ -5510,9 +5510,9 @@
           "name": "Seed Delight",
           "type": "FabricMod",
           "artifact": {
-            "size": 90145,
+            "size": 90147,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/SeedDelight-Fabric-1.21-1.0.1-Fix.jar",
-            "MD5": "9ff8d368b83ba2a39fc57fa07e10da20"
+            "MD5": "5566119b10da60736d7d26a401f74450"
           }
         },
         {
@@ -6272,7 +6272,7 @@
           "artifact": {
             "size": 111,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "5230101552ac79243efccf3c026782a9",
+            "MD5": "5f46132c341844fb692b19d9b5449980",
             "path": "config/bcc.json"
           }
         },
@@ -6703,6 +6703,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/deuf_refabricated.json",
             "MD5": "ae60ccf7701127f019e415b97d333627",
             "path": "config/deuf_refabricated.json"
+          }
+        },
+        {
+          "id": "dooms-elytra-rebalance.toml",
+          "name": "dooms-elytra-rebalance.toml",
+          "type": "File",
+          "artifact": {
+            "size": 429,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/dooms-elytra-rebalance.toml",
+            "MD5": "395e60f601584b17c5e085c91cb0074b",
+            "path": "config/dooms-elytra-rebalance.toml"
           }
         },
         {
@@ -7284,7 +7295,7 @@
           "artifact": {
             "size": 458,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "9d1e6f01434bcdec53dac99aad06fc71",
+            "MD5": "f0a8231642bd01e80e294aca8a375af2",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
