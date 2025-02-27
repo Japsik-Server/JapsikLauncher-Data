@@ -27,7 +27,7 @@ B:game_intro_fade_out = 'true';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '/config/fancymenu/assets/japsik-logo-o-32.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/japsik-logo-o-32.png';
-S:custom_window_title = 'Japsik Client For Chosik';
+S:custom_window_title = 'Chosik Client';
 S:custom_window_icon_16 = '/config/fancymenu/assets/japsik-logo-o-16.png';
 
 
@@ -78,3 +78,8 @@ B:debug_overlay_show_resources_category = 'true';
 ##[tutorial]
 
 B:show_welcome_screen = 'false';
+
+
+##[keyframe_editor]
+
+B:arrow_keys_move_preview = 'false';
