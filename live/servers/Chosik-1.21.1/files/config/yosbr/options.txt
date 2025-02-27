@@ -143,17 +143,6 @@ key_key.fsit.crawl:key.keyboard.unknown
 key_key.ijmtweaks.zoom:key.keyboard.unknown
 key_key.ijmtweaks.config:key.keyboard.unknown
 key_key.ijmtweaks.fullbright:key.keyboard.unknown
-key_key.immersive_aircraft.multi_control_left:key.keyboard.a
-key_key.immersive_aircraft.multi_control_right:key.keyboard.d
-key_key.immersive_aircraft.multi_control_forward:key.keyboard.w
-key_key.immersive_aircraft.multi_control_backward:key.keyboard.s
-key_key.immersive_aircraft.multi_control_up:key.keyboard.space
-key_key.immersive_aircraft.multi_control_down:key.keyboard.left.shift
-key_key.immersive_aircraft.multi_control_pull:key.keyboard.s
-key_key.immersive_aircraft.multi_control_push:key.keyboard.w
-key_key.immersive_aircraft.multi_use:key.mouse.right
-key_key.immersive_aircraft.dismount:key.keyboard.r
-key_key.immersive_aircraft.boost:key.keyboard.y
 key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.pickup.item:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown

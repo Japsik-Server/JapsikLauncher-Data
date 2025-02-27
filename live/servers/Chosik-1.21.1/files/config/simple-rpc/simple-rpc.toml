@@ -1,232 +1,378 @@
+
+#General Config Section. See https://srpc.fdd-docs.com/introduction/
 [general]
-	#The Application ID of the Discord App to use. Replace this with your client id from the discord dashboard to change the name of the app
-	applicationID = 1227603410837180477
+	#The Application ID of the Discord App to use
+	applicationID = "1227603410837180477"
 	#Enable/Disable the mod
 	enabled = true
 	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
 	debugging = false
-	#Enable/Disable the in game config screen. ONLY AVAILABLE WHEN CLOTH CONFIG IS INSTALLED!
-	configScreen = false
 	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
 	launcherIntegration = false
 	#Internal Version Number. NO TOUCHY!
-	version = 18
+	version = 25
 
+#The Game Loading event
 [init]
 	#Enable/Disable the Game Loading Event
 	enabled = true
-	#The first line of text under the app name
-	description = "Chosik Client 로딩 중"
-	#The second line of text under the app name
-	state = "게임 실행중..."
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["japsik-logo"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "Chosik | 초식"
-	#The Asset ID/URL of the image to display as the small image
-	smallImageKey = ["japsik-logo"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "Chosik Client"
-	#The buttons to display on Discord 
 
-	[[init.buttons]]
-		label = "Japsik | 잡식"
-		url = "https://discord.japsik.com"
+	#List of RPCs that will be displayed at random
+	[[init.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "Chosik Client 로딩 중"
+		#The second line of text under the app name
+		state = "게임 실행중..."
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "Chosik | 초식"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "Chosik Client"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
 
+		#List of buttons (max 2) to show on the RPC
+		[[init.presence.buttons]]
+			label = "Japsik | 잡식"
+			url = "https://discord.japsik.com"
+
+#The Main Menu event
 [main_menu]
 	#Enable/Disable the Main Menu Event
 	enabled = true
-	#The first line of text under the app name
-	description = "%player%은(는) 현재 심심합니다."
-	#The second line of text under the app name
-	state = "메뉴에서 휴식 중"
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["japsik-logo"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "Chosik | 초식"
-	#The Asset ID/URL of the image to display as the small image
-	smallImageKey = ["japsik-logo"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "Chosik Client"
-	#The buttons to display on Discord 
 
-	[[main_menu.buttons]]
-		label = "Japsik | 잡식"
-		url = "https://discord.japsik.com"
+	#List of RPCs that will be displayed at random
+	[[main_menu.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "{{player.name}} 님은 심심합니다."
+		#The second line of text under the app name
+		state = "메뉴에서 휴식 중"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "Chosik | 초식"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{images.player}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{player.name}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[main_menu.buttons]]
+			label = "Japsik | 잡식"
+			url = "https://discord.japsik.com"
 
+#The Server List event
 [server_list]
 	#Enable/Disable the Server List Event
 	enabled = true
-	#The first line of text under the app name
-	description = "%player%은(는) 현재 심심합니다."
-	#The second line of text under the app name
-	state = "메뉴에서 휴식 중"
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["japsik-logo"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "Chosik | 초식"
-	#The Asset ID/URL of the image to display as the small image
-	smallImageKey = ["japsik-logo"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "Chosik Client"
-	#The buttons to display on Discord 
 
-	[[server_list.buttons]]
-		label = "Japsik | 잡식"
-		url = "https://discord.japsik.xyz"
+	#List of RPCs that will be displayed at random
+	[[server_list.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "서버 목록 둘러보는 중"
+		#The second line of text under the app name
+		state = "친구들 찾는 중"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "Chosik | 초식"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{images.player}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{player.name}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[server_list.buttons]]
+			label = "Japsik | 잡식"
+			url = "https://discord.japsik.xyz"
 
+#The Realms Screen event
 [realms_list]
 	#Enable/Disable the Realms Screen Event
 	enabled = false
-	#The first line of text under the app name
-	description = "%player% is looking for a Realm"
-	#The second line of text under the app name
-	state = "Browsing Realms"
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["mclogonew"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
-	smallImageKey = ["mclogo"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord 
-	buttons = []
 
+	#List of RPCs that will be displayed at random
+	[[realms_list.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "{{player.name}} is looking for a Realm"
+		#The second line of text under the app name
+		state = "Browsing Realms"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "Chosik | 초식"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{images.player}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{player.name}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		buttons = []
+
+#The Join Game Event
 [join_game]
 	#Enable/Disable the Join Game Event
-	enabled = false
-	#The first line of text under the app name
-	description = "%player%은(는) 초식서버에 참여중입니다."
-	#The second line of text under the app name
-	state = "Chosik 참여중"
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["japsik-logo"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "Chosik | 초식"
-	#The Asset ID/URL of the image to display as the small image
-	smallImageKey = ["japsik-logo"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "Chosik Client"
-	#The buttons to display on Discord 
+	enabled = true
 
-	[[join_game.buttons]]
-		label = "Japsik | 잡식"
-		url = "https://discord.japsik.com"
+	#List of RPCs that will be displayed at random
+	[[join_game.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "게임 접속 중"
+		#The second line of text under the app name
+		state = "게임 접속 중"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "Chosik | 초식"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{images.player}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{player.name}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[join_game.buttons]]
+			label = "Japsik | 잡식"
+			url = "https://discord.japsik.com"
 
+#The Single Player Event
 [single_player]
 	#Enable/Disable the Single Player Event
-	enabled = false
-	#The first line of text under the app name
-	description = "Currently In %world%"
-	#The second line of text under the app name
-	state = "Playing lonely mode"
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["mclogonew"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
-	smallImageKey = ["mclogo"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord 
-	buttons = []
+	enabled = true
 
+	#List of RPCs that will be displayed at random
+	[[single_player.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "{{world.name}} 월드 플레이 중"
+		#The second line of text under the app name
+		state = "싱글플레이 중"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "Chosik | 초식"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{images.player}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{player.name}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[single_player.buttons]]
+			label = "Japsik | 잡식"
+			url = "https://discord.japsik.com"
+
+#The Multi Player Event
 [multi_player]
 	#Enable/Disable the Multi Player Event
 	enabled = true
-	#The first line of text under the app name
-	description = "%player%은(는) 초식에서 플레이 중입니다."
-	#The second line of text under the app name
-	state = "Chosik 플레이 중"
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["japsik-logo"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "Chosik | 초식"
-	#The Asset ID/URL of the image to display as the small image
-	smallImageKey = ["japsik-logo"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "Chosik Client"
-	#The buttons to display on Discord 
 
-	[[multi_player.buttons]]
-		label = "Japsik | 잡식"
-		url = "https://discord.japsik.com"
+	#List of RPCs that will be displayed at random
+	[[multi_player.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "{{player.name}}님은 친구와 함께 플레이 중입니다."
+		#The second line of text under the app name
+		state = "멀티플레이 중"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "Chosik | 초식"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{images.player}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{player.name}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[multi_player.buttons]]
+			label = "Japsik | 잡식"
+			url = "https://discord.japsik.com"
 
+#The Realms Game Event
 [realms]
 	#Enable/Disable the Realms Game Event
 	enabled = false
-	#The first line of text under the app name
-	description = "Playing on %realmname%"
-	#The second line of text under the app name
-	state = "Playing on a Realm"
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["mclogonew"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "Chosik | 초식"
-	#The Asset ID/URL of the image to display as the small image
-	smallImageKey = ["mclogo"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%realmdescription%"
-	#The buttons to display on Discord 
-	buttons = []
 
+	#List of RPCs that will be displayed at random
+	[[realms.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "Playing on {{realm.name}}"
+		#The second line of text under the app name
+		state = "Playing on a Realm"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "Chosik | 초식"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{images.player}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{player.name}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		buttons = []
+
+#The Paused Event
+[paused]
+	#Enable/Disable the Pause Event
+	enabled = true
+
+	#List of RPCs that will be displayed at random
+	[[paused.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "일시 정지 메뉴"
+		#The second line of text under the app name
+		state = "게임 일시 정지됨"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "Chosik | 초식"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{images.player}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{player.name}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[paused.buttons]]
+			label = "Japsik | 잡식"
+			url = "https://discord.japsik.com"
+
+#Fallback event for disabled events
 [generic]
-	#The first line of text under the app name
-	description = "Chosik Client 실행중"
-	#The second line of text under the app name
-	state = ""
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["japsik-logo"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "Chosik | 초식"
-	#The Asset ID/URL of the image to display as the small image
-	smallImageKey = ["japsik-logo"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "Chosik Client"
-	#The buttons to display on Discord 
 
-	[[generic.buttons]]
-		label = "Japsik | 잡식"
-		url = "https://discord.japsik.com"
+	#List of RPCs that will be displayed at random
+	[[generic.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "NONE"
+		#The second line of text under the app name
+		state = "NONE"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "Chosik | 초식"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["chosik-logo"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "Chosik Client"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[generic.buttons]]
+			label = "Japsik | 잡식"
+			url = "https://discord.japsik.com"
 
+
+#Custom Config Variables that you can use
 [custom]
 	#Must these variables be parsed along with other variables
-	enabled = true
+	enabled = false
 	#Your custom variables to add
 	variables = []
 
+#Dimension Information Overrides
 [dimension_overrides]
+	#Allows you to override the displayed values for dimensions
 	enabled = false
 
+	#The Dimensions to override
 	[[dimension_overrides.dimensions]]
+		#The name of the Dimension/Biome to override. FORMAT: modid:dimension or modid:biome
 		name = "overworld"
-		description = "%player% is in The Overworld"
-		state = ""
-		largeImageKey = ["overworld"]
-		largeImageText = "In the Overworld"
-		smallImageKey = ["mclogo"]
-		smallImageText = "%mods% mods installed"
-		buttons = []
+
+		#List of RPCs that will be displayed at random
+		[[dimension_overrides.dimensions.presence]]
+			#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+			type = "PLAYING"
+			#The first line of text under the app name
+			description = "{{player.name}} is in The Overworld"
+			#The second line of text under the app name
+			state = ""
+			#The Asset ID or URLs of images to randomly use for the large image
+			largeImageKey = ["overworld"]
+			#The text to show when someone hovers over the largeImage
+			largeImageText = "In the Overworld"
+			#The Asset ID or URLs of images to randomly use for the small image
+			smallImageKey = ["chosik-logo"]
+			#The text to show when someone hovers over the smallImage
+			smallImageText = "Chosik Client"
+			#The Twitch or Youtube URL to use when type is set to STREAMING
+			streamingActivityUrl = "https://twitch.tv/twitch"
+			#List of buttons (max 2) to show on the RPC
+			buttons = []
 
 	[[dimension_overrides.dimensions]]
+		#The name of the Dimension/Biome to override. FORMAT: modid:dimension or modid:biome
 		name = "the_nether"
-		description = "%player% is in The Nether"
-		state = ""
-		largeImageKey = ["nether"]
-		largeImageText = "In the Nether"
-		smallImageKey = ["mclogo"]
-		smallImageText = "%mods% mods installed"
-		buttons = []
+
+		#List of RPCs that will be displayed at random
+		[[dimension_overrides.dimensions.presence]]
+			#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+			type = "PLAYING"
+			#The first line of text under the app name
+			description = "{{player.name}} is in The Nether"
+			#The second line of text under the app name
+			state = ""
+			#The Asset ID or URLs of images to randomly use for the large image
+			largeImageKey = ["nether"]
+			#The text to show when someone hovers over the largeImage
+			largeImageText = "In the Nether"
+			#The Asset ID or URLs of images to randomly use for the small image
+			smallImageKey = ["chosik-logo"]
+			#The text to show when someone hovers over the smallImage
+			smallImageText = "Chosik Client"
+			#The Twitch or Youtube URL to use when type is set to STREAMING
+			streamingActivityUrl = "https://twitch.tv/twitch"
+			#List of buttons (max 2) to show on the RPC
+			buttons = []
 
 	[[dimension_overrides.dimensions]]
+		#The name of the Dimension/Biome to override. FORMAT: modid:dimension or modid:biome
 		name = "the_end"
-		description = "%player% is in The End"
-		state = ""
-		largeImageKey = ["end"]
-		largeImageText = "In the End"
-		smallImageKey = ["mclogo"]
-		smallImageText = "%mods% mods installed"
-		buttons = []
 
+		#List of RPCs that will be displayed at random
+		[[dimension_overrides.dimensions.presence]]
+			#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+			type = "PLAYING"
+			#The first line of text under the app name
+			description = "{{player.name}} is in The End"
+			#The second line of text under the app name
+			state = ""
+			#The Asset ID or URLs of images to randomly use for the large image
+			largeImageKey = ["end"]
+			#The text to show when someone hovers over the largeImage
+			largeImageText = "In the End"
+			#The Asset ID or URLs of images to randomly use for the small image
+			smallImageKey = ["chosik-logo"]
+			#The text to show when someone hovers over the smallImage
+			smallImageText = "Chosik Client"
+			#The Twitch or Youtube URL to use when type is set to STREAMING
+			streamingActivityUrl = "https://twitch.tv/twitch"
+			#List of buttons (max 2) to show on the RPC
+			buttons = []
 
