@@ -47,7 +47,7 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 2857,
-                "MD5": "7821cebbb16ff24c4da5e053a1920e80",
+                "MD5": "42df8970c8c0e6f761b49e4ef9c2f791",
                 "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/repo/versions/1.20.4-fabric-0.16.9/1.20.4-fabric-0.16.9.json"
               }
             },
@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.3.6",
+      "version": "1.4.0",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3867,6 +3867,26 @@
           }
         },
         {
+          "id": "generated.fabricmod:easy_mob_farm:fabric-1.21.1-9.3.0@jar",
+          "name": "Easy_mob_farm",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 631462,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/easy_mob_farm-fabric-1.21.1-9.3.0.jar",
+            "MD5": "ce728ee8acb73f0d63ae05cf9c6ed78b"
+          }
+        },
+        {
+          "id": "de.markusbordihn.easynpc:easy_npc:5.9.0@jar",
+          "name": "Easy NPC",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1630522,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/easy_npc-fabric-1.21.1-5.9.0.jar",
+            "MD5": "9fadf378d730b993ef7e58e7c61f96f6"
+          }
+        },
+        {
           "id": "fuzs.easyanvils:easyanvils:21.1.0@jar",
           "name": "Easy Anvils",
           "type": "FabricMod",
@@ -3898,6 +3918,16 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:eg:invisible-frames-1.2.2@jar",
+          "name": "Eg",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 18179,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/eg-invisible-frames-1.2.2.jar",
+            "MD5": "8923b9f39623168cfbcb6524ee27db05"
           }
         },
         {
@@ -4014,13 +4044,13 @@
           }
         },
         {
-          "id": "dev.tr7zw:entityculling:1.7.2@jar",
+          "id": "dev.tr7zw:entityculling:1.7.3@jar",
           "name": "EntityCulling",
           "type": "FabricMod",
           "artifact": {
-            "size": 67575,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/entityculling-fabric-1.7.2-mc1.21.jar",
-            "MD5": "6a9e20a352cd633b1970398a616bf271"
+            "size": 71253,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/entityculling-fabric-1.7.3-mc1.21.jar",
+            "MD5": "a0c3039c39b168f8cbcd77028a81dfb2"
           }
         },
         {
@@ -4104,13 +4134,13 @@
           }
         },
         {
-          "id": "fr.rakambda:fallingtree:1.21.1.5@jar",
+          "id": "fr.rakambda:fallingtree:1.21.1.6@jar",
           "name": "FallingTree",
           "type": "FabricMod",
           "artifact": {
-            "size": 468391,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/FallingTree-1.21.1-1.21.1.5.jar",
-            "MD5": "037981b70f21b878886a6e184a4dac2a"
+            "size": 468618,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/FallingTree-1.21.1-1.21.1.6.jar",
+            "MD5": "2c4b2686560a2ee166dc39fd2f34e51a"
           }
         },
         {
@@ -4374,23 +4404,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:immediatelyfast:1.3.4+1.21.1@jar",
+          "id": "generated.fabricmod:immediatelyfast:1.3.5+1.21.1@jar",
           "name": "ImmediatelyFast",
           "type": "FabricMod",
           "artifact": {
-            "size": 241734,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/ImmediatelyFast-Fabric-1.3.4+1.21.1.jar",
-            "MD5": "804284ecbe18e147239058c5daf0cb19"
-          }
-        },
-        {
-          "id": "immersive_aircraft:immersive_aircraft:1.1.6+1.21.1@jar",
-          "name": "Immersive Aircraft",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2174553,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/immersive_aircraft-1.1.6+1.21.1-fabric.jar",
-            "MD5": "25e1772d33fd2a3ff28eaaafca5f8a3a"
+            "size": 242166,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/ImmediatelyFast-Fabric-1.3.5+1.21.1.jar",
+            "MD5": "0e27c87d8f95e6139e02461008055366"
           }
         },
         {
@@ -4451,6 +4471,19 @@
             "size": 1290066,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/InventoryProfilesNext-fabric-1.21-2.1.3.jar",
             "MD5": "1304486337fdea9497578d6bbf3e6d75"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.takaya7s:invisible_player_armor:0.9.1@jar",
+          "name": "InvisiblePlayerArmor",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 13529,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/InvisiblePlayerArmor-mc1.21.1[fabric]-0.9.1.jar",
+            "MD5": "2ac495dcbd035dad8a532f05358bfe7c"
           },
           "required": {
             "value": false
@@ -4542,13 +4575,13 @@
           }
         },
         {
-          "id": "io.github.jamalam360:jamlib:1.2.2-build.2+1.21.1@jar",
+          "id": "io.github.jamalam360:jamlib:1.3.2+1.21.1@jar",
           "name": "JamLib",
           "type": "FabricMod",
           "artifact": {
-            "size": 168385,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/jamlib-fabric-1.2.2-build.2+1.21.1.jar",
-            "MD5": "a0a20ad8ba795b211bd2775b6dd1be47"
+            "size": 186586,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/jamlib-fabric-1.3.2+1.21.1.jar",
+            "MD5": "d1bc4c3993fd2d820c90f7c529e35755"
           }
         },
         {
@@ -5083,13 +5116,13 @@
           }
         },
         {
-          "id": "opekope2.optigui:optigui:3.0.0-alpha.3+fabric.1.21@jar",
+          "id": "opekope2.optigui:optigui:2.3.0-beta.6.1-modrinth+1.21@jar",
           "name": "OptiGUI",
           "type": "FabricMod",
           "artifact": {
-            "size": 538701,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/optigui-3.0.0-alpha.3+fabric.1.21.jar",
-            "MD5": "6bc957cf0694c9928f44607df2357f87"
+            "size": 615370,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/optigui-2.3.0-beta.6.1-modrinth+1.21.jar",
+            "MD5": "df2472b65002f94664a054edaaa05155"
           }
         },
         {
@@ -5265,6 +5298,16 @@
           }
         },
         {
+          "id": "com.vlad2305m.propermobcapmodifier:proper-mobcap-modifier:3.2.2@jar",
+          "name": "Proper Mobcap Modifier",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 44711,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/proper-mobcap-modifier-3.2.2.jar",
+            "MD5": "92e306e6a264a872cc9a347ae6913fd4"
+          }
+        },
+        {
           "id": "com.chailotl:pumpkin_pie:1.0.1+1.21@jar",
           "name": "Pumpkin Pie Delight",
           "type": "FabricMod",
@@ -5285,13 +5328,13 @@
           }
         },
         {
-          "id": "fuzs.puzzleslib.fabric.impl:puzzleslib:21.1.27@jar",
+          "id": "fuzs.puzzleslib.fabric.impl:puzzleslib:21.1.28@jar",
           "name": "Puzzles Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1111094,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/PuzzlesLib-v21.1.27-1.21.1-Fabric.jar",
-            "MD5": "cb6d409f1b520676d1e3c5436b25cd48"
+            "size": 1119819,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/PuzzlesLib-v21.1.28-1.21.1-Fabric.jar",
+            "MD5": "d4a5df55b94c446a336cb73ef62231d3"
           }
         },
         {
@@ -5565,13 +5608,13 @@
           }
         },
         {
-          "id": "me.hypherionmc.simplerpc.loaders:simplerpc:3.3.3@jar",
+          "id": "com.hypherionmc.simplerpc.loaders:simplerpc:4.0.0@jar",
           "name": "Simple RPC",
           "type": "FabricMod",
           "artifact": {
-            "size": 214943,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/SimpleRPC-Universal-3.3.3.jar",
-            "MD5": "3634abdd8e7be1471d8a6ed9a50386b8"
+            "size": 264658,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/SimpleRPC-Universal-4.0.0.jar",
+            "MD5": "dcf28abe6fb8c11851679af5321ed73f"
           }
         },
         {
@@ -6016,13 +6059,13 @@
           }
         },
         {
-          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.2+1.21-fabric@jar",
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.3+1.21.1-fabric@jar",
           "name": "YetAnotherConfigLib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1108730,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/YetAnotherConfigLib-3.6.2+1.21-fabric.jar",
-            "MD5": "0ba1c37e4aa0091351818b5894e733e4"
+            "size": 1178732,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/yet_another_config_lib_v3-3.6.3+1.21.1-fabric.jar",
+            "MD5": "9040e93aa09500158a79b8aa23a663ac"
           }
         },
         {
@@ -6272,7 +6315,7 @@
           "artifact": {
             "size": 111,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "5f46132c341844fb692b19d9b5449980",
+            "MD5": "9e6a3f5895d30f1905bae47bbb0900f8",
             "path": "config/bcc.json"
           }
         },
@@ -6794,6 +6837,72 @@
           }
         },
         {
+          "id": "mob_capture_card.cfg",
+          "name": "mob_capture_card.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1775,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/easy_mob_farm/mob_capture_card.cfg",
+            "MD5": "6cfbc8b96362a4aa95853a916cff1a1e",
+            "path": "config/easy_mob_farm/mob_capture_card.cfg"
+          }
+        },
+        {
+          "id": "mob_capture_card_models.cfg",
+          "name": "mob_capture_card_models.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 5114,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/easy_mob_farm/mob_capture_card_models.cfg",
+            "MD5": "5288ffe9e6b0553c345122e7afead024",
+            "path": "config/easy_mob_farm/mob_capture_card_models.cfg"
+          }
+        },
+        {
+          "id": "mob_capture_card_rarity.cfg",
+          "name": "mob_capture_card_rarity.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1568,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/easy_mob_farm/mob_capture_card_rarity.cfg",
+            "MD5": "f4bc207138089247fc75fb0528999244",
+            "path": "config/easy_mob_farm/mob_capture_card_rarity.cfg"
+          }
+        },
+        {
+          "id": "mob_catcher.cfg",
+          "name": "mob_catcher.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 2082,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/easy_mob_farm/mob_catcher.cfg",
+            "MD5": "0069054f4e0ef86b4f782029ef09d52a",
+            "path": "config/easy_mob_farm/mob_catcher.cfg"
+          }
+        },
+        {
+          "id": "mob_farm.cfg",
+          "name": "mob_farm.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 373,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/easy_mob_farm/mob_farm.cfg",
+            "MD5": "689599aecb6f09bc131f728803b5ce7f",
+            "path": "config/easy_mob_farm/mob_farm.cfg"
+          }
+        },
+        {
+          "id": "mob_farm_bonus.cfg",
+          "name": "mob_farm_bonus.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 5537,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/easy_mob_farm/mob_farm_bonus.cfg",
+            "MD5": "454b91a2d365e82b0aaa027fa9fa20f9",
+            "path": "config/easy_mob_farm/mob_farm_bonus.cfg"
+          }
+        },
+        {
           "id": "enhanced_bes.properties",
           "name": "enhanced_bes.properties",
           "type": "File",
@@ -7201,17 +7310,6 @@
           }
         },
         {
-          "id": "immersive_aircraft.json",
-          "name": "immersive_aircraft.json",
-          "type": "File",
-          "artifact": {
-            "size": 1366,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/immersive_aircraft.json",
-            "MD5": "eb8d7c24e2ca1338badb29762d5c17f9",
-            "path": "config/immersive_aircraft.json"
-          }
-        },
-        {
           "id": "infinitetrading.json5",
           "name": "infinitetrading.json5",
           "type": "File",
@@ -7295,7 +7393,7 @@
           "artifact": {
             "size": 458,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "f0a8231642bd01e80e294aca8a375af2",
+            "MD5": "308180ab929ef797e73829aeab017729",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7473,6 +7571,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/midnightlib.json",
             "MD5": "faf5b671cdefd24677633d1bf81130b9",
             "path": "config/midnightlib.json"
+          }
+        },
+        {
+          "id": "mobcap_modifier.json5",
+          "name": "mobcap_modifier.json5",
+          "type": "File",
+          "artifact": {
+            "size": 3912,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/mobcap_modifier.json5",
+            "MD5": "d62a5c1fc7948323c8e6821718f55519",
+            "path": "config/mobcap_modifier.json5"
           }
         },
         {
@@ -7744,21 +7853,10 @@
           "name": "server-entries.toml",
           "type": "File",
           "artifact": {
-            "size": 143,
+            "size": 1258,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/simple-rpc/server-entries.toml",
-            "MD5": "e0f224bbb62aa40b92b04db7a1145939",
+            "MD5": "2b2650e42b4f03d2dc178995a6c6fa06",
             "path": "config/simple-rpc/server-entries.toml"
-          }
-        },
-        {
-          "id": "simple-rpc-replaymod.toml",
-          "name": "simple-rpc-replaymod.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2380,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/simple-rpc/simple-rpc-replaymod.toml",
-            "MD5": "7455b188d4845351d18d17f186d54d94",
-            "path": "config/simple-rpc/simple-rpc-replaymod.toml"
           }
         },
         {
@@ -7766,9 +7864,9 @@
           "name": "simple-rpc.toml",
           "type": "File",
           "artifact": {
-            "size": 8122,
+            "size": 15724,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/simple-rpc/simple-rpc.toml",
-            "MD5": "6ddd89c407dc54e40e7b189fd75f9966",
+            "MD5": "672ab994a819b654d3d6dfab5246d792",
             "path": "config/simple-rpc/simple-rpc.toml"
           }
         },
@@ -7810,9 +7908,9 @@
           "name": "supplementaries-common.json",
           "type": "File",
           "artifact": {
-            "size": 10033,
+            "size": 10127,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/supplementaries-common.json",
-            "MD5": "b897b158d16e3277841bfdc5ae46c2a4",
+            "MD5": "f799f25700b1ba33eea0e6d9ceabd1ae",
             "path": "config/supplementaries-common.json"
           }
         },
@@ -8224,6 +8322,215 @@
           }
         },
         {
+          "id": "humanoid_slim_poses.json",
+          "name": "humanoid_slim_poses.json",
+          "type": "File",
+          "artifact": {
+            "size": 3619,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json",
+            "MD5": "b5ff587d35daf4667b9cfde0d483a4f1",
+            "path": "config/yosbr/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json"
+          }
+        },
+        {
+          "id": "render_entity_type_support.cfg",
+          "name": "render_entity_type_support.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 5821,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/render_entity_type_support.cfg",
+            "MD5": "4904f3a756880188ed2106f77404c751",
+            "path": "config/yosbr/config/easy_npc/render_entity_type_support.cfg"
+          }
+        },
+        {
+          "id": "allay_template.png",
+          "name": "allay_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/allay/allay_template.png",
+            "MD5": "dc449d0dd6cb93d91fa6e34ecd44376a",
+            "path": "config/yosbr/config/easy_npc/skin/allay/allay_template.png"
+          }
+        },
+        {
+          "id": "cat_template.png",
+          "name": "cat_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 283,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/cat/cat_template.png",
+            "MD5": "ddb9d8f03724aa1fe201fd7fbefb81da",
+            "path": "config/yosbr/config/easy_npc/skin/cat/cat_template.png"
+          }
+        },
+        {
+          "id": "chicken_template.png",
+          "name": "chicken_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 287,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/chicken/chicken_template.png",
+            "MD5": "f06078d2850eb0020f2e86dd93c84a5a",
+            "path": "config/yosbr/config/easy_npc/skin/chicken/chicken_template.png"
+          }
+        },
+        {
+          "id": "fairy_template.png",
+          "name": "fairy_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 434,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/fairy/fairy_template.png",
+            "MD5": "531b238034eb6fdcf494378d6de62d69",
+            "path": "config/yosbr/config/easy_npc/skin/fairy/fairy_template.png"
+          }
+        },
+        {
+          "id": "humanoid_template.png",
+          "name": "humanoid_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 360,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/humanoid/humanoid_template.png",
+            "MD5": "a39224182358dcbf6615b9faeb732933",
+            "path": "config/yosbr/config/easy_npc/skin/humanoid/humanoid_template.png"
+          }
+        },
+        {
+          "id": "humanoid_slim_template.png",
+          "name": "humanoid_slim_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 384,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+            "MD5": "41f831333d68c3a4535adbe574f0511c",
+            "path": "config/yosbr/config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
+          }
+        },
+        {
+          "id": "illager_template.png",
+          "name": "illager_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 300,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/illager/illager_template.png",
+            "MD5": "62e2eafe9879c26a5d39f6eed5a0d4c0",
+            "path": "config/yosbr/config/easy_npc/skin/illager/illager_template.png"
+          }
+        },
+        {
+          "id": "iron_golem_template.png",
+          "name": "iron_golem_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 451,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/iron_golem/iron_golem_template.png",
+            "MD5": "041e19a3a9e328e569c1572c60bf7f82",
+            "path": "config/yosbr/config/easy_npc/skin/iron_golem/iron_golem_template.png"
+          }
+        },
+        {
+          "id": "orc_template.png",
+          "name": "orc_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 521,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/orc/orc_template.png",
+            "MD5": "529d5d314ad4dc8f697f7341f35cab74",
+            "path": "config/yosbr/config/easy_npc/skin/orc/orc_template.png"
+          }
+        },
+        {
+          "id": "pig_template.png",
+          "name": "pig_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 270,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/pig/pig_template.png",
+            "MD5": "cfc2538d1df812a5ee4ced14b78f9fd3",
+            "path": "config/yosbr/config/easy_npc/skin/pig/pig_template.png"
+          }
+        },
+        {
+          "id": "piglin_template.png",
+          "name": "piglin_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 361,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/piglin/piglin_template.png",
+            "MD5": "54ae451400c57b4832f976487e7bf629",
+            "path": "config/yosbr/config/easy_npc/skin/piglin/piglin_template.png"
+          }
+        },
+        {
+          "id": "skeleton_template.png",
+          "name": "skeleton_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 259,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/skeleton/skeleton_template.png",
+            "MD5": "b6f689ff48f8cd4b03a51947133a3857",
+            "path": "config/yosbr/config/easy_npc/skin/skeleton/skeleton_template.png"
+          }
+        },
+        {
+          "id": "villager_template.png",
+          "name": "villager_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 357,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/villager/villager_template.png",
+            "MD5": "30e84778924e6c66aef598b8a3cd728a",
+            "path": "config/yosbr/config/easy_npc/skin/villager/villager_template.png"
+          }
+        },
+        {
+          "id": "villager_without_hat_template.png",
+          "name": "villager_without_hat_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 331,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/villager/villager_without_hat_template.png",
+            "MD5": "3d8bca495a0fad6240e900d343c9f1d7",
+            "path": "config/yosbr/config/easy_npc/skin/villager/villager_without_hat_template.png"
+          }
+        },
+        {
+          "id": "wolf_template.png",
+          "name": "wolf_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 321,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/wolf/wolf_template.png",
+            "MD5": "0adf39c4b15ec11850e85fdfcd8e0a59",
+            "path": "config/yosbr/config/easy_npc/skin/wolf/wolf_template.png"
+          }
+        },
+        {
+          "id": "zombie_template.png",
+          "name": "zombie_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 292,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/zombie/zombie_template.png",
+            "MD5": "a38b0b7043eb7c0e91379628aeed1db2",
+            "path": "config/yosbr/config/easy_npc/skin/zombie/zombie_template.png"
+          }
+        },
+        {
+          "id": "zombie_villager_template.png",
+          "name": "zombie_villager_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 356,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+            "MD5": "b0748467bd2149105ad4d922c7799ed0",
+            "path": "config/yosbr/config/easy_npc/skin/zombie_villager/zombie_villager_template.png"
+          }
+        },
+        {
           "id": "emi.css",
           "name": "emi.css",
           "type": "File",
@@ -8331,6 +8638,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json",
             "MD5": "eb7dc6a5aa506fdbf8deac45afa50115",
             "path": "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+          }
+        },
+        {
+          "id": "invisible_player_armor.json",
+          "name": "invisible_player_armor.json",
+          "type": "File",
+          "artifact": {
+            "size": 135,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/invisible_player_armor.json",
+            "MD5": "a82c70ba2c72302f499bb019762d6526",
+            "path": "config/yosbr/config/invisible_player_armor.json"
           }
         },
         {
@@ -10164,9 +10482,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8751,
+            "size": 8081,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/options.txt",
-            "MD5": "359767eab9601c7a74426b1ea0fe4683",
+            "MD5": "0b65fffe00fa3b5a15c7ad29c6e18639",
             "path": "config/yosbr/options.txt"
           }
         },
