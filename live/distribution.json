@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.4.1",
+      "version": "1.4.2",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3867,13 +3867,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:easy_mob_farm:fabric-1.21.1-9.3.0@jar",
+          "id": "generated.fabricmod:easy_mob_farm:fabric-1.21.1-9.4.0@jar",
           "name": "Easy_mob_farm",
           "type": "FabricMod",
           "artifact": {
-            "size": 631462,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/easy_mob_farm-fabric-1.21.1-9.3.0.jar",
-            "MD5": "ce728ee8acb73f0d63ae05cf9c6ed78b"
+            "size": 648436,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/easy_mob_farm-fabric-1.21.1-9.4.0.jar",
+            "MD5": "cf5a67e842cd1126f17fbe9b30eeab42"
           }
         },
         {
@@ -4368,6 +4368,16 @@
             "size": 47517,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/healingcampfire-1.21.1-6.2.jar",
             "MD5": "3c7eff87e0aa03b042a09e085758c622"
+          }
+        },
+        {
+          "id": "generated.fabricmod:hungrier:1.2@jar",
+          "name": "Hungrier",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 215831,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/hungrier-1.2.jar",
+            "MD5": "95ef012de4c5d46633a237a73deabebf"
           }
         },
         {
@@ -5106,13 +5116,13 @@
           }
         },
         {
-          "id": "xaero.pac:openpartiesandclaims:0.23.7@jar",
+          "id": "xaero.pac:openpartiesandclaims:0.24.0@jar",
           "name": "Open Parties and Claims",
           "type": "FabricMod",
           "artifact": {
-            "size": 1333943,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/open-parties-and-claims-fabric-1.21.1-0.23.7.jar",
-            "MD5": "08b46fad38c1f2a3ecb4aa80f5bca32a"
+            "size": 1335450,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/open-parties-and-claims-fabric-1.21.1-0.24.0.jar",
+            "MD5": "a1d216dba16cb47408383cdc7e3336ab"
           }
         },
         {
@@ -6315,7 +6325,7 @@
           "artifact": {
             "size": 111,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "980225d97750296f9a6afe8b2dc1c32d",
+            "MD5": "2cdd23f68d5c6ebdeb3abd2fe8cf84e4",
             "path": "config/bcc.json"
           }
         },
@@ -7393,7 +7403,7 @@
           "artifact": {
             "size": 458,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "cf5afc5b3262b5533cd06462dbe1bdd5",
+            "MD5": "52b99de84ac5ad454b34da87e42ad265",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7853,9 +7863,9 @@
           "name": "server-entries.toml",
           "type": "File",
           "artifact": {
-            "size": 1258,
+            "size": 1264,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/simple-rpc/server-entries.toml",
-            "MD5": "2b2650e42b4f03d2dc178995a6c6fa06",
+            "MD5": "aaf26284128860cd13fff2ad5a714650",
             "path": "config/simple-rpc/server-entries.toml"
           }
         },
@@ -10647,9 +10657,9 @@
           "name": "japsikclientforchosik-translations.zip",
           "type": "File",
           "artifact": {
-            "size": 38715,
+            "size": 42292,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/japsikclientforchosik-translations.zip",
-            "MD5": "21a5e795e17bf9daadf0f3cc0f2a06ac",
+            "MD5": "39bf89ca6ebd0361eb1494575844ed9e",
             "path": "resourcepacks/japsikclientforchosik-translations.zip"
           }
         },
