@@ -4,7 +4,7 @@ enabled = true
 version = 3
 #Server override entries
 [[entry]]
-  ip = "play.chosik.japsik.com"
+  ip = "play.chosik.japsik.com:25565"
   
   [[entry.presence]]
     #The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
