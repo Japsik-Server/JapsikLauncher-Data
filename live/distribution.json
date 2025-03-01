@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.4.3",
+      "version": "1.4.4",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3847,13 +3847,13 @@
           }
         },
         {
-          "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.8.0@jar",
+          "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.9.0@jar",
           "name": "Dynamic FPS",
           "type": "FabricMod",
           "artifact": {
-            "size": 187818,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/dynamic-fps-3.8.0+minecraft-1.21.0-fabric.jar",
-            "MD5": "e869d81f93f29fda917dc94f4f7cd60a"
+            "size": 188128,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/dynamic-fps-3.9.0+minecraft-1.21.0-fabric.jar",
+            "MD5": "5ca5fb646fbd35464c0d25ae8240defb"
           }
         },
         {
@@ -6325,7 +6325,7 @@
           "artifact": {
             "size": 104,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "7613bee6bec743031c7e2069ba4a1f5c",
+            "MD5": "6c4d413a1abb8b3dd4708bc04202264b",
             "path": "config/bcc.json"
           }
         },
@@ -6767,17 +6767,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/dooms-elytra-rebalance.toml",
             "MD5": "bccc152e0130fccf830318592b341692",
             "path": "config/dooms-elytra-rebalance.toml"
-          }
-        },
-        {
-          "id": "dynamic_fps.json",
-          "name": "dynamic_fps.json",
-          "type": "File",
-          "artifact": {
-            "size": 462,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/dynamic_fps.json",
-            "MD5": "16edc890f83ed2954628fa7e7508e4c2",
-            "path": "config/dynamic_fps.json"
           }
         },
         {
@@ -7403,7 +7392,7 @@
           "artifact": {
             "size": 458,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "56f148f7c1fdd1ab400d9bc4f827e71b",
+            "MD5": "737e204137e7c9ecbd306313e823796f",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -8329,6 +8318,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/durabilitytooltip-common.toml",
             "MD5": "0bc5002f45ec854174785cc2f6981ddd",
             "path": "config/yosbr/config/durabilitytooltip-common.toml"
+          }
+        },
+        {
+          "id": "dynamic_fps.json",
+          "name": "dynamic_fps.json",
+          "type": "File",
+          "artifact": {
+            "size": 462,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/dynamic_fps.json",
+            "MD5": "16edc890f83ed2954628fa7e7508e4c2",
+            "path": "config/yosbr/config/dynamic_fps.json"
           }
         },
         {
@@ -10657,9 +10657,9 @@
           "name": "japsikclientforchosik-translations.zip",
           "type": "File",
           "artifact": {
-            "size": 42292,
+            "size": 42283,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/japsikclientforchosik-translations.zip",
-            "MD5": "39bf89ca6ebd0361eb1494575844ed9e",
+            "MD5": "92b1bf30026e736aa1a1624262d5476e",
             "path": "resourcepacks/japsikclientforchosik-translations.zip"
           }
         },
