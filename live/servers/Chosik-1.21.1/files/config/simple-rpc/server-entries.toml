@@ -1,5 +1,5 @@
 #Enable/Disable Server Entries overrides
-enabled = true
+enabled = false
 #Internal Version Number. NO TOUCHY!
 version = 3
 #Server override entries
@@ -25,6 +25,6 @@ version = 3
     streamingActivityUrl = "https://twitch.tv/twitch"
     #List of buttons (max 2) to show on the RPC
     [[entry.buttons]]
-		label = "Japsik | 잡식"
-		url = "https://discord.japsik.com"
+		  label = "Japsik | 잡식"
+		  url = "https://discord.japsik.com"
 
