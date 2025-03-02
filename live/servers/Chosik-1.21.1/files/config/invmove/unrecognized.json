@@ -37,10 +37,22 @@
     "net.minecraft.class_443": false,
     "net.minecraft.class_404": false,
     "io.github.thecsdev.betterstats.api.client.gui.screen.BetterStatsScreenWrapper": false,
-    "net.irisshaders.iris.gui.screen.ShaderPackScreen": false
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": false,
+    "dev.emi.emi.screen.ConfigScreen": false,
+    "dev.emi.emi.screen.ConfigEnumScreen": false,
+    "xaero.map.gui.GuiMap": false,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": false,
+    "net.minecraft.class_440": false,
+    "org.samo_lego.fabrictailor.client.screen.SkinChangeScreen": false,
+    "de.markusbordihn.easymobfarm.client.screen.MobFarmScreenWrapper": false,
+    "net.minecraft.class_433$class_9804": false,
+    "net.minecraft.class_407": false,
+    "net.minecraft.class_9807": false
   },
   "hideBackground": {
     "net.replaceitem.integratedcircuit.client.gui.IntegratedCircuitScreen": true,
-    "com.supermartijn642.core.gui.WidgetScreen": true
+    "com.supermartijn642.core.gui.WidgetScreen": true,
+    "fuzs.easyanvils.client.gui.screens.inventory.NameTagEditScreen": true,
+    "net.minecraft.class_5522": true
   }
 }
