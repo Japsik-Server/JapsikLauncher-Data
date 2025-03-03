@@ -14,5 +14,13 @@
     {
         "version": "1.0.6",
         "server": "live"
+    },
+    {
+        "version": "1.0.7-pre.1",
+        "server": "live"
+    },
+    {
+        "version": "1.0.7",
+        "server": "live"
     }
 ]
