@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.4.6",
+      "version": "1.4.7",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -5265,13 +5265,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:polytone:1.21-3.2.8@jar",
+          "id": "net.mehvahdjukaar:polytone:1.21-3.2.9@jar",
           "name": "Polytone",
           "type": "FabricMod",
           "artifact": {
-            "size": 702006,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/polytone-1.21-3.2.8-fabric.jar",
-            "MD5": "7cb650b193342c9116df795da2b2b9b6"
+            "size": 706227,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/polytone-1.21-3.2.9-fabric.jar",
+            "MD5": "793b00881d5d2e86058e612c4d5655d3"
           }
         },
         {
@@ -5569,13 +5569,13 @@
           }
         },
         {
-          "id": "com.github.exopandora:shouldersurfing:4.9.2@jar",
+          "id": "com.github.exopandora:shouldersurfing:4.10.0@jar",
           "name": "Shoulder Surfing Reloaded",
           "type": "FabricMod",
           "artifact": {
-            "size": 194886,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/ShoulderSurfing-Fabric-1.21.1-4.9.2.jar",
-            "MD5": "76afb706ec414869c294198a62881b6a"
+            "size": 199639,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/ShoulderSurfing-Fabric-1.21.1-4.10.0.jar",
+            "MD5": "ceadb632225a60deada0db8edb3b3785"
           },
           "required": {
             "value": false
@@ -6089,13 +6089,13 @@
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:yungsapi:1.21.1-Fabric-5.1.3@jar",
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.21.1-Fabric-5.1.4@jar",
           "name": "YUNG's API",
           "type": "FabricMod",
           "artifact": {
-            "size": 1233597,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/YungsApi-1.21.1-Fabric-5.1.3.jar",
-            "MD5": "c4b477860082a00fe9e82fc982ed1e7d"
+            "size": 1249620,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/YungsApi-1.21.1-Fabric-5.1.4.jar",
+            "MD5": "3c86a30367d61f349f932fe422134b82"
           }
         },
         {
@@ -6315,7 +6315,7 @@
           "artifact": {
             "size": 104,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "06432e51ec8fef49c45a559bc96d1689",
+            "MD5": "cc20dbd4e066d6c9f8e9ce3dd93f8da5",
             "path": "config/bcc.json"
           }
         },
@@ -7382,7 +7382,7 @@
           "artifact": {
             "size": 458,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "37659504f0e2b4702c4d975aab99d1d1",
+            "MD5": "842a3191b2158d7d5662a8893f784c47",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -10152,9 +10152,9 @@
           "name": "shouldersurfing-client.toml",
           "type": "File",
           "artifact": {
-            "size": 13519,
+            "size": 13782,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/yosbr/config/shouldersurfing-client.toml",
-            "MD5": "bd7a2ddbcff148fed76092be9ebd9bbe",
+            "MD5": "4ac55ec849b84b97e547d78460ee0042",
             "path": "config/yosbr/config/shouldersurfing-client.toml"
           }
         },
@@ -10533,14 +10533,14 @@
           }
         },
         {
-          "id": "Terraphilic v1.0.0 f15-48.zip",
-          "name": "Terraphilic v1.0.0 f15-48.zip",
+          "id": "Terraphilic v1.2.0.zip",
+          "name": "Terraphilic v1.2.0.zip",
           "type": "File",
           "artifact": {
-            "size": 56253,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/datapacks/Terraphilic%20v1.0.0%20f15-48.zip",
-            "MD5": "fd6d124376cea0e577d4e1bf0200599a",
-            "path": "datapacks/Terraphilic v1.0.0 f15-48.zip"
+            "size": 282322,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/datapacks/Terraphilic%20v1.2.0.zip",
+            "MD5": "0af83e2eb1ffc7b3f4af2c008240c93e",
+            "path": "datapacks/Terraphilic v1.2.0.zip"
           }
         },
         {
@@ -10581,9 +10581,9 @@
           "name": "Chat Reporting Helper.zip",
           "type": "File",
           "artifact": {
-            "size": 63195,
+            "size": 63193,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Chat%20Reporting%20Helper.zip",
-            "MD5": "3fe72d9903860179dc9b70a7b757243b",
+            "MD5": "6c51322144367d895495e36239a4bc81",
             "path": "resourcepacks/Chat Reporting Helper.zip"
           }
         },
@@ -10636,9 +10636,9 @@
           "name": "Fast Better Grass.zip",
           "type": "File",
           "artifact": {
-            "size": 10930,
+            "size": 10917,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Fast%20Better%20Grass.zip",
-            "MD5": "1abb07826623e4f356ea5536217cbd99",
+            "MD5": "e30b16d8582feec333a1cc0186b070f5",
             "path": "resourcepacks/Fast Better Grass.zip"
           }
         },
@@ -10680,9 +10680,9 @@
           "name": "SodiumTranslations.zip",
           "type": "File",
           "artifact": {
-            "size": 216333,
+            "size": 219349,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/SodiumTranslations.zip",
-            "MD5": "55a7f373b26aa5e4ecc7aa7e248b52f4",
+            "MD5": "82688acf7121f57f27018ae3a1f31bb4",
             "path": "resourcepacks/SodiumTranslations.zip"
           }
         },
