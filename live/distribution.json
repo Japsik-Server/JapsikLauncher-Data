@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.4.8",
+      "version": "1.4.9",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -4758,13 +4758,13 @@
           }
         },
         {
-          "id": "com.lootintegrations:lootintegrations:1.21-4.0@jar",
+          "id": "com.lootintegrations:lootintegrations:1.21-4.2@jar",
           "name": "Loot integration Mod",
           "type": "FabricMod",
           "artifact": {
-            "size": 23427,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/lootintegrations-fabric-1.21-4.0.jar",
-            "MD5": "7db7eb8a82cffc52d89c5ced63c20b0d"
+            "size": 23544,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/lootintegrations-fabric-1.21-4.2.jar",
+            "MD5": "83040521279883ab0df683f51ab5b78a"
           }
         },
         {
@@ -5262,13 +5262,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:polytone:1.21-3.2.10@jar",
+          "id": "net.mehvahdjukaar:polytone:1.21-3.2.9@jar",
           "name": "Polytone",
           "type": "FabricMod",
           "artifact": {
-            "size": 706803,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/polytone-1.21-3.2.10-fabric.jar",
-            "MD5": "e5bb796096c8883b91587d1d1ba35e9c"
+            "size": 706227,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/polytone-1.21-3.2.9-fabric.jar",
+            "MD5": "793b00881d5d2e86058e612c4d5655d3"
           }
         },
         {
@@ -6312,7 +6312,7 @@
           "artifact": {
             "size": 104,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "ba8e94cc5b6cbdd6daf0b04a5a49e335",
+            "MD5": "cf20edcbcb7073a319d7affa1562eafd",
             "path": "config/bcc.json"
           }
         },
@@ -7379,7 +7379,7 @@
           "artifact": {
             "size": 458,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "29ac810857774a5722d8415be1ec0325",
+            "MD5": "326888db78e65137575e3edb92cf69cb",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
