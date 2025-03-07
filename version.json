@@ -1,19 +1,19 @@
 [
     {
         "version": "1.0.5-pre.1",
-        "server": "live"
+        "server": "update"
     },
     {
         "version": "1.0.5",
-        "server": "live"
+        "server": "update"
     },
     {
         "version": "1.0.6-pre.1",
-        "server": "live"
+        "server": "update"
     },
     {
         "version": "1.0.6",
-        "server": "live"
+        "server": "update"
     },
     {
         "version": "1.0.7-pre.1",
