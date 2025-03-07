@@ -1,0 +1,30 @@
+#Enable/Disable Server Entries overrides
+enabled = false
+#Internal Version Number. NO TOUCHY!
+version = 3
+#Server override entries
+[[entry]]
+  ip = "play.chosik.japsik.com:25565"
+  
+  [[entry.presence]]
+    #The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+    type = "PLAYING"
+    #The first line of text under the app name
+    description = "{{player.name}}님은 초식에서 플레이 중입니다."
+    #The second line of text under the app name
+    state = "Chosik 플레이 중"
+    #The Asset ID or URLs of images to randomly use for the large image
+    largeImageKey = ["chosik-logo"]
+    #The text to show when someone hovers over the largeImage
+    largeImageText = "Chosik | 초식"
+    #The Asset ID or URLs of images to randomly use for the small image
+    smallImageKey = ["{{images.player}}"]
+    #The text to show when someone hovers over the smallImage
+    smallImageText = "{{player.name}}"
+    #The Twitch or Youtube URL to use when type is set to STREAMING
+    streamingActivityUrl = "https://twitch.tv/twitch"
+    #List of buttons (max 2) to show on the RPC
+    [[entry.buttons]]
+		  label = "Japsik | 잡식"
+		  url = "https://discord.japsik.com"
+
