@@ -1,0 +1,4 @@
+startSound = true
+minMemory = 5.0
+errorTitle = "에러: 메모리 부족!"
+errorDescription = "Japsik Launcher 설정의 [자바] 탭에서 메모리 최대 메모리를 {minMemory} GB 이상으로 할당해주세요! 현재 {currentMemory} GB의 메모리가 할당되어 있습니다.(최소 메모리와 최대 메모리 값을 같게 하면 더 좋은 성능을 낼 수 있습니다.)"
