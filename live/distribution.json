@@ -2964,7 +2964,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.4.11",
+      "version": "1.4.11a",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -7401,7 +7401,7 @@
           "artifact": {
             "size": 156,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/jamlib/known_suspicious_jars.txt",
-            "MD5": "c786636589c5fcee7b434973629eff94",
+            "MD5": "46a870da99244359630b28bd28b64b6c",
             "path": "config/jamlib/known_suspicious_jars.txt"
           }
         },
