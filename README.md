@@ -14,7 +14,7 @@
 Nebula 폴더 내에 다음과 같이 .env 파일을 생성해주세요.
 
 ```
-JAVA_EXECUTABLE=C:\Program Files\OpenLogic\jdk-17.0.10.7-hotspot\bin\java.exe
+JAVA_EXECUTABLE=C:\Program Files\Eclipse Adoptium\jdk-17.0.14.7-hotspot\bin\java.exe # Eclipse Temurin™ JDK 17, 필요 시 변경
 ROOT=C:\JapsikLauncher-Data\live
 BASE_URL=https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/
 HELIOS_DATA_FOLDER=<%appdata%>\Japsik Launcher
