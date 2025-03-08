@@ -52,9 +52,13 @@ Nebula 폴더에서 터미널을 연 후, 아래 명령어를 실행하세요.
 예시) `git subtree pull -P live/servers/Chosik-1.21.1 https://github.com/Japsik-Server/Chosik-Client.git 1.0.1 --squash`
 
 ### 주의사항
-클라이언트의 모든 Merge 커밋들은 `<CLIENT_NAME> <VERSION>` 형식으로 이름을 짓습니다.
+- 클라이언트의 모든 Merge 커밋들은 `<CLIENT_NAME> <VERSION>` 형식으로 이름을 짓습니다.
 
-예시) `Chosik-Client 1.0.0`
+  - 예시) `Chosik-Client 1.0.0`
+
+- 만약 Subtree를 추가하거나 pull 할 때 오류가 발생한다면 이 명령어를 사용해 보세요. `git reset --hard`
+
+  - 이 명령어는 현재까지의 모든 작업 내용 *(push 하지 않은 커밋들 또는 커밋을 생성하지 않은 작업 내용들)* 을 초기화합니다.
 
 ## 채널 업데이트
 클라이언트의 업데이트를 적용했다면, Nebula 폴더에서 아래 명령어를 사용해 `distribution.json`을 생성해야 합니다.
