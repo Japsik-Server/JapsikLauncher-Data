@@ -8,12 +8,12 @@
   },
   "servers": [
     {
-      "id": "ClientUpdate-1.20.1",
-      "name": "클라이언트 업데이트를 해주세요!",
-      "description": "클라이언트 업데이트를 해주세요!",
+      "id": "LauncherUpdate-1.20.1",
+      "name": "런처 업데이트를 해주세요!",
+      "description": "런처 업데이트를 해주세요!",
       "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
       "version": "0.0.1",
-      "address": "play.japsik.xyz:25585",
+      "address": "",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "",
@@ -39,7 +39,7 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 2849,
-                "MD5": "5faadb356c97f24d4bcd197d3ac6eb56",
+                "MD5": "a71b35a3044b7545026ce6464bcb5168",
                 "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/repo/versions/1.20.1-fabric-0.15.11/1.20.1-fabric-0.15.11.json"
               }
             },
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107289,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
             "MD5": "92c58961866741106aae126558c9d4a7"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2686178,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/fabricmods/required/fancymenu_fabric_3.2.3_MC_1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/fabricmods/required/fancymenu_fabric_3.2.3_MC_1.20.1.jar",
             "MD5": "4a23f783f6d3e9b3a44fcd7f24ed4eea"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 892067,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
             "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 39696,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
             "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
           }
         },
@@ -161,7 +161,7 @@
           "type": "File",
           "artifact": {
             "size": 695,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/assets/japsik-logo-o-16.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/assets/japsik-logo-o-16.png",
             "MD5": "a0cb5e54c2f2c158093a067b6c6a97ad",
             "path": "config/fancymenu/assets/japsik-logo-o-16.png"
           }
@@ -172,7 +172,7 @@
           "type": "File",
           "artifact": {
             "size": 1820,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/assets/japsik-logo-o-32.icns",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/assets/japsik-logo-o-32.icns",
             "MD5": "4ece270de6786b677b217d86eb62f813",
             "path": "config/fancymenu/assets/japsik-logo-o-32.icns"
           }
@@ -183,7 +183,7 @@
           "type": "File",
           "artifact": {
             "size": 1135,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/assets/japsik-logo-o-32.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/assets/japsik-logo-o-32.png",
             "MD5": "957a95c6623d6c5f065bf139b0d242b9",
             "path": "config/fancymenu/assets/japsik-logo-o-32.png"
           }
@@ -194,7 +194,7 @@
           "type": "File",
           "artifact": {
             "size": 17380,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/assets/japsik-logo-o.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/assets/japsik-logo-o.png",
             "MD5": "a1ec0a4fe93d0616331321c672d8331f",
             "path": "config/fancymenu/assets/japsik-logo-o.png"
           }
@@ -205,7 +205,7 @@
           "type": "File",
           "artifact": {
             "size": 4736,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/assets/xmark.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/assets/xmark.png",
             "MD5": "74974c0f2bcf0d49e073de34a16c45e1",
             "path": "config/fancymenu/assets/xmark.png"
           }
@@ -215,9 +215,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 113,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "be6af3e4d03f5b549353963c5d03962b",
+            "size": 124,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "580cfab0950004ae9303e33b50f211a0",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -226,9 +226,9 @@
           "name": "join_multiplayer_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 8432,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
-            "MD5": "8b25cea5e9f77968983f782394bdd9ec",
+            "size": 8685,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+            "MD5": "7de81dd25954e1bd4cdec66bb518258a",
             "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
           }
         },
@@ -237,9 +237,9 @@
           "name": "pause_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 11522,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "21501078c89c8c41480408f7547db96d",
+            "size": 11863,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "MD5": "93b5c6745060a956236fc6a0745c5f3d",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -248,9 +248,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 18771,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "bcc9aea8a32b5a9c5043d8256063ba3b",
+            "size": 19330,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
+            "MD5": "817763f7cc6c3e620f5c079e94cd3e38",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -259,9 +259,9 @@
           "name": "custom_gui_screens.txt",
           "type": "File",
           "artifact": {
-            "size": 51,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
-            "MD5": "106e52948415f0879c53304f50783b28",
+            "size": 56,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "802c0c358270e92bcc23f686eba3544a",
             "path": "config/fancymenu/custom_gui_screens.txt"
           }
         },
@@ -270,9 +270,9 @@
           "name": "element_layer_control.lewidget",
           "type": "File",
           "artifact": {
-            "size": 197,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-            "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
+            "size": 209,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "a3077faf7fd4ae7b53778aef6fc8feb1",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
         },
@@ -281,9 +281,9 @@
           "name": "legacy_checklist.txt",
           "type": "File",
           "artifact": {
-            "size": 42,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/legacy_checklist.txt",
-            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "size": 44,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "3132cbafa7236535a12dec46f02fa155",
             "path": "config/fancymenu/legacy_checklist.txt"
           }
         },
@@ -292,9 +292,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1899,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "45adfdd8a8a4e4d565f75f955a5dcac0",
+            "size": 1973,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/options.txt",
+            "MD5": "9db778bedb0177234889333c5c514e1d",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -303,9 +303,9 @@
           "name": "dark.json",
           "type": "File",
           "artifact": {
-            "size": 4133,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/ui_themes/dark.json",
-            "MD5": "1fc916f1d20b24c5f0d2d138d19c49a4",
+            "size": 4313,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "cb5bb37352f0a6c7535af34aefaa7837",
             "path": "config/fancymenu/ui_themes/dark.json"
           }
         },
@@ -314,43 +314,10 @@
           "name": "light.json",
           "type": "File",
           "artifact": {
-            "size": 4135,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/ui_themes/light.json",
-            "MD5": "adfba137b3d62c50a5186a4f6523a72a",
+            "size": 4315,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "d8349a30495a46f064dfaaf067e637d7",
             "path": "config/fancymenu/ui_themes/light.json"
-          }
-        },
-        {
-          "id": "user_variables.db",
-          "name": "user_variables.db",
-          "type": "File",
-          "artifact": {
-            "size": 23,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/fancymenu/user_variables.db",
-            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
-            "path": "config/fancymenu/user_variables.db"
-          }
-        },
-        {
-          "id": "server-entries.toml",
-          "name": "server-entries.toml",
-          "type": "File",
-          "artifact": {
-            "size": 150,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/simple-rpc/server-entries.toml",
-            "MD5": "2fca628745ebfdc5b64aa8101f507a36",
-            "path": "config/simple-rpc/server-entries.toml"
-          }
-        },
-        {
-          "id": "simple-rpc.toml",
-          "name": "simple-rpc.toml",
-          "type": "File",
-          "artifact": {
-            "size": 8405,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/config/simple-rpc/simple-rpc.toml",
-            "MD5": "d308d55f9fc2518ce222e223763ac50e",
-            "path": "config/simple-rpc/simple-rpc.toml"
           }
         },
         {
@@ -359,7 +326,7 @@
           "type": "File",
           "artifact": {
             "size": 4736,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/ClientUpdate-1.20.1/files/xmark.png",
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/update/servers/LauncherUpdate-1.20.1/files/xmark.png",
             "MD5": "74974c0f2bcf0d49e073de34a16c45e1",
             "path": "xmark.png"
           }

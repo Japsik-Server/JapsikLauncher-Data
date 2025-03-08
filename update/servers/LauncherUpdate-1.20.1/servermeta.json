@@ -1,11 +1,11 @@
 {
-  "$schema": "file:///C:/Nebulaworkspace/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/JapsikLauncher-Data/live/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "0.0.1",
-    "name": "클라이언트 업데이트를 해주세요!",
-    "description": "클라이언트 업데이트를 해주세요!",
+    "name": "런처 업데이트를 해주세요!",
+    "description": "런처 업데이트를 해주세요!",
     "icon": "https://static.japsik.xyz/assets/images/Japsik-Logo-jyukaaaaa.png",
-    "address": "play.japsik.xyz:25585",
+    "address": "",
     "discord": {
       "shortId": "",
       "largeImageText": "",
