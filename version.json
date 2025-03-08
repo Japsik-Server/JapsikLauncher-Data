@@ -9,11 +9,11 @@
     },
     {
         "version": "1.0.6-pre.1",
-        "server": "update"
+        "server": "live"
     },
     {
         "version": "1.0.6",
-        "server": "update"
+        "server": "live"
     },
     {
         "version": "1.0.7-pre.1",
@@ -21,6 +21,14 @@
     },
     {
         "version": "1.0.7",
+        "server": "live"
+    },
+    {
+        "version": "1.0.8-pre.1",
+        "server": "live"
+    },
+    {
+        "version": "1.0.8",
         "server": "live"
     }
 ]
