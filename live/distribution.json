@@ -12,7 +12,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.4.12",
+      "version": "1.4.13",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -2290,13 +2290,13 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.2@jar",
+          "id": "su.plo.voice:plasmovoice:2.1.3@jar",
           "name": "Plasmo Voice",
           "type": "FabricMod",
           "artifact": {
-            "size": 11911155,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/plasmovoice-fabric-1.21-2.1.2.jar",
-            "MD5": "c454e342469edf476283cc6d330a73cf"
+            "size": 11948845,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/plasmovoice-fabric-1.21-2.1.3.jar",
+            "MD5": "bc572a17c0032315b3dfe0f7ca28efca"
           }
         },
         {
@@ -2310,13 +2310,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:polytone:1.21-3.2.9@jar",
+          "id": "net.mehvahdjukaar:polytone:1.21-3.2.13@jar",
           "name": "Polytone",
           "type": "FabricMod",
           "artifact": {
-            "size": 706227,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/polytone-1.21-3.2.9-fabric.jar",
-            "MD5": "793b00881d5d2e86058e612c4d5655d3"
+            "size": 708497,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/polytone-1.21-3.2.13-fabric.jar",
+            "MD5": "5362a7d2578973e62724c735e5cb7ed2"
           }
         },
         {
@@ -3144,13 +3144,13 @@
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:betterdeserttemples:1.21.1-Fabric-4.1.4@jar",
+          "id": "com.yungnickyoung.minecraft:betterdeserttemples:1.21.1-Fabric-4.1.5@jar",
           "name": "YUNG's Better Desert Temples",
           "type": "FabricMod",
           "artifact": {
-            "size": 1033146,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/YungsBetterDesertTemples-1.21.1-Fabric-4.1.4.jar",
-            "MD5": "47908b67b31bb1e84661fe433f25067d"
+            "size": 1033207,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar",
+            "MD5": "82e85b1ccffdee21474e98da32eefb02"
           }
         },
         {
@@ -3360,7 +3360,7 @@
           "artifact": {
             "size": 110,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "7cb34bb472750c10cf28d66e900db0dc",
+            "MD5": "1e30fb1ccfa8ddcfa09b104951401061",
             "path": "config/bcc.json"
           }
         },
@@ -4427,7 +4427,7 @@
           "artifact": {
             "size": 459,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "c9bee9b40f4adb3442a9dcbf23d09248",
+            "MD5": "148f78d87d22420017923e4d9dcba131",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -7725,9 +7725,9 @@
           "name": "SodiumTranslations.zip",
           "type": "File",
           "artifact": {
-            "size": 219349,
+            "size": 219652,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/SodiumTranslations.zip",
-            "MD5": "82688acf7121f57f27018ae3a1f31bb4",
+            "MD5": "a1a2e3a3abb100a0ce932d929d471ab3",
             "path": "resourcepacks/SodiumTranslations.zip"
           }
         },
