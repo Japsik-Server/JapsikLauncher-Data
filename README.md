@@ -10,6 +10,7 @@
 - [Git](https://git-scm.com/downloads/win)
 
 ## Nebula 셋업
+###### 자세한 정보는 Nebula 폴더 내의 `README.md` 파일을 참조하세요.
 Nebula 폴더 내에 다음과 같이 .env 파일을 생성해주세요.
 
 ```
@@ -21,27 +22,43 @@ HELIOS_DATA_FOLDER=<%appdata%>\Japsik Launcher
 
   - `<%appdata%>` : `%appdata%` 디렉토리(`C:\Users\<사용자 이름>\AppData\Roaming`)
 
+Nebula 폴더에서 터미널을 연 후, 아래 명령어를 실행하세요.
+
+- `npm run start -- init root`
+
 ## Git Subtree를 사용해 클라이언트 데이터 가져오기
 클라이언트를 처음 생성 했을 때에는, 해당 폴더 내에 있는 파일들을 다른 리포지토리로 분리 후, 아래 명령어를 사용해 Subtree에 추가합니다.
 
-`git subtree add -P live/servers/<ClientName>-<MC_VERSION> <REMOTE_URL> <branch or tag> [--squash]`
+- `git subtree add -P live/servers/<CLIENT_NAME>-<MC_VERSION> <REMOTE_URL> <BRANCH_OR_TAG> [--squash]`
 
-  - `<ClientName>` : 클라이언트 이름
+  - `<CLIENT_NAME>` : 클라이언트 이름
   - `<MC_VERSION>` : 클라이언트의 마인크래프트 버전
   - `<REMOTE_URL>` : 클라이언트 리포지토리의 Remote URL
-  - `<branch or tag>` : Subtree에 추가할 branch 또는 tag
+  - `<BRANCH_OR_TAG>` : Subtree에 추가할 branch 또는 tag
   - `[--squash]` : Merge 시 여러개의 커밋을 하나로 합치기(권장)
 
 예시) `git subtree add -P live/servers/Chosik-1.21.1 https://github.com/Japsik-Server/Chosik-Client.git 1.0.0 --squash`
 
 클라이언트를 특정 branch 또는 tag의 버전으로 변경하고 싶다면, 아래 명령어를 사용해 Subtree의 branch를 변경합니다.
 
-`git subtree pull -P live/servers/<ClientName>-<MC_VERSION> <REMOTE_URL> <branch or tag> [--squash]`
+- `git subtree pull -P live/servers/<CLIENT_NAME>-<MC_VERSION> <REMOTE_URL> <BRANCH_OR_TAG> [--squash]`
 
-  - `<ClientName>` : 클라이언트 이름
+  - `<CLIENT_NAME>` : 클라이언트 이름
   - `<MC_VERSION>` : 클라이언트의 마인크래프트 버전
   - `<REMOTE_URL>` : 클라이언트 리포지토리의 Remote URL
-  - `<branch or tag>` : Subtree에 추가할 branch 또는 tag
+  - `<BRANCH_OR_TAG>` : Subtree에 추가할 branch 또는 tag
   - `[--squash]` : Merge 시 여러개의 커밋을 하나로 합치기(권장)
 
 예시) `git subtree pull -P live/servers/Chosik-1.21.1 https://github.com/Japsik-Server/Chosik-Client.git 1.0.1 --squash`
+
+### 주의사항
+클라이언트의 모든 Merge 커밋들은 `<CLIENT_NAME> <VERSION>` 형식으로 이름을 짓습니다.
+
+예시) `Chosik-Client 1.0.0`
+
+## 채널 업데이트
+클라이언트의 업데이트를 적용했다면, Nebula 폴더에서 아래 명령어를 사용해 `distribution.json`을 생성해야 합니다.
+
+- `npm run start -- g distro`
+
+해당 커밋의 이름은 `live 채널 업데이트` 로 합니다.
