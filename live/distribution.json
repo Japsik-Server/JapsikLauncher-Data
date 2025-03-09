@@ -12,7 +12,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.4.13",
+      "version": "1.4.14",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -2574,13 +2574,13 @@
           }
         },
         {
-          "id": "com.phantomwing:rusticdelight:1.3.3@jar",
+          "id": "com.phantomwing:rusticdelight:1.4.0@jar",
           "name": "Rustic Delight",
           "type": "FabricMod",
           "artifact": {
-            "size": 282743,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/rusticdelight-fabric-1.21.1-1.3.3.jar",
-            "MD5": "a2e6027aba6bf4b7af1508e545330045"
+            "size": 381615,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/rusticdelight-fabric-1.21.1-1.4.0-no-rice_roll_royale.jar",
+            "MD5": "789048af9f54267ed7de021fdc9873b1"
           }
         },
         {
@@ -2865,13 +2865,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:suppsquared:1.21-1.2.3@jar",
+          "id": "net.mehvahdjukaar:suppsquared:1.21-1.2.5@jar",
           "name": "Supplementaries Squared",
           "type": "FabricMod",
           "artifact": {
-            "size": 741954,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/suppsquared-1.21-1.2.3-fabric.jar",
-            "MD5": "ff25f5a64f7a714f235c0b62acc6d55c"
+            "size": 772714,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/suppsquared-1.21-1.2.5-fabric.jar",
+            "MD5": "6d134bef19718a6311cd3431515ad0e7"
           }
         },
         {
@@ -3360,7 +3360,7 @@
           "artifact": {
             "size": 110,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "1e30fb1ccfa8ddcfa09b104951401061",
+            "MD5": "88d4eba40767d82d8cc06f9ea37b8f2a",
             "path": "config/bcc.json"
           }
         },
@@ -4427,7 +4427,7 @@
           "artifact": {
             "size": 459,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "148f78d87d22420017923e4d9dcba131",
+            "MD5": "0ed2dee266826362c540b85c558b3b74",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -4946,6 +4946,17 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/supplementaries-common.json",
             "MD5": "b5e32996c438a704123b79cba88b1013",
             "path": "config/supplementaries-common.json"
+          }
+        },
+        {
+          "id": "suppsquared-common.json",
+          "name": "suppsquared-common.json",
+          "type": "File",
+          "artifact": {
+            "size": 211,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/suppsquared-common.json",
+            "MD5": "bdb76e347c64269612df131f51edc6f4",
+            "path": "config/suppsquared-common.json"
           }
         },
         {
@@ -7692,9 +7703,9 @@
           "name": "japsikclientforchosik-translations.zip",
           "type": "File",
           "artifact": {
-            "size": 42283,
+            "size": 42303,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/japsikclientforchosik-translations.zip",
-            "MD5": "92b1bf30026e736aa1a1624262d5476e",
+            "MD5": "cf1ab72287f3bc1109af09217abf6398",
             "path": "resourcepacks/japsikclientforchosik-translations.zip"
           }
         },
