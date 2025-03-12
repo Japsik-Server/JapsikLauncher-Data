@@ -25,11 +25,11 @@
     },
     {
         "version": "1.0.8-pre.1",
-        "server": "live"
+        "server": "update"
     },
     {
         "version": "1.0.8",
-        "server": "live"
+        "server": "update"
     },
     {
         "version": "1.0.9-pre.1",
