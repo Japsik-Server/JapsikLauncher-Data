@@ -38,5 +38,13 @@
     {
         "version": "1.0.9",
         "server": "live"
+    },
+    {
+        "version": "1.0.10-pre.1",
+        "server": "live"
+    },
+    {
+        "version": "1.0.10",
+        "server": "live"
     }
 ]
