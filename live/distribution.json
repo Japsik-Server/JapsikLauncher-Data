@@ -12,7 +12,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.6.0",
+      "version": "1.6.1",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -2393,13 +2393,13 @@
           }
         },
         {
-          "id": "fuzs.puzzleslib.fabric.impl:puzzleslib:21.1.32@jar",
+          "id": "fuzs.puzzleslib.fabric.impl:puzzleslib:21.1.33@jar",
           "name": "Puzzles Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1132634,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/PuzzlesLib-v21.1.32-1.21.1-Fabric.jar",
-            "MD5": "36f6a85928b526cb1227c21aa2cfb9e5"
+            "size": 1132641,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/PuzzlesLib-v21.1.33-1.21.1-Fabric.jar",
+            "MD5": "05fef12c546df76c15d8b1d7c8267731"
           }
         },
         {
@@ -3084,13 +3084,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.21@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.22@jar",
           "name": "WaterMedia",
           "type": "FabricMod",
           "artifact": {
-            "size": 37845806,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/watermedia-2.1.21.jar",
-            "MD5": "cf63b7248fd776de847fe5e8bfe3b659"
+            "size": 37850594,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/watermedia-2.1.22.jar",
+            "MD5": "c0d2f7ec54baca365980a1299e4ac36e"
           }
         },
         {
@@ -3390,7 +3390,7 @@
           "artifact": {
             "size": 109,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "031bd74bdfcd7b28cb5106177c046b2f",
+            "MD5": "3fea9aedc93d1666f340688e7563850d",
             "path": "config/bcc.json"
           }
         },
@@ -4490,7 +4490,7 @@
           "artifact": {
             "size": 458,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "d0157245d7fdd7fc68863d952bc2ec14",
+            "MD5": "2525a14be7843921490236d563ea5a0f",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
