@@ -12,7 +12,7 @@
       "name": "Chosik Client",
       "description": "초식(싱글플레이 가능)",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.6.2",
+      "version": "1.6.3",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -1112,13 +1112,13 @@
           }
         },
         {
-          "id": "io.github.mortuusars:exposure_polaroid:1.0.3@jar",
+          "id": "io.github.mortuusars:exposure_polaroid:1.0.4@jar",
           "name": "Exposure Polaroid",
           "type": "FabricMod",
           "artifact": {
-            "size": 160190,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/exposure_polaroid-fabric-1.0.3.jar",
-            "MD5": "d67c0c2ba9e2a5b3ad0f9204185b8ce8"
+            "size": 160233,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/exposure_polaroid-fabric-1.21.1-1.0.4.jar",
+            "MD5": "0a609f2887dd6aa9a8799051866274f9"
           }
         },
         {
@@ -2280,13 +2280,13 @@
           }
         },
         {
-          "id": "club.someoneice:pineapple_delight:1.0.3-1.21.1-Fabric@jar",
+          "id": "club.someoneice:pineapple_delight:1.0.4-1.21.1-Fabric@jar",
           "name": "Pineapple Delight",
           "type": "FabricMod",
           "artifact": {
-            "size": 63875,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/PineappleDeight-1.0.3-Fix-1.21.1-Fabric.jar",
-            "MD5": "504b08e5bf07f9f86a7c8c0402e5ac12"
+            "size": 66869,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/pineapple_delight-1.0.4-1.21.1-Fabric.jar",
+            "MD5": "70d3dda4a657c22080bdc41f46dc7e97"
           }
         },
         {
@@ -2644,13 +2644,13 @@
           }
         },
         {
-          "id": "com.github.exopandora:shouldersurfing:4.10.1@jar",
+          "id": "com.github.exopandora:shouldersurfing:4.10.2@jar",
           "name": "Shoulder Surfing Reloaded",
           "type": "FabricMod",
           "artifact": {
-            "size": 199751,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/ShoulderSurfing-Fabric-1.21.1-4.10.1.jar",
-            "MD5": "1db6a5bffc91edeebafaeceffa231bb9"
+            "size": 208507,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/optionalon/ShoulderSurfing-Fabric-1.21.1-4.10.2.jar",
+            "MD5": "36f455be6b4260ae00e41dae3ac83d10"
           },
           "required": {
             "value": false
@@ -3134,13 +3134,13 @@
           }
         },
         {
-          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.3+1.21.1-fabric@jar",
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.5+1.21.1-fabric@jar",
           "name": "YetAnotherConfigLib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1178732,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/yet_another_config_lib_v3-3.6.3+1.21.1-fabric.jar",
-            "MD5": "9040e93aa09500158a79b8aa23a663ac"
+            "size": 1179404,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/fabricmods/required/yet_another_config_lib_v3-3.6.5+1.21.1-fabric.jar",
+            "MD5": "9bd5cffb14a3c47b43b8f0ff3c86dc60"
           }
         },
         {
@@ -3390,7 +3390,7 @@
           "artifact": {
             "size": 109,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "6415a1acafdee4be2dd73e589429b072",
+            "MD5": "689165b3faa5e89cef74c9d3e5ba674c",
             "path": "config/bcc.json"
           }
         },
@@ -4490,7 +4490,7 @@
           "artifact": {
             "size": 458,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "81964458231ec807844d5782a8b8a9e5",
+            "MD5": "55f2db0190657670724f0a5c3debad54",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -4906,9 +4906,9 @@
           "name": "resourcepackoverrides.json",
           "type": "File",
           "artifact": {
-            "size": 568,
+            "size": 679,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/config/resourcepackoverrides.json",
-            "MD5": "3d7fc9bf53c40cc809ea71b6b524c386",
+            "MD5": "1b567378f1e0f79219a67752b4089160",
             "path": "config/resourcepackoverrides.json"
           }
         },
@@ -7696,17 +7696,6 @@
           }
         },
         {
-          "id": "Better-Leaves-9.0.zip",
-          "name": "Better-Leaves-9.0.zip",
-          "type": "File",
-          "artifact": {
-            "size": 762569,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Better-Leaves-9.0.zip",
-            "MD5": "e7505d48937505f9c7acc97c7264690e",
-            "path": "resourcepacks/Better-Leaves-9.0.zip"
-          }
-        },
-        {
           "id": "BetterHangulFont.zip",
           "name": "BetterHangulFont.zip",
           "type": "File",
@@ -7726,6 +7715,226 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Chat%20Reporting%20Helper.zip",
             "MD5": "6c51322144367d895495e36239a4bc81",
             "path": "resourcepacks/Chat Reporting Helper.zip"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 76,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/chosikclient/lang/ko_kr.json",
+            "MD5": "22687638e3f6c0932d971481158518a8",
+            "path": "resourcepacks/ChosikClient-translations/assets/chosikclient/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 328,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/copperhopper/lang/ko_kr.json",
+            "MD5": "531dc5a212712a273bc38e03bfb312a4",
+            "path": "resourcepacks/ChosikClient-translations/assets/copperhopper/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 6515,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/enchanted-vertical-slabs/lang/ko_kr.json",
+            "MD5": "cd289de33a4fb04d8aae0963e1312615",
+            "path": "resourcepacks/ChosikClient-translations/assets/enchanted-vertical-slabs/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 1152,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/fancydelight/lang/ko_kr.json",
+            "MD5": "27e940375bb9cade082b2164b390447c",
+            "path": "resourcepacks/ChosikClient-translations/assets/fancydelight/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 26278,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/handcrafted/lang/ko_kr.json",
+            "MD5": "3a6bf5123700b0edbca03d73ccdf836f",
+            "path": "resourcepacks/ChosikClient-translations/assets/handcrafted/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 5333,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/integrated_circuit/lang/ko_kr.json",
+            "MD5": "8a61e5ab2d3e7c44c40ee7824abd2d5d",
+            "path": "resourcepacks/ChosikClient-translations/assets/integrated_circuit/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/isxander-main-menu-credits/lang/ko_kr.json",
+            "MD5": "4d45547854537307f6a06cc066a613a9",
+            "path": "resourcepacks/ChosikClient-translations/assets/isxander-main-menu-credits/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 971,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/niftycarts/lang/ko_kr.json",
+            "MD5": "29f75885d3e633bf9ecf35e4193ac69d",
+            "path": "resourcepacks/ChosikClient-translations/assets/niftycarts/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 925,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/pineapple_delight/lang/ko_kr.json",
+            "MD5": "6fd16b1ba754a73f1a9df067dc2beb78",
+            "path": "resourcepacks/ChosikClient-translations/assets/pineapple_delight/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 6526,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/rusticdelight/lang/ko_kr.json",
+            "MD5": "d7a788a53800e37ba8b3bd89c50f045a",
+            "path": "resourcepacks/ChosikClient-translations/assets/rusticdelight/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 2744,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/seeddelight/lang/ko_kr.json",
+            "MD5": "1bf56637cbdac55ab61ab160011d0316",
+            "path": "resourcepacks/ChosikClient-translations/assets/seeddelight/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 6273,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/storagedrawers/lang/ko_kr.json",
+            "MD5": "477387f5e0da06dd1a92f5e001f4adf3",
+            "path": "resourcepacks/ChosikClient-translations/assets/storagedrawers/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 5458,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/supplementaries/lang/ko_kr.json",
+            "MD5": "ead04d77b494fd042238d7cfba6a5267",
+            "path": "resourcepacks/ChosikClient-translations/assets/supplementaries/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 3382,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/suppsquared/lang/ko_kr.json",
+            "MD5": "e4cdd5b58c7cec94bbf039b98f0ecbb0",
+            "path": "resourcepacks/ChosikClient-translations/assets/suppsquared/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 2745,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/toms_peripherals/lang/ko_kr.json",
+            "MD5": "071bccfbdbf82dbeec80dcfe72ae2d4f",
+            "path": "resourcepacks/ChosikClient-translations/assets/toms_peripherals/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 28940,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/travelersbackpack/lang/ko_kr.json",
+            "MD5": "cd92810f9a7e97db524990854c3551c0",
+            "path": "resourcepacks/ChosikClient-translations/assets/travelersbackpack/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 17019,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/ubesdelight/lang/ko_kr.json",
+            "MD5": "d45c01d7b0010f36dd19e3276d90eced",
+            "path": "resourcepacks/ChosikClient-translations/assets/ubesdelight/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 8738,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/waterframes/lang/ko_kr.json",
+            "MD5": "24cc5d30703e03b13237e9ea579ff8d5",
+            "path": "resourcepacks/ChosikClient-translations/assets/waterframes/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 5379,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/assets/xercamusic/lang/ko_kr.json",
+            "MD5": "cdbf266d19eb10482df614a3b7b7ff06",
+            "path": "resourcepacks/ChosikClient-translations/assets/xercamusic/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 216,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/ChosikClient-translations/pack.mcmeta",
+            "MD5": "1ccab455cad3e81c303d059e5154c090",
+            "path": "resourcepacks/ChosikClient-translations/pack.mcmeta"
           }
         },
         {
@@ -7751,28 +7960,6 @@
           }
         },
         {
-          "id": "Faithful 32x - 1.21.1.zip",
-          "name": "Faithful 32x - 1.21.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 10627974,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Faithful%2032x%20-%201.21.1.zip",
-            "MD5": "6d5a9c81ee1e943e0db1b67c971f8b3e",
-            "path": "resourcepacks/Faithful 32x - 1.21.1.zip"
-          }
-        },
-        {
-          "id": "Faithful 32x AppleSkin - 1.21.1.zip",
-          "name": "Faithful 32x AppleSkin - 1.21.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 9449,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Faithful%2032x%20AppleSkin%20-%201.21.1.zip",
-            "MD5": "2eb3e357e5d2947d82c64a0acb5b0d10",
-            "path": "resourcepacks/Faithful 32x AppleSkin - 1.21.1.zip"
-          }
-        },
-        {
           "id": "Fast Better Grass.zip",
           "name": "Fast Better Grass.zip",
           "type": "File",
@@ -7781,17 +7968,6 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Fast%20Better%20Grass.zip",
             "MD5": "e30b16d8582feec333a1cc0186b070f5",
             "path": "resourcepacks/Fast Better Grass.zip"
-          }
-        },
-        {
-          "id": "japsikclientforchosik-translations.zip",
-          "name": "japsikclientforchosik-translations.zip",
-          "type": "File",
-          "artifact": {
-            "size": 38935,
-            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/japsikclientforchosik-translations.zip",
-            "MD5": "900cf57a3f735fda6538be21fb08c34a",
-            "path": "resourcepacks/japsikclientforchosik-translations.zip"
           }
         },
         {
@@ -7836,6 +8012,28 @@
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/sounds-patch.zip",
             "MD5": "098651c52038de575d3046c3c64afab5",
             "path": "resourcepacks/sounds-patch.zip"
+          }
+        },
+        {
+          "id": "staytrue1.21.zip",
+          "name": "staytrue1.21.zip",
+          "type": "File",
+          "artifact": {
+            "size": 537216,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/staytrue1.21.zip",
+            "MD5": "0b88b363f57486f0afbb0f575d63301c",
+            "path": "resourcepacks/staytrue1.21.zip"
+          }
+        },
+        {
+          "id": "Stay_True_1.21.zip",
+          "name": "Stay_True_1.21.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2152322,
+            "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/servers/Chosik-1.21.1/files/resourcepacks/Stay_True_1.21.zip",
+            "MD5": "1743567759c02d1b7486f2109aad9860",
+            "path": "resourcepacks/Stay_True_1.21.zip"
           }
         },
         {
