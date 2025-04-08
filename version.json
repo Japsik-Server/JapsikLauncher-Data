@@ -1,50 +1,18 @@
-[
-    {
-        "version": "1.0.5-pre.1",
-        "server": "update"
-    },
-    {
-        "version": "1.0.5",
-        "server": "update"
-    },
-    {
-        "version": "1.0.6-pre.1",
-        "server": "update"
-    },
-    {
-        "version": "1.0.6",
-        "server": "update"
-    },
-    {
-        "version": "1.0.7-pre.1",
-        "server": "update"
-    },
-    {
-        "version": "1.0.7",
-        "server": "update"
-    },
-    {
-        "version": "1.0.8-pre.1",
-        "server": "update"
-    },
-    {
-        "version": "1.0.8",
-        "server": "update"
-    },
-    {
-        "version": "1.0.9-pre.1",
-        "server": "live"
-    },
-    {
-        "version": "1.0.9",
-        "server": "live"
-    },
-    {
-        "version": "1.0.10-pre.1",
-        "server": "live"
-    },
-    {
-        "version": "1.0.10",
-        "server": "live"
-    }
-]
+{
+    "current": [
+        "1.0.9-pre.1",
+        "1.0.9",
+        "1.0.10-pre.1",
+        "1.0.10"
+    ],
+    "outdated": [
+        "1.0.5-pre.1",
+        "1.0.5",
+        "1.0.6-pre.1",
+        "1.0.6",
+        "1.0.7-pre.1",
+        "1.0.7",
+        "1.0.8-pre.1",
+        "1.0.8"
+    ]
+}
