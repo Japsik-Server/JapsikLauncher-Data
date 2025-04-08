@@ -102,7 +102,6 @@
 - [FabricSkyBoxes Interop](https://modrinth.com/mod/HpdHOPOp) by FlashyReese
 - [Fabrishot](https://modrinth.com/mod/3qsfQtE9) by ramidzkh
 - [Falling Leaves](https://modrinth.com/mod/WhbRG4iK) by Fourmisain, BrekiTomasson, RandomMcSomethin
-- [FallingTree](https://modrinth.com/mod/Fb4jn8m6) by Rakambda
 - [Fancy Delight](https://modrinth.com/mod/bRAjxqA5) by Leah, Labcoat\_cactus, PhenixW0LF
 - [FancyMenu](https://modrinth.com/mod/Wq5SjeWM) by Keksuccino
 - [Farmer's Delight](https://modrinth.com/mod/7vxePowz) by MehVahdJukaar, MerchantPug
@@ -123,6 +122,7 @@
 - [Gpu memory leak fix mod](https://www.curseforge.com/projects/882495) by 
 - [Handcrafted](https://modrinth.com/mod/pJmCFF0p) by Alex Nijjar, Kekie6
 - [Healing Campfire](https://modrinth.com/mod/kOuPUitF) by Rick South
+- [HT's TreeChop](https://modrinth.com/mod/gHoB7SHO) by hammertater
 - [Hungrier](https://modrinth.com/mod/5Opza4ve) by boyonk
 - [IJM's Tweaks](https://modrinth.com/mod/vevAjqG0) by ItsJustMiaouss
 - [Iceberg](https://modrinth.com/mod/5faXoLqX) by Grend
