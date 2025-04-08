@@ -15,8 +15,8 @@ Nebula 폴더 내에 다음과 같이 .env 파일을 생성해주세요.
 
 ```
 JAVA_EXECUTABLE=C:\Program Files\Eclipse Adoptium\jdk-17.0.14.7-hotspot\bin\java.exe # Eclipse Temurin™ JDK 17, 필요 시 변경
-ROOT=C:\JapsikLauncher-Data\live
-BASE_URL=https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/live/
+ROOT=C:\JapsikLauncher-Data\current
+BASE_URL=https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/current/
 HELIOS_DATA_FOLDER=<%appdata%>\Japsik Launcher
 ```
 
@@ -29,7 +29,7 @@ Nebula 폴더에서 터미널을 연 후, 아래 명령어를 실행하세요.
 ## Git Subtree를 사용해 클라이언트 데이터 가져오기
 클라이언트를 처음 생성 했을 때에는, 해당 폴더 내에 있는 파일들을 다른 리포지토리로 분리 후, 아래 명령어를 사용해 Subtree에 추가합니다.
 
-- `git subtree add -P live/servers/<CLIENT_NAME>-<MC_VERSION> <REMOTE_URL> <BRANCH_OR_TAG> [--squash]`
+- `git subtree add -P current/servers/<CLIENT_NAME>-<MC_VERSION> <REMOTE_URL> <BRANCH_OR_TAG> [--squash]`
 
   - `<CLIENT_NAME>` : 클라이언트 이름
   - `<MC_VERSION>` : 클라이언트의 마인크래프트 버전
@@ -37,11 +37,11 @@ Nebula 폴더에서 터미널을 연 후, 아래 명령어를 실행하세요.
   - `<BRANCH_OR_TAG>` : Subtree에 추가할 branch 또는 tag
   - `[--squash]` : Merge 시 여러개의 커밋을 하나로 합치기(권장)
 
-예시) `git subtree add -P live/servers/Chosik-1.21.1 https://github.com/Japsik-Server/Chosik-Client.git 1.0.0 --squash`
+예시) `git subtree add -P current/servers/Chosik-1.21.1 https://github.com/Japsik-Server/Chosik-Client.git 1.0.0 --squash`
 
 클라이언트를 특정 branch 또는 tag의 버전으로 변경하고 싶다면, 아래 명령어를 사용해 Subtree의 branch를 변경합니다.
 
-- `git subtree pull -P live/servers/<CLIENT_NAME>-<MC_VERSION> <REMOTE_URL> <BRANCH_OR_TAG> [--squash]`
+- `git subtree pull -P current/servers/<CLIENT_NAME>-<MC_VERSION> <REMOTE_URL> <BRANCH_OR_TAG> [--squash]`
 
   - `<CLIENT_NAME>` : 클라이언트 이름
   - `<MC_VERSION>` : 클라이언트의 마인크래프트 버전
@@ -49,7 +49,7 @@ Nebula 폴더에서 터미널을 연 후, 아래 명령어를 실행하세요.
   - `<BRANCH_OR_TAG>` : Subtree에 추가할 branch 또는 tag
   - `[--squash]` : Merge 시 여러개의 커밋을 하나로 합치기(권장)
 
-예시) `git subtree pull -P live/servers/Chosik-1.21.1 https://github.com/Japsik-Server/Chosik-Client.git 1.0.1 --squash`
+예시) `git subtree pull -P current/servers/Chosik-1.21.1 https://github.com/Japsik-Server/Chosik-Client.git 1.0.1 --squash`
 
 ### 주의사항
 - 클라이언트의 모든 Merge 커밋들은 `<CLIENT_NAME> <VERSION>` 형식으로 이름을 짓습니다.
@@ -65,4 +65,4 @@ Nebula 폴더에서 터미널을 연 후, 아래 명령어를 실행하세요.
 
 - `npm run start -- g distro`
 
-해당 커밋의 이름은 `live 채널 업데이트` 로 합니다.
+해당 커밋의 이름은 `current 채널 업데이트` 로 합니다.
