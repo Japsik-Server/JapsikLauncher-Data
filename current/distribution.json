@@ -12,7 +12,7 @@
       "name": "Chosik Client",
       "description": "초식",
       "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
-      "version": "1.8.2",
+      "version": "1.8.3",
       "address": "play.chosik.japsik.com:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -3500,7 +3500,7 @@
           "artifact": {
             "size": 109,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/current/servers/Chosik-1.21.1/files/config/bcc.json",
-            "MD5": "c8f87437cb01bacbdc4b84eb4de092b2",
+            "MD5": "406c2cea5eba3331dc9bb5a10d3294a3",
             "path": "config/bcc.json"
           }
         },
@@ -4666,7 +4666,7 @@
           "artifact": {
             "size": 458,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/current/servers/Chosik-1.21.1/files/config/isxander-main-menu-credits.json",
-            "MD5": "24d4ccba2a6308ce7855574cadd54259",
+            "MD5": "a53b4f1ee6604ecde8657a79568f729d",
             "path": "config/isxander-main-menu-credits.json"
           }
         },
@@ -4688,7 +4688,7 @@
           "artifact": {
             "size": 158,
             "url": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/main/current/servers/Chosik-1.21.1/files/config/jamlib/known_suspicious_jars.txt",
-            "MD5": "22f7b475e47bf76be54c86c50b0fecc8",
+            "MD5": "5dcb19195027873fe2badf80966206dc",
             "path": "config/jamlib/known_suspicious_jars.txt"
           }
         },
