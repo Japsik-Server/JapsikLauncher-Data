@@ -1,0 +1,29 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Japsik-Server/JapsikLauncher-Data/refs/heads/main/current/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.8.1",
+    "name": "Chosik Client",
+    "description": "초식",
+    "icon": "https://static.japsik.com/assets/images/Chosik-Logo-cat_chap.png",
+    "address": "play.chosik.japsik.com:25565",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": true,
+    "autoconnect": false,
+    "javaOptions": {
+      "supported": ">=21",
+      "suggestedMajor": 22,
+      "ram": {
+        "recommended": 5120,
+        "minimum": 5120
+      }
+    }
+  },
+  "fabric": {
+    "version": "0.16.14"
+  },
+  "untrackedFiles": []
+}
