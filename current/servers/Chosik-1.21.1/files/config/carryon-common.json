@@ -225,9 +225,7 @@
       "bodiesbodies:dead_body"
     ],
     "//forbiddenStacking": "Entities that cannot have other entities stacked on top of them",
-    "forbiddenStacking": [
-      "minecraft:horse"
-    ]
+    "forbiddenStacking": ["minecraft:horse"]
   },
   "customPickupConditions": {
     "//customPickupConditions": "Custom Pickup Conditions. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Custom-Pickup-Condition-Config",

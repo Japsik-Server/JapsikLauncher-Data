@@ -1,7 +1,8 @@
 # 모드 목록 Mod List
+
 - [Copper Hopper](https://modrinth.com/mod/mTI5Xg5F) by pcal\.net
-- [Enchanted Vertical Slabs](https://modrinth.com/mod/TG1cHkRf) by Enchanted\_Games
-- [Fancy Delight](https://modrinth.com/mod/bRAjxqA5) by Leah, Labcoat\_cactus, PhenixW0LF
+- [Enchanted Vertical Slabs](https://modrinth.com/mod/TG1cHkRf) by Enchanted_Games
+- [Fancy Delight](https://modrinth.com/mod/bRAjxqA5) by Leah, Labcoat_cactus, PhenixW0LF
 - [Handcrafted](https://modrinth.com/mod/pJmCFF0p) by Alex Nijjar, Kekie6
 - [Integrated Circuit](https://modrinth.com/mod/bybyRAPl) by replaceitem
 - [Music Maker Mod](https://modrinth.com/mod/qQpWCN75) by xerca

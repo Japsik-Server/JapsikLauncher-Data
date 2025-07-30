@@ -29,7 +29,7 @@
   - [recipeessentials Mod](https://www.curseforge.com/projects/907856) by Someaddon
   - [Structory: Towers](https://modrinth.com/mod/j3FONRYr) by Stardust Labs
   - [Structory](https://modrinth.com/mod/aKCwCJlY) by Stardust Labs
-  - [Towns and Towers](https://modrinth.com/mod/DjLobEOy) by Kubek and Biban\_Auriu, Cristelknight999
+  - [Towns and Towers](https://modrinth.com/mod/DjLobEOy) by Kubek and Biban_Auriu, Cristelknight999
 - 번역팩 업데이트
   - [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) 번역 수정
 

@@ -2,9 +2,7 @@
   "current_controller": null,
   "controllers": {},
   "global": {
-    "virtual_mouse_screens": [
-      "net.minecraft.class_465"
-    ],
+    "virtual_mouse_screens": ["net.minecraft.class_465"],
     "keyboardMovement": false,
     "keyboard_movement_whitelist": [],
     "out_of_focus_input": false,

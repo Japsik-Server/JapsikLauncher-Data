@@ -1,6 +1,6 @@
 {
-	"enabled": true,
-	/* 
+  enabled: true,
+  /* 
 	   ^^^ Do not forget to enable the mod when you've changed something ^^^
 	   Below you will find a list of all the default values you are free to change:
 	   
@@ -11,65 +11,65 @@
 	   despawnStartRange -- Radial distance from which mobs, after being there for 30s, have ⅛% chance to despawn each 1/20 second averaging at 40s/mob.
 	   immediateDespawnRange -- Radial distance from which mobs are forced to despawn. If they can. (not riding a boat|named|generated with structure|...)
 	*/
-	"spawnGroups": {
-		"water_creature": {
-			"capacity": 5,
-			"peaceful": true,
-			"rare": false,
-			"despawnStartRange": 32,
-			"immediateDespawnRange": 128
-		},
-		"underground_water_creature": {
-			"capacity": 5,
-			"peaceful": true,
-			"rare": false,
-			"despawnStartRange": 32,
-			"immediateDespawnRange": 128
-		},
-		"ambient": {
-			"capacity": 15,
-			"peaceful": true,
-			"rare": false,
-			"despawnStartRange": 32,
-			"immediateDespawnRange": 128
-		},
-		"axolotls": {
-			"capacity": 5,
-			"peaceful": true,
-			"rare": false,
-			"despawnStartRange": 32,
-			"immediateDespawnRange": 128
-		},
-		"creature": {
-			"capacity": 10,
-			"peaceful": true,
-			"rare": true,
-			"despawnStartRange": 32,
-			"immediateDespawnRange": 128
-		},
-		"water_ambient": {
-			"capacity": 20,
-			"peaceful": true,
-			"rare": false,
-			"despawnStartRange": 32,
-			"immediateDespawnRange": 64
-		},
-		"monster": {
-			"capacity": 70,
-			"peaceful": false,
-			"rare": false,
-			"despawnStartRange": 32,
-			"immediateDespawnRange": 128
-		},
-		"misc": {
-			"capacity": -1,
-			"peaceful": true,
-			"rare": true,
-			"despawnStartRange": 32,
-			"immediateDespawnRange": 128
-		}
-	},
-	/* 
+  spawnGroups: {
+    water_creature: {
+      capacity: 5,
+      peaceful: true,
+      rare: false,
+      despawnStartRange: 32,
+      immediateDespawnRange: 128
+    },
+    underground_water_creature: {
+      capacity: 5,
+      peaceful: true,
+      rare: false,
+      despawnStartRange: 32,
+      immediateDespawnRange: 128
+    },
+    ambient: {
+      capacity: 15,
+      peaceful: true,
+      rare: false,
+      despawnStartRange: 32,
+      immediateDespawnRange: 128
+    },
+    axolotls: {
+      capacity: 5,
+      peaceful: true,
+      rare: false,
+      despawnStartRange: 32,
+      immediateDespawnRange: 128
+    },
+    creature: {
+      capacity: 10,
+      peaceful: true,
+      rare: true,
+      despawnStartRange: 32,
+      immediateDespawnRange: 128
+    },
+    water_ambient: {
+      capacity: 20,
+      peaceful: true,
+      rare: false,
+      despawnStartRange: 32,
+      immediateDespawnRange: 64
+    },
+    monster: {
+      capacity: 70,
+      peaceful: false,
+      rare: false,
+      despawnStartRange: 32,
+      immediateDespawnRange: 128
+    },
+    misc: {
+      capacity: -1,
+      peaceful: true,
+      rare: true,
+      despawnStartRange: 32,
+      immediateDespawnRange: 128
+    }
+  },
+  /* 
 	   
 	   Spawn groups as of 1.20.1 (124 types):
 	   
@@ -101,5 +101,5 @@
 	   
 	   Thanks for reading!
 	*/
-	"authors": "vlad2305m, minecraft.wiki"
+  authors: 'vlad2305m, minecraft.wiki'
 }

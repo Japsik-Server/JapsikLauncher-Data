@@ -3,7 +3,7 @@ version: 2
 use_server: true
 sitting:
   # Controls sitting behaviour. Possible values: nothing, discard (if no block underneath sitting player), gravity.
-  behaviour: "gravity"
+  behaviour: 'gravity'
   # Places seat in the center of the block
   should_center: false
 on_use:
@@ -17,10 +17,10 @@ on_use:
   check_suffocation: true
   # List of blocks or block types (e.g., "oak_log", "#logs") that are available to sit on by interacting with them.
   blocks:
-  - "#minecraft:carpets"
-  - "#minecraft:slabs"
-  - "#minecraft:stairs"
-  - "#minecraft:logs"
+    - '#minecraft:carpets'
+    - '#minecraft:slabs'
+    - '#minecraft:stairs'
+    - '#minecraft:logs'
 on_sneak:
   # Allows to start sitting by double sneaking while looking down.
   sitting: true

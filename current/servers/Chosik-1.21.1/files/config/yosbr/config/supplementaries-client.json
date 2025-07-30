@@ -120,10 +120,7 @@
     },
     "altimeter": {
       "click_action": true,
-      "extra_dimension_textures": [
-        "minecraft:the_nether",
-        "minecraft:the_end"
-      ],
+      "extra_dimension_textures": ["minecraft:the_nether", "minecraft:the_end"],
       "texture_precision_multiplier": 1
     },
     "cannonball": {

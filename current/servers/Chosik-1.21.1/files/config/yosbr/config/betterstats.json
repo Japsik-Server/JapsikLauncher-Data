@@ -35,14 +35,7 @@
       "wither",
       "player"
     ],
-    "firstKilledByEntities": [
-      "ender_dragon",
-      "warden",
-      "wither",
-      "player"
-    ],
-    "firstCustomStats": [
-      "deaths"
-    ]
+    "firstKilledByEntities": ["ender_dragon", "warden", "wither", "player"],
+    "firstCustomStats": ["deaths"]
   }
 }

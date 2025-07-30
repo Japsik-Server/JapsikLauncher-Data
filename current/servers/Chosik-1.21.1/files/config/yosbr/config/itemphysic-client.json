@@ -14,11 +14,7 @@
     "tooltipOffsetX": 0,
     "tooltipOffsetY": 0,
     "blockRequireOffset": {
-      "blocks": [
-        "minecraft:snow",
-        "minecraft:soul_sand",
-        "minecraft:mud"
-      ],
+      "blocks": ["minecraft:snow", "minecraft:soul_sand", "minecraft:mud"],
       "tags": []
     },
     "blockBelowRequireOffset": {

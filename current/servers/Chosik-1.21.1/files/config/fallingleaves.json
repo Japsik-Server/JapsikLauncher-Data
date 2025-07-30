@@ -12,10 +12,7 @@
   "leavesOnBlockHit": true,
   "minimumFreeSpaceBelow": 1,
   "windEnabled": true,
-  "windlessDimensions": [
-    "minecraft:the_end",
-    "minecraft:the_nether"
-  ],
+  "windlessDimensions": ["minecraft:the_end", "minecraft:the_nether"],
   "leafSettings": {},
   "leafSpawners": [],
   "fallSpawnRateFactor": 1.8,

@@ -1,7 +1,7 @@
 {
   "default": {
     "item_quads_expansion": 0.0,
-    "item_quads_indent": 1.0E-4
+    "item_quads_indent": 1.0e-4
   },
   "mac_os": {
     "item_quads_expansion": 0.0,

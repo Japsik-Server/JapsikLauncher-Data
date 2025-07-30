@@ -60,9 +60,7 @@
       "enigmaticlegacy",
       "beautify"
     ],
-    "id_whitelist": [
-      "enlightened_end:xenon_lantern"
-    ],
+    "id_whitelist": ["enlightened_end:xenon_lantern"],
     "falling_lanterns": "ON"
   },
   "bell": {

@@ -14,10 +14,7 @@
     "file/Better+Lanterns+v1.2(mc-1.21).zip"
   ],
   "pack_overrides": {
-    "1": [
-      "file/ChosikClient-translations",
-      "file/sounds-patch.zip"
-    ],
+    "1": ["file/ChosikClient-translations", "file/sounds-patch.zip"],
     "$$1": {
       "hidden": true,
       "required": true,

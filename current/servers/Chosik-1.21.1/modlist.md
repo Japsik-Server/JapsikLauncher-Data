@@ -37,8 +37,8 @@
 - [Cardinal Components API](https://modrinth.com/mod/K01OU20C) by UpcraftLP, Pyrofab
 - [Carpet Extra](https://modrinth.com/mod/VX3TgwQh) by gnembon, DeadlyMC, ImUrX, 2No2Name, \.\.\.
 - [Carpet Mod](https://modrinth.com/mod/TQTTVgYE) by gnembon, \.\.\.
-- [Carry On](https://modrinth.com/mod/joEfVgkn) by Tschipp, Purplicious\_Cow
-- [cat\_jam](https://modrinth.com/mod/x3s69afN) by shmove
+- [Carry On](https://modrinth.com/mod/joEfVgkn) by Tschipp, Purplicious_Cow
+- [cat_jam](https://modrinth.com/mod/x3s69afN) by shmove
 - [CC: Tweaked](https://modrinth.com/mod/gu7yAYhd) by Daniel Ratcliffe, Aaron Mills, SquidDev
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) by dzwdz, Fourmisain
 - [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) by Illusive Soulworks
@@ -66,7 +66,7 @@
 - [Crawl](https://modrinth.com/mod/H1JOVjhn) by fewizz, McSkinnerOG, Chocohead
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) by CreativeMD, AriaFreeze
 - [Cristel Lib](https://modrinth.com/mod/cl223EMc) by Cristelknight
-- [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) by Kir\_Antipov
+- [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) by Kir_Antipov
 - [Cull Leaves](https://modrinth.com/mod/GNxdLCoP) by Motschen, TeamMidnightDust
 - [cupboard](https://www.curseforge.com/projects/326652) by Someaddon
 - [Cut Through](https://modrinth.com/mod/Dk6su9JN) by Fuzs
@@ -85,14 +85,14 @@
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
 - [Easy Mob Farm](https://modrinth.com/mod/crxsDbEo) by Markus Bordihn
 - [Easy NPC](https://modrinth.com/mod/CgGEe1h3) by Markus Bordihn
-- [Eating Animation](https://modrinth.com/mod/rUgZvGzi) by theone\_ss, spusik\_, PinkGoosik, DoctorNight1
+- [Eating Animation](https://modrinth.com/mod/rUgZvGzi) by theone_ss, spusik\_, PinkGoosik, DoctorNight1
 - [Elytra Rebalance](https://modrinth.com/mod/G2x2HR2N) by Sir Doom Turtle
 - [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) by fzzyhmstrs
 - [EMI Loot](https://modrinth.com/mod/qbbO7Jns) by fzzyhmstrs, lxly9 \(art\), unilock \(ports\)
 - [EMI Ores](https://modrinth.com/mod/sG4TqDb8) by Abbie
 - [EMI Professions ](https://modrinth.com/mod/LGVihYcz) by Mrbysco, ShyNieke
 - [EMI](https://modrinth.com/mod/fRiHVvU7) by Emi
-- [Enchanted Vertical Slabs](https://modrinth.com/mod/TG1cHkRf) by Enchanted\_Games
+- [Enchanted Vertical Slabs](https://modrinth.com/mod/TG1cHkRf) by Enchanted_Games
 - [EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC) by Darkhax
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben
@@ -105,22 +105,22 @@
 - [Exposure](https://modrinth.com/mod/hB899VmG) by mortuusars
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH) by FabricMC
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC
-- [Fabric Tailor](https://modrinth.com/mod/g8w1NapE) by samo\_lego
+- [Fabric Tailor](https://modrinth.com/mod/g8w1NapE) by samo_lego
 - [FabricSkyBoxes Interop](https://modrinth.com/mod/HpdHOPOp) by FlashyReese
 - [FabricSkyBoxes](https://modrinth.com/mod/YBz7DOs8) by AMereBagatelle
 - [Fabrishot](https://modrinth.com/mod/3qsfQtE9) by ramidzkh
 - [Falling Leaves](https://modrinth.com/mod/WhbRG4iK) by Fourmisain, BrekiTomasson, RandomMcSomethin
-- [Fancy Delight](https://modrinth.com/mod/bRAjxqA5) by Leah, Labcoat\_cactus, PhenixW0LF
+- [Fancy Delight](https://modrinth.com/mod/bRAjxqA5) by Leah, Labcoat_cactus, PhenixW0LF
 - [FancyMenu](https://modrinth.com/mod/Wq5SjeWM) by Keksuccino
 - [Farmer's Delight](https://modrinth.com/mod/7vxePowz) by MehVahdJukaar, MerchantPug
-- [Fast IP Ping](https://modrinth.com/mod/9mtu0sUO) by Fallen\_Breath
+- [Fast IP Ping](https://modrinth.com/mod/9mtu0sUO) by Fallen_Breath
 - [Fast Paintings](https://modrinth.com/mod/z3TzcquW) by MehVahdJukaar
 - [Faster Random](https://modrinth.com/mod/RfFxanNh) by AnOpenSauceDev
 - [FastQuit](https://modrinth.com/mod/x1hIzbuY) by KingContaria
 - [Faux\-Custom\-Entity\-Data](https://modrinth.com/mod/E7ZFR7qk)
 - [Feature Recycler](https://modrinth.com/mod/IAzu52kG) by Corgi Taco
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) by malte0811
-- [Fireplace Lib](https://modrinth.com/mod/ING0LAPF) by The\_Fireplace
+- [Fireplace Lib](https://modrinth.com/mod/ING0LAPF) by The_Fireplace
 - [FirstPerson](https://modrinth.com/mod/H5XMjpHi) by tr7zw
 - [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) by Fuzs
 - [Formations](https://modrinth.com/mod/tPe4xnPd) by SuperMartijn642
@@ -128,7 +128,7 @@
 - [FSit](https://modrinth.com/mod/J5NAzRqK) by rvbsm
 - [FullStack Watchdog](https://modrinth.com/mod/oZiSDGCi) by TelepathicGrunt
 - [Fzzy Config](https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
-- [Geophilic](https://modrinth.com/mod/hl5OLM95) by bebebea\_loste
+- [Geophilic](https://modrinth.com/mod/hl5OLM95) by bebebea_loste
 - [Gpu memory leak fix mod](https://www.curseforge.com/projects/882495) by
 - [Handcrafted](https://modrinth.com/mod/pJmCFF0p) by Alex Nijjar, Kekie6
 - [Healing Campfire](https://modrinth.com/mod/kOuPUitF) by Rick South
@@ -137,14 +137,14 @@
 - [Iceberg](https://modrinth.com/mod/5faXoLqX) by Grend
 - [IJM's Tweaks](https://modrinth.com/mod/vevAjqG0) by ItsJustMiaouss
 - [ImagineBook](https://modrinth.com/mod/iCl1mF5K) by JavaJumper
-- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK_01
 - [Immersive Lanterns](https://modrinth.com/mod/vskzdsyT) by Toni
 - [Immersive Thunder](https://modrinth.com/mod/uKjKoMsj) by netcatgirl
 - [Indium](https://modrinth.com/mod/Orvt0mRa) by comp500
 - [Infinite Trading](https://modrinth.com/mod/U3eoZT3o) by Rick South
 - [Integrated Circuit](https://modrinth.com/mod/bybyRAPl) by replaceitem
 - [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n) by mirinimi/blackd
-- [Invisible Frames](https://modrinth.com/mod/8Ylb0Z81) by Enchanted\_Games
+- [Invisible Frames](https://modrinth.com/mod/8Ylb0Z81) by Enchanted_Games
 - [InvisiblePlayerArmor](https://modrinth.com/mod/Nxv6Tx7l) by takaya7s
 - [InvMove](https://modrinth.com/mod/REfW2AEX) by PieKing1215
 - [InvMoveCompats](https://modrinth.com/mod/6IpcGP7T) by PieKing1215
@@ -169,9 +169,9 @@
 - [Log Begone](https://modrinth.com/mod/9ON3zv6e) by AzureDoom
 - [Long Books](https://modrinth.com/mod/rONcvWzZ) by boyonk
 - [Lootintegrations mod](https://www.curseforge.com/projects/580689) by Someaddon
-- [lootintegrations\_dnt mod](https://www.curseforge.com/projects/1139414) by Someaddon
-- [lootintegrations\_moog mod](https://www.curseforge.com/projects/1152715) by Someaddon
-- [lootintegrations\_yungs mod](https://www.curseforge.com/projects/1012211) by Someaddon
+- [lootintegrations_dnt mod](https://www.curseforge.com/projects/1139414) by Someaddon
+- [lootintegrations_moog mod](https://www.curseforge.com/projects/1152715) by Someaddon
+- [lootintegrations_yungs mod](https://www.curseforge.com/projects/1012211) by Someaddon
 - [Luki's Crazy Chambers](https://modrinth.com/mod/JeZoobNU) by lukidonu
 - [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g)
 - [Magnum Torch](https://modrinth.com/mod/jorDmSKv) by Fuzs
@@ -242,10 +242,10 @@
 - [Redirected](https://modrinth.com/mod/hhnR8xqU) by Txni
 - [Redstone Pen](https://modrinth.com/mod/DwE83ioX) by wilechaote
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
-- [Remove Reloading Screen](https://modrinth.com/mod/ZP7xHXtw) by dima\_dencep
+- [Remove Reloading Screen](https://modrinth.com/mod/ZP7xHXtw) by dima_dencep
 - [Replay Mod](https://modrinth.com/mod/Nv2fQJo5) by CrushedPixel, johni0702
 - [Resource Pack Overrides](https://modrinth.com/mod/YsFycamt) by Fuzs
-- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic\_Oreo
+- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic_Oreo
 - [Resourcefulconfig](https://modrinth.com/mod/M1953qlQ) by ThatGravyBoat
 - [Resourcify](https://modrinth.com/mod/RLzHAoZe) by DeDiamondPro
 - [Right Click Harvest](https://modrinth.com/mod/Cnejf5xM) by Jamalam
@@ -289,7 +289,7 @@
 - [Tom's Peripherals](https://modrinth.com/mod/ljgxd2P8) by tom5454
 - [TooFast](https://modrinth.com/mod/w6JSkKSH) by ZestyBlaze, noobanidus
 - [ToolTip Fix](https://modrinth.com/mod/2RKFTmiB) by kyrptonaught
-- [Towns and Towers](https://modrinth.com/mod/DjLobEOy) by Kubek and Biban\_Auriu, Cristelknight999
+- [Towns and Towers](https://modrinth.com/mod/DjLobEOy) by Kubek and Biban_Auriu, Cristelknight999
 - [Trade Cycling](https://modrinth.com/mod/qpPoAL6m) by Max Henkel
 - [Trading Post](https://modrinth.com/mod/8pcjMDgj) by Fuzs
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) by Tiviacz1337
@@ -304,7 +304,7 @@
 - [XYZBook](https://modrinth.com/mod/NUYcQ6wg) by diskree
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
 - [YOSBR](https://modrinth.com/mod/WwbubTsV) by shedaniel
-- [You're in Grave Danger](https://modrinth.com/mod/HnD1GX6e) by b1n\_ry
+- [You're in Grave Danger](https://modrinth.com/mod/HnD1GX6e) by b1n_ry
 - [YUNG's API](https://modrinth.com/mod/Ua7DFN59) by YUNGNICKYOUNG
 - [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) by YUNGNICKYOUNG, Tera
 - [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) by YUNGNICKYOUNG, Acarii
@@ -321,6 +321,7 @@
 - [Zoomify](https://modrinth.com/mod/w7ThoJFB) by isXander
 
 ## 일부 수정됨 Some Modifications
+
 - [Rustic Delight](https://modrinth.com/mod/foa4fGIH) by PhantomWing(버그로 인해 Loot 데이터 수정 Loot data modified due to a bug)
 - [Proper Mobcap Modifier](https://modrinth.com/mod/proper-mobcap-modifier) by vlad2305m(1.21.1 포팅 Ported to 1.21.1)
 - [Seed Delight](https://www.curseforge.com/minecraft/mc-mods/seed-delight) by sieboldiiparthelia(버그로 인해 조합법 데이터 수정 Recipe data modified due to a bug)
